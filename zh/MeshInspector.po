@@ -1,0 +1,8749 @@
+# Chinese (Simplified) translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"PO-Revision-Date: 2026-04-15 10:21+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Scans:"
+msgstr "扫描："
+
+msgid "Open"
+msgstr "打开"
+
+msgid "LuT:"
+msgstr "查找表："
+
+msgid "X-Ray source"
+msgstr "X 射线源"
+
+msgid "Distance to center"
+msgstr "到中心的距离"
+
+msgid "Distance to detector"
+msgstr "到探测器的距离"
+
+msgid "Detector"
+msgstr "探测器"
+
+msgid "Horizontal shift"
+msgstr "水平偏移"
+
+msgid "Vertical shift"
+msgstr "垂直偏移"
+
+msgid "In plane rotation"
+msgstr "平面内旋转"
+
+msgid "Pixel size"
+msgstr "像素大小"
+
+msgid "Rotation object"
+msgstr "旋转对象"
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Voxel size"
+msgstr "体素大小"
+
+msgid "Rotation direction:"
+msgstr "旋转方向："
+
+msgid "CCW"
+msgstr "逆时针"
+
+msgid "CW"
+msgstr "顺时针"
+
+msgid "Run"
+msgstr "运行"
+
+msgid "CUDA is not available"
+msgstr "CUDA 不可用"
+
+msgid "Cannot load tiff file: "
+msgstr "无法加载 tiff 文件： "
+
+msgid "CT Reconstruction"
+msgstr "CT 重建"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Sign Out"
+msgstr "退出登录"
+
+msgid "and try with another account."
+msgstr "并尝试使用其他账户。"
+
+msgid "Try with another account?"
+msgstr "尝试使用其他账户？"
+
+msgid "Sign in"
+msgstr "登录"
+
+msgid "Email"
+msgstr "邮箱"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Sign In"
+msgstr "登录"
+
+msgid "Please enter valid email"
+msgstr "请输入有效的邮箱"
+
+msgid "Please enter your password"
+msgstr "请输入您的密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Forgot your"
+msgstr "忘记您的"
+
+msgid "password?"
+msgstr "密码？"
+
+msgid "Need an account?"
+msgstr "需要账户？"
+
+msgid "Sign Up"
+msgstr "注册"
+
+msgid "Welcome back!"
+msgstr "欢迎回来！"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Don't have an account?"
+msgstr "没有账户？"
+
+msgid "Please enter valid password"
+msgstr "请输入有效的密码"
+
+msgid "Already have an account?"
+msgstr "已有账户？"
+
+msgid "Reset My Password"
+msgstr "重置我的密码"
+
+msgid "Back to"
+msgstr "返回"
+
+msgid "Confirm Account"
+msgstr "确认账户"
+
+msgid "Didn't receive a code?"
+msgstr "未收到验证码？"
+
+msgid "Resend it"
+msgstr "重新发送"
+
+msgid "Code"
+msgstr "验证码"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "Change Password"
+msgstr "修改密码"
+
+msgid "Clear Scene"
+msgstr "清空场景"
+
+msgid ""
+"This version of MeshInspector is for Intel x86 architecture CPUs. Please "
+"download the version of MeshInspector for Apple Silicon for the best "
+"performance."
+msgstr ""
+"此版本的 MeshInspector 适用于 Intel x86 架构 CPU。请下载适用于 Apple Silicon "
+"的 MeshInspector 版本以获得最佳性能。"
+
+msgid "Getting started with MeshInspector"
+msgstr "开始使用 MeshInspector"
+
+msgid "Quick setup"
+msgstr "快速设置"
+
+msgid "Rotate With"
+msgstr "旋转方式"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Color Theme"
+msgstr "颜色主题"
+
+msgid "Middle Mouse Button"
+msgstr "鼠标中键"
+
+msgid "Left Mouse Button / Press and Drag"
+msgstr "鼠标左键 / 按住并拖动"
+
+msgid "The settings can be changed at any time in the the Settings dialog"
+msgstr "可以随时在设置对话框中更改这些设置"
+
+msgid "per user"
+msgstr "每用户"
+
+msgid "per user billed yearly"
+msgstr "每用户按年计费"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "What`s Included?"
+msgstr "包含哪些内容？"
+
+#, c-format
+msgid "All %s features, plus"
+msgstr "所有 %s 功能，另加"
+
+msgid "Extend trial for 30 days"
+msgstr "将试用期延长 30 天"
+
+msgid "Compare Plans"
+msgstr "比较套餐"
+
+msgid "How would you like to buy?"
+msgstr "您想如何购买？"
+
+msgid "Choose how you would like to upgrade your MeshInspector plan"
+msgstr "选择您想升级 MeshInspector 套餐的方式"
+
+msgid "Buy directly from MeshInspector"
+msgstr "直接向 MeshInspector 购买"
+
+msgid "Best for individuals and small teams comfortable learning on their own."
+msgstr "最适合习惯自学的个人和小型团队。"
+
+msgid "Instant activation - start using your plan right after checkout"
+msgstr "即时激活 - 付款后即可开始使用您的套餐"
+
+msgid "Pay online in USD via secure card payment"
+msgstr "通过安全的银行卡支付以美元在线付款"
+
+msgid "Self-service learning: official YouTube channel and knowledge base"
+msgstr "自助学习：官方 YouTube 频道和知识库"
+
+msgid "Email support from our team"
+msgstr "我们团队提供的电子邮件支持"
+
+msgid "Buy Directly"
+msgstr "直接购买"
+
+msgid "Buy from a local distributor"
+msgstr "向当地分销商购买"
+
+msgid "Best for companies and teams that want hands-on onboarding."
+msgstr "最适合希望获得实操入门指导的公司和团队。"
+
+msgid "Personalized training for your team, tailored to your workflow"
+msgstr "为您的团队量身定制、贴合工作流程的个性化培训"
+
+msgid "Support in your language and time zone"
+msgstr "以您的语言和时区提供支持"
+
+msgid "Local invoicing, currency, and procurement-friendly paperwork"
+msgstr "本地开票、本地货币以及便于采购的文档"
+
+msgid "Direct relationship with a partner familiar with your region's industry"
+msgstr "与熟悉您所在地区行业的合作伙伴建立直接联系"
+
+msgid "Find a Distributor"
+msgstr "查找分销商"
+
+msgid "Collect Usage Statistics"
+msgstr "收集使用统计信息"
+
+msgid ""
+"Allow application to collect (non-personal) data about tools that are used "
+"to improve performance."
+msgstr "允许应用程序收集有关所用工具的（非个人）数据，以提高性能。"
+
+msgid ""
+"To help us understand how you use MeshInspector and make it better, we'll "
+"collect data on the tools you click on. This will give us insights to "
+"improve functionality and usability.\n"
+"\n"
+"No personal info or file data is collected, and you can opt out anytime in "
+"the settings."
+msgstr ""
+"为了帮助我们了解您如何使用 MeshInspector 并加以改进，我们将收集您点击的工具的"
+"数据。这将为我们改进功能和可用性提供洞察。\n"
+"\n"
+"不会收集个人信息或文件数据，您可以随时在设置中选择退出。"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "Manage Settings"
+msgstr "管理设置"
+
+#, c-format
+msgid "Version %s is available"
+msgstr "版本 %s 可用"
+
+msgid "Get Update"
+msgstr "获取更新"
+
+msgid "Get Desktop"
+msgstr "获取桌面版"
+
+msgid "This feature is included in Professional plan"
+msgstr "此功能包含在专业版套餐中"
+
+msgid "This feature is included in Makers/Professional plan"
+msgstr "此功能包含在创客/专业版套餐中"
+
+msgid "This feature is not included in your plan"
+msgstr "您的套餐中不包含此功能"
+
+msgid "Show Welcome Window"
+msgstr "显示欢迎窗口"
+
+msgid "Show welcome window when application starts."
+msgstr "应用程序启动时显示欢迎窗口。"
+
+msgid "Drag & Drop Files"
+msgstr "拖放文件"
+
+msgid "Anywhere to Open"
+msgstr "到任意位置以打开"
+
+msgid "To open DICOMs, RAW Voxels, TIFF use"
+msgstr "要打开 DICOM、RAW 体素、TIFF 请使用"
+
+msgid "ribbon menu."
+msgstr "功能区菜单。"
+
+msgid "Quickstart"
+msgstr "快速入门"
+
+msgid "This curated video collection will"
+msgstr "这套精选视频集合将"
+
+msgid "quickly and efficiently guide you"
+msgstr "快速高效地指导您"
+
+msgid "through the essentials."
+msgstr "掌握核心要点。"
+
+msgid "Watch Video"
+msgstr "观看视频"
+
+msgid "Create Simple Object"
+msgstr "创建简单对象"
+
+msgid "Easily generate basic shapes like"
+msgstr "轻松生成基本形状，例如"
+
+msgid "cubes, spheres, and more using"
+msgstr "立方体、球体等，使用"
+
+msgid "default settings."
+msgstr "默认设置。"
+
+msgid "Cube"
+msgstr "立方体"
+
+msgid "Cylinder"
+msgstr "圆柱体"
+
+msgid "Sphere"
+msgstr "球体"
+
+msgid "Prism"
+msgstr "棱柱"
+
+msgid "Torus"
+msgstr "圆环"
+
+msgid "Arrow"
+msgstr "箭头"
+
+msgid "Create Object"
+msgstr "创建对象"
+
+msgid "Show on Startup"
+msgstr "启动时显示"
+
+msgid "Reference object"
+msgstr "参考对象"
+
+msgid "Inspected object"
+msgstr "被检对象"
+
+msgid "Swap"
+msgstr "交换"
+
+msgid "Exchange reference and inspected objects."
+msgstr "交换参考对象和被检对象。"
+
+msgid "Take Selected"
+msgstr "采用选中项"
+
+msgid ""
+"Take two currently selected objects as new reference and new inspected "
+"objects."
+msgstr "将当前选中的两个对象作为新的参考对象和新的被检对象。"
+
+msgid "Signed Distance"
+msgstr "有符号距离"
+
+msgid ""
+"If a point is inside reference object its distance will get negative sign."
+msgstr "如果点位于参考对象内部，其距离将带有负号。"
+
+msgid "Available only for to-Mesh or to-Points with normals mode."
+msgstr "仅适用于到网格或带法线的到点模式。"
+
+msgid "Distance to Point Plane"
+msgstr "到点平面的距离"
+
+msgid ""
+"Distance to plane created by the nearest point and its normal.\n"
+"(Note! It may have unintuitive color degrees)"
+msgstr ""
+"到由最近点及其法线构成的平面的距离。\n"
+"（注意！可能出现不直观的颜色梯度）"
+
+msgid "Available only for to-Points with normals mode"
+msgstr "仅适用于带法线的到点模式"
+
+msgid "Auto Update Min/Max"
+msgstr "自动更新最小/最大值"
+
+msgid "Fit the palette automatically when data is changed"
+msgstr "数据更改时自动调整调色板"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Gray Out of Range"
+msgstr "范围外灰显"
+
+msgid ""
+"Whether to draw distances out of range in gray. Turning it on can accelerate "
+"signed distances computation."
+msgstr "是否以灰色绘制范围外的距离。开启可加速带符号距离的计算。"
+
+msgid "Gray Projections on Boundary"
+msgstr "边界上的投影灰显"
+
+msgid "Gray vertices projecting on reference mesh boundary."
+msgstr "在参考网格边界上的投影顶点灰显。"
+
+msgid "Limit from Standard Deviation"
+msgstr "从标准差的限制"
+
+msgid "Available only for disabled \"Zero to Green\" mode"
+msgstr "仅在禁用 \"Zero to Green\" 模式时可用"
+
+msgid ""
+"If enabled - set automatic limits as signed average +/- 3 * standard "
+"deviation.\n"
+"if disabled - set automatic limits from min/max values."
+msgstr ""
+"如果启用 - 自动限值为带符号平均值 +/- 3 * 标准差。\n"
+"如果禁用 - 自动限值取自最小/最大值。"
+
+msgid "Compute Distances Time"
+msgstr "距离计算耗时"
+
+msgid "ms"
+msgstr "毫秒"
+
+msgid "The time spent on last computation of all distances"
+msgstr "上次计算所有距离所用的时间"
+
+msgid "DistanceCompare: Error saving statistics in CSV file"
+msgstr "DistanceCompare：将统计信息保存到 CSV 文件时出错"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show the nearest point and point the camera to it"
+msgstr "显示最近点并将相机指向它"
+
+msgid "Cannot show nearest point because its further than palette maximum"
+msgstr "无法显示最近点，因为它超过了调色板最大值"
+
+msgid "Show the furthest point and point the camera to it"
+msgstr "显示最远点并将相机指向它"
+
+msgid "Cannot show furthest point because its further than palette maximum"
+msgstr "无法显示最远点，因为它超过了调色板最大值"
+
+msgid "Save report to PDF"
+msgstr "将报告保存为 PDF"
+
+msgid "Save this statistics to a PDF file"
+msgstr "将此统计信息保存到 PDF 文件"
+
+msgid "Line Width"
+msgstr "线宽"
+
+msgid "Point Size"
+msgstr "点大小"
+
+msgid "Topology is consistently oriented."
+msgstr "拓扑朝向一致。"
+
+msgid "Topology is not consistently oriented."
+msgstr "拓扑朝向不一致。"
+
+msgid "Mode: "
+msgstr "模式： "
+
+msgid "Vert"
+msgstr "顶点"
+
+msgid "Edge"
+msgstr "边"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Edges Labels"
+msgstr "边标签"
+
+msgid "Neighbor Labels"
+msgstr "邻居标签"
+
+msgid "Point's X"
+msgstr "点的 X"
+
+msgid "Point's Y"
+msgstr "点的 Y"
+
+msgid "Point's Z"
+msgstr "点的 Z"
+
+msgid "Polyline Point's XYZ"
+msgstr "折线点的 XYZ"
+
+msgid "Edges"
+msgstr "边"
+
+msgid "Vert labels"
+msgstr "顶点标签"
+
+msgid "Neighbor labels"
+msgstr "邻居标签"
+
+msgid "Next / Prev"
+msgstr "下一个 / 上一个"
+
+msgid "Sym"
+msgstr "对称"
+
+msgid "VertId: "
+msgstr "顶点 ID： "
+
+msgid "Next / Prev: "
+msgstr "下一个 / 上一个： "
+
+msgid "Sym: "
+msgstr "对称： "
+
+msgid "Mesh"
+msgstr "网格"
+
+msgid "Show Selected Item"
+msgstr "显示选中项"
+
+msgid "Show Triangle Labels"
+msgstr "显示三角形标签"
+
+msgid "Show Edge Labels"
+msgstr "显示边标签"
+
+msgid "Show Vert Labels"
+msgstr "显示顶点标签"
+
+msgid "Show Neighbor Labels"
+msgstr "显示邻居标签"
+
+msgid "Tri. Mode"
+msgstr "三角形模式"
+
+msgid "Edge Mode"
+msgstr "边模式"
+
+msgid "Vert Mode"
+msgstr "顶点模式"
+
+msgid "Next Origin Edge"
+msgstr "下一条起始边"
+
+msgid "Prev. Origin Edge"
+msgstr "上一条起始边"
+
+msgid "Sym. Edge"
+msgstr "对称边"
+
+msgid "Next Boundary Edge"
+msgstr "下一条边界边"
+
+msgid "Prev. Boundary Edge"
+msgstr "上一条边界边"
+
+msgid "Show detailed information about mesh and it's primitives."
+msgstr "显示有关网格及其图元的详细信息。"
+
+msgid "Vertex Id"
+msgstr "顶点 ID"
+
+msgid "Edge Id"
+msgstr "边 ID"
+
+msgid "Length"
+msgstr "长度"
+
+#, c++-format
+msgid "{} degrees"
+msgstr "{} 度"
+
+msgid "Dihedral angle"
+msgstr "二面角"
+
+msgid "Cotan weight"
+msgstr "Cotan 权重"
+
+msgid "Tri. Id"
+msgstr "三角形 ID"
+
+msgid "Area"
+msgstr "面积"
+
+msgid "Circum-Radius"
+msgstr "外接圆半径"
+
+msgid "Aspect Ratio"
+msgstr "纵横比"
+
+msgid "Texture ID"
+msgstr "纹理 ID"
+
+msgid "Clip object to get cross section"
+msgstr "裁剪对象以获取横截面"
+
+msgid "At least one objects should be in scene"
+msgstr "场景中至少需要一个对象"
+
+msgid "Clip Objects"
+msgstr "裁剪对象"
+
+msgid "Recolor Objects"
+msgstr "重新着色对象"
+
+msgid "Animation"
+msgstr "动画"
+
+msgid "Shifts section plane to its lowest extreme"
+msgstr "将剖面移至最低端"
+
+msgid "Stops section plane movement"
+msgstr "停止剖面移动"
+
+msgid "Starts section plane movement"
+msgstr "开始剖面移动"
+
+msgid "Shifts section plane to its largest extreme"
+msgstr "将剖面移至最高端"
+
+msgid "Auto Repeat"
+msgstr "自动重复"
+
+msgid ""
+"As soon as section plane reaches its largest extreme, restarts the movement "
+"from its lowest extreme"
+msgstr "剖面到达最高端后立即从最低端重新开始移动"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid ""
+"The speed of section movement in length units per second. The sign of this "
+"value specifies the direction of movement."
+msgstr "剖面移动速度，单位为每秒长度单位。该值的符号指定移动方向。"
+
+msgid "Section Window"
+msgstr "剖面窗口"
+
+msgid "Whether to show additional Section Window"
+msgstr "是否显示附加的剖面窗口"
+
+msgid "Recolored"
+msgstr "已重新着色"
+
+msgid "Give individual colors to objects in Section Window"
+msgstr "为剖面窗口中的对象设置不同的颜色"
+
+msgid "Auto Fit"
+msgstr "自动适应"
+
+msgid ""
+"Whether to automatically zoom and pan Section Window to fit current sections"
+msgstr "是否自动缩放和平移剖面窗口以适应当前剖面"
+
+msgid "Clear Distance"
+msgstr "清除距离"
+
+msgid "Remove points with distance measurement from Section Window"
+msgstr "从剖面窗口中移除带距离测量的点"
+
+msgid "Reset View"
+msgstr "重置视图"
+
+msgid "Mouse Controls"
+msgstr "鼠标控制"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move section window"
+msgstr "移动剖面窗口"
+
+msgid "Pick point on section window"
+msgstr "在剖面窗口上拾取点"
+
+msgid "Move section inside section window"
+msgstr "在剖面窗口内移动剖面"
+
+msgid "Zoom section inside section window"
+msgstr "在剖面窗口内缩放剖面"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "One"
+msgstr "单个"
+
+msgid "Many"
+msgstr "多个"
+
+msgid "Export the current section only."
+msgstr "仅导出当前剖面。"
+
+msgid "Export several sections with fixed step between their planes."
+msgstr "导出多个剖面，剖面之间使用固定步长。"
+
+msgid "Number of Sections"
+msgstr "剖面数量"
+
+msgid "Selects how many sections to export."
+msgstr "选择要导出的剖面数量。"
+
+msgid "Create Section Object"
+msgstr "创建剖面对象"
+
+msgid "Sections Step"
+msgstr "剖面步长"
+
+msgid "The step between two neighbor parallel sections"
+msgstr "两个相邻平行剖面之间的步长"
+
+msgid "Create Sections with Step"
+msgstr "按步长创建剖面"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Cut Objects"
+msgstr "剪切对象"
+
+msgid "Cannot change object because blocking plugin is active"
+msgstr "无法更改对象，因为有阻塞插件处于激活状态"
+
+msgid "There is no selected object to cut"
+msgstr "没有要剪切的选中对象"
+
+msgid "Cut selected objects by the current section plane"
+msgstr "按当前剖面剪切选中对象"
+
+msgid "Fill Section"
+msgstr "填充截面"
+
+msgid "Fill sections of cut objects with new triangles"
+msgstr "用新三角形填充被剪切对象的剖面"
+
+msgid "Keep Both Sides"
+msgstr "保留双侧"
+
+msgid "Selection here makes two objects from each original object"
+msgstr "在此选择会使每个原始对象产生两个对象"
+
+msgid "Cut PointCloud"
+msgstr "剪切点云"
+
+msgid "Cut with plane"
+msgstr "用平面剪切"
+
+msgid "Add other part"
+msgstr "添加另一部分"
+
+#, c++-format
+msgid "Has {} empty object"
+msgid_plural "Has {} empty objects"
+msgstr[0] "有 {} 个空对象"
+
+msgid "Invalid ids will not be visualized"
+msgstr "无效 ID 将不被可视化"
+
+msgid "Pseudo Mode"
+msgstr "伪法线模式"
+
+msgid "Face"
+msgstr "面"
+
+msgid "Pseudo normals"
+msgstr "伪法线"
+
+msgid "Show all"
+msgstr "全部显示"
+
+msgid "Show neighbors"
+msgstr "显示邻居"
+
+msgid "Point cloud should have normals"
+msgstr "点云应具有法线"
+
+msgid "Curvature mode: "
+msgstr "曲率模式： "
+
+msgid "Mean"
+msgstr "平均"
+
+msgid "Gaussian"
+msgstr "高斯"
+
+msgid "Recalculate Ranges"
+msgstr "重新计算范围"
+
+msgid ""
+"Scale of palette is logarithmic, shifted to zero.\n"
+"So zero curvature is equals zero on palette.\n"
+msgstr ""
+"调色板尺度为对数，并平移到零。\n"
+"因此零曲率在调色板上等于零。\n"
+
+msgid "Move Objects to Global Zero"
+msgstr "将对象移至全局零点"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Plane"
+msgstr "平面"
+
+msgid "Vector"
+msgstr "向量"
+
+msgid "Point"
+msgstr "点"
+
+msgid "Select Pick Mode"
+msgstr "选择拾取模式"
+
+msgid ""
+"Click on object or feature to move it to global zero and orient objects "
+"along picked normal"
+msgstr "点击对象或特征，将其移至全局零点，并沿拾取的法线对齐对象"
+
+msgid "X"
+msgstr "X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Flip"
+msgstr "翻转"
+
+msgid "Flip to Base Plane"
+msgstr "翻转到基准面"
+
+msgid "Align to Base Plane"
+msgstr "对齐到基准面"
+
+msgid "Show Common Box"
+msgstr "显示通用包围盒"
+
+msgid ""
+"Whether to show one box containing all active objects or a number of "
+"individual boxes, one per object"
+msgstr "是显示一个包含所有活动对象的包围盒，还是为每个对象单独显示一个包围盒"
+
+msgid "Interactive"
+msgstr "交互式"
+
+msgid "Use Parameters"
+msgstr "使用参数"
+
+msgid "Objects"
+msgstr "对象"
+
+msgid "Primitives"
+msgstr "图元"
+
+msgid "Points"
+msgstr "点"
+
+msgid "Segments"
+msgstr "线段"
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Add Cube"
+msgstr "添加立方体"
+
+msgid "Add Cylinder"
+msgstr "添加圆柱体"
+
+msgid "Add Sphere"
+msgstr "添加球体"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Diameter"
+msgstr "直径"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid ""
+"Click in the viewport to set start point\n"
+"Drag to adjust size\n"
+"Release to confirm"
+msgstr ""
+"在视口中点击以设置起点\n"
+"拖动以调整大小\n"
+"松开以确认"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Pivot point"
+msgstr "枢轴点"
+
+msgid ""
+"Parameter of relative text box to text position point\n"
+"[0, 0] - text position point is left-down corner of text box\n"
+"[1, 1] - text position point is right - up corner\n"
+msgstr ""
+"文本框相对于文本位置点的参数\n"
+"[0, 0] - 文本位置点为文本框的左下角\n"
+"[1, 1] - 文本位置点为右上角\n"
+
+msgid "Show Preview"
+msgstr "显示预览"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Click to attach label to mesh in click position"
+msgstr "点击以将标签附加到点击位置的网格上"
+
+#, c-format
+msgid "%s + Click on object to get point position under cursor"
+msgstr "%s + 点击对象以获取光标下的点位置"
+
+msgid "Add label"
+msgstr "添加标签"
+
+msgid "Save to Object"
+msgstr "保存到对象"
+
+msgid "Coordinates"
+msgstr "坐标"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Clear All"
+msgstr "全部清除"
+
+msgid "Convert To Segment"
+msgstr "转换为线段"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Convert"
+msgstr "转换"
+
+msgid "Add Point Cloud"
+msgstr "添加点云"
+
+msgid "Convert to Points"
+msgstr "转换为点"
+
+msgid "Set Method"
+msgstr "设置方法"
+
+msgid "Destination"
+msgstr "目标"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Origin"
+msgstr "原点"
+
+msgid "Add Lines"
+msgstr "添加线条"
+
+msgid "Add Parallelepiped"
+msgstr "添加平行六面体"
+
+msgid "Add Torus"
+msgstr "添加圆环"
+
+msgid "Add Arrow"
+msgstr "添加箭头"
+
+msgid "Add Prism"
+msgstr "添加棱柱"
+
+msgid "Add Cube feature"
+msgstr "添加立方体特征"
+
+msgid "Add Parallelepiped feature"
+msgstr "添加平行六面体特征"
+
+msgid "Add Cylinder feature"
+msgstr "添加圆柱体特征"
+
+msgid "Add Sphere feature"
+msgstr "添加球体特征"
+
+msgid "Add Torus feature"
+msgstr "添加圆环特征"
+
+msgid "Add Arrow feature"
+msgstr "添加箭头特征"
+
+msgid "Add Prism feature"
+msgstr "添加棱柱特征"
+
+msgid "Parallelepiped"
+msgstr "平行六面体"
+
+msgid "Center"
+msgstr "中心"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Add Feature Object"
+msgstr "添加特征对象"
+
+msgid "Edge #0"
+msgstr "边 #0"
+
+msgid "Edge #1"
+msgstr "边 #1"
+
+msgid "Edge #2"
+msgstr "边 #2"
+
+msgid "Diameter 0"
+msgstr "直径 0"
+
+msgid "Diameter 1"
+msgstr "直径 1"
+
+msgid "Start Angle"
+msgstr "起始角度"
+
+msgid "Arc Size"
+msgstr "弧长"
+
+msgid "UV Sphere"
+msgstr "UV 球体"
+
+msgid "Horizontal Resolution"
+msgstr "水平分辨率"
+
+msgid "Vertical Resolution"
+msgstr "垂直分辨率"
+
+msgid "Number of Vertices"
+msgstr "顶点数量"
+
+msgid "Primary Radius"
+msgstr "主半径"
+
+msgid "Secondary Radius"
+msgstr "次半径"
+
+msgid "Primary Resolution"
+msgstr "主分辨率"
+
+msgid "Secondary Resolution"
+msgstr "次分辨率"
+
+msgid "Thickness"
+msgstr "厚度"
+
+msgid "Cone Radius"
+msgstr "圆锥半径"
+
+msgid "Cone Height"
+msgstr "圆锥高度"
+
+msgid "Base Length"
+msgstr "底边长度"
+
+msgid "Left Angle"
+msgstr "左角"
+
+msgid "Right Angle"
+msgstr "右角"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Bounding Box Type"
+msgstr "包围盒类型"
+
+msgid "Bounding Box"
+msgstr "包围盒"
+
+msgid "Local Basis Type"
+msgstr "局部坐标系类型"
+
+msgid "Local Basis"
+msgstr "局部基准"
+
+msgid "Normals"
+msgstr "法线"
+
+msgid "Measuring angle between:"
+msgstr "测量角度，对象："
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Reset Angle Target"
+msgstr "重置角度目标"
+
+msgid "Angle:"
+msgstr "角度："
+
+msgid "Switch to Adjacent Angle"
+msgstr "切换到相邻角度"
+
+#, c++-format
+msgid "Point {}:"
+msgstr "点 {}："
+
+msgid "Add to Scene"
+msgstr "添加到场景"
+
+msgid ""
+"If enabled - each finalized measurement will be added to scene,\n"
+"otherwise each new measurement will replace existing one"
+msgstr ""
+"如果启用 - 每次完成的测量都会添加到场景中，\n"
+"否则每次新测量将替换现有测量"
+
+msgid "Snap to edge"
+msgstr "对齐到边"
+
+msgid "Subfeatures"
+msgstr "子特征"
+
+msgid "Change Angle Feature"
+msgstr "更改角度特征"
+
+msgid "Select at least one object to show subfeatures."
+msgstr "请至少选择一个对象以显示子特征。"
+
+msgid "Those objects don't have subfeatures."
+msgstr "这些对象没有子特征。"
+
+msgid "Select Angle Target from Subfeature"
+msgstr "从子特征中选择角度目标"
+
+msgid "Select Angle Target from Tag"
+msgstr "从标签中选择角度目标"
+
+msgid "Measure Angle"
+msgstr "测量角度"
+
+msgid "Remove Current Angle Measurement"
+msgstr "移除当前角度测量"
+
+msgid "Copy Angle Measurement To Scene"
+msgstr "将角度测量复制到场景"
+
+msgid "X distance"
+msgstr "X 距离"
+
+msgid "Y distance"
+msgstr "Y 距离"
+
+msgid "Z distance"
+msgstr "Z 距离"
+
+msgid "3D distance"
+msgstr "3D 距离"
+
+msgid "Point 2:"
+msgstr "点 2："
+
+msgid "Point 1:"
+msgstr "点 1："
+
+msgid "Nominal & Tolerance"
+msgstr "标称值与公差"
+
+msgid "Perform a distance measurement first."
+msgstr "请先执行距离测量。"
+
+msgid "Nominal distance"
+msgstr "标称距离"
+
+msgid "No reference model, unable to guess values."
+msgstr "无参考模型，无法推测值。"
+
+msgid "Change Distance Feature"
+msgstr "更改距离特征"
+
+msgid "Advanced settings"
+msgstr "高级设置"
+
+msgid "Mode:"
+msgstr "模式："
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Measure distance between object centers or centeral axes."
+msgstr "测量对象中心或中轴之间的距离。"
+
+msgid "Exact (separation distance)"
+msgstr "精确（分离距离）"
+
+msgid ""
+"Measure exact separation distance. Not all combinations of features are "
+"supported."
+msgstr "测量精确的分离距离。并非所有特征组合都受支持。"
+
+msgid "Change Measure Distance Mode"
+msgstr "更改距离测量模式"
+
+msgid "New Measurement"
+msgstr "新测量"
+
+msgid "Reset Measure Distance Target"
+msgstr "重置距离测量目标"
+
+msgid "Select Distance Target from Subfeature"
+msgstr "从子特征中选择距离目标"
+
+msgid "Select Distance Target from Tag"
+msgstr "从标签中选择距离目标"
+
+msgid "Measure Distance"
+msgstr "测量距离"
+
+msgid "Remove Current Distance Measurement"
+msgstr "移除当前距离测量"
+
+msgid "Copy Distance Measurement To Scene"
+msgstr "将距离测量复制到场景"
+
+msgid "Point:"
+msgstr "点："
+
+msgid "Perform a point measurement first."
+msgstr "请先执行点测量。"
+
+msgid "Nominal position"
+msgstr "标称位置"
+
+msgid "Experimental"
+msgstr "实验性"
+
+msgid "Show Nominal Position on Scene"
+msgstr "在场景中显示标称位置"
+
+msgid "Measure Points: New measurement"
+msgstr "测量点: 新测量"
+
+msgid "Measure Points: Reset"
+msgstr "测量点: 重置"
+
+msgid "Measure Points: Pick new point"
+msgstr "测量点: 选择新点"
+
+msgid "Add point measurement"
+msgstr "添加点测量"
+
+msgid "Transform Control Widget"
+msgstr "变换控件"
+
+msgid "Transform Object by Widget"
+msgstr "通过控件变换对象"
+
+#, c-format
+msgid "Hold %s for scaling along selected axis"
+msgstr "按住 %s 以沿选定的轴缩放"
+
+#, c-format
+msgid "Hold %s+Shift for uniform scaling"
+msgstr "按住 %s+Shift 进行均匀缩放"
+
+msgid "Scaling mode is unavailable when controls are detached"
+msgstr "控件分离时无法使用缩放模式"
+
+msgid "Control Settings"
+msgstr "控件设置"
+
+msgid "Fixed Size in Pixel"
+msgstr "固定像素大小"
+
+msgid "Set widget size values in pixels"
+msgstr "以像素为单位设置控件大小值"
+
+msgid "Radius of widget controls in pixels"
+msgstr "控件半径（像素）"
+
+msgid "Controls Width"
+msgstr "控件宽度"
+
+msgid "Width of widget controls in pixels"
+msgstr "控件宽度（像素）"
+
+msgid "Radius of widget controls before scaling"
+msgstr "缩放前控件的半径"
+
+msgid "Width of widget controls before scaling"
+msgstr "缩放前控件的宽度"
+
+msgid "Detach controls"
+msgstr "分离控件"
+
+msgid "Reset controls"
+msgstr "重置控件"
+
+msgid "Fit on mouse up"
+msgstr "鼠标松开时自适应"
+
+msgid "Dot threshold"
+msgstr "点积阈值"
+
+msgid "Scale"
+msgstr "缩放"
+
+msgid "x1000"
+msgstr "x1000"
+
+msgid "x100"
+msgstr "x100"
+
+msgid "x10"
+msgstr "x10"
+
+msgid "x0.001"
+msgstr "x0.001"
+
+msgid "x0.01"
+msgstr "x0.01"
+
+msgid "x0.1"
+msgstr "x0.1"
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr "显示对象参考系的 0 点和 X、Y、Z 轴。"
+
+msgid "Load"
+msgstr "加载"
+
+msgid "Load settings from file and apply it."
+msgstr "从文件加载设置并应用。"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save settings to file."
+msgstr "将设置保存到文件。"
+
+msgid "Active Rotation Axes"
+msgstr "活动旋转轴"
+
+msgid "Axis A"
+msgstr "A 轴"
+
+msgid "Axis B"
+msgstr "B 轴"
+
+msgid "Axis C"
+msgstr "C 轴"
+
+msgid "Axes Order"
+msgstr "轴顺序"
+
+msgid "Drag and drop to change order."
+msgstr "拖放以更改顺序。"
+
+msgid "Axes Settings"
+msgstr "轴设置"
+
+msgid "Feedrate Idle"
+msgstr "空载进给率"
+
+msgid "Valid range [0, 100000]."
+msgstr "有效范围 [0, 100000]。"
+
+msgid ""
+"0 - feedrate idle set as maximum feedrate on any action, or 100 if it isn't "
+"set"
+msgstr "0 - 空载进给率设为任意操作中的最大进给率，如果未设置则为 100"
+
+msgid "Home Position"
+msgstr "原位"
+
+msgid "Reset Changes"
+msgstr "重置更改"
+
+msgid "Set Default"
+msgstr "设为默认值"
+
+msgid "Reset settings to default values and apply it."
+msgstr "将设置重置为默认值并应用。"
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error parsing file."
+msgstr ""
+"CNC 机床设置：\n"
+"解析文件时出错。"
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error loading settings from file"
+msgstr ""
+"CNC 机床设置：\n"
+"从文件加载设置时出错"
+
+msgid "Save Idle Movement"
+msgstr "保存空载移动"
+
+msgid "G-code to Lines"
+msgstr "G 代码转线条"
+
+msgid "Fit selected"
+msgstr "适应选中项"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid ""
+"Visualize selected segment as mesh object.\n"
+"Usefull in web app."
+msgstr ""
+"将选中线段可视化为网格对象。\n"
+"在 Web 应用中有用。"
+
+msgid "Work Color"
+msgstr "工作颜色"
+
+msgid "Selected Color"
+msgstr "选中颜色"
+
+msgid "Highlighted Color"
+msgstr "高亮颜色"
+
+msgid "Feedrate as Gradient"
+msgstr "进给率作为渐变"
+
+msgid "Search Closest by Screen"
+msgstr "按屏幕搜索最近点"
+
+msgid "Accuracy"
+msgstr "精度"
+
+msgid "Show Error"
+msgstr "显示错误"
+
+msgid "Tool Animation"
+msgstr "工具动画"
+
+msgid "Show tool"
+msgstr "显示工具"
+
+msgid "Input Time"
+msgstr "输入时间"
+
+msgid "Formated Time"
+msgstr "格式化时间"
+
+msgid "Play speed"
+msgstr "播放速度"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Nothing to play from this point."
+msgstr "从此点开始没有可播放的内容。"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Milling Simulation"
+msgstr "铣削模拟"
+
+msgid "Work Piece Settings"
+msgstr "工件设置"
+
+msgid "Visible Preview Work Piece"
+msgstr "显示工件预览"
+
+msgid "Work Piece Size"
+msgstr "工件大小"
+
+msgid "Work Piece Pos"
+msgstr "工件位置"
+
+msgid "Milling Settings"
+msgstr "铣削设置"
+
+msgid "Voxel Size"
+msgstr "体素大小"
+
+msgid "Movement Step"
+msgstr "移动步长"
+
+msgid "Colorize Milled"
+msgstr "为已铣削部分着色"
+
+msgid "Mill All"
+msgstr "全部铣削"
+
+msgid "Mill to Selected"
+msgstr "铣削到选中处"
+
+msgid "Milling History"
+msgstr "铣削历史"
+
+msgid "Activate Milling History"
+msgstr "激活铣削历史"
+
+msgid "Re-calc Milling History"
+msgstr "重新计算铣削历史"
+
+msgid "Show Milling History"
+msgstr "显示铣削历史"
+
+msgid "Real-Time (Volume Render)"
+msgstr "实时（体绘制）"
+
+msgid "Auto Update Milling Progress"
+msgstr "自动更新铣削进度"
+
+msgid "Export Milling History"
+msgstr "导出铣削历史"
+
+msgid "Add Milling Result"
+msgstr "添加铣削结果"
+
+msgid "Operation canceled."
+msgstr "操作已取消。"
+
+msgid "Error convertation grid to mesh."
+msgstr "将网格化网格转换出错。"
+
+msgid "Add milling result"
+msgstr "添加铣削结果"
+
+msgid "Toolpath"
+msgstr "刀具路径"
+
+msgid "Tolerance"
+msgstr "公差"
+
+msgid "Tool"
+msgstr "工具"
+
+msgid "Show Toolpath Basis"
+msgstr "显示刀具路径坐标系"
+
+msgid "Mesh-based computation"
+msgstr "基于网格的计算"
+
+msgid "Distance volume-based computation"
+msgstr "基于距离体的计算"
+
+msgid "Method"
+msgstr "方法"
+
+msgid "Compute"
+msgstr "计算"
+
+msgid "Failed to compute swept volume"
+msgstr "计算扫掠体失败"
+
+msgid "Swept volume"
+msgstr "扫掠体"
+
+msgid "Add swept volume"
+msgstr "添加扫掠体"
+
+msgid "Simplify"
+msgstr "简化"
+
+msgid "Target Triangles"
+msgstr "目标三角形数"
+
+msgid ""
+"Simplification stops after reaching desired number of triangles (or earlier "
+"if mesh quality does not allow so small number)"
+msgstr ""
+"达到期望的三角形数量后停止简化（如果网格质量不允许如此小的数量则可能更早停"
+"止）"
+
+msgid ""
+"Simplification stops just before shape error (or the shortest edge length) "
+"becomes more than allowed value"
+msgstr "在形状误差（或最短边长度）超过允许值之前停止简化"
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original mesh is more than this value"
+msgstr "当估计的距原始网格的距离偏差超过此值时立即停止抽稀"
+
+msgid "Shortest Edge Length"
+msgstr "最短边长度"
+
+msgid ""
+"Stop the decimation as soon as the shortest edge in the mesh is greater than "
+"this value"
+msgstr "当网格中的最短边大于此值时立即停止抽稀"
+
+msgid "The minimum number of triangles (in selected region) after decimation"
+msgstr "抽稀后（所选区域内）的最少三角形数量"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "The percentage of triangles (in selected region) after decimation"
+msgstr "抽稀后（所选区域内）的三角形百分比"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid ""
+"Changing parameters will lead to update mesh in real-time, may freeze for "
+"heavy operations."
+msgstr "更改参数将导致实时更新网格，重负载操作可能会冻结。"
+
+msgid "Minimal Error First"
+msgstr "最小误差优先"
+
+msgid "Shortest Edge First"
+msgstr "最短边优先"
+
+msgid ""
+"The next edge to collapse will be the one that introduced minimal error to "
+"the surface"
+msgstr "下一条要折叠的边将是给表面带来最小误差的那条"
+
+msgid "The next edge to collapse will be the shortest one"
+msgstr "下一条要折叠的边将是最短的那条"
+
+msgid "Strategy"
+msgstr "策略"
+
+msgid "Defines the order of edge collapses during decimation"
+msgstr "定义抽稀过程中边折叠的顺序"
+
+msgid "Longest Edge Length"
+msgstr "最长边长度"
+
+msgid "Maximal possible edge length created during decimation"
+msgstr "抽稀过程中可创建的最大边长"
+
+msgid "Max Triangle Aspect Ratio"
+msgstr "最大三角形纵横比"
+
+msgid ""
+"Maximal possible aspect ratio of a triangle introduced during decimation"
+msgstr "抽稀过程中可产生的三角形最大纵横比"
+
+msgid "Stabilizer"
+msgstr "稳定器"
+
+msgid ""
+"Small stabilizer is important to achieve good results on completely planar "
+"mesh parts, if your mesh is not-planer everywhere, then you can set it to "
+"zero"
+msgstr ""
+"小的稳定器对于在完全平面的网格部分上获得良好结果很重要，如果您的网格各处都不"
+"是平面，则可以将其设为零"
+
+msgid "Touch Near Boundary Edges"
+msgstr "触及边界附近边"
+
+msgid ""
+"Whether to allow collapsing edges having at least one vertex on (region) "
+"boundary"
+msgstr "是否允许折叠至少有一个顶点位于（区域）边界上的边"
+
+msgid "Optimize Vertex Positions"
+msgstr "优化顶点位置"
+
+msgid ""
+"If selected then after each edge collapse the position of remaining vertex "
+"is optimized to minimize local shape change, if not selected then the edge "
+"is collapsed in one of its vertices, which keeps its position"
+msgstr ""
+"如果选中，则每次边折叠后会优化剩余顶点的位置以最小化局部形状变化；如果不选"
+"中，则将边折叠到其中一个顶点上，该顶点保持其位置"
+
+msgid "Angle-based Weights"
+msgstr "基于角度的权重"
+
+msgid ""
+"If unselected, then quadratic error metric is equal to the sum of distances "
+"to the planes of original mesh triangles.\n"
+"If selected, then the sum is weighted, and the weight is equal to the angle "
+"of adjacent triangle at the vertex divided on PI (to get one after summing "
+"all 3 vertices of the triangle)."
+msgstr ""
+"如果未选中，则二次误差度量等于到原始网格三角形所在平面的距离之和。\n"
+"如果选中，则求和时加权，权重等于顶点处相邻三角形的角度除以 PI（这样三角形的三"
+"个顶点之和为 1）。"
+
+msgid "Pack Mesh"
+msgstr "压缩网格"
+
+msgid ""
+"Whether to remove unused vertices/edges/triangles from mesh at the end of "
+"the process"
+msgstr "在处理结束时是否从网格中移除未使用的顶点/边/三角形"
+
+msgid "Parallel Algorithm"
+msgstr "并行算法"
+
+msgid ""
+"Whether to select parallel (faster) or sequential (more precise) algorithms"
+msgstr "选择并行（更快）还是顺序（更精确）算法"
+
+msgid "Subdivide Parts"
+msgstr "细分部分"
+
+msgid "The number of parts to split the mesh to process them in parallel"
+msgstr "要将网格拆分为多少部分以并行处理"
+
+msgid ""
+"The number of parts to split the mesh to process them in parallel. Larger "
+"numbers here typically improve processing speed, but decrease mesh uniformity"
+msgstr ""
+"要将网格拆分为多少部分以并行处理。此处较大的数字通常会提高处理速度，但会降低"
+"网格均匀性"
+
+msgid "Max error"
+msgstr "最大误差"
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original line is more than this value"
+msgstr "当估计的距原始线的距离偏差超过此值时立即停止抽稀"
+
+msgid "Target edges"
+msgstr "目标边数"
+
+msgid "The minimum number of edges after decimation"
+msgstr "抽稀后的最小边数"
+
+msgid ""
+"Stabilizer is dimensionless coefficient. The larger is stabilizer, the more "
+"Decimator will strive to retain the density of input points. If stabilizer "
+"is zero, then only the shape of input line will be preserved, but some "
+"artifacts on absolutely linear paths can be seen."
+msgstr ""
+"稳定器是无量纲系数。稳定器越大，简化器越努力保持输入点的密度。如果稳定器为"
+"零，则只保留输入线的形状，但在绝对线性路径上可能会看到一些瑕疵。"
+
+msgid "Longest edge length"
+msgstr "最长边长度"
+
+msgid "Optimize vertex positions"
+msgstr "优化顶点位置"
+
+msgid "Move boundary vertices"
+msgstr "移动边界顶点"
+
+msgid ""
+"Whether to allow collapsing edges with at least one vertex on the end of not-"
+"closed polyline, otherwise boundary vertices are strictly fixed"
+msgstr "是否允许折叠至少一个顶点位于未闭合折线端点上的边，否则边界顶点严格固定"
+
+msgid "Decimate lines"
+msgstr "抽稀线条"
+
+msgid "Merge Max"
+msgstr "合并最大值"
+
+msgid "Add dist map to scene"
+msgstr "将距离图添加到场景"
+
+msgid "Merge Min"
+msgstr "合并最小值"
+
+msgid "Subtraction"
+msgstr "差集"
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr "创建两个距离图之间的最大值、最小值或差集距离图。"
+
+msgid "Pixel Size"
+msgstr "像素大小"
+
+msgid "Distance Threshold"
+msgstr "距离阈值"
+
+msgid "Get Lines Critical points"
+msgstr "获取线条关键点"
+
+msgid "DMap Size"
+msgstr "距离图大小"
+
+msgid "Origin Point"
+msgstr "原点"
+
+msgid "With Sign"
+msgstr "带符号"
+
+msgid "Per Edge offset"
+msgstr "每边偏移"
+
+msgid "Shell offset"
+msgstr "壳偏移"
+
+msgid "Sign detection method"
+msgstr "符号检测方法"
+
+msgid "Contours orientation"
+msgstr "轮廓方向"
+
+msgid "Recommended for oriented contours without self-intersections"
+msgstr "推荐用于无自相交的定向轮廓"
+
+msgid "Winding rule"
+msgstr "环绕规则"
+
+msgid ""
+"Recommended for non-oriented contours or for contours with self-intersections"
+msgstr "推荐用于无方向轮廓或自相交轮廓"
+
+msgid "Resolution X"
+msgstr "X 分辨率"
+
+msgid "Resolution Y"
+msgstr "Y 分辨率"
+
+msgid "Compute Derivative Colored Mesh"
+msgstr "计算带颜色的导数网格"
+
+msgid "Use percentage"
+msgstr "使用百分比"
+
+msgid "Percent of higher value of 1st derivative points"
+msgstr "一阶导数较大值点的百分比"
+
+msgid "Threshold for the 1st derivative"
+msgstr "一阶导数阈值"
+
+msgid "Show 1st derivative points"
+msgstr "显示一阶导数点"
+
+msgid "Percent of higher value of 2nd derivative points"
+msgstr "二阶导数较大值点的百分比"
+
+msgid "Threshold for 2nd derivative"
+msgstr "二阶导数阈值"
+
+msgid "Show 2nd derivative points"
+msgstr "显示二阶导数点"
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr "在选定对象网格的距离图上显示关键点。"
+
+msgid "Threshold"
+msgstr "阈值"
+
+msgid "Load Image"
+msgstr "加载图像"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Resolution:"
+msgstr "分辨率："
+
+msgid "Min value:"
+msgstr "最小值："
+
+msgid "Max value:"
+msgstr "最大值："
+
+msgid "Value Scale Multiplier"
+msgstr "值缩放倍数"
+
+msgid "Max Height"
+msgstr "最大高度"
+
+msgid "Import as Mesh"
+msgstr "导入为网格"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Error loading image: "
+msgstr "加载图像时出错： "
+
+msgid "Error converting image: "
+msgstr "转换图像时出错： "
+
+msgid "Load Mesh from Image"
+msgstr "从图像加载网格"
+
+msgid "Load Distance Map from Image"
+msgstr "从图像加载距离图"
+
+msgid "IsoValue"
+msgstr "等值"
+
+msgid "Use Depth"
+msgstr "使用深度"
+
+msgid "Create IsoLines"
+msgstr "创建等值线"
+
+msgid "Y resolution"
+msgstr "Y 分辨率"
+
+msgid "X resolution"
+msgstr "X 分辨率"
+
+msgid "Mesh to Distance Map"
+msgstr "网格转距离图"
+
+msgid "Convert Distance Map to Mesh"
+msgstr "将距离图转换为网格"
+
+msgid "Use NVIDIA GPU"
+msgstr "使用 NVIDIA GPU"
+
+msgid "Not enough GPU memory to use CUDA-capable NVIDIA GPU"
+msgstr "GPU 内存不足，无法使用支持 CUDA 的 NVIDIA GPU"
+
+msgid "Not enough GPU memory for some tasks to use CUDA-capable NVIDIA GPU"
+msgstr "GPU 内存不足以使部分任务使用支持 CUDA 的 NVIDIA GPU"
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected vertices ({}) less than minimal ({}) "
+"for this feature type"
+msgstr "无法细化。选中的顶点数（{}）少于此特征类型所需的最小数量（{}）"
+
+msgid "Unsupported reference object type"
+msgstr "不支持的参考对象类型"
+
+msgid "Add measurements holder"
+msgstr "添加测量持有者"
+
+msgid "Pairs Forming Settings"
+msgstr "配对形成设置"
+
+msgid "Register Whole Objects"
+msgstr "配准整个对象"
+
+msgid ""
+"If selected then absolutely all point pairs between two objects will be "
+"considered during registration without filtering."
+msgstr "如果选中，注册时将考虑两个对象之间的所有点对，不进行任何过滤。"
+
+msgid "Normals Max Angle"
+msgstr "法线最大角度"
+
+msgid ""
+"A points pair is used only if the angle between the normals at the points is "
+"not larger than this value."
+msgstr "仅当点处法线之间的角度不大于此值时才使用点对。"
+
+msgid "Max Distance"
+msgstr "最大距离"
+
+msgid ""
+"A points pair is used only if the distance between two points is lower than "
+"this value."
+msgstr "仅当两点之间的距离小于此值时才使用点对。"
+
+msgid "Far Distance Factor"
+msgstr "远距离因子"
+
+msgid ""
+"Points pair will be counted only if distance between points is lower than "
+"root-mean-square distance times this factor."
+msgstr "仅当点之间的距离小于均方根距离乘以此因子时，点对才会被计入。"
+
+msgid "Mutual Closest Points in Each Pair"
+msgstr "每对中的相互最近点"
+
+msgid ""
+"A pair of points is formed only if both points in the pair are mutually "
+"closest (reciprocity test passed)."
+msgstr "只有当点对中的两个点互为最近（通过互易性测试）时才形成点对。"
+
+msgid "Sampling Spacing"
+msgstr "采样间距"
+
+msgid ""
+"This value determines sampling voxel size to select only one point in each "
+"voxel."
+msgstr "此值决定采样体素大小，以便每个体素中仅选择一个点。"
+
+msgid "Sample Target"
+msgstr "采样目标"
+
+msgid "Select what object will be samples to form origins of point pairs."
+msgstr "选择哪个对象将被采样以形成点对的起点。"
+
+msgid "Combined"
+msgstr "组合"
+
+msgid "Point-to-Point"
+msgstr "点到点"
+
+msgid "Point-to-Plane"
+msgstr "点到平面"
+
+msgid "Select target function to minimize."
+msgstr "选择要最小化的目标函数。"
+
+msgid "Transformation"
+msgstr "变换"
+
+msgid "Select what kind of transformations are searched for."
+msgstr "选择要搜索哪种类型的变换。"
+
+msgid "Fixed rotation axis"
+msgstr "固定旋转轴"
+
+msgid "Allowed rotation axis"
+msgstr "允许的旋转轴"
+
+msgid "Stop Conditions"
+msgstr "停止条件"
+
+msgid "Max Iterations"
+msgstr "最大迭代次数"
+
+msgid "Maximal possible number of ICP iterations."
+msgstr "ICP 迭代的最大可能次数。"
+
+msgid "No Improvement Iterations"
+msgstr "无改进迭代次数"
+
+msgid ""
+"Stop ICP iterations if during given number of last iterations there was no "
+"improvement."
+msgstr "如果在最近给定次数的迭代中没有改进，则停止 ICP 迭代。"
+
+msgid "Deviation Reached"
+msgstr "已达到偏差"
+
+msgid ""
+"Algorithm target root-mean-square distance. As soon as it is reached, the "
+"algorithm stops."
+msgstr "算法目标均方根距离。一旦达到，算法就停止。"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Samples"
+msgstr "采样"
+
+msgid "Active point pairs"
+msgstr "活动点对"
+
+msgid "RMS point-to-point distance"
+msgstr "点到点距离均方根"
+
+msgid "RMS point-to-plane distance"
+msgstr "点到平面距离均方根"
+
+msgid "Approx. Density"
+msgstr "近似密度"
+
+msgid ""
+"Prediction of the ratio of the volume filled and the volume of the inner "
+"component of the mesh."
+msgstr "对填充体积与网格内部分量体积之比的预测。"
+
+msgid "Real Density"
+msgstr "实际密度"
+
+msgid ""
+"Current ratio of the volume actually filled and the volume of the inner "
+"component of the mesh."
+msgstr "当前实际填充体积与网格内部分量体积之比。"
+
+msgid "Components"
+msgstr "组件"
+
+msgid ""
+"Number of connected components. Large number here indicates that current "
+"configuration of filling might be incorrect."
+msgstr "连通分量的数量。此处数字过大表明当前填充配置可能不正确。"
+
+msgid "Number of voxels"
+msgstr "体素数量"
+
+msgid "Number of voxels that would be used to build TPMS"
+msgstr "用于构建 TPMS 的体素数量"
+
+msgid "Surface type"
+msgstr "表面类型"
+
+msgid "Type of the filling surface"
+msgstr "填充表面的类型"
+
+msgid ""
+"Approximate density of the surface (ratio of filled and not filled volume)"
+msgstr "表面的近似密度（已填充与未填充体积之比）"
+
+msgid "Interval"
+msgstr "间隔"
+
+msgid "Period of filling. Determines how often the elements are replicated."
+msgstr "填充周期。决定元素复制的频率。"
+
+msgid "Quality Preset"
+msgstr "质量预设"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Standard"
+msgstr "标准"
+
+msgid "High"
+msgstr "高"
+
+msgid "Iso"
+msgstr "等值面"
+
+msgid ""
+"ISO value used to construct the surface. Influences the volume (amount of "
+"material)."
+msgstr "用于构建表面的等值。影响体积（材料量）。"
+
+msgid "Decimate"
+msgstr "抽稀"
+
+msgid "Decimate resulting filling surface"
+msgstr "抽稀生成的填充表面"
+
+msgid "Quality"
+msgstr "质量"
+
+msgid ""
+"Quality of the filling. Determines the resolution of the approximation of "
+"the surface. Increasing this parameter always produces better quality at the "
+"cost of longer execution time."
+msgstr ""
+"填充质量。决定表面近似的分辨率。提高此参数总会获得更好的质量，但执行时间会更"
+"长。"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Spheres"
+msgstr "球体"
+
+msgid "Add spheres at the intersections of bars"
+msgstr "在杆的交点处添加球体"
+
+msgid "Sphere Radius"
+msgstr "球体半径"
+
+msgid "Kind"
+msgstr "种类"
+
+msgid "Select region on mesh to specify additional offset there."
+msgstr "在网格上选择区域以指定额外偏移。"
+
+msgid "Regions"
+msgstr "区域"
+
+msgid "Additional Offset"
+msgstr "额外偏移"
+
+msgid "This value will be added to global offset for selected region."
+msgstr "此值将被加到所选区域的全局偏移上。"
+
+msgid "Update Region"
+msgstr "更新区域"
+
+msgid "Change Active Box UI"
+msgstr "更改活动框UI"
+
+msgid "Sampling Points"
+msgstr "采样点数"
+
+msgid "Number of points to be sampled for every vertex"
+msgstr "为每个顶点采样的点数"
+
+msgid "Polynomial Degree"
+msgstr "多项式次数"
+
+msgid "Degree of the polynomial used to fit the sampled points"
+msgstr "用于拟合采样点的多项式次数"
+
+msgid "Iterations"
+msgstr "迭代次数"
+
+msgid "Number of iterations of the algorithm"
+msgstr "算法的迭代次数"
+
+msgid "Outlier threshold"
+msgstr "离群值阈值"
+
+msgid ""
+"For each iteration, if target position of the vertex is greater than this "
+"threshold, it is disregarded. For small degrees, this value should be small, "
+"for large degrees it may be larger. Measured in number of voxels"
+msgstr ""
+"每次迭代中，如果顶点的目标位置大于此阈值，则忽略。低次数应使用较小值，高次数"
+"可使用较大值。以体素数为单位"
+
+msgid "Preparation smooth"
+msgstr "准备平滑"
+
+msgid ""
+"Speed of the preparation smoothing, performed before the iterations. May be "
+"set to zero for meshes that are smooth enough initially."
+msgstr "在迭代前执行的准备平滑速度。对于初始足够平滑的网格可设为零。"
+
+msgid "Intermediate smooth"
+msgstr "中间平滑"
+
+msgid ""
+"Speed of the intermediate smoothing, performed on each iteration. Small "
+"values are generally not recommended."
+msgstr "每次迭代时执行的中间平滑速度。一般不建议使用小值。"
+
+#, c++-format
+msgid "Subfeatures of {}:"
+msgstr "{} 的子特征："
+
+#, c++-format
+msgid "[ Back to {} ]"
+msgstr "[ 返回 {} ]"
+
+msgid "Volume"
+msgstr "体积"
+
+#, c++-format
+msgid ""
+"Model has {} hole. It is recommended to fix it before using Auto Rebuild."
+msgid_plural ""
+"Model has {} holes. It is recommended to fix them before using Auto Rebuild."
+msgstr[0] "模型有 {} 个孔洞。建议在使用自动重建前修复。"
+
+msgid "Ultra"
+msgstr "超高"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Convert feature to line"
+msgstr "将特征转换为线条"
+
+msgid "Max new vertices"
+msgstr "最大新增顶点数"
+
+msgid "Top limit on the number of edge splits and the number of new vertices"
+msgstr "边分割数和新顶点数的上限"
+
+msgid "Shortest split segment"
+msgstr "最短分割线段"
+
+msgid ""
+"Subdivision is stopped when all line segments are shorter than this value"
+msgstr "当所有线段都短于此值时停止细分"
+
+msgid "Curvature-based"
+msgstr "基于曲率"
+
+msgid ""
+"This option works best for natural lines, where all segments have similar "
+"size, and no sharp angles in between"
+msgstr "此选项最适合自然线条，所有线段大小相近且彼此之间没有尖锐角度"
+
+msgid "Re-make polyline (or part of polyline) using smaller faces."
+msgstr "使用更小的面重新制作折线（或折线的一部分）。"
+
+msgid "Subdivide Lines"
+msgstr "细分线条"
+
+msgid "Move Along Y Axis"
+msgstr "沿 Y 轴移动"
+
+msgid "Move Along X Axis"
+msgstr "沿 X 轴移动"
+
+msgid "Move Along Z Axis"
+msgstr "沿 Z 轴移动"
+
+msgid "Use Custom Trajectory"
+msgstr "使用自定义轨迹"
+
+msgid "No other lines objects in the scene"
+msgstr "场景中没有其他线条对象"
+
+msgid "Select trajectory..."
+msgstr "选择轨迹..."
+
+msgid "Trajectory"
+msgstr "轨迹"
+
+msgid "Trajectory Length"
+msgstr "轨迹长度"
+
+msgid "Allow Rotation"
+msgstr "允许旋转"
+
+msgid ""
+"Rotate body in trajectory vertices if set, otherwise only translation along "
+"the trajectory will be applied."
+msgstr "如果设置则在轨迹顶点处旋转主体，否则仅沿轨迹应用平移。"
+
+msgid "Auto Body's Center"
+msgstr "自动主体中心"
+
+msgid ""
+"The center point of body moves along the trajectory.\n"
+"If selected, then body's center is computed automatically from body's "
+"bounding box.\n"
+"If not selected, then body's center is considered equal to the center of its "
+"local basis."
+msgstr ""
+"主体中心点沿轨迹移动。\n"
+"如果选中，则从主体的包围盒自动计算主体中心。\n"
+"如果未选中，则将主体中心视为其局部坐标系的中心。"
+
+msgid "Start Mesh from Source"
+msgstr "从源开始网格"
+
+msgid ""
+"If selected, then body-contours will be located exactly on resulting mesh."
+msgstr "如果选中，则主体轮廓将精确位于生成的网格上。"
+
+msgid "Fill Holes"
+msgstr "填充孔洞"
+
+msgid "Whether to fill planar holes at both ends of the extrusion body."
+msgstr "是否填充挤出主体两端的平面孔洞。"
+
+msgid "Make extrusion body mesh"
+msgstr "创建挤出主体网格"
+
+msgid "Flip Orientation"
+msgstr "翻转方向"
+
+msgid "Lines to Points"
+msgstr "线条转点"
+
+msgid "Offset (voxels)"
+msgstr "偏移（体素）"
+
+msgid ""
+"Voxels located not farther than this value to the input mesh will be filled "
+"with exact distances, more distant voxels with +/- this value"
+msgstr "距输入网格不超过此值的体素将填充精确距离，更远的体素填充 +/- 此值"
+
+msgid "Lines to Voxels"
+msgstr "线条转体素"
+
+msgid "Stock"
+msgstr "毛坯"
+
+msgid "Cutter"
+msgstr "切割器"
+
+msgid "Move cutter (or stock) to subtract it cutter from stock"
+msgstr "移动切割器（或毛坯）以从毛坯中减去切割器"
+
+msgid "Real-Time Boolean Cut"
+msgstr "实时布尔剪切"
+
+msgid "Initialize manual alignment points"
+msgstr "初始化手动对齐点"
+
+msgid "Start Align Manually"
+msgstr "开始手动对齐"
+
+msgid "Delete Pick Points"
+msgstr "删除拾取点"
+
+msgid "Change Fixed/Floating Objects"
+msgstr "更改固定/浮动对象"
+
+msgid "Pick Point"
+msgstr "拾取点"
+
+msgid "Pick Point and Align"
+msgstr "选择点并对齐"
+
+msgid "Edit Pick Points"
+msgstr "编辑选取点"
+
+msgid "Change visibility"
+msgstr "更改可见性"
+
+msgid "Selected Objects"
+msgstr "选中的对象"
+
+msgid "Floating object"
+msgstr "浮动对象"
+
+msgid "Floating objects"
+msgstr "浮动对象"
+
+msgid "Fixed object"
+msgstr "固定对象"
+
+msgid "Fixed objects"
+msgstr "固定对象"
+
+#, c-format
+msgid "Press %s to select multiple objects"
+msgstr "按 %s 选择多个对象"
+
+msgid "Auto Improve Alignment"
+msgstr "自动改进对齐"
+
+msgid ""
+"Automatically improve alignment after each new picked pair (starting from "
+"3rd pair) of points using Iterative Closest Points (ICP) algorithm."
+msgstr ""
+"在每次拾取新点对（从第 3 对开始）后使用迭代最近点（ICP）算法自动改进对齐。"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Warning: objects have parent/child relations"
+msgstr "警告：对象具有父/子关系"
+
+#, c-format
+msgid ""
+"1. Choose floating and fixed objects\n"
+"2. Pick pivot points on fixed objects\n"
+"3. Pick points on floating objects\n"
+"4. Click Accept\n"
+"Drag to move, %s+drag to rotate"
+msgstr ""
+"1. 选择浮动和固定对象\n"
+"2. 在固定对象上拾取枢轴点\n"
+"3. 在浮动对象上拾取点\n"
+"4. 点击接受\n"
+"拖动以移动，%s+拖动以旋转"
+
+msgid "Accept Alignment"
+msgstr "接受对齐"
+
+msgid "Add Point"
+msgstr "添加点"
+
+msgid "Add Line"
+msgstr "添加线条"
+
+msgid "Add Plane"
+msgstr "添加平面"
+
+msgid "Add Circle"
+msgstr "添加圆"
+
+msgid "Add Cone"
+msgstr "添加圆锥"
+
+msgid ""
+"Selected objects are not ObjectMesh, ObjectPoints or FeatureObject joined to "
+"ObjectMesh or ObjectPoints"
+msgstr ""
+"选中的对象不是 ObjectMesh、ObjectPoints 或附加到 ObjectMesh 或 ObjectPoints "
+"的 FeatureObject"
+
+msgid "Feature Type"
+msgstr "特征类型"
+
+msgid ""
+"Click on point/mesh surface. Picked points can be dragged after creation."
+msgstr "点击点/网格表面。拾取的点创建后可以拖动。"
+
+#, c-format
+msgid "Hold %s button to magnetize points to the mesh edges."
+msgstr "按住 %s 按钮以将点磁吸到网格边。"
+
+msgid "Click with Shift button to remove a point."
+msgstr "按住 Shift 点击以移除一个点。"
+
+msgid "Select with:"
+msgstr "选择方式："
+
+msgid "Pick mesh boundary"
+msgstr "拾取网格边界"
+
+msgid "Pick sub-feature"
+msgstr "拾取子特征"
+
+msgid "Creating a derived feature is not supported for this feature type."
+msgstr "此特征类型不支持创建派生特征。"
+
+msgid "Discard the changes and start from scratch"
+msgstr "放弃更改并从头开始"
+
+msgid "Target Object"
+msgstr "目标对象"
+
+msgid "Refine object"
+msgstr "细化对象"
+
+msgid "Distance Limit"
+msgstr "距离限制"
+
+msgid "Maximum distance from the source model to the feature"
+msgstr "从源模型到特征的最大距离"
+
+msgid "Normal Tolerance"
+msgstr "法线公差"
+
+msgid ""
+"Maximum angle between the source model's normal and the feature's normal"
+msgstr "源模型法线与特征法线之间的最大角度"
+
+msgid ""
+"Maximum amount of iterations performed until a stable set of points is found"
+msgstr "在找到稳定的点集之前执行的最大迭代次数"
+
+msgid "Refine"
+msgstr "细化"
+
+msgid "Find new source points near the feature and use them to refine it"
+msgstr "在特征附近查找新的源点并用它们来细化特征"
+
+msgid "New Feature"
+msgstr "新特征"
+
+msgid "Save created feature and start to define a new one"
+msgstr "保存创建的特征并开始定义新特征"
+
+msgid "Developer features"
+msgstr "开发者特征"
+
+msgid "Auto-update"
+msgstr "自动更新"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove all points"
+msgstr "移除所有点"
+
+msgid "Select Regions"
+msgstr "选择区域"
+
+msgid "Add points for refine"
+msgstr "为细化添加点"
+
+#, c++-format
+msgid "Create a {} feature object"
+msgstr "创建 {} 特征对象"
+
+#, c++-format
+msgid "BestFit {}"
+msgstr "最佳拟合 {}"
+
+msgid "Union"
+msgstr "并集"
+
+msgid "Intersection"
+msgstr "交集"
+
+msgid "Difference"
+msgstr "差集"
+
+msgid "Object A"
+msgstr "对象 A"
+
+msgid "Object B"
+msgstr "对象 B"
+
+msgid "Leave only largest"
+msgstr "仅保留最大的"
+
+msgid "Select two closed meshes"
+msgstr "选择两个封闭网格"
+
+msgid "Add boolean result"
+msgstr "添加布尔运算结果"
+
+msgid "Smooth"
+msgstr "平滑"
+
+msgid "Deform"
+msgstr "变形"
+
+msgid "Fix"
+msgstr "修复"
+
+msgid "Radius of editing area."
+msgstr "编辑区域的半径。"
+
+msgid "Radius presets:"
+msgstr "半径预设："
+
+msgid "Hotkey"
+msgstr "快捷键"
+
+msgid "Smoothness"
+msgstr "平滑度"
+
+msgid "Effect of smoothing surface."
+msgstr "表面平滑效果。"
+
+msgid "Material Thickness"
+msgstr "材料厚度"
+
+msgid "Sharpness"
+msgstr "锐度"
+
+msgid "Effect of force on points far from center editing area."
+msgstr "对远离中心编辑区域的点的力效应。"
+
+msgid ""
+"Effect of smoothing modified area after editing is complete.\n"
+"0 - do not smooth."
+msgstr ""
+"编辑完成后修改区域的平滑效果。\n"
+"0 - 不平滑。"
+
+#, c-format
+msgid "Hold %s and scroll to change radius"
+msgstr "按住 %s 并滚动以更改半径"
+
+msgid "Show Changes Map"
+msgstr "显示更改图"
+
+msgid "Palette Settings"
+msgstr "调色板设置"
+
+msgid "Calculation Method"
+msgstr "计算方法"
+
+msgid "Calculation method for visualizing mesh changes"
+msgstr "用于可视化网格更改的计算方法"
+
+msgid "Fix Selected Region"
+msgstr "修复选中区域"
+
+msgid "Boundary edges can be split to improve quality of the patch"
+msgstr "可以分割边界边以提高补丁的质量"
+
+msgid "Ignore Occlusion"
+msgstr "忽略遮挡"
+
+msgid ""
+"Allow the user to edit parts of object that are hidden in the current view "
+"by other objects"
+msgstr "允许用户编辑在当前视图中被其他对象遮挡的对象部分"
+
+msgid "Edit Only Co-directed Surface"
+msgstr "仅编辑同向表面"
+
+msgid ""
+"Restricts editable area to vertices whose normals look into the same half-"
+"space as normal under cursor."
+msgstr "将可编辑区域限制为法线指向与光标下法线相同的半空间的顶点。"
+
+msgid "Balanced Weights"
+msgstr "平衡权重"
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies."
+msgstr ""
+"在平滑定位顶点时是否使用学术文献推荐的权重，否则将使用单位权重，可以容忍任何"
+"退化情况。"
+
+msgid "Ideal Ridges/Grooves"
+msgstr "理想脊/沟"
+
+msgid ""
+"If selected in Add/Remove modes, the modification will be done using "
+"Laplacian solver, where the closest vertices will be attracted toward mouse "
+"cursor to form ideal ridges or grooves."
+msgstr ""
+"如果在添加/移除模式下选中，将使用拉普拉斯求解器进行修改，最近的顶点将被吸引到"
+"鼠标光标处以形成理想的脊或沟。"
+
+msgid "Subdivide Ridges/Grooves"
+msgstr "细分脊/沟"
+
+msgid ""
+"If selected in Add/Remove modes, changed parts of mesh will be subdivided on "
+"mouse up."
+msgstr "如果在添加/移除模式下选中，鼠标松开时网格的更改部分将被细分。"
+
+msgid "Mimic Fix"
+msgstr "模拟修复"
+
+msgid ""
+"In Fix mode disables smoothing and makes patches closer to initial surface."
+msgstr "在修复模式下禁用平滑并使补丁更接近初始表面。"
+
+msgid "Collide"
+msgstr "碰撞"
+
+msgid "Highlight collision faces of two meshes."
+msgstr "高亮显示两个网格的碰撞面。"
+
+msgid "Collision Plugin: new collision"
+msgstr "碰撞插件：新碰撞"
+
+msgid "Polyline must not be empty"
+msgstr "折线不能为空"
+
+msgid "Cut By Polyline"
+msgstr "按折线剪切"
+
+msgid "To start or continue extruding, drag selected triangles with LMB"
+msgstr "要开始或继续挤出，请使用鼠标左键拖动选中的三角形"
+
+#, c-format
+msgid "To restart extrusion, start dragging selected triangles with %s+LMB"
+msgstr "要重新开始挤出，请使用 %s+鼠标左键开始拖动选中的三角形"
+
+msgid "Finish Extrusion"
+msgstr "完成挤出"
+
+msgid "Fixes the current extrusion and makes it ready for a new extrusion"
+msgstr "固定当前挤出并使其准备好进行新的挤出"
+
+msgid "Subdivide Long Triangles"
+msgstr "细分长三角形"
+
+msgid ""
+"Extruded triangles will be subdivided into bands no longer than the longest "
+"edge in the boundary"
+msgstr "挤出的三角形将被细分为不长于边界中最长边的带"
+
+msgid "Fixed Direction"
+msgstr "固定方向"
+
+msgid ""
+"Selected triangles will be extruded along specified direction. Enabling this "
+"option will finish current extrusion."
+msgstr "选中的三角形将沿指定方向挤出。启用此选项将完成当前挤出。"
+
+msgid "Three components of the extrusion direction vector"
+msgstr "挤出方向向量的三个分量"
+
+msgid "Direct by Normals"
+msgstr "按法线确定方向"
+
+msgid "Extrude Direction by Normals"
+msgstr "按法线设置挤出方向"
+
+msgid ""
+"Set extrusion direction by the average normal of the selected triangles. "
+"Current extrusion will be finished"
+msgstr "按选中三角形的平均法线设置挤出方向。当前挤出将完成"
+
+msgid "Direct to Camera"
+msgstr "指向相机"
+
+msgid "Extrude Direction to Camera"
+msgstr "挤出方向朝向相机"
+
+msgid ""
+"Set extrusion direction toward you (the position of camera). Current "
+"extrusion will be finished"
+msgstr "将挤出方向设置为指向您（相机的位置）。当前挤出将完成"
+
+msgid "Amount"
+msgstr "数量"
+
+msgid "Extrusion distance along the specified direction"
+msgstr "沿指定方向的挤出距离"
+
+msgid "Extrude Direction by Mouse"
+msgstr "通过鼠标设置挤出方向"
+
+msgid "Extrude"
+msgstr "挤出"
+
+msgid "Manual Extrude"
+msgstr "手动挤出"
+
+msgid "Cone, Cylinder"
+msgstr "圆锥、圆柱"
+
+msgid "Convert feature to mesh"
+msgstr "将特征转换为网格"
+
+msgid "Universal"
+msgstr "通用"
+
+msgid "Planar"
+msgstr "平面"
+
+msgid "Complex"
+msgstr "复杂"
+
+msgid "Min Area"
+msgstr "最小面积"
+
+msgid ""
+"This metric should produce good result in an average case, by minimizing "
+"both circumscribed circle's diameter around each triangle and dihedral angle "
+"between two triangles of each edge."
+msgstr ""
+"此度量在一般情况下应产生良好的结果，通过最小化每个三角形周围的外接圆直径以及"
+"每条边两个三角形之间的二面角。"
+
+msgid ""
+"This metric minimizes the sum of circumcircle radius times aspect ratio for "
+"all triangles in the triangulation, and it has extra penalty for the "
+"triangles having normals looking in the opposite side of plane containing "
+"the hole contour. It is specially designed for planar hole filling."
+msgstr ""
+"此度量最小化三角剖分中所有三角形的外接圆半径乘以纵横比之和，并对法线指向包含"
+"孔轮廓平面的反面的三角形有额外惩罚。它专为平面孔填充设计。"
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum of edgeMetrics for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+"此度量最小化三角剖分中所有三角形的 triangleMetric 之和加上三角剖分内部和边界"
+"上所有边的 edgeMetrics 之和。\n"
+"其中\n"
+"  triangleMetric 与加权三角形面积和三角形纵横比成正比，\n"
+"  edgeMetric 随三角形之间的角度增长，公式为 ( ( 1 - cos( x ) ) / ( 1 + "
+"cos( x ) ) ) ^ 4"
+
+msgid ""
+"This metric minimizes the area of the surface patch added to fill the hole. "
+"It is the best choice if the hole has degenerate shape or surrounded by "
+"degenerate triangles."
+msgstr ""
+"此度量最小化用于填充孔的表面补丁的面积。如果孔具有退化形状或被退化三角形包"
+"围，这是最佳选择。"
+
+msgid "Triangulate Only"
+msgstr "仅三角剖分"
+
+msgid ""
+"If this check-box is not selected then additional vertices are created "
+"inside the patch for best mesh quality"
+msgstr "如果不选中此复选框，则在补丁内创建额外的顶点以获得最佳网格质量"
+
+msgid "Smooth Boundary"
+msgstr "平滑边界"
+
+msgid ""
+"If triangulation metric makes smooth angle between neighbor triangles, then "
+"make smooth angle between patch triangles and triangles around the hole as "
+"well"
+msgstr ""
+"如果三角剖分度量使相邻三角形之间形成平滑角度，则同样使补丁三角形和孔周围三角"
+"形之间形成平滑角度"
+
+msgid "Max Edge Length"
+msgstr "最大边长"
+
+msgid ""
+"Patch mesh subdivision is stopped when all mesh edges are shorter than this "
+"value"
+msgstr "当所有网格边都短于此值时停止补丁网格细分"
+
+msgid "Avg."
+msgstr "平均"
+
+msgid "Computes average edge length in the mesh"
+msgstr "计算网格中的平均边长"
+
+msgid "Smooth Curvature"
+msgstr "平滑曲率"
+
+msgid "Make the patch absolutely smooth"
+msgstr "使补丁绝对平滑"
+
+msgid "Metric"
+msgstr "度量"
+
+msgid "Select a metric to be optimized during next hole filling"
+msgstr "选择下次填孔时要优化的度量"
+
+msgid "Edge Metric Priority"
+msgstr "边度量优先级"
+
+msgid ""
+"0 means that edge-part of the metric is completely ignored,\n"
+"1 - default behavior,\n"
+"1000 - edge-part of the metric is much more important than triangle-part of "
+"the metric."
+msgstr ""
+"0 表示完全忽略度量的边部分，\n"
+"1 - 默认行为，\n"
+"1000 - 度量的边部分比三角形部分重要得多。"
+
+msgid "Max Polygon Subdivision"
+msgstr "最大多边形细分"
+
+msgid ""
+"The maximum number of polygon subdivisions on a triangle and two smaller "
+"polygons"
+msgstr "三角形和两个较小多边形上多边形细分的最大次数"
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies"
+msgstr ""
+"在平滑定位顶点时是否使用学术文献推荐的权重，否则将使用单位权重，可以容忍任何"
+"退化情况"
+
+msgid "Natural Smooth"
+msgstr "自然平滑"
+
+msgid ""
+"Expands, and repositions edges to maintain the natural shape of the model"
+msgstr "扩展并重新定位边以保持模型的自然形状"
+
+msgid "Additional options"
+msgstr "其他选项"
+
+msgid ""
+"Creates a smooth surface to fill the hole, ideal for integrating seamlessly "
+"with curved areas"
+msgstr "创建平滑表面以填充孔，非常适合与曲面区域无缝衔接"
+
+msgid "Natural"
+msgstr "自然"
+
+msgid ""
+"Generates a smooth surface, expands, and repositions edges to maintain the "
+"natural shape of the model"
+msgstr "生成平滑表面，扩展并重新定位边以保持模型的自然形状"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid ""
+"Creates a flat surface with more detailed triangulation, offering a higher "
+"resolution fill for complex geometries"
+msgstr "创建具有更详细三角剖分的平坦表面，为复杂几何体提供更高分辨率的填充"
+
+msgid "Flat"
+msgstr "平坦"
+
+msgid ""
+"Fills the hole with a flat surface using minimal triangles, suitable for "
+"preserving a simple geometry"
+msgstr "使用最少的三角形以平坦表面填充孔，适用于保持简单几何"
+
+msgid ""
+"Additional vertices are created inside the bridge to make it visually smooth "
+"including at its ends)"
+msgstr "在桥内创建额外的顶点以使其视觉上平滑（包括在其末端）"
+
+msgid "Creates a flat bridge without additional vertices"
+msgstr "创建一个没有额外顶点的平坦桥"
+
+msgid "ObjectMesh doesn't have any holes"
+msgstr "ObjectMesh 没有任何孔洞"
+
+msgid "Fill single"
+msgstr "填充单个"
+
+msgid "Fill entire hole or several holes"
+msgstr "填充整个孔或多个孔"
+
+msgid "Fill All"
+msgstr "全部填充"
+
+msgid "Divide a hole on parts"
+msgstr "将孔分成几部分"
+
+msgid "Make Bridge"
+msgstr "创建桥"
+
+msgid "Fill type"
+msgstr "填充类型"
+
+msgid ""
+"Click on the edges of the hole to fill it. Or Switch to selection by hole ID "
+"in control settings."
+msgstr "点击孔的边以填充。或在控制设置中切换为按孔 ID 选择。"
+
+#, c-format
+msgid ""
+"%s+Click on a hole edge in the 3D scene to exclude or include it when using "
+"th e Fill All Holes mode."
+msgstr "在使用全部填充孔模式时，%s+点击 3D 场景中的孔边以排除或包含它。"
+
+msgid "Deselect Large Holes"
+msgstr "取消选择大孔"
+
+msgid "Deselect the specified number of holes with the longest length"
+msgstr "取消选择具有最长长度的指定数量的孔"
+
+msgid "Deselect all holes whose length is less than the specified value"
+msgstr "取消选择长度小于指定值的所有孔"
+
+msgid ""
+"Deselect Less Than Minimum \n"
+"Perimeter"
+msgstr ""
+"取消选择小于最小 \n"
+"周长"
+
+msgid "Discard"
+msgstr "丢弃"
+
+msgid "Fill All Holes"
+msgstr "填充所有孔洞"
+
+msgid "Click on two hole edges to make bridge."
+msgstr "点击两条孔边以创建桥。"
+
+msgid "Click on selected edge to unselect."
+msgstr "点击选中的边以取消选择。"
+
+msgid "Fill Corners"
+msgstr "填充角"
+
+msgid "Allow making new triangle by clicking on the corner between two edges."
+msgstr "允许通过点击两条边之间的角来创建新三角形。"
+
+msgid "Holes"
+msgstr "孔洞"
+
+msgid "Selected"
+msgstr "已选中"
+
+msgid "Control"
+msgstr "控制"
+
+msgid "Select Hole by"
+msgstr "选择孔的方式"
+
+msgid "Mouse in 3D"
+msgstr "3D 中的鼠标"
+
+msgid "Hole ID"
+msgstr "孔 ID"
+
+msgid ""
+"How you would like to select a hole: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr "您希望如何选择孔：鼠标 - 在 3D 视图中或在对话框中按孔 ID"
+
+msgid "Select Hole ID"
+msgstr "选择孔 ID"
+
+msgid "ID of the hole to fill"
+msgstr "要填充的孔 ID"
+
+msgid "Fill Selected Hole"
+msgstr "填充选中的孔"
+
+msgid "Mouse Accuracy"
+msgstr "鼠标精度"
+
+msgid ""
+"Mesh boundary is highlighted if the mouse cursor is closer to it than this "
+"value in pixels"
+msgstr "如果鼠标光标到网格边界的距离小于此像素值，则高亮显示该边界"
+
+msgid "Border Line Width"
+msgstr "边框线宽"
+
+msgid "The width of highlighted hole contour"
+msgstr "高亮孔轮廓的宽度"
+
+msgid ""
+"Mesh boundary edge is highlighted if the mouse cursor is closer to it than "
+"this value in pixels"
+msgstr "如果鼠标光标到网格边界边的距离小于此像素值，则高亮显示该边"
+
+msgid "Mouse Accuracy at Corners"
+msgstr "角点处鼠标精度"
+
+msgid ""
+"Two consecutive edges of mesh boundary are highlighted if the mouse cursor "
+"is closer to their common vertex than this value in pixels"
+msgstr ""
+"如果鼠标光标到网格边界两条连续边公共顶点的距离小于此像素值，则高亮显示这两条"
+"边"
+
+msgid "Controls settings"
+msgstr "控件设置"
+
+msgid "Current Hole Metrics"
+msgstr "当前孔度量"
+
+msgid "Hole Perimeter"
+msgstr "孔周长"
+
+msgid "The length of highlighted hole boundary."
+msgstr "高亮孔边界的长度。"
+
+msgid "Hole Area"
+msgstr "孔面积"
+
+msgid "The area of the highlighted hole."
+msgstr "高亮孔的面积。"
+
+msgid "Fill One Hole"
+msgstr "填充一个孔"
+
+msgid "Make Smooth Bridge"
+msgstr "创建平滑桥"
+
+msgid "Nearest Neighbours"
+msgstr "最近邻"
+
+msgid ""
+"The number of nearest neighbor points to use for building of local "
+"triangulation. Too small value can make not optimal triangulation and "
+"additional holes. Too big value increases difficulty of optimization and "
+"decreases performance."
+msgstr ""
+"用于构建局部三角剖分的最近邻点数。值太小可能导致非最优三角剖分和额外孔洞。值"
+"太大会增加优化难度并降低性能。"
+
+msgid "Critical Angle"
+msgstr "临界角度"
+
+msgid ""
+"Critical angle of triangles in local triangulation (angle between triangles "
+"in fan should be less then this value)."
+msgstr "局部三角剖分中三角形的临界角（扇形中三角形之间的角度应小于此值）。"
+
+msgid "Fill Remaining Holes"
+msgstr "填充剩余孔洞"
+
+msgid ""
+"Selects whether to fill the holes remained after using the given points."
+msgstr "选择是否填充使用给定点后剩余的孔洞。"
+
+msgid "Auto Detect Holes to Fill"
+msgstr "自动检测要填充的孔洞"
+
+msgid "If activated then the tool will select holes to fill by itself."
+msgstr "如果激活则工具将自行选择要填充的孔洞。"
+
+msgid "Max Hole Length"
+msgstr "最大孔长度"
+
+msgid "All holes with boundary length less than this value will be filled."
+msgstr "边界长度小于此值的所有孔洞都将被填充。"
+
+msgid "Preserve Point Cloud"
+msgstr "保留点云"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh with filled holes."
+msgstr "如果勾选，则除了填充孔洞后的网格之外，原始点云也将保留在场景中。"
+
+msgid "Fill Holes with Extra Points"
+msgstr "用额外点填充孔洞"
+
+msgid "Select tunnel faces"
+msgstr "选择隧道面"
+
+msgid "Remove selected triangles"
+msgstr "移除选中的三角形"
+
+msgid "Fill created holes"
+msgstr "填充已创建的孔洞"
+
+msgid "Shortest"
+msgstr "最短"
+
+msgid "Most Curved"
+msgstr "最弯曲"
+
+msgid "Most Concave"
+msgstr "最凹"
+
+msgid "Most Convex"
+msgstr "最凸"
+
+msgid "Least Curved"
+msgstr "最不弯曲"
+
+msgid "Search for the shortest by length loops."
+msgstr "搜索长度最短的环。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most curved "
+"(either concave or convex)."
+msgstr "搜索沿网格最弯曲（凹或凸）的边经过的环。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most concave."
+msgstr "搜索沿网格最凹的边经过的环。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most convex."
+msgstr "搜索沿网格最凸的边经过的环。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is least curved "
+"(neither concave nor convex)."
+msgstr "搜索沿网格最不弯曲（既不凹也不凸）的边经过的环。"
+
+msgid "Prefer Tunnels"
+msgstr "优先隧道"
+
+msgid "Selects what kind of tunnel loops to search for."
+msgstr "选择要搜索的隧道环类型。"
+
+msgid "Advanced Select Options"
+msgstr "高级选择选项"
+
+msgid "Max Tunnel Length"
+msgstr "最大隧道长度"
+
+msgid "The loops longer than this value will be ignored."
+msgstr "长度超过此值的环将被忽略。"
+
+msgid "Curvature Priority"
+msgstr "曲率优先级"
+
+msgid ""
+"If the value is 0, the curvature is ignored during the search. If the value "
+"is maximal, desired curvature dominates over the euclidean length of the "
+"loops."
+msgstr ""
+"如果值为 0，搜索时忽略曲率。如果值为最大，期望的曲率优先于环的欧氏长度。"
+
+msgid ""
+"Maximal number of iterations of tunnel detection. Not all tunnels can be "
+"found on initial iterations. But on a big mesh with many tunnels even one "
+"iteration can take a while."
+msgstr ""
+"隧道检测的最大迭代次数。并非所有隧道都能在初始迭代中找到。但在含有许多隧道的"
+"大网格上，即使一次迭代也可能耗时较长。"
+
+msgid "Build Co-Loops"
+msgstr "构建共环"
+
+msgid ""
+"In this mode, shorter tunnels are found, but it requires more time to "
+"compute."
+msgstr "在此模式下找到更短的隧道，但计算时间更长。"
+
+msgid "Filter Equivalent Co-Loops"
+msgstr "过滤等价共环"
+
+msgid ""
+"If this option is off, some tunnels may be cut in several places. Please "
+"active if it is an issue for you, but it will take significantly longer to "
+"compute."
+msgstr ""
+"如果关闭此选项，某些隧道可能会在多个位置被切割。如果对您而言这是问题，请激活"
+"此项，但计算时间将显著延长。"
+
+msgid "Select Tunnel Triangles"
+msgstr "选择隧道三角形"
+
+msgid "Add found loops as triangle selection in the mesh object."
+msgstr "将找到的环作为网格对象中的三角形选择添加。"
+
+msgid "Remove Selected Triangles"
+msgstr "移除选中的三角形"
+
+msgid "Removes selected triangles from mesh object."
+msgstr "从网格对象中移除选中的三角形。"
+
+msgid "Fill Created Holes"
+msgstr "填充创建的孔洞"
+
+msgid "Fills the holes appeared after removal."
+msgstr "填充移除后出现的孔洞。"
+
+msgid "Make mesh topologically equivalent to sphere."
+msgstr "使网格在拓扑上等同于球体。"
+
+msgid "Positive"
+msgstr "正向"
+
+msgid "Shallowest"
+msgstr "最浅"
+
+msgid "Both Sides"
+msgstr "双侧"
+
+msgid ""
+"Verify that positive (normal) triangle direction has even number of "
+"intersections."
+msgstr "验证正向（法线）三角形方向具有偶数个交点。"
+
+msgid ""
+"Verify that one of triangle directions (positive or negative) has correct "
+"(even or odd) number of intersections.\n"
+"The direction which has lowest number of intersection is used."
+msgstr ""
+"验证三角形方向之一（正或负）具有正确（偶数或奇数）的交点数。\n"
+"使用交点数最少的方向。"
+
+msgid ""
+"Verify that positive (normal) and negative (-normal) triangle directions "
+"both have correct number of intersections (even  and odd)."
+msgstr ""
+"验证正向（法线）和负向（-法线）三角形方向都具有正确的交点数（偶数和奇数）。"
+
+msgid "Virtual Fill Holes"
+msgstr "虚拟填充孔洞"
+
+msgid ""
+"If there are holes in mesh - virtually fills them to properly count "
+"intersections of rays going out through holes."
+msgstr "如果网格中有孔洞 - 虚拟填充它们以正确计算穿过孔洞射出的射线的交点。"
+
+msgid "Component Threshold"
+msgstr "组件阈值"
+
+msgid ""
+"Flip orientation of components with at least this % of incorrectly oriented "
+"area."
+msgstr "翻转至少具有此百分比错误朝向区域的组件方向。"
+
+msgid "Reorient Mesh"
+msgstr "重新定向网格"
+
+msgid "Crease Angle"
+msgstr "折痕角度"
+
+msgid "Edges with dihedral angle sharper this will be considered as creases"
+msgstr "二面角比此值更尖锐的边将被视为折痕"
+
+msgid "Critical Tri Aspect Ratio"
+msgstr "临界三角形纵横比"
+
+msgid "Planar check is skipped for faces with worse aspect ratio"
+msgstr "对于纵横比更差的面跳过平面检查"
+
+msgid "Fix Pockets"
+msgstr "修复凹陷"
+
+msgid "Minimum sum angle"
+msgstr "最小总和角度"
+
+msgid "Maximum iterations"
+msgstr "最大迭代次数"
+
+msgid "Select spikes"
+msgstr "选择尖刺"
+
+msgid "Fix spikes"
+msgstr "修复尖刺"
+
+msgid "Fix Spikes"
+msgstr "修复尖刺"
+
+msgid "Specifies the number of objects to split this mesh into"
+msgstr "指定将此网格拆分为的对象数量"
+
+msgid "Force Components"
+msgstr "强制组件"
+
+msgid "Pick Free Form Align Point"
+msgstr "选择自由变形对齐点"
+
+msgid "Please select two ObjectMesh or two ObjectPoints"
+msgstr "请选择两个 ObjectMesh 或两个 ObjectPoints"
+
+msgid "Floating"
+msgstr "浮动"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Click on objects to setup points pair for adjustment"
+msgstr "点击对象以设置用于调整的点对"
+
+msgid "Adjustment Grid"
+msgstr "调整网格"
+
+msgid "Free Form Align"
+msgstr "自由形式对齐"
+
+msgid "Delete All Points"
+msgstr "删除所有点"
+
+msgid "Delete All Free Form Align Points"
+msgstr "删除所有自由形式对齐点"
+
+msgid "Update FreeForm"
+msgstr "更新自由形式"
+
+msgid "X res"
+msgstr "X 分辨率"
+
+msgid "Y res"
+msgstr "Y 分辨率"
+
+msgid "Z res"
+msgstr "Z 分辨率"
+
+msgid "Reset/Start"
+msgstr "重置/开始"
+
+msgid "Reset deformer"
+msgstr "重置变形器"
+
+msgid ""
+"Allow user to edit points that are hidden in the current view by any objects"
+msgstr "允许用户编辑在当前视图中被任何对象隐藏的点"
+
+msgid "The selected cloud has no points"
+msgstr "选中的点云没有点"
+
+msgid "The selected cloud has more than 1024 points"
+msgstr "选中的点云具有超过 1024 个点"
+
+msgid "Import Control Points"
+msgstr "导入控制点"
+
+msgid "Export Control Points"
+msgstr "导出控制点"
+
+msgid "Geodesic Line"
+msgstr "测地线"
+
+msgid "Spline"
+msgstr "样条"
+
+msgid "If selected, draws a spline passing via user selected control points."
+msgstr "如果选中，绘制经过用户选择的控制点的样条。"
+
+msgid "Close Path"
+msgstr "关闭路径"
+
+msgid ""
+"Open path can be extended by more control points. After path closing, only "
+"editing of points is permitted."
+msgstr "开放路径可以通过更多控制点扩展。路径关闭后，仅允许编辑点。"
+
+msgid "At least three points required to close path."
+msgstr "关闭路径至少需要三个点。"
+
+msgid "Import Points"
+msgstr "导入点"
+
+msgid "Takes control points from the currently selected point cloud."
+msgstr "从当前选中的点云获取控制点。"
+
+msgid "Export Points"
+msgstr "导出点"
+
+msgid "Creates new cloud object filled with the current control points."
+msgstr "创建一个填充了当前控制点的新点云对象。"
+
+msgid "After Cutting"
+msgstr "切割后"
+
+msgid "Delete Part of Surface"
+msgstr "删除表面的一部分"
+
+msgid "Delete the surface at one side of the contour."
+msgstr "删除轮廓一侧的表面。"
+
+msgid "Select Part of Surface"
+msgstr "选择表面的一部分"
+
+msgid "Select surface triangles at one side of the contour."
+msgstr "选择轮廓一侧的表面三角形。"
+
+msgid "None"
+msgstr "无"
+
+msgid ""
+"Do not delete or select any part of the mesh, just split the edges "
+"intersected by the contour, and select the edges appeared under the contour."
+msgstr ""
+"不删除或选择网格的任何部分，只是分割被轮廓相交的边，并选择出现在轮廓下方的"
+"边。"
+
+msgid "Left Part"
+msgstr "左侧部分"
+
+msgid "Delete/select the surface to the left of the contour."
+msgstr "删除/选择轮廓左侧的表面。"
+
+msgid "Right Part"
+msgstr "右侧部分"
+
+msgid "Delete/select the surface to the right of the contour."
+msgstr "删除/选择轮廓右侧的表面。"
+
+msgid "Smaller Part"
+msgstr "较小部分"
+
+msgid ""
+"Delete/select the surface to the left or to the right from the contour, "
+"whatever is smaller."
+msgstr "删除/选择轮廓左侧或右侧的表面，以较小者为准。"
+
+msgid ""
+"Introduce new selected edges along the path, dividing neighbor triangles"
+msgstr "沿路径引入新的选中边，分割相邻三角形"
+
+msgid "At least two points required to cut mesh"
+msgstr "切割网格至少需要两个点"
+
+msgid "Hotkeys"
+msgstr "快捷键"
+
+msgid ""
+"No path among current points exists. The points are placed on different "
+"connected components"
+msgstr "当前点之间不存在路径。这些点位于不同的连通分量上"
+
+msgid "Control Points"
+msgstr "控制点"
+
+msgid "Total number of user picked control points."
+msgstr "用户拾取的控制点总数。"
+
+msgid "Path Length"
+msgstr "路径长度"
+
+msgid "Total length of constructed geodesic path via all points."
+msgstr "经过所有点构建的测地路径的总长度。"
+
+msgid "Line Segments"
+msgstr "线段"
+
+msgid ""
+"Total number of triangles passed by the geodesic path, which is straight "
+"line within each triangle."
+msgstr "测地路径经过的三角形总数，路径在每个三角形内为直线。"
+
+msgid "Spline Options"
+msgstr "样条选项"
+
+msgid "Show Geodesic Path as well"
+msgstr "同时显示测地路径"
+
+msgid ""
+"If selected, shows geodesic path connecting control points together with the "
+"spline."
+msgstr "如果选中，与样条一起显示连接控制点的测地路径。"
+
+msgid "Maximum distance between geodesic path points and spline points."
+msgstr "测地路径点与样条点之间的最大距离。"
+
+msgid "Line"
+msgstr "线条"
+
+msgid ""
+"If selected, shows maximum distance between path points and spline points "
+"with a line segment."
+msgstr "如果选中，使用线段显示路径点与样条点之间的最大距离。"
+
+msgid "Add Control Point"
+msgstr "添加控制点"
+
+msgid ""
+"Adds control point on the geodesic path in the place where it deviates the "
+"most from the spline."
+msgstr "在测地路径上偏离样条最大的位置添加控制点。"
+
+msgid "Respect Normals"
+msgstr "遵循法线"
+
+msgid ""
+"If selected, then the spline will be orthogonal to mesh normals at control "
+"points."
+msgstr "如果选中，则样条在控制点处将与网格法线正交。"
+
+msgid "Sampling Step"
+msgstr "采样步长"
+
+msgid ""
+"Additional points will be added between each pair of control points, until "
+"the distance between neighbor points becomes less than this distance."
+msgstr "将在每对控制点之间添加额外的点，直到相邻点之间的距离小于此距离。"
+
+msgid "Control Stability"
+msgstr "控制稳定性"
+
+msgid ""
+"A positive value, the more the value the closer resulting spline will be to "
+"given control points."
+msgstr "正值；值越大，生成的样条越接近给定的控制点。"
+
+msgid "Construction Iterations"
+msgstr "构造迭代次数"
+
+msgid ""
+"More iterations improve the quality of spline in expense to its longer "
+"construction time."
+msgstr "更多的迭代会改善样条质量，但构造时间会更长。"
+
+msgid "Point Cloud"
+msgstr "点云"
+
+msgid "Polyline"
+msgstr "折线"
+
+msgid "Create in scene new point cloud with normals."
+msgstr "在场景中创建带法线的新点云。"
+
+msgid "Create in scene new lines object."
+msgstr "在场景中创建新的线条对象。"
+
+msgid "Export as"
+msgstr "导出为"
+
+msgid "Select the object type representing the path or spline."
+msgstr "选择表示路径或样条的对象类型。"
+
+msgid "Create Spline Object"
+msgstr "创建样条对象"
+
+msgid "Clone shown spline as new object of selected type"
+msgstr "将显示的样条克隆为所选类型的新对象"
+
+msgid "Create Cut Line Object"
+msgstr "创建切割线对象"
+
+msgid "Add cut line corresponding to the current spline as new object"
+msgstr "添加与当前样条对应的切割线作为新对象"
+
+msgid "Create Geodesic Path Object"
+msgstr "创建测地路径对象"
+
+msgid "Clone geodesic path as new object of selected type"
+msgstr "将测地路径克隆为所选类型的新对象"
+
+msgid "Geodesic Search Options"
+msgstr "测地线搜索选项"
+
+msgid "Dijkstra bidir."
+msgstr "Dijkstra 双向"
+
+msgid "Dijkstra A*"
+msgstr "Dijkstra A*"
+
+msgid "Fast Marching"
+msgstr "快速行进"
+
+msgid ""
+"Use bidirectional modification of Dijkstra method for initial path "
+"construction. It is in general fast, but can find not the shortest geodesic "
+"unlike Fast Marching."
+msgstr ""
+"使用 Dijkstra 方法的双向变形用于初始路径构造。一般较快，但不像快速行进那样能"
+"找到最短测地线。"
+
+msgid ""
+"Use A* modification of Dijkstra method for initial path construction. It is "
+"the fastest option for near linear paths, but can work slower if the path is "
+"very distinct from a line."
+msgstr ""
+"使用 Dijkstra 方法的 A* 变形用于初始路径构造。对于近似线性路径是最快选项，但"
+"如果路径与直线差异很大可能更慢。"
+
+msgid ""
+"Use Fast Marching method for initial path construction. It is typically "
+"closer to the shortest geodesic, but takes longer to compute."
+msgstr "使用快速行进方法构造初始路径。通常更接近最短测地线，但计算时间更长。"
+
+msgid "Initial Path"
+msgstr "初始路径"
+
+msgid "The method to construct initial path approximation"
+msgstr "构造初始路径近似的方法"
+
+msgid "Max. Geodesic Iterations"
+msgstr "最大测地线迭代次数"
+
+msgid "Maximum number of iterations in making geodesic path from initial path"
+msgstr "从初始路径生成测地路径的最大迭代次数"
+
+msgid "Geodesic Iterations Made"
+msgstr "已完成的测地线迭代"
+
+msgid ""
+"Actual number of iterations done in making geodesic path from initial path"
+msgstr "从初始路径生成测地路径中实际完成的迭代次数"
+
+msgid "Initial Path Time"
+msgstr "初始路径耗时"
+
+msgid "The time spent in initial path construction"
+msgstr "初始路径构造所用时间"
+
+msgid "Make Geodesic Time"
+msgstr "生成测地线耗时"
+
+msgid "The time spent in making geodesic path from initial path"
+msgstr "从初始路径生成测地路径所用时间"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "在路径末尾添加点（最后一点是绿色）"
+
+msgid "Cannot add points to closed path"
+msgstr "无法向闭合路径添加点"
+
+msgid "Move Point"
+msgstr "移动点"
+
+msgid "Remove Point"
+msgstr "移除点"
+
+msgid "Path is already closed"
+msgstr "路径已经闭合"
+
+msgid "Add Cut Line"
+msgstr "添加切割线"
+
+msgid "Add Cut Points"
+msgstr "添加切割点"
+
+msgid "Cannot cut empty path."
+msgstr "无法切割空路径。"
+
+msgid ""
+"Cannot cut path that is fully located on single triangle, please subdivide "
+"mesh first."
+msgstr "无法切割完全位于单个三角形上的路径，请先细分网格。"
+
+msgid "Mesh cannot be cut because path has intersection."
+msgstr "由于路径存在交点，无法切割网格。"
+
+msgid "Cut along Spline"
+msgstr "沿样条切割"
+
+msgid "Cut along Geodesic Path"
+msgstr "沿测地路径切割"
+
+msgid "Add Spline"
+msgstr "添加样条"
+
+msgid "Add Spline Points"
+msgstr "添加样条点"
+
+msgid "Add Geodesic Line"
+msgstr "添加测地线"
+
+msgid "Add Geodesic Points"
+msgstr "添加测地点"
+
+msgid "Expansion"
+msgstr "扩展"
+
+msgid "Edge weights scheme:"
+msgstr "边权重方案："
+
+msgid "Cotangent"
+msgstr "余切"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Laplacian"
+msgstr "拉普拉斯"
+
+msgid "The number of passes over the mesh"
+msgstr "对网格进行的遍数"
+
+msgid "Max Angle Change"
+msgstr "最大角度变化"
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value"
+msgstr "如果边翻转改变的二面角不超过此值，则允许翻转"
+
+msgid "Reduce Total Angle"
+msgstr "减小总角度"
+
+msgid ""
+"0% here means optimizing only Delaunay criterion.\n"
+"100% means that only dihedral angles between triangles are minimized, "
+"ignoring Delaunay criterion.\n"
+"Other values mean that a mixture of both criteria will be optimized."
+msgstr ""
+"此处 0% 表示仅优化 Delaunay 准则。\n"
+"100% 表示仅最小化三角形之间的二面角，忽略 Delaunay 准则。\n"
+"其他值表示两个准则的混合将被优化。"
+
+msgid "Intrinsic Delone"
+msgstr "内蕴 Delone"
+
+msgid ""
+"In Intrinsic Delaunay mode every edge corresponds to a geodesic line between "
+"end vertices on the original mesh. Still we show all edges as straight line "
+"segments."
+msgstr ""
+"在内蕴 Delaunay 模式中，每条边对应于原始网格上端点顶点之间的测地线。但仍以直"
+"线段方式显示所有边。"
+
+msgid ""
+"Triangles with larger aspect ratio will be considered degenerate. And Max "
+"Angle Change will be skipped for them"
+msgstr "纵横比较大的三角形将被视为退化。对它们将跳过最大角度变化检查"
+
+msgid "Make Delone"
+msgstr "执行 Delone"
+
+#, c-format
+msgid "%d edge flip on last apply"
+msgid_plural "%d edge flips on last apply"
+msgstr[0] "上次应用时翻转了 %d 条边"
+
+msgid "Method:"
+msgstr "方法："
+
+msgid "Rays"
+msgstr "射线"
+
+msgid "Calculate thickness using normal rays"
+msgstr "使用法线射线计算厚度"
+
+msgid "Calculate thickness using maximum inscribed spheres"
+msgstr "使用最大内切球计算厚度"
+
+msgid "Enough Thickness"
+msgstr "足够厚度"
+
+msgid ""
+"Places with this or larger thickness will be colored green, with smaller "
+"thickness - yellow and reddish."
+msgstr "达到或超过此厚度的位置将显示为绿色，较小厚度的位置为黄色和红色。"
+
+msgid "Maximum Curvature"
+msgstr "最大曲率"
+
+msgid ""
+"Places with zero curvature will be colored green, with large curvature - "
+"blue for positive and red for negative."
+msgstr "零曲率位置显示为绿色，大曲率位置正值为蓝色、负值为红色。"
+
+msgid "Show Min"
+msgstr "显示最小值"
+
+msgid "Show Max"
+msgstr "显示最大值"
+
+msgid "Show Subdivided Mesh"
+msgstr "显示细分网格"
+
+msgid "Subdivide given mesh and show thickness at it for better visualization"
+msgstr "细分给定网格并在其上显示厚度以获得更好的可视化"
+
+msgid "Signed Curvature"
+msgstr "带符号曲率"
+
+msgid ""
+"Present surface curvature computed as inversed radius of the maximal sphere "
+"touching the surface each point. The sign is positive if maximal inscribed "
+"sphere is smaller than the maximal sphere outside the mesh."
+msgstr ""
+"显示表面曲率，计算为接触每个点表面的最大球体半径的倒数。如果最大内切球小于网"
+"格外的最大球体，则符号为正。"
+
+msgid "Max Angle"
+msgstr "最大角度"
+
+msgid ""
+"Maximum angle between search direction and the direction from sphere's "
+"center to the other found touch point. The decrease of this value helps "
+"avoiding too small spheres on noisy surfaces. "
+msgstr ""
+"搜索方向与从球心到另一找到接触点方向之间的最大角度。减小此值有助于避免噪声表"
+"面上的过小球体。"
+
+msgid "Maximum Sphere Radius"
+msgstr "最大球体半径"
+
+msgid ""
+"Maximum allowed radius of the sphere. Please change it only if auto-"
+"detection has failed."
+msgstr "球体的最大允许半径。仅在自动检测失败时更改它。"
+
+msgid "Recalculate"
+msgstr "重新计算"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "Inside A"
+msgstr "A 内部"
+
+msgid "Outside A"
+msgstr "A 外部"
+
+msgid "Inside B"
+msgstr "B 内部"
+
+msgid "Outside B"
+msgstr "B 外部"
+
+msgid "Difference B-A"
+msgstr "差集 B-A"
+
+msgid "Difference A-B"
+msgstr "差集 A-B"
+
+msgid "Mesh-based Boolean: Inside"
+msgstr "基于网格的布尔运算: 内部"
+
+msgid "Mesh-based Boolean: Outside"
+msgstr "基于网格的布尔运算: 外部"
+
+msgid "Mesh-based Boolean: Union"
+msgstr "基于网格的布尔运算: 并集"
+
+msgid "Mesh-based Boolean: Intersection"
+msgstr "基于网格的布尔运算: 交集"
+
+msgid "Mesh-based Boolean: Difference"
+msgstr "基于网格的布尔运算: 差集"
+
+msgid "Boolean points: Inside"
+msgstr "布尔点: 内部"
+
+msgid "Boolean points: Outside"
+msgstr "布尔点: 外部"
+
+msgid "Boolean points: Union"
+msgstr "布尔点: 并集"
+
+msgid "Boolean points: Intersection"
+msgstr "布尔点: 交集"
+
+msgid "Boolean points: Difference"
+msgstr "布尔点: 差集"
+
+msgid "Force Mode"
+msgstr "强制模式"
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during boolean "
+"operation."
+msgstr "不推荐：如果启用，布尔运算期间将关闭所有孔洞。"
+
+msgid "Show intersections"
+msgstr "显示交点"
+
+msgid "Each contour line starts white and ends black"
+msgstr "每条轮廓线从白色开始到黑色结束"
+
+msgid "Show all contours"
+msgstr "显示所有轮廓"
+
+msgid "Selected contour"
+msgstr "选中的轮廓"
+
+msgid "Show selected only"
+msgstr "仅显示选中项"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Closed"
+msgstr "闭合"
+
+msgid "Intersection number"
+msgstr "交点编号"
+
+msgid "Each cut line starts red and ends blue"
+msgstr "每条切割线从红色开始到蓝色结束"
+
+msgid "Show object A cut"
+msgstr "显示对象 A 切割"
+
+msgid "Show object B cut"
+msgstr "显示对象 B 切割"
+
+msgid "Show faces with intersections"
+msgstr "显示带交点的面"
+
+msgid "Add Intersection Lines"
+msgstr "添加相交线"
+
+msgid "Add Intersection Contours"
+msgstr "添加相交轮廓"
+
+msgid "Select Cut Edges"
+msgstr "选择切割边"
+
+msgid ""
+"Select edges that are created on result mesh in place of intersection with "
+"other mesh."
+msgstr "选择在结果网格上与另一网格相交位置创建的边。"
+
+msgid "Some contours are not closed"
+msgstr "某些轮廓未闭合"
+
+msgid "ObjectMesh doesn't have any selected edges"
+msgstr "ObjectMesh 没有任何选中的边"
+
+msgid "Operation failed while cutting new edges."
+msgstr "切割新边时操作失败。"
+
+msgid "Invalid configuration, input edges should have one closed loop."
+msgstr "无效配置，输入边应有一个闭合环。"
+
+msgid "Chamfering Edges"
+msgstr "倒角边"
+
+msgid "Filleting Edges"
+msgstr "圆角边"
+
+msgid "Mirror objects"
+msgstr "镜像对象"
+
+msgid "Mirror"
+msgstr "镜像"
+
+msgid "Sigma"
+msgstr "Sigma"
+
+msgid "Add Noise"
+msgstr "添加噪声"
+
+msgid "Mesh has selected region."
+msgstr "网格有选中区域。"
+
+msgid "Partial Offset"
+msgstr "部分偏移"
+
+msgid "Shell Region"
+msgstr "壳区域"
+
+msgid "Offset selected part of the surface outside."
+msgstr "向外偏移选中的表面部分。"
+
+msgid "Constructs a shell around selected mesh region."
+msgstr "围绕选中的网格区域构建壳。"
+
+msgid "Entire Model"
+msgstr "整个模型"
+
+msgid "Shell"
+msgstr "壳"
+
+msgid "Thickening"
+msgstr "加厚"
+
+msgid "Expand/Shrink"
+msgstr "扩张/收缩"
+
+msgid "Shrink/Expand"
+msgstr "收缩/扩张"
+
+msgid "Offset the surface outside or inside depending on sign and value."
+msgstr "根据符号和值向外或向内偏移表面。"
+
+msgid "Offset the surface both inside and outside."
+msgstr "同时向内和向外偏移表面。"
+
+msgid ""
+"Create an object of finite width with two bounding surfaces: thickening "
+"original mesh for positive values,  and hollowing original mesh for negative "
+"values."
+msgstr ""
+"创建具有两个边界表面的有限宽度对象：正值加厚原始网格，负值挖空原始网格。"
+
+msgid "Perform positive and then negative offset."
+msgstr "先执行正偏移再执行负偏移。"
+
+msgid "Perform negative and then positive offset."
+msgstr "先执行负偏移再执行正偏移。"
+
+msgid "Value"
+msgstr "值"
+
+msgid "The amount of displacement measured from the original surface."
+msgstr "从原始表面测量的位移量。"
+
+msgid "Anisotropy XYZ"
+msgstr "各向异性 XYZ"
+
+msgid ""
+"If some value here is above 1, then offset along that direction is increased "
+"appropriately. One of XYZ is always 1."
+msgstr "如果某个值大于 1，则沿该方向的偏移会相应增加。XYZ 之一始终为 1。"
+
+msgid "Sharpening"
+msgstr "锐化"
+
+msgid ""
+"Voxels are converted in mesh using Dual Marching Cubes algorithm, which "
+"produces smooth rounding of corners"
+msgstr "使用 Dual Marching Cubes 算法将体素转换为网格，产生平滑的圆角"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth mode"
+msgstr "使用标准 Marching Cubes 算法将体素转换为网格，与平滑模式相比角更锐利"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, with "
+"additional post-processing to highlight sharp features if they are known to "
+"be present in the result"
+msgstr ""
+"使用标准 Marching Cubes 算法将体素转换为网格，并进行额外的后处理以突显结果中"
+"已知存在的尖锐特征"
+
+msgid "How to convert voxels into final mesh"
+msgstr "如何将体素转换为最终网格"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Winding Number"
+msgstr "环绕数"
+
+msgid "Projection Normal"
+msgstr "投影法线"
+
+msgid ""
+"Automatic selection of the fastest method among safe options for the current "
+"mesh"
+msgstr "自动选择当前网格安全选项中最快的方法"
+
+msgid ""
+"Detects sign from the winding number generalization with support for holes "
+"and self-intersections in mesh"
+msgstr "通过环绕数的推广来检测符号，支持网格中的孔洞和自相交"
+
+msgid ""
+"Detects sign from the pseudonormal in closest mesh point, which is fast but "
+"unsafe in the presence of holes and self-intersections in mesh"
+msgstr "从最近网格点的伪法线检测符号，速度快但在网格存在孔洞和自相交时不安全"
+
+msgid "Sign Detection"
+msgstr "符号检测"
+
+msgid ""
+"How to determine the sign of distance in each voxel to differentiate "
+"interior from exterior"
+msgstr "如何确定每个体素中距离的符号以区分内部和外部"
+
+msgid "Precision"
+msgstr "精度"
+
+msgid ""
+"Relative precision of generalized winding number computation that is used to "
+"find inner and outer parts of the body. Smaller values here speed up "
+"computations."
+msgstr "用于查找物体内外部分的广义环绕数计算的相对精度。较小的值会加快计算。"
+
+msgid "Min New Vertex Deviation"
+msgstr "最小新顶点偏差"
+
+msgid ""
+"Minimal surface deviation to introduce new vertex in a voxel, measured in "
+"voxel size"
+msgstr "在体素中引入新顶点的最小表面偏差，以体素大小为单位"
+
+msgid "Max New Rank 2 Deviation"
+msgstr "最大新 Rank 2 偏差"
+
+msgid ""
+"Maximal surface deviation to introduce new rank 2 vertex (on intersection of "
+"2 planes), measured in voxel size"
+msgstr ""
+"引入新的 rank 2 顶点（在 2 个平面的交点上）的最大表面偏差，以体素大小为单位"
+
+msgid "Max New Rank 3 Deviation"
+msgstr "最大新 Rank 3 偏差"
+
+msgid ""
+"Maximal surface deviation to introduce new rank 3 vertex (on intersection of "
+"3 planes), measured in voxel size"
+msgstr ""
+"引入新的 rank 3 顶点（在 3 个平面的交点上）的最大表面偏差，以体素大小为单位"
+
+msgid "Max Old Vertex Correction"
+msgstr "最大旧顶点修正"
+
+msgid ""
+"Correct positions of the input vertices using reference mesh by not more "
+"than this distance, measured in voxelSize. Big correction can be wrong and "
+"result from self-intersections in the reference mesh"
+msgstr ""
+"使用参考网格修正输入顶点位置，但不超过此距离（以 voxelSize 为单位）。大的修正"
+"可能是错误的，由参考网格中的自相交引起"
+
+msgid ""
+"Perform mesh decimation at the end to get rid of short edges and degenerate "
+"triangles."
+msgstr "最后执行网格抽稀以去除短边和退化三角形。"
+
+msgid ""
+"Whether to minimize summed deviation of triangle-triangle angles from plane "
+"on resulting mesh. This mode highlights sharp edges. If decimation is on, "
+"this mode is performed before and after decimation and further reduces the "
+"number of triangles."
+msgstr ""
+"是否最小化结果网格上三角形之间角度与平面偏差的总和。此模式突出尖锐边缘。如果"
+"开启抽稀，则在抽稀前后执行此模式，并进一步减少三角形数量。"
+
+msgid "Offset"
+msgstr "偏移"
+
+msgid "Offset (unsigned)"
+msgstr "偏移（无符号）"
+
+msgid "Larger voxels counts require more resources, recommended value < 1M"
+msgstr "更多体素数需要更多资源，建议值 < 1M"
+
+msgid "Offset lines"
+msgstr "偏移线"
+
+msgid "Please select ObjectMesh or ObjectPoints with child Feature object"
+msgstr "请选择带有子特征对象的 ObjectMesh 或 ObjectPoints"
+
+msgid "Selected Feature object should have ObjectMesh or ObjectPoint parent"
+msgstr "选中的特征对象应有 ObjectMesh 或 ObjectPoint 父对象"
+
+msgid "Orient Object by Feature"
+msgstr "按特征定向对象"
+
+#, c++-format
+msgid "{} orientation by features"
+msgstr "{} 按特征定向"
+
+msgid "Global Offset"
+msgstr "全局偏移"
+
+msgid "Offset that is applied to whole mesh."
+msgstr "应用于整个网格的偏移。"
+
+msgid "Two-Sided"
+msgstr "双侧"
+
+msgid "If not set - builds only positive part of the shell"
+msgstr "如果未设置 - 仅构建壳的正部分"
+
+msgid "Interpolation"
+msgstr "插值"
+
+msgid ""
+"Larger value leads to smoother transition among variadic region offsets."
+msgstr "较大值会使可变区域偏移之间的过渡更平滑。"
+
+msgid "Variatic Regions"
+msgstr "可变区域"
+
+msgid "Partial Shell"
+msgstr "部分壳"
+
+msgid "ObjectMesh doesn't have any selected triangles"
+msgstr "ObjectMesh 没有任何选中的三角形"
+
+msgid "Diameter of each stone"
+msgstr "每块石头的直径"
+
+msgid "Distance"
+msgstr "距离"
+
+msgid "Distance between two ajacent stones"
+msgstr "两块相邻石头之间的距离"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "Rotates all the grid"
+msgstr "旋转整个网格"
+
+msgid "Padding"
+msgstr "填充"
+
+msgid "Minimal distance from stone to border"
+msgstr "石头到边界的最小距离"
+
+msgid "Maximal Count"
+msgstr "最大数量"
+
+msgid "Maximal number of stones"
+msgstr "最大石头数量"
+
+msgid "Load Custom Stone Mesh"
+msgstr "加载自定义石头网格"
+
+msgid "Use alternate mesh for stone, e.g. diamond model or etc."
+msgstr "使用替代网格作为石头，例如钻石模型等。"
+
+msgid "Adjust Individual Stones"
+msgstr "调整单个石头"
+
+msgid "Stop editing grid and continue wit adjusting of individual stones"
+msgstr "停止编辑网格并继续调整单个石头"
+
+msgid "Freeze Moved Stones"
+msgstr "冻结已移动的石头"
+
+msgid "Unfreeze All Stones"
+msgstr "解冻所有石头"
+
+msgid "Individual Settings"
+msgstr "单独设置"
+
+msgid "Adjust diameter of picked stone"
+msgstr "调整拾取石头的直径"
+
+#, c-format
+msgid ""
+"Pick a stone to adjust it individually.\n"
+"Pick with %s pressed to freeze/unfreeze a stone."
+msgstr ""
+"拾取石头以单独调整。\n"
+"按住 %s 拾取以冻结/解冻石头。"
+
+msgid "Number of iterations for grid refinement"
+msgstr "网格细化的迭代次数"
+
+msgid ""
+"Too small number here can lead to instability, too large - to slow "
+"convergence"
+msgstr "此处数字过小可能导致不稳定，过大则会使收敛变慢"
+
+msgid "Show Grid Mesh"
+msgstr "显示网格"
+
+msgid "ObjectMesh must have selected triangles"
+msgstr "ObjectMesh 必须有选中的三角形"
+
+msgid "Positioning Type:"
+msgstr "定位类型："
+
+msgid "Sharp Boundary"
+msgstr "尖锐边界"
+
+msgid ""
+"After repositioning the region is smooth only inside, but can have sharp "
+"turn on the boundary."
+msgstr "重新定位后，区域仅在内部平滑，但在边界上可能有尖锐转角。"
+
+msgid "Pressure"
+msgstr "压力"
+
+msgid ""
+"The amount of pressure applied to mesh region: positive pressure moves the "
+"vertices outside, negative - inside, zero constructs minimal surface."
+msgstr ""
+"施加在网格区域上的压力：正压使顶点向外移动，负压向内移动，零构造极小曲面。"
+
+msgid "Smooth Everywhere"
+msgstr "处处平滑"
+
+msgid ""
+"After repositioning the region is smooth both inside and on the boundary."
+msgstr "重新定位后，区域在内部和边界上都平滑。"
+
+msgid ""
+"The number of algorithm's repetitions. Typically more iterations mean better "
+"result, but longer computation."
+msgstr "算法重复次数。通常更多迭代意味着更好的结果，但计算时间更长。"
+
+msgid "Cotangent Edge Weights"
+msgstr "余切边权重"
+
+msgid ""
+"Cotangent edge weights in Laplacian equations are recommended by the theory "
+"and they work the best except for meshes with degenerations. If unselected "
+"all edges have same unit weights."
+msgstr ""
+"理论推荐拉普拉斯方程中的余切边权重，对除退化网格外的网格效果最佳。如果未选"
+"中，所有边具有相同的单位权重。"
+
+msgid "Neighbor Area as Vertex Mass"
+msgstr "邻域面积作为顶点质量"
+
+msgid ""
+"Vertex mass proportional to the area of surrounding triangles in Laplacian "
+"equations is recommended by the theory and it works the best except for "
+"meshes with degenerations. If unselected all vertices have same unit mass."
+msgstr ""
+"理论推荐拉普拉斯方程中顶点质量与周围三角形面积成正比，对除退化网格外的网格效"
+"果最佳。如果未选中，所有顶点具有相同的单位质量。"
+
+msgid "Optimize Triangulation"
+msgstr "优化三角剖分"
+
+msgid ""
+"If selected, triangulation will be made Delaunay prior to constructing "
+"Laplacian linear system to improve its qualities."
+msgstr ""
+"如果选中，将在构建拉普拉斯线性系统之前将三角剖分变为 Delaunay，以提高其质量。"
+
+msgid "Selection must not include all vertices of a mesh connected component"
+msgstr "选择不能包含网格连通分量的所有顶点"
+
+msgid "Re-position"
+msgstr "重新定位"
+
+msgid "Print Direction"
+msgstr "打印方向"
+
+msgid "Three components of print direction vector"
+msgstr "打印方向向量的三个分量"
+
+msgid "To select print direction toward the user"
+msgstr "选择朝向用户的打印方向"
+
+msgid "Direct from Holes"
+msgstr "从孔洞方向"
+
+msgid ""
+"To select print direction along the smallest side of dense bounding box "
+"around the object, and away from the hole(s)"
+msgstr "沿对象周围密集包围盒最小边选择打印方向，远离孔洞"
+
+msgid "Find Undercuts"
+msgstr "查找凹切"
+
+msgid "To select triangles that are hidden if look from the tip of the arrow"
+msgstr "选择从箭头尖端看时被隐藏的三角形"
+
+msgid "Optimize Print Direction"
+msgstr "优化打印方向"
+
+msgid "Projected Area"
+msgstr "投影面积"
+
+msgid "Projected Area Approx"
+msgstr "投影面积近似"
+
+msgid "Total area of undercut faces"
+msgstr "凹切面的总面积"
+
+msgid ""
+"Summed absolute area of undercut faces as visible if look from direction"
+msgstr "从方向看时凹切面的绝对面积总和"
+
+msgid "Faster approximation of Projected Area metric"
+msgstr "投影面积度量的更快近似"
+
+msgid "Select what metric 'Find Better Direction' button will minimize."
+msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"
+
+msgid "Max Base Angle"
+msgstr "最大基础角度"
+
+msgid "Base Angle Step"
+msgstr "基础角度步长"
+
+msgid "Polar Angle Step"
+msgstr "极角步长"
+
+msgid "Find Optimal Direction"
+msgstr "查找最佳方向"
+
+msgid "Benchmark"
+msgstr "基准测试"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Bottom Extension"
+msgstr "底部延伸"
+
+msgid "Wall Angle"
+msgstr "壁角度"
+
+msgid "Gaussian Smooth"
+msgstr "高斯平滑"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Selection Only"
+msgstr "仅选中"
+
+msgid "Fix all undercuts in the mesh."
+msgstr "修复网格中的所有凹切。"
+
+msgid "Fix undercuts for selected region only."
+msgstr "仅修复选中区域的凹切。"
+
+msgid "Fix Undercuts"
+msgstr "修复凹切"
+
+msgid "Select what undercuts will be fixed."
+msgstr "选择要修复哪些凹切。"
+
+msgid "Extrude Base"
+msgstr "挤出底部"
+
+msgid "Target"
+msgstr "目标"
+
+msgid ""
+"Ensure both 3D objects share the same global coordinates for accurate "
+"projection."
+msgstr "确保两个 3D 对象共享相同的全局坐标，以获得准确的投影。"
+
+msgid "Project Mesh Colors"
+msgstr "投影网格颜色"
+
+msgid "Three components of the milling tool direction"
+msgstr "铣刀方向的三个分量"
+
+msgid "To Camera"
+msgstr "朝向相机"
+
+msgid "Off Camera"
+msgstr "背离相机"
+
+msgid "Tool Radius"
+msgstr "刀具半径"
+
+msgid ""
+"Number of iterations performed to compensate tool radius:\n"
+"  more iterations decreases probability of self-intersections and produce "
+"smoother result in general\n"
+"  but it takes longer time."
+msgstr ""
+"为补偿刀具半径执行的迭代次数：\n"
+"  更多迭代会降低自相交的概率并通常产生更平滑的结果\n"
+"  但耗时更长。"
+
+msgid "Relax Expansion"
+msgstr "松弛扩展"
+
+msgid ""
+"Amount of vertices layers around actually changed vertices that will be "
+"relaxed on each iteration."
+msgstr "每次迭代中实际改变顶点周围将被松弛的顶点层数。"
+
+msgid "Relax Iterations"
+msgstr "松弛迭代次数"
+
+msgid "Number of relax iterations applied on each compensation step."
+msgstr "每个补偿步骤应用的松弛迭代次数。"
+
+msgid "Relax Force"
+msgstr "松弛力度"
+
+msgid "Force of relax iterations applied on each compensation step."
+msgstr "每个补偿步骤应用的松弛迭代力度。"
+
+msgid "Compensate Radius"
+msgstr "补偿半径"
+
+msgid "Minuend"
+msgstr "被减数"
+
+msgid "Subtrahend"
+msgstr "减数"
+
+msgid "Usage Tips"
+msgstr "使用提示"
+
+msgid "Drag any of two objects to make it Subtrahend shown semi-transparent."
+msgstr "拖动两个对象之一使其成为半透明显示的减数。"
+
+msgid ""
+"The objMinuend_ object becomes Minuend and is hidden. Instead a third object "
+"with Difference is shown."
+msgstr "objMinuend_ 对象成为被减数并被隐藏。取而代之显示带有差值的第三对象。"
+
+msgid "Boolean Runs"
+msgstr "布尔运行次数"
+
+msgid "The number of times, Boolean was called."
+msgstr "布尔运算被调用的次数。"
+
+msgid "Boolean Fails"
+msgstr "布尔失败次数"
+
+msgid "The number of Boolean runs finished with a fail."
+msgstr "以失败结束的布尔运行次数。"
+
+msgid "Average Time"
+msgstr "平均时间"
+
+msgid "The time spent on average Boolean run."
+msgstr "平均布尔运行所用时间。"
+
+msgid "Last Time"
+msgstr "上次时间"
+
+msgid "The time spent in last Boolean run."
+msgstr "上次布尔运行所用时间。"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Processor name in this computer."
+msgstr "此计算机中的处理器名称。"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth offsetMode"
+msgstr ""
+"使用标准 Marching Cubes 算法将体素转换为网格，与平滑 offsetMode 相比角更锐利"
+
+msgid ""
+"This is threshold value for generalized winding number to select location of "
+"output mesh.\n"
+"\n"
+"For closed meshes with normals outside, winding number is 1 inside and 0 "
+"outside, so the ideal threshold is 0.5.\n"
+"\n"
+"For planar meshes, winding number is 0.5 inside and -0.5 outside, so the "
+"ideal threshold is 0."
+msgstr ""
+"这是用于选择输出网格位置的广义环绕数阈值。\n"
+"\n"
+"对于法线朝外的闭合网格，内部环绕数为 1，外部为 0，因此理想阈值为 0.5。\n"
+"\n"
+"对于平面网格，内部环绕数为 0.5，外部为 -0.5，因此理想阈值为 0。"
+
+msgid "Close Holes"
+msgstr "闭合孔洞"
+
+msgid "Whether to close all holes in generalized winding number  mode."
+msgstr "是否在广义环绕数模式下关闭所有孔洞。"
+
+msgid "Pre-Subdivide"
+msgstr "预细分"
+
+msgid ""
+"Subdivision of large input triangles typically increases overall performance "
+"at the cost of somewhat more memory usage."
+msgstr "细分大的输入三角形通常以略多的内存使用为代价提高整体性能。"
+
+msgid "Rebuild Meshes"
+msgstr "重建网格"
+
+msgid "Rebuild Mesh"
+msgstr "重建网格"
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected verts ({}) less than minimal ({}) for "
+"this feature type"
+msgstr "无法细化。选中的顶点数（{}）少于此特征类型所需的最小数量（{}）"
+
+msgid "Exactly 1 feature object must be selected"
+msgstr "必须选中正好 1 个特征对象"
+
+msgid "Selected object must be a feature object"
+msgstr "选中对象必须是特征对象"
+
+msgid ""
+"Selected feature object must have appropriate parent object (mesh or point "
+"cloud)"
+msgstr "选中的特征对象必须有适当的父对象（网格或点云）"
+
+msgid "Feature Object"
+msgstr "特征对象"
+
+msgid "Reference Object"
+msgstr "参考对象"
+
+msgid "Reference Obj."
+msgstr "参考对象"
+
+msgid "Floating Obj."
+msgstr "浮动对象"
+
+msgid "Exchange Reference and Floating objects."
+msgstr "交换参考对象和浮动对象。"
+
+msgid "Auto Initial"
+msgstr "自动初始"
+
+msgid ""
+"Automatically select initial transformation for the floating object  based "
+"on covariance matrices of both floating and reference objects."
+msgstr "根据浮动对象和参考对象的协方差矩阵自动为浮动对象选择初始变换。"
+
+msgid "Visual settings"
+msgstr "视觉设置"
+
+msgid "Show pair lines"
+msgstr "显示配对线"
+
+msgid "Show points"
+msgstr "显示点"
+
+msgid "Show normals"
+msgstr "显示法线"
+
+msgid "Lines always front"
+msgstr "线始终在前"
+
+msgid ""
+"Run Iterative Closest Point (ICP) algorithm starting from the current "
+"position."
+msgstr "从当前位置开始运行迭代最近点（ICP）算法。"
+
+msgid ""
+"Objects are too far apart. Perform a rough initial alignment using Align "
+"Manually, Transform, or Move object."
+msgstr "对象相距太远。请使用手动对齐、变换或移动对象进行粗略的初始对齐。"
+
+msgid "Reset Objects"
+msgstr "重置对象"
+
+msgid "Registration reset objects"
+msgstr "配准重置对象"
+
+msgid "Restore original position of both Reference and Floating objects."
+msgstr "恢复参考对象和浮动对象的原始位置。"
+
+msgid "Mechanical Surface"
+msgstr "机械表面"
+
+msgid ""
+"This option works best for non-natural surfaces, where triangles have non-"
+"uniform shapes and sharp edges in between."
+msgstr "此选项最适合非自然表面，三角形形状不一致且之间有尖锐边。"
+
+msgid "Organic Surface"
+msgstr "有机表面"
+
+msgid ""
+"This option works best for natural surfaces, where all triangles are close "
+"to equilateral and have similar area, and no sharp edges in between."
+msgstr "此选项最适合自然表面，所有三角形接近等边且面积相近，之间没有尖锐边。"
+
+msgid "Target Edge Length"
+msgstr "目标边长"
+
+msgid ""
+"The algorithm will try to keep the length of all edges close to this value, "
+"splitting the edges longer than this value, and then eliminating the edges "
+"shorter than this value."
+msgstr ""
+"算法将尽量使所有边的长度接近此值，分割长于此值的边，然后消除短于此值的边。"
+
+msgid "Preserve Sharpness"
+msgstr "保持锐度"
+
+#, c++-format
+msgid "Edge flip is allowed if it changes dihedral angle no more than {}"
+msgstr "如果边翻转改变的二面角不超过 {}，则允许翻转"
+
+msgid "Project on Original Mesh"
+msgstr "投影到原始网格"
+
+msgid ""
+"If true, then every new vertex after subdivision will be projected on the "
+"original mesh (before smoothing); this does not affect the vertices moved on "
+"other stages of the processing."
+msgstr ""
+"如果为真，细分后每个新顶点都将投影到原始网格上（平滑之前）；这不影响处理其他"
+"阶段移动的顶点。"
+
+msgid "Max Boundary Shift"
+msgstr "最大边界偏移"
+
+msgid "Maximal shift of a boundary during one edge collapse."
+msgstr "一次边折叠期间边界的最大偏移。"
+
+msgid "Final Relax Iterations"
+msgstr "最终松弛迭代次数"
+
+msgid ""
+"The number of iterations of final relaxation of mesh vertices. Few "
+"iterations can give almost perfect uniformity of the vertices and edge "
+"lengths but deviate from the original surface."
+msgstr ""
+"网格顶点最终松弛的迭代次数。少量迭代可以给出顶点和边长几乎完美的均匀性，但会"
+"偏离原始表面。"
+
+msgid "No Shrinkage"
+msgstr "无收缩"
+
+msgid ""
+"If checkbox is selected then the tool prevents the surface from shrinkage "
+"after many iterations."
+msgstr "如果选中复选框，则该工具可防止表面在多次迭代后收缩。"
+
+msgid "Remesh"
+msgstr "重新网格化"
+
+msgid "All selected objects have only one component."
+msgstr "所有选中对象只有一个组件。"
+
+msgid "Largest Component"
+msgstr "最大组件"
+
+msgid "Segment Mesh: Segment"
+msgstr "分割网格: 分段"
+
+msgid ""
+"Direction should be approximately normal to next segment boundary, and "
+"oriented toward the part of the object you want to segment."
+msgstr "方向应大致垂直于下一段边界，并朝向您要分段的对象部分。"
+
+msgid ""
+"Three components of direction vector, which should be approximately "
+"orthogonal to expected segment boundary"
+msgstr "方向向量的三个分量，应大致与预期的段边界正交"
+
+msgid "Orient Direction vector to the current viewer position."
+msgstr "将方向向量定向到当前查看器位置。"
+
+msgid "Auto update to camera"
+msgstr "自动更新到相机"
+
+msgid "Keep orienting Direction vector to viewer position."
+msgstr "持续将方向向量定向到查看器位置。"
+
+msgid "Draw direction"
+msgstr "绘制方向"
+
+msgid "Show Direction vector in 3D scene using a cylinder."
+msgstr "使用圆柱体在 3D 场景中显示方向向量。"
+
+msgid "Show All Labels"
+msgstr "显示所有标签"
+
+msgid ""
+"Show labels for all points of all segments.\n"
+"If this option is disabled, labels will be displayed only for new and "
+"editable segments."
+msgstr ""
+"显示所有段的所有点的标签。\n"
+"如果禁用此选项，则仅显示新的和可编辑段的标签。"
+
+msgid "Click nearby to move"
+msgstr "在附近点击以移动"
+
+msgid "If activated, a selected point can be dragged if first clicked nearby."
+msgstr "如果激活，先在附近点击后即可拖动选中的点。"
+
+#, c-format
+msgid "Hold %s to temporarily invert"
+msgstr "按住 %s 以临时反转"
+
+msgid "Hide original object"
+msgstr "隐藏原始对象"
+
+msgid "Activate to observe other scene objects."
+msgstr "激活以观察其他场景对象。"
+
+msgid "Segmentation: new selection"
+msgstr "分段：新选择"
+
+msgid "Convert segments into face selection."
+msgstr "将段转换为面选择。"
+
+msgid "Make objects"
+msgstr "创建对象"
+
+msgid "Convert segments into scene objects."
+msgstr "将段转换为场景对象。"
+
+msgid "Click LMB to create / move selected point"
+msgstr "点击鼠标左键创建/移动选中的点"
+
+msgid "Press and hold LMB to move selected / created point"
+msgstr "按住鼠标左键移动选中/创建的点"
+
+msgid "Shift+Click LMB to select segment to add point at next click"
+msgstr "Shift+鼠标左键点击以选择段，在下次点击时添加点"
+
+#, c-format
+msgid "%s+Click LMB on segment to remove it"
+msgstr "%s+鼠标左键点击段以移除它"
+
+msgid "Segmentation: create objects"
+msgstr "分段：创建对象"
+
+msgid "Select Component"
+msgstr "选择组件"
+
+msgid "Select Largest Selection"
+msgstr "选择最大选择"
+
+msgid "Maximum length of edges to be selected."
+msgstr "要选择的边的最大长度。"
+
+msgid "Select Short Edges"
+msgstr "选择短边"
+
+msgid "Close distance"
+msgstr "近距离"
+
+msgid ""
+"Vertices located closer than this distance will be end-points of found twin "
+"edges"
+msgstr "距离比此值更近的顶点将成为找到的孪生边的端点"
+
+msgid "Select Twin Edges"
+msgstr "选择孪生边"
+
+msgid "Self-Boolean"
+msgstr "自布尔运算"
+
+msgid "Number of tunnels"
+msgstr "隧道数量"
+
+msgid "Update tunnel contours"
+msgstr "更新隧道轮廓"
+
+msgid "Select single tunnel"
+msgstr "选择单个隧道"
+
+msgid "Select loop ID"
+msgstr "选择环 ID"
+
+msgid "Homology basis is empty"
+msgstr "同调基为空"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Select internal part"
+msgstr "选择内部部分"
+
+msgid "Find signed distance"
+msgstr "查找带符号距离"
+
+msgid "Start"
+msgstr "开始"
+
+#, c-format
+msgid "Smart search time: %.3f ms"
+msgstr "智能搜索时间：%.3f 毫秒"
+
+#, c-format
+msgid "Full search time: %.3f ms"
+msgstr "完整搜索时间：%.3f 毫秒"
+
+msgid "Simple Partial Offset"
+msgstr "简单部分偏移"
+
+msgid "ObjectMesh has less than two holes"
+msgstr "ObjectMesh 的孔少于两个"
+
+msgid "Number of Holes: "
+msgstr "孔洞数量： "
+
+msgid "Select Holes by"
+msgstr "选择孔洞的方式"
+
+msgid ""
+"How you would like to select holes: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr "您希望如何选择孔洞：鼠标 - 在 3D 视图中或在对话框中按孔 ID"
+
+msgid "Triangulate only"
+msgstr "仅三角剖分"
+
+msgid ""
+"Subdivision is stopped when all edges inside or on the boundary of the "
+"region are not longer than this value"
+msgstr "当区域内或边界上所有边的长度不超过此值时停止细分"
+
+msgid "Computes 1.5 of average edge length in the mesh"
+msgstr "计算网格中平均边长的 1.5 倍"
+
+msgid ""
+"Make stitch over the holes smooth both inside and on its boundary with "
+"existed surface"
+msgstr "使孔上的缝合在内部和与现有表面的边界上均平滑"
+
+msgid "Circumscribed"
+msgstr "外接"
+
+msgid ""
+"This metric minimizes the maximal dihedral angle between the faces in the "
+"triangulation and on its boundary, and it avoids creating too degenerate "
+"triangles. For planar holes it is the same as Circumscribed metric"
+msgstr ""
+"此度量最小化三角剖分中以及边界上面之间的最大二面角，避免创建过于退化的三角"
+"形。对于平面孔，它与外接度量相同"
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum edgeMetric for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+"此度量最小化三角剖分中所有三角形的 triangleMetric 之和加上三角剖分内部和边界"
+"上所有边的 edgeMetric 之和。\n"
+"其中\n"
+"  triangleMetric 与加权三角形面积和三角形纵横比成正比，\n"
+"  edgeMetric 随三角形之间的角度增长，公式为 ( ( 1 - cos( x ) ) / ( 1 + "
+"cos( x ) ) ) ^ 4"
+
+msgid ""
+"This metric minimizes the sum of circumcircle radii for all triangles in the "
+"triangulation. It is rather fast to calculate, and it results in typically "
+"good triangulations"
+msgstr ""
+"此度量最小化三角剖分中所有三角形的外接圆半径之和。计算相当快，通常产生良好的"
+"三角剖分"
+
+msgid "Select a metric to be optimized during next hole stitching"
+msgstr "选择下次孔缝合时要优化的度量"
+
+msgid "Stitch Holes"
+msgstr "缝合孔洞"
+
+msgid "Edge Weights Scheme"
+msgstr "边权重方案"
+
+msgid ""
+"Choose if all the edges have unit weight or it depends on local geometry"
+msgstr "选择是所有边都有单位权重还是取决于局部几何"
+
+msgid "Stitch Two Holes failed"
+msgstr "缝合两个孔失败"
+
+msgid "Stitch Two Holes"
+msgstr "缝合两个孔"
+
+msgid "Too few holes!"
+msgstr "孔太少！"
+
+msgid "First Hole ID"
+msgstr "第一个孔 ID"
+
+msgid "ID of the first hole to stitch"
+msgstr "要缝合的第一个孔的 ID"
+
+msgid "Second Hole ID"
+msgstr "第二个孔 ID"
+
+msgid "ID of the second hole to stitch"
+msgstr "要缝合的第二个孔的 ID"
+
+msgid "Subdivide"
+msgstr "细分"
+
+msgid "Max New Vertices"
+msgstr "最大新增顶点数"
+
+msgid ""
+"0% - same subdivision everywhere, 100% - subdivision is much finer in the "
+"regions of high curvature compared to planar regions."
+msgstr "0% - 各处细分相同，100% - 高曲率区域的细分比平面区域更精细。"
+
+msgid "Smooth Mode"
+msgstr "平滑模式"
+
+msgid ""
+"Puts new vertices so that they form a smooth surface together with existing "
+"vertices. This option works best for natural surfaces without sharp edges in "
+"between triangles"
+msgstr ""
+"放置新顶点使其与现有顶点共同形成平滑曲面。此选项最适用于三角形之间没有锐边的"
+"自然曲面"
+
+msgid ""
+"If selected, then every new vertex will be projected on the original mesh "
+"(before smoothing). This option works best for natural surfaces without "
+"sharp edges in between triangles"
+msgstr ""
+"若选中，则每个新顶点都会投影到原始网格（平滑前）。此选项最适用于三角形之间没"
+"有锐边的自然曲面"
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value "
+"in degrees"
+msgstr "如果二面角变化不超过此值（度），则允许翻转边"
+
+msgid "Min Sharp Dihedral Angle"
+msgstr "最小锐二面角"
+
+msgid ""
+"In case of activated Smooth Mode, the smoothness is locally deactivated at "
+"the edges having dihedral angle at least this value in degrees"
+msgstr "在启用平滑模式时，二面角至少为此值（度）的边将局部停用平滑"
+
+msgid "Max Tri Aspect Ratio"
+msgstr "最大三角形长宽比"
+
+msgid ""
+"The subdivision stops as soon as all triangles (in the region) have aspect "
+"ratio below or equal to this value"
+msgstr "当（区域内）所有三角形的长宽比均小于或等于此值时，细分停止"
+
+msgid "Selected Triangles Boundary"
+msgstr "选定三角形边界"
+
+msgid "Selected Edges"
+msgstr "选定边"
+
+msgid "Draw surface distance from user picked point."
+msgstr "从用户拾取的点绘制曲面距离。"
+
+msgid "Draw surface distance from selected region boundary."
+msgstr "从选定区域边界绘制曲面距离。"
+
+msgid "Draw surface distance from selected edges."
+msgstr "从选定边绘制曲面距离。"
+
+msgid "Source"
+msgstr "源"
+
+msgid "Select the source from which surface distance will be measured."
+msgstr "选择用于测量曲面距离的源。"
+
+msgid "No"
+msgstr "否"
+
+msgid "Do not draw any distance iso-line."
+msgstr "不绘制任何距离等值线。"
+
+msgid "Draw exactly one distance iso-line with user defined value."
+msgstr "使用用户定义的值仅绘制一条距离等值线。"
+
+msgid "Draw several distance iso-lines with fixed distance step."
+msgstr "以固定的距离步长绘制多条距离等值线。"
+
+msgid "Iso-lines"
+msgstr "等值线"
+
+msgid "Select whether to draw distance iso-lines."
+msgstr "选择是否绘制距离等值线。"
+
+msgid "Iso-value"
+msgstr "等值"
+
+msgid "Specify exact distance value to draw iso-line of that distance."
+msgstr "指定确切的距离值，以绘制该距离的等值线。"
+
+msgid "Cut & Select"
+msgstr "剪切并选择"
+
+msgid "Cuts the mesh along shown iso-line and selects the region inside."
+msgstr "沿显示的等值线剪切网格并选择内部区域。"
+
+msgid "Number of Iso-lines"
+msgstr "等值线数量"
+
+msgid "The number of distance iso-lines to draw on the surface"
+msgstr "要在曲面上绘制的距离等值线数量"
+
+msgid "Max Vertex Updates"
+msgstr "最大顶点更新次数"
+
+msgid ""
+"The maximum amount of times vertex distance can be updated. The more the "
+"better obtuse triangles are handled"
+msgstr "顶点距离可被更新的最大次数。次数越多，钝角三角形处理得越好"
+
+msgid "No boundary of selected triangles found"
+msgstr "未找到选定三角形的边界"
+
+msgid "No selected edges found"
+msgstr "未找到选定边"
+
+msgid "Pick point on mesh..."
+msgstr "在网格上拾取点……"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Text Alignment"
+msgstr "文本对齐"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Detalization"
+msgstr "细节程度"
+
+msgid "Thick modifier"
+msgstr "粗细修饰符"
+
+msgid "Symbols thickness modifier (in units of base text height)"
+msgstr "符号粗细修饰符（以基础文本高度为单位）"
+
+msgid "Lines"
+msgstr "线条"
+
+msgid "Result type"
+msgstr "结果类型"
+
+msgid "Create text as ObjectMesh."
+msgstr "将文本创建为 ObjectMesh。"
+
+msgid "Add text mesh"
+msgstr "添加文本网格"
+
+msgid "Add text lines"
+msgstr "添加文本线条"
+
+msgid "Click two points on the mesh surface to define the text direction."
+msgstr "在网格表面单击两点以定义文本方向。"
+
+msgid "Drag the points to adjust direction as needed."
+msgstr "根据需要拖动点以调整方向。"
+
+msgid "Applies only to multiline text"
+msgstr "仅适用于多行文本"
+
+msgid "Depth (-)/Height (+) "
+msgstr "深度 (-)/高度 (+) "
+
+msgid "Spacing"
+msgstr "间距"
+
+msgid "Real-Time Preview"
+msgstr "实时预览"
+
+msgid "Font-based Size Calculation"
+msgstr "基于字体的尺寸计算"
+
+msgid ""
+"If checked then size of each symbol will be calculated from font height, "
+"otherwise - on bounding box of the text"
+msgstr "若选中，则每个符号的尺寸将根据字体高度计算，否则按文本的包围盒计算"
+
+msgid "Bend Text along Path"
+msgstr "沿路径弯曲文本"
+
+msgid "Maximum movement"
+msgstr "最大移动距离"
+
+msgid "Use Custom Normal"
+msgstr "使用自定义法线"
+
+msgid "Custom Normal"
+msgstr "自定义法线"
+
+msgid "Add Text to Mesh"
+msgstr "在网格上添加文本"
+
+msgid "Add Text to Scene"
+msgstr "在场景中添加文本"
+
+msgid "Regular"
+msgstr "常规"
+
+msgid "Bold"
+msgstr "粗体"
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "BoldItalic"
+msgstr "粗斜体"
+
+msgid "The current font does not support the following types: "
+msgstr "当前字体不支持以下类型："
+
+msgid "Outside Offset"
+msgstr "外部偏移"
+
+msgid "The amount of surface offset in the direction of normals."
+msgstr "沿法线方向的曲面偏移量。"
+
+msgid "Inside Offset"
+msgstr "内部偏移"
+
+msgid "The amount of surface offset in the opposite direction to normals."
+msgstr "沿法线相反方向的曲面偏移量。"
+
+msgid "Normals Trust"
+msgstr "法线信任度"
+
+msgid ""
+"This slider allows user to control over normal smoothing\n"
+"1%- more smoothing\n"
+"10% - default smoothing"
+msgstr ""
+"此滑块允许用户控制法线平滑\n"
+"1% - 更多平滑\n"
+"10% - 默认平滑"
+
+msgid "Thicken"
+msgstr "加厚"
+
+msgid "Vertices located closer than this distance will be united"
+msgstr "距离小于此值的顶点将被合并"
+
+msgid "Only boundary vertices"
+msgstr "仅边界顶点"
+
+msgid "If checked only boundary vertices can be united"
+msgstr "若选中，仅边界顶点可被合并"
+
+msgid "Unite Close Vertices"
+msgstr "合并相邻顶点"
+
+msgid "Selected mesh has only one component."
+msgstr "选定网格仅有一个组件。"
+
+msgid "Use Random Shifts"
+msgstr "使用随机位移"
+
+msgid ""
+"Apply random shift to each mesh, to prevent degenerations on coincident "
+"surfaces."
+msgstr "对每个网格应用随机位移，以防止重合表面上的退化。"
+
+msgid "Fix Degenerations"
+msgstr "修复退化"
+
+msgid ""
+"Try to fix degenerations after each boolean step, to prevent boolean failure "
+"due to high amount of degenerated faces."
+msgstr "尝试在每个布尔步骤后修复退化，以防因大量退化面导致布尔运算失败。"
+
+msgid ""
+"Max allowed random shifts in each direction, and max allowed deviation after "
+"degeneration fixing."
+msgstr "每个方向上允许的最大随机位移，以及退化修复后允许的最大偏差。"
+
+msgid "Merge"
+msgstr "合并"
+
+msgid ""
+"Separate nested meshes and remove them, just like union operation should do, "
+"use this if input meshes are single component"
+msgstr ""
+"分离嵌套网格并将其删除，正如并集运算应有的行为，若输入网格为单一组件请使用此"
+"项"
+
+msgid ""
+"Merge nested meshes, useful if input meshes are components of single object"
+msgstr "合并嵌套网格，适用于输入网格是单个对象的组件的情况"
+
+msgid ""
+"Does not separate components and call union for all input meshes, works "
+"slower than Remove and Merge method but returns valid result if input meshes "
+"has multiple components"
+msgstr ""
+"不分离组件，对所有输入网格调用并集运算，比“移除并合并”方法慢，但当输入网格有"
+"多个组件时仍返回有效结果"
+
+msgid "Nested Shells Mode"
+msgstr "嵌套壳模式"
+
+msgid "Determines how to handle nested shells."
+msgstr "决定如何处理嵌套壳。"
+
+msgid "Merge on Fail"
+msgstr "失败时合并"
+
+msgid ""
+"If boolean operation fails for some reason, merge shell instead of raising "
+"error."
+msgstr "如果布尔运算因某些原因失败，则合并壳而不是抛出错误。"
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during union "
+"operation."
+msgstr "不推荐：若启用 - 在并集运算期间将关闭所有孔。"
+
+msgid "Preserve Original Meshes"
+msgstr "保留原始网格"
+
+msgid ""
+"If checked then original meshes will remain in scene in addition to united "
+"mesh."
+msgstr "若选中，除合并后的网格外，原始网格也将保留在场景中。"
+
+msgid "Unite"
+msgstr "合并"
+
+msgid "Unite Many Meshes"
+msgstr "合并多个网格"
+
+msgid "Mesh object does not have UV-coordinates for each vertex"
+msgstr "网格对象没有每个顶点的 UV 坐标"
+
+msgid "UV to XY"
+msgstr "UV 转 XY"
+
+msgid "Initial Offset"
+msgstr "初始偏移"
+
+msgid "Base Thickness"
+msgstr "基础厚度"
+
+msgid "Additional Thickness"
+msgstr "附加厚度"
+
+msgid "Offset From Mesh"
+msgstr "距网格偏移"
+
+msgid "Interpolation Distance"
+msgstr "插值距离"
+
+msgid "Generate Aligner"
+msgstr "生成隐形矫正器"
+
+msgid "Cannot create aligner"
+msgstr "无法创建矫正器"
+
+msgid "Max Shift"
+msgstr "最大位移"
+
+msgid ""
+"The shift of mesh parts orthogonal to Z-axis with normal against Z-axis. For "
+"other mesh parts the shift will be less and will depend on the angle between "
+"point pseudo-normal and Z-axis."
+msgstr ""
+"法线与 Z 轴反向且与 Z 轴正交的网格部分的位移。其他网格部分的位移将较小，并取"
+"决于点的伪法线与 Z 轴之间的角度。"
+
+msgid "Reduce self-intersections"
+msgstr "减少自相交"
+
+msgid ""
+"If selected, limits the movement of each vertex to reduce self-intersections "
+"in the mesh."
+msgstr "若选中，限制每个顶点的移动以减少网格中的自相交。"
+
+msgid "Min Thickness"
+msgstr "最小厚度"
+
+msgid "Avoids moving a vertex closer than this distance to another triangle."
+msgstr "避免将顶点移动到距其他三角形小于此距离的位置。"
+
+msgid "Z-Compensate"
+msgstr "Z 轴补偿"
+
+msgid "Minimum Area"
+msgstr "最小面积"
+
+#, c-format
+msgid "%.6f sq. units"
+msgstr "%.6f 平方单位"
+
+msgid "Triangles Aspect Ratio"
+msgstr "三角形长宽比"
+
+msgid "Maximum Edge Length"
+msgstr "最大边长"
+
+msgid "1% of tolerance"
+msgstr "容差的 1%"
+
+msgid "Subdivide mesh after fix to eliminate degeneracies that stayed."
+msgstr "修复后细分网格，以消除残留的退化。"
+
+msgid "Forced Fix"
+msgstr "强制修复"
+
+msgid ""
+"Try to fix this by removing bad triangles and their surroundings and filling "
+"resulting holes in last fix iteration.\n"
+"Only avalilable if Subdivide is enabled."
+msgstr ""
+"在最后一次修复迭代中，尝试通过移除不良三角形及其周边并填充由此产生的孔来修"
+"复。\n"
+"仅在启用「细分」时可用。"
+
+msgid "Mimic Patch"
+msgstr "仿真补丁"
+
+msgid ""
+"In Force mode disables smoothing and makes patches closer to initial surface."
+msgstr "在强制修复模式下禁用平滑并使补丁更接近初始表面。"
+
+msgid "Minimum Perimeter"
+msgstr "最小周长"
+
+msgid "Inspect Loaded Meshes"
+msgstr "检查已加载网格"
+
+msgid ""
+"Suggest using Mesh Healer tool if potential issues are present in loaded "
+"mesh."
+msgstr "如果已加载的网格中存在潜在问题，建议使用网格修复器工具。"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Iterations number when fixing defects by moving points"
+msgstr "通过移动点修复缺陷时的迭代次数"
+
+msgid "Max Triangles Expansion"
+msgstr "三角形最大扩展范围"
+
+msgid "Maximum size of affected area around self-intersecting faces"
+msgstr "自相交面周围受影响区域的最大尺寸"
+
+msgid "Cut And Fill"
+msgstr "切割并填充"
+
+msgid ""
+"If set cuts selfies area and fills generated hole, otherwise just relaxes "
+"selfies area"
+msgstr "若设置，则切割自相交区域并填充生成的孔，否则仅松弛自相交区域"
+
+msgid ""
+"In Cut And Fill mode disables smoothing and makes patches closer to initial "
+"surface."
+msgstr "在「切割并填充」模式下禁用平滑并使补丁更接近初始表面。"
+
+msgid "Touches as Self-Intersections"
+msgstr "将接触视为自相交"
+
+msgid "If set - detects coincident and touching faces as self-intersections"
+msgstr "若设置 - 将重合面和接触面检测为自相交"
+
+msgid "Maximum Tunnel Length"
+msgstr "最大隧道长度"
+
+msgid "Critical Thickness"
+msgstr "临界厚度"
+
+msgid "Undercut Height"
+msgstr "倒勾高度"
+
+msgid "Same as tolerance"
+msgstr "与容差相同"
+
+msgid "Undercut Distance"
+msgstr "倒勾距离"
+
+msgid "30% of tolerance"
+msgstr "容差的 30%"
+
+msgid "Axis"
+msgstr "轴"
+
+msgid "To X"
+msgstr "至 X"
+
+msgid "Set axis to X"
+msgstr "将轴设为 X"
+
+msgid "To Y"
+msgstr "至 Y"
+
+msgid "Set axis to Y"
+msgstr "将轴设为 Y"
+
+msgid "To Z"
+msgstr "至 Z"
+
+msgid "Set axis to Z"
+msgstr "将轴设为 Z"
+
+msgid "Set axis to camera"
+msgstr "将轴设为相机方向"
+
+msgid "To -X"
+msgstr "至 -X"
+
+msgid "Set axis to -X"
+msgstr "将轴设为 -X"
+
+msgid "To -Y"
+msgstr "至 -Y"
+
+msgid "Set axis to -Y"
+msgstr "将轴设为 -Y"
+
+msgid "To -Z"
+msgstr "至 -Z"
+
+msgid "Set axis to -Z"
+msgstr "将轴设为 -Z"
+
+msgid "Switch Mesh Healer on the selected mesh?"
+msgstr "在选定网格上切换网格修复器？"
+
+msgid "Switch"
+msgstr "切换"
+
+msgid "Computation is in progress..."
+msgstr "计算进行中……"
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Inspect and Repair"
+msgstr "检查和修复"
+
+msgid "Advanced Mode"
+msgstr "高级模式"
+
+msgid "Repair Selected"
+msgstr "修复选定项"
+
+msgid "Selection"
+msgstr "选区"
+
+msgid "Save Selection on Exit"
+msgstr "退出时保存选区"
+
+msgid "Save selection after closing the tool."
+msgstr "关闭工具后保存选区。"
+
+msgid "Mesh Healer: Delete Selection"
+msgstr "网格修复器：删除选区"
+
+msgid ""
+"Deletes faces that are now selected in mesh, it could simplify fixing some "
+"issues.\n"
+"(Del)"
+msgstr ""
+"删除网格中当前选中的面，这有助于简化某些问题的修复。\n"
+"(Del)"
+
+msgid "Printability Checks"
+msgstr "可打印性检查"
+
+msgid "Restart on Mesh Selection Change"
+msgstr "网格选择更改时重启"
+
+msgid ""
+"The Mesh Healer tool will automatically restart when you select a different "
+"mesh from the list."
+msgstr "当您从列表中选择不同的网格时，网格修复器工具将自动重启。"
+
+msgid "Save Settings"
+msgstr "保存设置"
+
+msgid "Load Settings"
+msgstr "加载设置"
+
+msgid "Auto Rebuild Model"
+msgstr "自动重建模型"
+
+msgid "Select Mesh Issues"
+msgstr "选择网格问题"
+
+msgid "MeshHealer: deselect"
+msgstr "网格修复器：取消选择"
+
+msgid "Inspect"
+msgstr "检查"
+
+msgid "Update Checked"
+msgstr "已更新选中项"
+
+msgid "Some mesh issues remain. Please consider using Rebuild Model"
+msgstr "仍有部分网格问题未解决。请考虑使用“重建模型”"
+
+msgid "Repair Resolution"
+msgstr "修复分辨率"
+
+msgid ""
+"Maximum distance the healed mesh may deviate from the original surface "
+"(tolerance). Choose a value that matches or is finer than your intended "
+"printing resolution."
+msgstr ""
+"修复后的网格可能偏离原始表面的最大距离（容差）。请选择与目标打印分辨率匹配或"
+"更精细的值。"
+
+msgid "Show Deviation Map"
+msgstr "显示偏差图"
+
+msgid ""
+"Visualize differences between the original and repaired mesh. Red highlights "
+"areas where the mesh has been added, while blue shows where material has "
+"been removed. This color-coded map helps you easily spot changes."
+msgstr ""
+"可视化原始网格与修复后网格之间的差异。红色高亮显示网格被添加的区域，蓝色显示"
+"材料被移除的区域。这种彩色映射可帮助您轻松发现变化。"
+
+msgid "Discrete Palette"
+msgstr "离散调色板"
+
+msgid ""
+"If checked, palette will have several discrete levels. Otherwise it will be "
+"smooth."
+msgstr "若选中，调色板将具有多个离散等级。否则将为平滑过渡。"
+
+msgid "Local Repair"
+msgstr "局部修复"
+
+msgid ""
+"Fixes mesh inconsistencies locally, without altering the entire model. You "
+"can choose to repair all or only selected types of issues."
+msgstr ""
+"在不更改整个模型的情况下局部修复网格不一致问题。您可以选择修复全部或仅选定类"
+"型的问题。"
+
+msgid "Auto Repair"
+msgstr "自动修复"
+
+msgid ""
+"Rebuilds the entire model, resolving all mesh issues based on the selected "
+"printing resolution. Higher accuracy improves precision but may increase "
+"computation time."
+msgstr ""
+"重建整个模型，根据所选打印分辨率解决所有网格问题。更高的精度可提高精确度，但"
+"可能增加计算时间。"
+
+msgid "Detection Settings"
+msgstr "检测设置"
+
+msgid "Repair Settings"
+msgstr "修复设置"
+
+msgid "How to convert intermediate voxels representation into final mesh"
+msgstr "如何将中间的体素表示转换为最终网格"
+
+msgid "Close All Holes"
+msgstr "关闭所有孔"
+
+msgid ""
+"Whether to close all holes (even larger than the threshold in settings) in "
+"generalized winding number mode."
+msgstr "在广义环绕数模式下是否关闭所有孔（即使大于设置中的阈值）。"
+
+msgid "Auto Repair Mesh"
+msgstr "自动修复网格"
+
+msgid "Repair Mesh"
+msgstr "修复网格"
+
+msgid "Disconnected Parts"
+msgstr "未连接部分"
+
+msgid ""
+"When mesh components intersect, they can cause 3D printing problems. Mesh "
+"Healer fixes this by joining large intersecting parts through Boolean Union "
+"operations and removing smaller ones."
+msgstr ""
+"当网格组件相互相交时，可能引发 3D 打印问题。Mesh Healer 通过布尔并运算合并相"
+"交的大块部分，并移除较小的部分以解决此问题。"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small components are removed during repair operation."
+msgstr "小组件将在修复操作中被移除。"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Large components are united during repair operation."
+msgstr "大组件将在修复操作中被合并。"
+
+msgid ""
+"Holes can disrupt workflows. Mesh Healer fills small holes to ensure model "
+"integrity."
+msgstr "孔洞可能会打断工作流程。Mesh Healer 通过填充小孔洞来保证模型完整性。"
+
+msgid "Small holes are filled during repair operation."
+msgstr "小孔洞将在修复操作中被填充。"
+
+msgid "To fix large holes please go to Fill Holes plugin or rebuild model."
+msgstr "要修复大孔洞，请使用「填充孔洞」插件或重建模型。"
+
+msgid "Self-Intersections"
+msgstr "自相交"
+
+msgid ""
+"Self-intersections create geometric irregularities that Mesh Healer resolves "
+"by optimizing the model's topology."
+msgstr ""
+"自相交会产生几何不规则性，Mesh Healer 通过优化模型拓扑结构来解决该问题。"
+
+msgid "Zero-Area Triangles"
+msgstr "零面积三角形"
+
+msgid ""
+"Zero-Area Triangles (degeneracies) are situations where geometric elements, "
+"such as points, lines, or faces, become less well-defined, which can lead to "
+"inaccuracies and errors. Mesh Healer address degeneracies by automatically "
+"resolving them."
+msgstr ""
+"零面积三角形（退化）是指点、线或面等几何元素的定义不充分的情况，可能导致不准"
+"确性和错误。Mesh Healer 通过自动解决退化来应对此类问题。"
+
+msgid "Flipped Normals"
+msgstr "翻转的法线"
+
+msgid ""
+"Flipped normals can cause incorrect geometry interpretation. Mesh Healer "
+"detects and corrects flipped normals to ensure proper surface orientation."
+msgstr ""
+"翻转的法线可能导致几何形状被错误解释。Mesh Healer 检测并修正翻转的法线，以确"
+"保表面方向正确。"
+
+msgid "Small Tunnels"
+msgstr "小隧道"
+
+msgid ""
+"Small tunnel faces can be problematic as they may lead to printing "
+"difficulties, rendering artifacts, or inaccuracies in simulations, "
+"potentially compromising the overall quality and functionality of the model. "
+"Mesh Healer address small tunnel faces to ensure a more robust and reliable "
+"representation."
+msgstr ""
+"小隧道面可能引发问题，可能导致打印困难、渲染瑕疵或仿真不准确，从而影响模型的"
+"整体质量与功能。Mesh Healer 通过处理小隧道面来确保更稳健可靠的表达。"
+
+msgid "Undercuts"
+msgstr "凹切"
+
+msgid ""
+"Undercuts can be problematic in 3D printing and manufacturing processes "
+"because they can hinder the removal of support structures, complicate mold "
+"design for traditional manufacturing methods like injection molding, and may "
+"require additional processing steps to address the challenges posed by the "
+"geometry, potentially increasing production time and costs."
+msgstr ""
+"凹切在 3D 打印和制造过程中可能会带来问题，可能阻碍支撑结构的移除，使注塑成型"
+"等传统制造方法的模具设计复杂化，并可能需要额外的加工步骤来应对几何形状带来的"
+"挑战，可能会增加生产时间和成本。"
+
+msgid "Thin Walls"
+msgstr "薄壁"
+
+msgid ""
+"Highlights areas with thin walls that may cause weak structures, durability "
+"issues, and printing or assembly challenges."
+msgstr ""
+"突出显示薄壁区域，这些区域可能会导致结构脆弱、耐久性问题以及打印或装配方面的"
+"难题。"
+
+msgid "Apply Transform"
+msgstr "应用变换"
+
+msgid ""
+"You are about to apply transformation to a voxel object. Due to the nature "
+"of voxels representation in Mesh Inspector, voxels will be additionally "
+"moved so that no data has negative coordinate by any of dimensions"
+msgstr ""
+"您即将对体素对象应用变换。由于 Mesh Inspector 中体素表示的特性，体素将被额外"
+"移动，以保证任何维度上的数据都没有负坐标"
+
+msgid "To Components"
+msgstr "拆分为组件"
+
+msgid "Textures have been deleted because they require too much memory"
+msgstr "由于占用过多内存，纹理已被删除"
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} component. You can select any of output objects and "
+"split it again."
+msgid_plural ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr[0] ""
+"初始对象中连通组件过多，因此每个输出对象最多可包含 {} 个组件。您可以选择任意"
+"输出对象并再次拆分。"
+
+msgid ""
+"There are too many connected components in initial object, so smaller "
+"components were collected in additional resulting objects."
+msgstr "初始对象中连通组件过多，因此较小的组件已收集到附加的结果对象中。"
+
+msgid "At least one closed contour required."
+msgstr "至少需要一条闭合轮廓。"
+
+msgid "Planar Processing"
+msgstr "平面处理"
+
+msgid ""
+"If selected all contours will be considered planar and they will be "
+"triangulated together allowing for inner holes and self-intersections among "
+"contours.\n"
+"If unselected each contour will be triangulated by its own."
+msgstr ""
+"若选中，所有轮廓将被视为共面，并一起进行三角化，允许轮廓之间存在内部孔和自相"
+"交。\n"
+"若未选中，则每条轮廓将单独进行三角化。"
+
+msgid "Thick Mesh"
+msgstr "厚网格"
+
+msgid ""
+"If selected the mesh will be closed and have given thickness.\n"
+"If unselected the mesh is planar with open boundary."
+msgstr ""
+"若选中，网格将闭合并具有给定厚度。\n"
+"若未选中，网格为带开放边界的平面网格。"
+
+msgid ""
+"Repeat the polyline shifted at this distance to get the other end of the "
+"mesh."
+msgstr "按此距离平移并重复折线，以得到网格的另一端。"
+
+msgid "Lines to Mesh"
+msgstr "线条转网格"
+
+msgid "Make Convex Hull"
+msgstr "生成凸包"
+
+msgid "At least one object with colors must be selected"
+msgstr "必须至少选择一个带颜色的对象"
+
+msgid "Delete Colors"
+msgstr "删除颜色"
+
+msgid "Flip normals"
+msgstr "翻转法线"
+
+msgid "Flip All"
+msgstr "全部翻转"
+
+msgid "Flip all normal on object"
+msgstr "翻转对象上的所有法线"
+
+msgid "Flip Selected Components"
+msgstr "翻转选定组件"
+
+msgid "Flip normals selected components"
+msgstr "翻转所选组件的法线"
+
+msgid "Flip normal on component with selected face"
+msgstr "翻转含选定面的组件上的法线"
+
+msgid "Flip normal on picked component"
+msgstr "翻转拾取组件上的法线"
+
+msgid "Click on the components to change the normals"
+msgstr "单击组件以更改法线"
+
+msgid "Flip normal picked component"
+msgstr "翻转所选组件的法线"
+
+msgid "Combine"
+msgstr "组合"
+
+msgid ""
+"Too many points in PointCloud:\n"
+"Visualization is simplified (only part of the points is drawn)"
+msgstr ""
+"点云中点数过多：\n"
+"可视化已简化（仅绘制部分点）"
+
+msgid ""
+"Some input point have normals and some others do not, all normals are lost"
+msgstr "部分输入点有法线而其他点没有，所有法线均已丢失"
+
+msgid "Delete by Normal"
+msgstr "按法线删除"
+
+msgid "Move to Zero"
+msgstr "移至原点"
+
+msgid "Copies"
+msgstr "副本数"
+
+msgid "Parameters"
+msgstr "参数"
+
+msgid "Translation"
+msgstr "平移"
+
+msgid "Rotation Pivot"
+msgstr "旋转中心"
+
+msgid "Rotation Angles"
+msgstr "旋转角度"
+
+msgid "Multi Clone"
+msgstr "多重克隆"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "All selected point clouds don't have normals"
+msgstr "所有选定的点云均没有法线"
+
+msgid "All point clouds already don't have normals"
+msgstr "所有点云均已没有法线"
+
+msgid "Remove normals"
+msgstr "移除法线"
+
+msgid "Selfy Contours"
+msgstr "自相交轮廓"
+
+msgid "No self-intersections found"
+msgstr "未找到自相交"
+
+msgid "Separate Teeth"
+msgstr "分离牙齿"
+
+msgid "All selected objects do not have vertex colors."
+msgstr "所有选定对象均没有顶点颜色。"
+
+msgid "Separate Teeth Margins"
+msgstr "分离牙齿边缘"
+
+msgid "Straighten boundary"
+msgstr "拉直边界"
+
+msgid "Selected ObjectMesh should have selected faces."
+msgstr "选定的 ObjectMesh 应有选定的面。"
+
+msgid "Smooth Region Boundary"
+msgstr "平滑区域边界"
+
+msgid "Only mesh objects must be selected"
+msgstr "只能选择网格对象"
+
+msgid "At least one selected mesh object must be colored using a texture"
+msgstr "至少有一个选定的网格对象必须使用纹理着色"
+
+msgid "Texture to Vertex Colors"
+msgstr "纹理转顶点颜色"
+
+msgid ""
+"At least one selected mesh object must be colored using a faces color map"
+msgstr "至少有一个选定的网格对象必须使用面颜色映射着色"
+
+msgid "Faces to Vertex Colors"
+msgstr "面颜色转顶点颜色"
+
+msgid "Cannot read Build Plate config: "
+msgstr "无法读取打印平台配置："
+
+msgid "Select Existing"
+msgstr "选择现有"
+
+msgid "Name "
+msgstr "名称 "
+
+msgid "Min Interval"
+msgstr "最小间距"
+
+msgid "Slicing Step"
+msgstr "切片步长"
+
+msgid "3D Plate"
+msgstr "3D 平台"
+
+msgid "Cannot remove Build Plate config: "
+msgstr "无法删除打印平台配置："
+
+msgid "Cannot rename Build Plate config: "
+msgstr "无法重命名打印平台配置："
+
+msgid "Common Rotation"
+msgstr "通用旋转"
+
+msgid "Angle XYZ"
+msgstr "角度 XYZ"
+
+msgid "Apply to All"
+msgstr "应用于全部"
+
+msgid "Apply Common Rotation"
+msgstr "应用通用旋转"
+
+msgid "Allow 3D Nesting"
+msgstr "允许3D嵌套"
+
+msgid "Selected Build Plate does not allow 3d nesting"
+msgstr "选定的打印平台不允许 3D 排版"
+
+msgid "Order Nesting by Volume"
+msgstr "按体积排序排版"
+
+msgid ""
+"If enabled - nests objects in the order of decreasing volume, otherwise "
+"nests them in scene tree order"
+msgstr "若启用 - 按体积递减顺序排版对象，否则按场景树顺序排版"
+
+msgid "Allow XY Rotation for Auto Nesting"
+msgstr "自动排版时允许 XY 旋转"
+
+msgid "Use Neighbours Density Metric"
+msgstr "使用邻居密度度量"
+
+msgid ""
+"If enabled - prefers to nest next meshes with maximum neighborhood density"
+msgstr "若启用 - 优先将下一个网格排版到邻居密度最大的位置"
+
+msgid "Check Less Combinations"
+msgstr "检查更少的组合"
+
+msgid "Group Size"
+msgstr "组大小"
+
+msgid "Nest each group of this size independently"
+msgstr "独立排版每个此大小的组"
+
+msgid "Max Groups [DEBUG]"
+msgstr "最大组数 [DEBUG]"
+
+msgid "Uniform Nesting"
+msgstr "均匀排版"
+
+msgid ""
+"If enabled - tries to find better interval for more uniform objects "
+"distribution in the nest"
+msgstr "若启用 - 尝试寻找更好的间距以使排版中对象分布更均匀"
+
+msgid "Tetris based Densify"
+msgstr "基于俄罗斯方块的密集化"
+
+msgid "If enabled - tries to densify nesting after each added group"
+msgstr "若启用 - 在每次添加组后尝试加密排版"
+
+msgid "Reset Transformations on Exit"
+msgstr "退出时重置变换"
+
+msgid "Last \"Auto Nest\" status"
+msgstr "上次“自动排版”状态"
+
+msgid "Auto Nest"
+msgstr "自动排版"
+
+#, c++-format
+msgid "{}/{} nested"
+msgstr "{}/{} 已排版"
+
+#, c++-format
+msgid "{} object was not nested"
+msgid_plural "{} objects were not nested"
+msgstr[0] "{} 个对象未排版"
+
+msgid "Current Group [DEBUG]"
+msgstr "当前组 [DEBUG]"
+
+msgid "Num Step"
+msgstr "步骤数"
+
+msgid "Nest Next Group [DEBUG]"
+msgstr "排版下一组 [DEBUG]"
+
+msgid "Nest Single Group"
+msgstr "排版单组"
+
+msgid "Print Name"
+msgstr "打印名称"
+
+msgid "Export Only Nested"
+msgstr "仅导出已排版"
+
+msgid "Export Manifest Files"
+msgstr "导出清单文件"
+
+msgid ""
+"This feature is not available in Web version, consider using desktop "
+"application in order to export manifest files"
+msgstr "该功能在 Web 版本中不可用，如需导出清单文件请考虑使用桌面应用程序"
+
+msgid "Remove Nested from Scene after Export"
+msgstr "导出后从场景中移除已排版项"
+
+msgid "Fixing"
+msgstr "修复"
+
+msgid "Max Hole Perimeter"
+msgstr "最大孔周长"
+
+msgid "Healing will fill all holes with perimeter less or equal to this value"
+msgstr "修复时将填充所有周长小于或等于此值的孔"
+
+msgid "Max Component Area Ratio"
+msgstr "最大组件面积比"
+
+msgid ""
+"Healing will remove components with area less this percent of total model "
+"area"
+msgstr "修复时将删除面积小于模型总面积此百分比的组件"
+
+msgid "Fix All"
+msgstr "修复全部"
+
+msgid "There is no nested models"
+msgstr "没有已排版的模型"
+
+msgid "Max Slice Deviation"
+msgstr "最大切片偏差"
+
+msgid ""
+"Maximum deviation allowed when decimating exported 3mf slices. Set 0 to "
+"disable slice decimation."
+msgstr "对导出的 3mf 切片进行简化时允许的最大偏差。设为 0 可禁用切片简化。"
+
+msgid "Please specify valid slice step to export slicestack 3mf"
+msgstr "请指定有效的切片步长以导出 slicestack 3mf"
+
+msgid "Import Config"
+msgstr "导入配置"
+
+msgid "Reset Nesting"
+msgstr "重置排版"
+
+msgid "Remove Nested Models"
+msgstr "移除嵌套模型"
+
+msgid "Remove Nested Models & Reset Others"
+msgstr "移除嵌套模型并重置其他"
+
+msgid "Move objects to nest center"
+msgstr "将对象移至排版中心"
+
+msgid "Orient to Plane"
+msgstr "对齐到平面"
+
+msgid "Nesting: Fix"
+msgstr "排版：修复"
+
+msgid "Click to open"
+msgstr "单击打开"
+
+msgid "Copy to Clipboard"
+msgstr "复制到剪贴板"
+
+msgid "System Information"
+msgstr "系统信息"
+
+msgid "Operating System"
+msgstr "操作系统"
+
+msgid "Files and Directories"
+msgstr "文件和目录"
+
+msgid "Resources Directory"
+msgstr "资源目录"
+
+msgid "Config Directory"
+msgstr "配置目录"
+
+msgid "Log File"
+msgstr "日志文件"
+
+msgid "Model Name"
+msgstr "型号名称"
+
+msgid "Concurrent Threads"
+msgstr "并发线程数"
+
+msgid "Graphics"
+msgstr "显卡"
+
+msgid "OpenGL Vendor"
+msgstr "OpenGL 供应商"
+
+msgid "OpenGL Renderer"
+msgstr "OpenGL 渲染器"
+
+msgid "OpenGL Version"
+msgstr "OpenGL 版本"
+
+msgid "CUDA Versions"
+msgstr "CUDA 版本"
+
+msgid "CUDA Compute Capability"
+msgstr "CUDA 计算能力"
+
+msgid "CUDA Memory"
+msgstr "CUDA 内存"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Framebuffer Size"
+msgstr "帧缓冲大小"
+
+msgid "Window Size"
+msgstr "窗口大小"
+
+msgid "Pixel Ratio"
+msgstr "像素比例"
+
+msgid "System Scaling"
+msgstr "系统缩放"
+
+msgid "Menu Scaling"
+msgstr "菜单缩放"
+
+msgid "System Memory"
+msgstr "系统内存"
+
+msgid "Virtual Memory Total"
+msgstr "虚拟内存总量"
+
+msgid "Virtual Memory Available"
+msgstr "可用虚拟内存"
+
+msgid "Physical Memory Total"
+msgstr "物理内存总量"
+
+msgid "Physical Memory Available"
+msgstr "可用物理内存"
+
+msgid "Process Memory"
+msgstr "进程内存"
+
+msgid "Peak Virtual Memory"
+msgstr "虚拟内存峰值"
+
+msgid "Current Virtual Memory"
+msgstr "当前虚拟内存"
+
+msgid "Peak Physical Memory"
+msgstr "物理内存峰值"
+
+msgid "Current Physical Memory"
+msgstr "当前物理内存"
+
+msgid "History Store Memory"
+msgstr "历史记录存储内存"
+
+msgid "Currently Used"
+msgstr "当前已使用"
+
+msgid "Maximum Limit"
+msgstr "最大限制"
+
+#, c++-format
+msgid ""
+"Click to open release page\n"
+"{}+Click to open commit page"
+msgstr ""
+"单击以打开发布页\n"
+"{}+单击以打开提交页"
+
+msgid "Credits"
+msgstr "致谢"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "Overlay"
+msgstr "叠加"
+
+msgid "Blending"
+msgstr "混合"
+
+msgid "Add layer"
+msgstr "添加图层"
+
+msgid "Remove layer"
+msgstr "移除图层"
+
+msgid "Reset coloring"
+msgstr "重置着色"
+
+msgid "Brush size"
+msgstr "笔刷大小"
+
+#, c-format
+msgid "Hold %s to erase"
+msgstr "按住 %s 进行擦除"
+
+#, c-format
+msgid "Drag with Shift - faster, %s - slower"
+msgstr "按住 Shift 拖动 - 更快，%s - 更慢"
+
+msgid "PivotPoint"
+msgstr "枢轴点"
+
+#, c-format
+msgid ""
+"Parameter of relative text box to text position point\n"
+"min value [0, 0] - text position point is left-down corner of text box\n"
+"max value [1, 1] - text position point is right - up corner\n"
+"Drag with Shift - faster, %s - slower"
+msgstr ""
+"文本框相对于文本位置点的参数\n"
+"最小值 [0, 0] - 文本位置点为文本框左下角\n"
+"最大值 [1, 1] - 文本位置点为右上角\n"
+"按住 Shift 拖动 - 更快，%s - 更慢"
+
+msgid "Font Size"
+msgstr "字体大小"
+
+msgid "Source point width"
+msgstr "源点宽度"
+
+msgid "Leader line width"
+msgstr "引线宽度"
+
+msgid "Background padding"
+msgstr "背景内边距"
+
+msgid "Change label"
+msgstr "更改标签"
+
+msgid "Scale model"
+msgstr "缩放模型"
+
+msgid "Reset view"
+msgstr "重置视图"
+
+msgid "Image to front plane"
+msgstr "图像至前平面"
+
+msgid "Force default"
+msgstr "强制默认"
+
+msgid "Image pos"
+msgstr "图像位置"
+
+msgid "Model pos"
+msgstr "模型位置"
+
+msgid "Model quat"
+msgstr "模型四元数"
+
+msgid "Align position of object, image of object and camera."
+msgstr "对齐对象、对象图像和相机的位置。"
+
+msgid "Embedded python is not available"
+msgstr "嵌入式 python 不可用"
+
+msgid "Output:"
+msgstr "输出："
+
+msgid "Open File"
+msgstr "打开文件"
+
+msgid "Save Script"
+msgstr "保存脚本"
+
+msgid "Load Example"
+msgstr "加载示例"
+
+msgid "Clear Output"
+msgstr "清除输出"
+
+msgid "Surface Point Cloud"
+msgstr "表面点云"
+
+msgid "Directions Point Cloud"
+msgstr "方向点云"
+
+msgid "Distances"
+msgstr "距离"
+
+msgid "Create Mesh"
+msgstr "创建网格"
+
+msgid "Status: "
+msgstr "状态："
+
+msgid "Common Settings"
+msgstr "通用设置"
+
+msgid "Tool Diameter"
+msgstr "刀具直径"
+
+msgid "Radius of the milling tool"
+msgstr "铣削刀具的半径"
+
+msgid "Size of voxel needed to offset mesh"
+msgstr "网格偏移所需的体素大小"
+
+msgid "Step Over"
+msgstr "横向步距"
+
+msgid "Distance between sections built along Z axis"
+msgstr "沿 Z 轴构建的截面之间的距离"
+
+msgid "Critical Length"
+msgstr "临界长度"
+
+msgid ""
+"If distance to the next section is smaller than it, transition will be "
+"performed along the surface.Otherwise transition will be through the safe "
+"plane"
+msgstr ""
+"若与下一截面的距离小于此值，则沿表面进行过渡。否则将通过安全平面进行过渡"
+
+msgid "Safe Z"
+msgstr "安全 Z 高度"
+
+msgid ""
+"Z-coordinate of plane where tool can move in any direction without touching "
+"the object"
+msgstr "刀具可在任意方向移动而不接触对象的平面的 Z 坐标"
+
+msgid "Use Flat Tool"
+msgstr "使用平头刀具"
+
+msgid "Generate toolpath for the flat milling tool"
+msgstr "为平头铣削刀具生成刀具路径"
+
+msgid "Type of Tool Path"
+msgstr "刀具路径类型"
+
+msgid "Constant Z"
+msgstr "等高 Z"
+
+msgid "Lacing"
+msgstr "往复"
+
+msgid "Constant Cusp"
+msgstr "等残留高度"
+
+msgid "Bypass Direction"
+msgstr "绕行方向"
+
+msgid "Which direction isolines or sections should be passed in"
+msgstr "等值线或截面应沿哪个方向通过"
+
+msgid "Clockwise"
+msgstr "顺时针"
+
+msgid "Counterclockwise"
+msgstr "逆时针"
+
+msgid "Lacing Direction"
+msgstr "往复方向"
+
+msgid "Axis X"
+msgstr "X 轴"
+
+msgid "Axis Y"
+msgstr "Y 轴"
+
+msgid "Toolpath in Empty Areas"
+msgstr "空白区域内的刀具路径"
+
+msgid "Create toolpath to mill excess material to make empty areas."
+msgstr "创建刀具路径以铣除多余材料形成空白区域。"
+
+msgid "Toolpath Expansion"
+msgstr "刀具路径扩展"
+
+msgid ""
+"Expansion of the area in which the toolpath is created.\n"
+"The area has the shape of a box."
+msgstr ""
+"创建刀具路径区域的扩展。\n"
+"该区域为盒状。"
+
+msgid "Mill From Center To Boundary"
+msgstr "从中心向边界铣削"
+
+msgid ""
+"If checked then isolines will be processed from center point to the boundary "
+"(usually it means from up to down)"
+msgstr "若选中，将从中心点向边界处理等值线（通常意味着从上向下）"
+
+msgid "Interpolate Lines"
+msgstr "直线插值"
+
+msgid "Line Interp. Tolerance"
+msgstr "直线插值容差"
+
+msgid "Maximal deviation of line from given path"
+msgstr "直线相对于给定路径的最大偏差"
+
+msgid "Maximal Line Length"
+msgstr "最大直线长度"
+
+msgid "Segments longer than this value will not be optimized"
+msgstr "长度大于此值的线段将不会被优化"
+
+msgid "Interpolate Arcs"
+msgstr "圆弧插值"
+
+msgid "Appropriate segments of the tool path with be interpolated with arcs"
+msgstr "刀具路径上合适的线段将使用圆弧插值"
+
+msgid "Arc Interp. Tolerance"
+msgstr "圆弧插值容差"
+
+msgid "Maximal deviation of arc from given path"
+msgstr "圆弧相对于给定路径的最大偏差"
+
+msgid "Maximal Arc Radius"
+msgstr "最大圆弧半径"
+
+msgid ""
+"Segments will not be optimized if radius of the arc is bigger than tis value"
+msgstr "若圆弧半径大于此值，则线段将不会被优化"
+
+msgid "Feedrate Settings"
+msgstr "进给速度设置"
+
+msgid "Plunge Length"
+msgstr "下刀长度"
+
+msgid ""
+"When the mill is moving down, it will be slowed down in this distance from "
+"mesh"
+msgstr "当刀具向下移动时，距网格此距离内将减速"
+
+msgid "Retract Length"
+msgstr "退刀长度"
+
+msgid ""
+"When the mill is moving up, it will be slowed down in this distance from mesh"
+msgstr "当刀具向上移动时，距网格此距离内将减速"
+
+msgid "Plunge Feed"
+msgstr "下刀进给速度"
+
+msgid "Speed of slow movement down"
+msgstr "向下慢速移动的速度"
+
+msgid "Retract Feed"
+msgstr "退刀进给速度"
+
+msgid "Speed of slow movement up"
+msgstr "向上慢速移动的速度"
+
+msgid "Base Feed"
+msgstr "基础进给速度"
+
+msgid "Speed of regular milling"
+msgstr "常规铣削的速度"
+
+msgid "Visualization"
+msgstr "可视化"
+
+msgid "Show Offset"
+msgstr "显示偏移"
+
+msgid "Show Isolines"
+msgstr "显示等值线"
+
+msgid "Show Start Contours"
+msgstr "显示起始轮廓"
+
+msgid "Show Start Vertices"
+msgstr "显示起始顶点"
+
+msgid "Create Tool Path"
+msgstr "创建刀具路径"
+
+msgid "Tool Path: Constant Z"
+msgstr "刀具路径: 等Z"
+
+msgid "Tool Path: Lacing"
+msgstr "刀具路径: 往复"
+
+msgid "Tool Path: Constant Cusp"
+msgstr "刀具路径: 等残高"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Edit tag"
+msgstr "编辑标签"
+
+msgid "Remove tag"
+msgstr "移除标签"
+
+msgid "Export to CSV"
+msgstr "导出为 CSV"
+
+msgid "Cannot save file"
+msgstr "无法保存文件"
+
+msgid "File saved successfully."
+msgstr "文件保存成功。"
+
+msgid "Free-form Adjust"
+msgstr "自由形态调整"
+
+msgid "Max Group Size"
+msgstr "最大组大小"
+
+msgid "Cascade Mode:"
+msgstr "级联模式："
+
+msgid "Sequential"
+msgstr "顺序"
+
+msgid ""
+"Divide objects into groups by their order in scene.\n"
+"Good when each object has size comparable to whole scene."
+msgstr ""
+"按对象在场景中的顺序将其分组。\n"
+"当每个对象的尺寸与整个场景相当时效果良好。"
+
+msgid "AABB Tree"
+msgstr "AABB 树"
+
+msgid ""
+"Build AABB tree based on object bounding boxes then use subtrees as groups.\n"
+"Good when each object is much smaller than whole scene."
+msgstr ""
+"基于对象包围盒构建 AABB 树，然后使用子树作为组。\n"
+"当每个对象远小于整个场景时效果良好。"
+
+msgid "Global Registration"
+msgstr "全局配准"
+
+msgid "No active pairs found, please consider changing parameters"
+msgstr "未找到活动配对，请考虑更改参数"
+
+msgid "Reset Transforms"
+msgstr "重置变换"
+
+msgid "Reset Global Registration"
+msgstr "重置全局配准"
+
+msgid "Freeform Adjust"
+msgstr "自由形态调整"
+
+msgid "Adjust"
+msgstr "调整"
+
+msgid "Object Id"
+msgstr "对象 ID"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Deviation Map"
+msgstr "偏差图"
+
+msgid "High Deviation"
+msgstr "高偏差"
+
+msgid "Orient as Existing Normals"
+msgstr "按现有法线定向"
+
+msgid ""
+"If selected then keeps orientation from original normals, only adjust their "
+"direction."
+msgstr "若选中，则保留原始法线的朝向，仅调整其方向。"
+
+msgid "Smart"
+msgstr "智能"
+
+msgid "Fast"
+msgstr "快速"
+
+msgid "Toward Point"
+msgstr "朝向点"
+
+msgid ""
+"Activates smart algorithm that selects similar orientation of normals in "
+"close points."
+msgstr "启用智能算法，为相邻的点选择相似的法线朝向。"
+
+msgid ""
+"Activates fast algorithm (about 5 times faster than Smart) that orients all "
+"normals away from the cloud's centroid."
+msgstr ""
+"启用快速算法（约比智能算法快 5 倍），将所有法线朝远离点云重心的方向定向。"
+
+msgid ""
+"Each normal is oriented toward the selected point (e.g. known placement of "
+"Lidar)."
+msgstr "每条法线朝向选定的点（例如已知的激光雷达位置）。"
+
+msgid "Orientation"
+msgstr "朝向"
+
+msgid ""
+"Select the method how to choose between two opposite normal orientations in "
+"each point."
+msgstr "选择在每个点的两个相反法线朝向中进行选择的方法。"
+
+msgid ""
+"X,Y,Z of the position in local coordinates of point cloud, where Lidar is "
+"located and where normals shall be oriented."
+msgstr "激光雷达所在位置在点云局部坐标中的 X、Y、Z，法线将朝向此位置。"
+
+msgid "Selects whether to fill holes after triangulation."
+msgstr "选择是否在三角化后填充孔。"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to "
+"triangulated mesh result."
+msgstr "若选中，除三角化网格结果外，原始点云也将保留在场景中。"
+
+msgid "Reduce Noise"
+msgstr "降噪"
+
+msgid "Limit near Initial"
+msgstr "限制接近初始位置"
+
+msgid ""
+"If selected then maximal displacement of each point during denoising will be "
+"limited."
+msgstr "若选中，则降噪过程中每个点的最大位移将受到限制。"
+
+msgid "Max Displacement"
+msgstr "最大位移"
+
+msgid "Maximum distance between a point and its position before relaxation."
+msgstr "点与其松弛前位置之间的最大距离。"
+
+msgid "The number of algorithm repetitions for each vertex."
+msgstr "每个顶点的算法重复次数。"
+
+msgid ""
+"Shift ratio toward relaxed position, 0.5 - half way to target position (more "
+"than 0.5 leads to instability)."
+msgstr ""
+"朝向松弛位置的位移比例，0.5 - 到目标位置的一半（大于 0.5 会导致不稳定）。"
+
+msgid "Relax Tetrahedrons"
+msgstr "松弛四面体"
+
+msgid ""
+"Special processing of vertices having only 3 not-boundary edges, if selected "
+"such vertices will be put in the plane defined by their neighbors."
+msgstr ""
+"对仅有 3 条非边界边的顶点进行特殊处理，若选中则将这些顶点放置在由其邻居定义的"
+"平面中。"
+
+msgid "Fast Indicator Computation"
+msgstr "快速指示函数计算"
+
+msgid "Use fast but approximate variation of the algorithm."
+msgstr "使用快速但近似的算法变体。"
+
+msgid "Normal Iterations"
+msgstr "法线迭代次数"
+
+msgid ""
+"The number of iterations to smooth normals and find creases, the more the "
+"better quality, but longer computation."
+msgstr "用于平滑法线和查找折痕的迭代次数，越多质量越好，但计算时间越长。"
+
+msgid "Point Iterations"
+msgstr "点迭代次数"
+
+msgid ""
+"The number of iterations to update vertex coordinates from found normals, "
+"the more the better quality, but longer computation."
+msgstr "根据找到的法线更新顶点坐标的迭代次数，越多质量越好，但计算时间越长。"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "0.001 - sharp edges, 0.01 - moderate edges, 0.1 - smooth edges"
+msgstr "0.001 - 锐利边，0.01 - 中等边，0.1 - 平滑边"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "The amount of smoothing: 0 - no smoothing, 1 - average smoothing, ..."
+msgstr "平滑量：0 - 无平滑，1 - 平均平滑，……"
+
+msgid "Guide Weight"
+msgstr "引导权重"
+
+msgid ""
+"How much resulting points must be attracted to initial points (e.g. to avoid "
+"general shrinkage), must be > 0"
+msgstr "结果点必须被吸引向初始点的程度（例如避免整体收缩），必须 > 0"
+
+msgid "Select creases"
+msgstr "选择折痕"
+
+msgid "Select sharp edges detected during denoising."
+msgstr "选择在降噪过程中检测到的锐边。"
+
+msgid "Neighborhood Radius"
+msgstr "邻域半径"
+
+msgid "The radius of each local neighborhood."
+msgstr "每个局部邻域的半径。"
+
+msgid "Uniform"
+msgstr "均匀"
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Iterative"
+msgstr "迭代"
+
+msgid ""
+"Finds sample points so that the ball of given radius around each sample does "
+"not contain other samples, and the union of all balls contain all cloud "
+"points."
+msgstr ""
+"查找采样点，使每个采样点周围给定半径的球内不包含其他采样点，且所有球的并集包"
+"含所有点云中的点。"
+
+msgid ""
+"Subdivides the space on 3D grid, and return one sample point per grid cell."
+msgstr "在 3D 网格上细分空间，每个网格单元返回一个采样点。"
+
+msgid ""
+"Iteratively removes one point with minimal metric (describing distance to "
+"the closest point and previous nearby removals), thus allowing stopping at "
+"any given number of samples."
+msgstr ""
+"迭代地移除度量值最小的一个点（该度量值描述到最近点和先前附近移除点的距离），"
+"从而允许在任意给定数量的采样点处停止。"
+
+msgid "Select the algorithm of point sampling."
+msgstr "选择点采样的算法。"
+
+msgid "Voxel cell size."
+msgstr "体素单元大小。"
+
+msgid "Minimal distance between samples in planar regions before relaxation."
+msgstr "松弛前平面区域中采样点之间的最小距离。"
+
+msgid "Number of Samples"
+msgstr "采样数量"
+
+msgid "Target number of samples to be selected."
+msgstr "要选择的目标采样数量。"
+
+msgid ""
+"0 - same spacing everywhere.\n"
+"1 - much denser spacing in curved regions."
+msgstr ""
+"0 - 各处间距相同。\n"
+"1 - 曲面区域间距更密集。"
+
+msgid "Remove Others"
+msgstr "移除其他"
+
+msgid "Select sampled points."
+msgstr "选择采样点。"
+
+msgid "Remove not sampled points."
+msgstr "移除未采样的点。"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "What to do with the found samples."
+msgstr "如何处理找到的采样点。"
+
+msgid "Sort Points"
+msgstr "排序点"
+
+msgid ""
+"If checked process the points in lexicographical order, which gives tighter "
+"and more uniform samples. If unchecked process the points according to their "
+"ids, which is faster."
+msgstr ""
+"若选中，按字典顺序处理点，可获得更紧凑、更均匀的采样。若未选中，则按点的 ID "
+"处理，速度更快。"
+
+msgid ""
+"The number of post-processing iterations to move each sample toward the "
+"center of its Voronoi cell. It helps avoiding selection of outliers and "
+"sometimes improving the uniformity."
+msgstr ""
+"将每个采样点向其 Voronoi 单元中心移动的后处理迭代次数。它有助于避免选中离群"
+"点，有时也能提高均匀性。"
+
+msgid "Min Points In Sample"
+msgstr "采样中的最少点数"
+
+msgid ""
+"If a sample represents less than this number of input points then such "
+"sample will be discarded; it can be used to remove outliers."
+msgstr ""
+"如果一个采样代表的输入点数少于此值，则该采样将被丢弃；可用于移除离群点。"
+
+msgid "Average Values"
+msgstr "平均值"
+
+msgid ""
+"Instead of sampling existing points/normals/colors computes averaged points/"
+"normals/colors, which increases smoothness of the result."
+msgstr ""
+"不是对现有点/法线/颜色采样，而是计算平均点/法线/颜色，从而提高结果的平滑度。"
+
+msgid "Sample Points"
+msgstr "采样点"
+
+msgid "Specifies the number of objects to split this point cloud into"
+msgstr "指定将此点云拆分成的对象数量"
+
+msgid "Merge scans to one mesh"
+msgstr "将扫描合并为一个网格"
+
+msgid "If checked perform global registration of points objects"
+msgstr "若选中，对点对象执行全局配准"
+
+msgid "If checked perform points sampling"
+msgstr "若选中，执行点采样"
+
+msgid "Reset Normals"
+msgstr "重置法线"
+
+msgid "If checked perform removing and making new normals"
+msgstr "若选中，执行移除并重新生成法线"
+
+msgid "Remove Outliers"
+msgstr "移除离群点"
+
+msgid "If checked find and remove outliers points"
+msgstr "若选中，查找并移除离群点"
+
+msgid "If checked perform reducing noise"
+msgstr "若选中，执行降噪"
+
+msgid "Keep largest component"
+msgstr "保留最大组件"
+
+msgid "If checked remove all components except largest"
+msgstr "若选中，移除除最大组件外的所有组件"
+
+msgid "Save Debug Objects"
+msgstr "保存调试对象"
+
+msgid "If checked save objects after each step"
+msgstr "若选中，在每个步骤后保存对象"
+
+msgid "Make Normals"
+msgstr "生成法线"
+
+msgid "Outliers Points"
+msgstr "离群点"
+
+msgid "Count of find and remove outliers iterations"
+msgstr "查找并移除离群点的迭代次数"
+
+msgid "Points to Mesh"
+msgstr "点转网格"
+
+msgid "Merge Scans"
+msgstr "合并扫描"
+
+msgid "Scans to Mesh"
+msgstr "扫描转网格"
+
+msgid "Save normals"
+msgstr "保存法线"
+
+msgid "Point cover"
+msgstr "点覆盖"
+
+msgid "Target Point Distance"
+msgstr "目标点距离"
+
+msgid "Mesh to Points"
+msgstr "网格转点"
+
+msgid "Average Points Radius"
+msgstr "平均点半径"
+
+msgid ""
+"Maximum distance between a point and the nearest point of the same component "
+"so that a ball with such a radius contains on average this number of points."
+msgstr "点与同一组件中最近点之间的最大距离，使得该半径的球平均包含此数量的点。"
+
+msgid "Components not found"
+msgstr "未找到组件"
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr ""
+"初始对象中连通组件过多，因此每个输出对象最多可包含 {} 个组件。您可以选择任意"
+"输出对象并再次拆分。"
+
+msgid "Avg Influence Neighbours"
+msgstr "平均影响邻居数"
+
+msgid ""
+"Select distance of influence to have on average given number of points "
+"there. The more the value the smoother is the surface, but the processing "
+"takes longer."
+msgstr ""
+"选择影响距离，使其平均包含给定数量的点。值越大，表面越平滑，但处理时间越长。"
+
+msgid "Min Influence Neighbours"
+msgstr "最小影响邻居数"
+
+msgid ""
+"Minimum sum of influence weights from surrounding points for a triangle to "
+"appear, meaning that there shall be at least this number of points in close "
+"proximity."
+msgstr ""
+"出现一个三角形所需的来自周围点的影响权重最小总和，即附近至少应有此数量的点。"
+
+msgid "Fuse All in One"
+msgstr "全部融合为一个"
+
+msgid ""
+"Whether Fusion should fuse multiple point clouds into one mesh (selected) or "
+"into separate meshes (unselected)."
+msgstr ""
+"融合应将多个点云融合为一个网格（选中）还是融合为多个独立的网格（未选中）。"
+
+msgid "Preserve Point Clouds"
+msgstr "保留点云"
+
+msgid ""
+"If checked then original point clouds will remain in scene in addition to "
+"mesh results."
+msgstr "若选中，除网格结果外，原始点云也将保留在场景中。"
+
+msgid "Experimental Weights"
+msgstr "实验性权重"
+
+msgid "Use experimental weights to fill voxel values"
+msgstr "使用实验性权重填充体素值"
+
+msgid "Fuse"
+msgstr "融合"
+
+msgid "Fusion"
+msgstr "融合"
+
+msgid "Error merging points"
+msgstr "合并点时出错"
+
+msgid "Fusion Many in One"
+msgstr "多对一融合"
+
+msgid "All selected objects must be point clouds with normals"
+msgstr "所有选定对象必须是带法线的点云"
+
+msgid "Orient Normals"
+msgstr "定向法线"
+
+msgid "Closed Line"
+msgstr "闭合线"
+
+msgid "Whether to treat the points as closed or open line."
+msgstr "是将点视为闭合线还是开放线。"
+
+msgid "Points to Lines"
+msgstr "点转线"
+
+msgid "Add Offset-Lines from Points"
+msgstr "从点添加偏移线"
+
+msgid "Point cloud must have at least 3 points"
+msgstr "点云必须至少有 3 个点"
+
+msgid "Point cloud must have at most 100'000 points"
+msgstr "点云最多有 100'000 个点"
+
+msgid ""
+"Points will be sampled (added and removed) to reach approximately this "
+"distance between neighboring points."
+msgstr "点将被采样（添加和移除），以使相邻点之间的距离接近此值。"
+
+msgid "Create Point Cloud"
+msgstr "创建点云"
+
+msgid "Clone shown spline as new scene object"
+msgstr "将显示的样条线克隆为新的场景对象"
+
+msgid "Add Resampled Point Cloud"
+msgstr "添加重采样点云"
+
+msgid "Specify the minimal radius of the neigbourhood ball"
+msgstr "指定邻域球的最小半径"
+
+msgid "Num. Neighbours"
+msgstr "邻居数"
+
+msgid "Specify the minimal number of neighbours in the neigbourhood"
+msgstr "指定邻域中邻居的最小数量"
+
+msgid ""
+"Radius of neighborhood around each point to consider for building local "
+"triangulation."
+msgstr "用于构建局部三角化时考虑的每个点周围邻域的半径。"
+
+msgid "Actual Radius"
+msgstr "实际半径"
+
+msgid "Ball radius actually used in neighbours search after increase if any."
+msgstr "在邻居搜索中实际使用的球半径（如有增加则为增加后的值）。"
+
+msgid "Points in Ball"
+msgstr "球内的点"
+
+msgid ""
+"The number of points within the ball of given (or increased) radius around "
+"the center, excluding the center itself."
+msgstr "以中心为球心、给定（或增加后）半径的球内的点数，不包括中心点本身。"
+
+msgid "Center Point Id"
+msgstr "中心点 ID"
+
+msgid "Local Neighbours"
+msgstr "局部邻居"
+
+msgid "Within Radius"
+msgstr "在半径内"
+
+msgid "Do not show any point ids."
+msgstr "不显示任何点 ID。"
+
+msgid "Show incident point ids for all triangles around the center."
+msgstr "显示中心周围所有三角形的关联点 ID。"
+
+msgid ""
+"Show all point ids within ball of given (or increased) radius around the "
+"center."
+msgstr "显示以中心为球心、给定（或增加后）半径的球内所有点的 ID。"
+
+msgid "Show Point IDs"
+msgstr "显示点 ID"
+
+msgid "Alpha Shape"
+msgstr "Alpha 形状"
+
+msgid "Show Plane"
+msgstr "显示平面"
+
+msgid "Trust Normals"
+msgstr "信任法线"
+
+msgid "Automatic Radius Increase"
+msgstr "自动增加半径"
+
+msgid "Delone steps"
+msgstr "Delone 步骤"
+
+msgid "1 Repetition"
+msgstr "1 次重复"
+
+msgid "2 Repetitions"
+msgstr "2 次重复"
+
+msgid "3 Repetitions"
+msgstr "3 次重复"
+
+msgid "Best combination"
+msgstr "最佳组合"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in one local triangulation "
+"only."
+msgstr "从仅出现在一个局部三角化中的三角形创建无方向网格。"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in exactly two local "
+"triangulations."
+msgstr "从恰好出现在两个局部三角化中的三角形创建无方向网格。"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in three local "
+"triangulations."
+msgstr "从出现在三个局部三角化中的三角形创建无方向网格。"
+
+msgid ""
+"Create oriented mesh from triangles with as many repetitions as possible."
+msgstr "使用尽可能多重复次数的三角形创建有方向的网格。"
+
+msgid "Include Triangles"
+msgstr "包含三角形"
+
+msgid "Triangulate"
+msgstr "三角化"
+
+msgid "Sample"
+msgstr "采样"
+
+msgid "Angle"
+msgstr "角度"
+
+msgid "Minimal angle between neighbor points to treat them as boundary."
+msgstr "将邻近点视为边界的最小夹角。"
+
+msgid "Select Boundary Points"
+msgstr "选择边界点"
+
+msgid "Outliers Points update settings"
+msgstr "更新离群点设置"
+
+msgid "Max Outlier Component Size"
+msgstr "最大离群组件大小"
+
+msgid "Maximum points in the outlier component"
+msgstr "离群组件中的最大点数"
+
+msgid "Max Neighbors"
+msgstr "最大邻居数"
+
+msgid "Maximum number of adjacent points for an outlier point"
+msgstr "离群点的最大邻接点数"
+
+msgid "neighbors"
+msgstr "邻居"
+
+msgid "points"
+msgstr "点"
+
+msgid "Min Height Ratio"
+msgstr "最小高度比"
+
+msgid ""
+"Minimum distance (as proportion of search radius) to the approximate surface "
+"from outliers point"
+msgstr "离群点到近似表面的最小距离（占搜索半径的比例）"
+
+msgid "Min Angle Diff"
+msgstr "最小角度差"
+
+msgid "Minimum angle of difference of normal at outlier points"
+msgstr "离群点处法线的最小角度差"
+
+msgid "Select Outliers"
+msgstr "选择离群点"
+
+msgid "Empty Point Cloud."
+msgstr "点云为空。"
+
+msgid "Remove Outliers Points"
+msgstr "移除离群点"
+
+msgid "MeshInspector Logo"
+msgstr "MeshInspector 徽标"
+
+msgid "Company Logo"
+msgstr "公司徽标"
+
+msgid "Set Logo"
+msgstr "设置徽标"
+
+msgid "Prepared for:"
+msgstr "准备给："
+
+msgid "Select Photo"
+msgstr "选择照片"
+
+msgid "Remove Photo"
+msgstr "移除照片"
+
+msgid "Path to photo"
+msgstr "照片路径"
+
+msgid "Notes"
+msgstr "备注"
+
+msgid "Need any Point Measurement Object"
+msgstr "需要任意点测量对象"
+
+msgid "Need any Distance Measurement Object"
+msgstr "需要任意距离测量对象"
+
+msgid "Comparisons"
+msgstr "比较"
+
+msgid "Available only when the \"Surface Deviation\" tool is active."
+msgstr "仅在“表面偏差”工具激活时可用。"
+
+msgid "Screenshots"
+msgstr "屏幕截图"
+
+msgid "Save to File"
+msgstr "保存到文件"
+
+msgid "Set Test Values"
+msgstr "设置测试值"
+
+msgid "Full area: "
+msgstr "全部面积："
+
+msgid "Scalar type:"
+msgstr "标量类型："
+
+msgid "Absolute"
+msgstr "绝对"
+
+msgid "Compare type:"
+msgstr "比较类型："
+
+msgid "Less"
+msgstr "小于"
+
+msgid "Greater"
+msgstr "大于"
+
+msgid "Select by Area"
+msgstr "按面积选择"
+
+msgid "Camera Facing Selection: add selection"
+msgstr "面向相机的选择：添加选择"
+
+msgid "Camera Facing Selection: reduce selection"
+msgstr "面向相机的选择：减少选择"
+
+msgid "Delete Selection"
+msgstr "删除选区"
+
+msgid "Dilate selection regions"
+msgstr "膨胀选择区域"
+
+msgid "Erode selection regions"
+msgstr "侵蚀选择区域"
+
+msgid "Dilate & Erode selection regions"
+msgstr "膨胀并侵蚀选择区域"
+
+msgid "Erode & Dilate selection regions"
+msgstr "侵蚀并膨胀选择区域"
+
+msgid "Dilation distance "
+msgstr "膨胀距离"
+
+msgid "Erosion distance"
+msgstr "腐蚀距离"
+
+msgid "Dilate"
+msgstr "膨胀"
+
+msgid "Erode"
+msgstr "腐蚀"
+
+msgid "Dilate & Erode"
+msgstr "膨胀与腐蚀"
+
+msgid "Erode & Dilate"
+msgstr "腐蚀与膨胀"
+
+msgid ""
+"Unable to erode or dilate if all the triangles of ObjectMesh are already "
+"selected"
+msgstr "如果 ObjectMesh 的所有三角形都已选中，则无法进行腐蚀或膨胀"
+
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints 没有任何选中的点"
+
+msgid ""
+"Unable to erode or dilate if all the points of ObjectPoints are already "
+"selected"
+msgstr "如果 ObjectPoints 的所有点都已选中，则无法进行腐蚀或膨胀"
+
+msgid "Dilate selection edges"
+msgstr "膨胀选择边"
+
+msgid "Erode selection edges"
+msgstr "侵蚀选择边"
+
+msgid ""
+"Unable to erode or dilate if all the edges of ObjectMesh are already selected"
+msgstr "如果 ObjectMesh 的所有边都已选中，则无法进行腐蚀或膨胀"
+
+msgid "Include backfaces"
+msgstr "包括背面"
+
+msgid "Include only visible"
+msgstr "仅包括可见"
+
+msgid "Include boundaries"
+msgstr "包括边界"
+
+msgid "Include mesh boundaries incident with selected edges."
+msgstr "包括与选定边相邻的网格边界。"
+
+#, c-format
+msgid ""
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"无 - 取消选择先前的\n"
+"%s - 添加到先前的\n"
+"Shift - 在先前的中取消选择\n"
+"%s+Shift - 反转选择"
+
+#, c-format
+msgid ""
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"无 - 添加到先前的\n"
+"%s - 取消选择先前的\n"
+"Shift - 在先前的中取消选择\n"
+"%s+Shift - 反转选择"
+
+msgid "Press Enter or Select button to make selection"
+msgstr "按 Enter 或选择按钮以进行选择"
+
+msgid "Pick polyline on surface first."
+msgstr "请先在表面上拾取折线。"
+
+msgid "Edge Selector: new selection"
+msgstr "边选择器：新建选择"
+
+msgid "Edge Selector: add selection"
+msgstr "边选择器：添加选择"
+
+msgid "Edge Selector: reduce selection"
+msgstr "边选择器：减少选择"
+
+msgid "Edge Selector: mirror selection"
+msgstr "边选择器：镜像选择"
+
+msgid "Edge Selector: Polyline"
+msgstr "边选择器: 折线"
+
+msgid ""
+"Unable to expand if all the triangles of ObjectMesh are already selected"
+msgstr "如果 ObjectMesh 的所有三角形都已选中，则无法扩展"
+
+msgid "Expand to Components"
+msgstr "扩展到组件"
+
+msgid "Expand selected edges"
+msgstr "扩展选定边"
+
+msgid "Unable to expand if all the edges of ObjectMesh are already selected"
+msgstr "如果 ObjectMesh 的所有边都已选中，则无法扩展"
+
+msgid "Expand Selection"
+msgstr "扩展选区"
+
+msgid "Single face"
+msgstr "单个面"
+
+msgid "Polygon Model"
+msgstr "多边形模型"
+
+msgid "Loop Model"
+msgstr "环形模型"
+
+msgid "Loop Screen"
+msgstr "环形屏幕"
+
+msgid "Brush Screen"
+msgstr "笔刷屏幕"
+
+msgid "Select one triangle under the mouse cursor."
+msgstr "选择鼠标光标下的一个三角形。"
+
+msgid ""
+"Define selected region boundary on the surface by mouse clicking of "
+"intermediate points."
+msgstr "通过鼠标单击中间点在表面上定义选定区域的边界。"
+
+msgid ""
+"Define selected region boundary on the surface by holding mouse button and "
+"moving."
+msgstr "通过按住鼠标按钮并移动在表面上定义选定区域的边界。"
+
+msgid ""
+"Define selected region boundary on the screen by holding mouse button and "
+"moving."
+msgstr "通过按住鼠标按钮并移动在屏幕上定义选定区域的边界。"
+
+msgid ""
+"Define selected region on the screen by holding mouse button and moving."
+msgstr "通过按住鼠标按钮并移动在屏幕上定义选定区域。"
+
+msgid "Choose the method of selection."
+msgstr "选择选择方式。"
+
+msgid "The width of region boundary drawn on surface."
+msgstr "在表面上绘制的区域边界宽度。"
+
+msgid "Select Back Triangles"
+msgstr "选择背面三角形"
+
+msgid "Whether to select triangles oriented away from the camera."
+msgstr "是否选择朝向远离相机方向的三角形。"
+
+msgid "Select Only Visible"
+msgstr "仅选择可见"
+
+msgid ""
+"Whether to select only visible triangles or also the triangles occluded by "
+"others."
+msgstr "是仅选择可见三角形，还是同时选择被其他三角形遮挡的三角形。"
+
+msgid "Brush radius"
+msgstr "笔刷半径"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"按住：\n"
+"无 - 取消选择先前的\n"
+"%s - 添加到先前的\n"
+"Shift - 在先前的中取消选择\n"
+"%s+Shift - 反转选择"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"按住：\n"
+"无 - 添加到先前的\n"
+"%s - 取消选择先前的\n"
+"Shift - 在先前的中取消选择\n"
+"%s+Shift - 反转选择"
+
+msgid "Click LMB on first point or press ENTER to make selection"
+msgstr "在第一个点上单击鼠标左键或按 ENTER 进行选择"
+
+msgid "Select Triangles"
+msgstr "选择三角形"
+
+msgid "Select More Triangles"
+msgstr "选择更多三角形"
+
+msgid "Select Less Triangles"
+msgstr "选择更少三角形"
+
+msgid "Select Other Triangles"
+msgstr "选择其他三角形"
+
+msgid "Triangle Selector: Polyline"
+msgstr "三角形选择器: 折线"
+
+msgid ""
+"How much to expand triangle selection: 0% - no expansion, 100% - maximal "
+"expansion."
+msgstr "三角形选择的扩展程度：0% - 不扩展，100% - 最大程度扩展。"
+
+msgid "Smart Expand"
+msgstr "智能扩展"
+
+msgid "Select Region Part"
+msgstr "选择区域部分"
+
+msgid "Select not Region Part"
+msgstr "选择非区域部分"
+
+msgid "Converts selected triangles in region seeds."
+msgstr "将选定的三角形转换为区域种子。"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "back region selection"
+msgstr "返回区域选择"
+
+msgid "Converts region seeds in selected triangles."
+msgstr "将区域种子转换为选定的三角形。"
+
+msgid "Manually Select not Region Part"
+msgstr "手动选择非区域部分"
+
+msgid ""
+"If unselected, determine not-region part automatically based on manually "
+"selected region part."
+msgstr "若未选中，则根据手动选择的区域部分自动确定非区域部分。"
+
+msgid "Select not Region"
+msgstr "选择非区域"
+
+msgid "Converts selected triangles in not-region seeds."
+msgstr "将选定的三角形转换为非区域种子。"
+
+msgid "back not region selection"
+msgstr "返回非区域选择"
+
+msgid "Converts not-region seeds in selected triangles."
+msgstr "将非区域种子转换为选定的三角形。"
+
+msgid "Uncertainty Distance"
+msgstr "不确定性距离"
+
+msgid ""
+"The distance between user-selected region part and automatically selected "
+"not-region part."
+msgstr "用户选定的区域部分与自动选定的非区域部分之间的距离。"
+
+msgid ""
+"1. Select with Face Selector:\n"
+" a. Region triangles (shown in green)\n"
+" b. Not-region triangles (shown in gray)\n"
+"2. Click \"Select\""
+msgstr ""
+"1. 使用面选择器选择：\n"
+" a. 区域三角形（以绿色显示）\n"
+" b. 非区域三角形（以灰色显示）\n"
+"2. 单击“选择”"
+
+msgid "Select Region"
+msgstr "选择区域"
+
+msgid "Inverse selection"
+msgstr "反选"
+
+msgid "Partition Mesh"
+msgstr "分割网格"
+
+msgid "Partitioner"
+msgstr "分区器"
+
+msgid "Color Segments"
+msgstr "为分段着色"
+
+msgid "Uncolor Segments"
+msgstr "取消分段着色"
+
+msgid "Any Curved"
+msgstr "任意弯曲"
+
+msgid ""
+"Segment boundaries tend to pass along concave or convex edges (but not edges "
+"inside planar regions)."
+msgstr "分段边界倾向于沿凹边或凸边通过（但不会沿平面区域内的边）。"
+
+msgid "Concave"
+msgstr "凹"
+
+msgid "Segment boundaries tend to pass along concave edges."
+msgstr "分段边界倾向于沿凹边通过。"
+
+msgid "Convex"
+msgstr "凸"
+
+msgid "Segment boundaries tend to pass along convex edges."
+msgstr "分段边界倾向于沿凸边通过。"
+
+msgid "Num Segments"
+msgstr "分段数"
+
+msgid "Select the number of segments to partition your mesh into."
+msgstr "选择要将网格分割成的段数。"
+
+msgid "Color the Segments"
+msgstr "为分段着色"
+
+msgid ""
+"If selected then all triangles of one segment will receive same distinctive "
+"color, otherwise only segment boundaries will be shown with selected edges."
+msgstr ""
+"若选中，同一分段中的所有三角形将获得相同的特色颜色；否则仅以选定边显示分段边"
+"界。"
+
+msgid "Select boundary edges: add selection"
+msgstr "选择边界边：添加选择"
+
+msgid "Select boundary faces: add selection"
+msgstr "选择边界面：添加选择"
+
+msgid "Deviation from plane at edge:"
+msgstr "边处与平面的偏差："
+
+msgid "Degrees"
+msgstr "度"
+
+msgid ""
+"If deviation form common plane for two faces is greater than this value - "
+"shared edge is marked as crease (or selected)."
+msgstr ""
+"若两个面相对于公共平面的偏差大于此值 - 共享边将被标记为折痕（或被选中）。"
+
+msgid "Show as:"
+msgstr "显示为："
+
+msgid "Crease edges"
+msgstr "折痕边"
+
+msgid ""
+"Light and shades are not interpolated among sharp edges (only visible if "
+"flat shading is disabled)."
+msgstr "光照和阴影不会跨锐边插值（仅在禁用平面着色时可见）。"
+
+msgid "Selected edges"
+msgstr "选定边"
+
+msgid "Select sharp edges on mesh but does not affect light and shades."
+msgstr "选择网格上的锐边，但不影响光照和阴影。"
+
+msgid ""
+"Connected components of the crease (or selected ) edges with summary length "
+"less than critical value will be excluded"
+msgstr "折痕（或选定）边的连通分量中总长度小于临界值的将被排除"
+
+msgid "How many times filtering is applied"
+msgstr "过滤应用的次数"
+
+msgid "Filter components"
+msgstr "过滤组件"
+
+msgid ""
+"If checked then connected components with summary length of their edges less "
+"than Critical Length will be excluded"
+msgstr "若选中，则边总长度小于临界长度的连通分量将被排除"
+
+msgid "Filter branches"
+msgstr "过滤分支"
+
+msgid "If checked then branches shorter than Critical Length will be excluded"
+msgstr "若选中，则短于临界长度的分支将被排除"
+
+msgid "Update Creases"
+msgstr "更新折痕"
+
+msgid "Recompute crease edges using current settings"
+msgstr "使用当前设置重新计算折痕边"
+
+msgid "Select Edges by Angle"
+msgstr "按角度选择边"
+
+msgid "Select Creases by Angle"
+msgstr "按角度选择折痕"
+
+msgid "Min Aspect Ratio"
+msgstr "最小长宽比"
+
+msgid "Minimum aspect ration of the triangle to be selected."
+msgstr "要选择的三角形的最小长宽比。"
+
+msgid "Boundary Only"
+msgstr "仅边界"
+
+msgid "Select only triangles with at least one boundary edge."
+msgstr "仅选择至少有一条边界边的三角形。"
+
+msgid "Select Degeneracies"
+msgstr "选择退化三角形"
+
+msgid "Append to Selection"
+msgstr "追加到选区"
+
+msgid ""
+"If set - adds new selection to existing, otherwise overwrite existing "
+"selection."
+msgstr "若设置 - 将新选择添加到现有选择，否则覆盖现有选择。"
+
+msgid ""
+"Expands disorientations to whole components if disoriented area are larger "
+"of following threshold."
+msgstr "若错向区域大于以下阈值，则将错向扩展至整个组件。"
+
+msgid "Select Disorientations"
+msgstr "选择错向"
+
+msgid "Multiple Edges Selection: select"
+msgstr "多边选择：选择"
+
+msgid "Min Angle"
+msgstr "最小角度"
+
+msgid ""
+"Minimal excess of triangle's summed angles with 3 neighbor triangles. The "
+"larger minimal angle the less number of triangles will be found."
+msgstr ""
+"三角形与 3 个相邻三角形的总角度差的最小值。最小角度越大，找到的三角形越少。"
+
+msgid "Select Not Smooth Triangles"
+msgstr "选择非平滑三角形"
+
+msgid "Select Outer Layer"
+msgstr "选择外层"
+
+msgid "Three components of direction vector"
+msgstr "方向向量的三个分量"
+
+msgid "Layer Step"
+msgstr "层步距"
+
+msgid "Distance between layers"
+msgstr "层之间的距离"
+
+msgid "Max Overhang Distance"
+msgstr "最大悬垂距离"
+
+msgid "Maximum overhang distance within a layer"
+msgstr "层内的最大悬垂距离"
+
+msgid "Smooth Out Overhangs"
+msgstr "平滑悬垂"
+
+msgid "Remove small overhang artifacts"
+msgstr "移除小的悬垂瑕疵"
+
+msgid "Overhang Selection: faces"
+msgstr "悬垂选择：面"
+
+msgid "Lasso"
+msgstr "套索"
+
+msgid "Rect"
+msgstr "矩形"
+
+msgid "Polygon"
+msgstr "多边形"
+
+msgid "Brush"
+msgstr "笔刷"
+
+msgid "Pick"
+msgstr "拾取"
+
+msgid "Select triangles/points within a shape bounded by a drawn curve"
+msgstr "选择由绘制曲线包围的形状内的三角形/点"
+
+msgid "Select triangles/points within a rectangle defined by a mouse drag"
+msgstr "选择由鼠标拖动定义的矩形内的三角形/点"
+
+msgid "Select triangles/points within polygon drawn by its vertices"
+msgstr "选择由顶点绘制的多边形内的三角形/点"
+
+msgid "Select triangles/points under a drawn curve"
+msgstr "选择绘制曲线下的三角形/点"
+
+msgid "Select a single triangle/point by a mouse click"
+msgstr "通过鼠标单击选择单个三角形/点"
+
+msgid "Select All Primitives"
+msgstr "选择所有图元"
+
+msgid "Change brush radius in scene"
+msgstr "更改场景中的笔刷半径"
+
+msgid "Close Polyline"
+msgstr "闭合折线"
+
+#, c++-format
+msgid "Select Primitives by {}"
+msgstr "按 {} 选择图元"
+
+msgid "Select Only Visible Triangles"
+msgstr "仅选择可见三角形"
+
+msgid "Brush Radius"
+msgstr "笔刷半径"
+
+msgid "Self-intersections"
+msgstr "自相交"
+
+msgid "Select triangles intersecting with other triangles"
+msgstr "选择与其他三角形相交的三角形"
+
+msgid "Inside part"
+msgstr "内部部分"
+
+msgid "Select triangles located inside (not on the boundary) of the surface"
+msgstr "选择位于曲面内部（而非边界上）的三角形"
+
+msgid "Overlaps"
+msgstr "重叠"
+
+msgid "Select triangles having oppositely oriented triangles close by"
+msgstr "选择附近有反向三角形的三角形"
+
+msgid "Add to existing selection"
+msgstr "添加到现有选区"
+
+msgid "Whether to add triangles to existing selection or replace it"
+msgstr "是将三角形添加到现有选区还是替换它"
+
+msgid "Touch is Intersection"
+msgstr "接触视为相交"
+
+msgid ""
+"Select not only intersecting triangles, but the triangles that only touch "
+"one another."
+msgstr "不仅选择相交的三角形，还选择仅相互接触的三角形。"
+
+msgid "Select Self Intersections"
+msgstr "选择自相交"
+
+msgid "Select incident faces"
+msgstr "选择关联面"
+
+msgid "ObjectMesh doesn't have unique selected edges or creases"
+msgstr "ObjectMesh 没有唯一的选定边或折痕"
+
+msgid "Swap creases with selected edges"
+msgstr "交换折痕与选定边"
+
+msgid "Update selection"
+msgstr "更新选区"
+
+msgid "Append selection"
+msgstr "追加选区"
+
+msgid "Update selection by default, append selection while holding "
+msgstr "默认更新选区，按住时追加选区 "
+
+msgid "Append selection by default, update selection while holding "
+msgstr "默认追加选区，按住时更新选区 "
+
+msgid "Default Selection Behavior"
+msgstr "默认选择行为"
+
+msgid "NONE"
+msgstr "无"
+
+msgid "Unselect in Previous"
+msgstr "在先前的中取消选择"
+
+msgid "Reverse Selection"
+msgstr "反转选择"
+
+msgid "Mesh should have selected triangles."
+msgstr "网格应有选定的三角形。"
+
+msgid "Point cloud should have selected points."
+msgstr "点云应有选定的点。"
+
+msgid "Shrink selected edges"
+msgstr "收缩选定边"
+
+msgid "Unable to shrink if all the edges of ObjectMesh are already selected"
+msgstr "如果 ObjectMesh 的所有边都已选中，则无法收缩"
+
+msgid "Shrink Selection"
+msgstr "收缩选区"
+
+msgid "ObjectMesh doesn't have any selected faces"
+msgstr "ObjectMesh 没有任何选定的面"
+
+msgid "Unable to shrink if all the faces of ObjectMesh are already selected"
+msgstr "如果 ObjectMesh 的所有面都已选中，则无法收缩"
+
+msgid "Clear selected edges"
+msgstr "清除选定边"
+
+msgid "Clear selected primitives"
+msgstr "清除选定图元"
+
+msgid "Add fillers"
+msgstr "添加填充物"
+
+msgid "Overheal Mesh"
+msgstr "强力修复网格"
+
+msgid "Place Meshes"
+msgstr "放置网格"
+
+msgid "Unite Connectors"
+msgstr "合并连接器"
+
+msgid "Subtract Connectors"
+msgstr "减去连接器"
+
+msgid "Place Mesh: Remove Mesh"
+msgstr "放置网格：移除网格"
+
+msgid "Place Mesh: Add Mesh"
+msgstr "放置网格：添加网格"
+
+msgid "Place Mesh: Modify Mesh"
+msgstr "放置网格：修改网格"
+
+msgid "Cloud Point's XYZ"
+msgstr "点云点的 XYZ"
+
+msgid "Cloud Point's Normal"
+msgstr "点云点的法线"
+
+msgid "SolarRadiation"
+msgstr "太阳辐射"
+
+msgid "Apply Stamp"
+msgstr "应用印章"
+
+msgid "Terrain to Mesh"
+msgstr "地形转网格"
+
+msgid "Open ZIP file"
+msgstr "打开 ZIP 文件"
+
+msgid "Create test volume"
+msgstr "创建测试体"
+
+msgid "Test volume resampling by interpolation"
+msgstr "通过插值测试体重采样"
+
+msgid "Test volume interpolation"
+msgstr "测试体插值"
+
+msgid "Test small volumes resampling"
+msgstr "测试小体重采样"
+
+msgid "Authorization is disabled."
+msgstr "授权已禁用。"
+
+msgid "Use arrow keys on keyboard to move camera in space"
+msgstr "使用键盘方向键在空间中移动相机"
+
+msgid "Speed Modifier"
+msgstr "速度修饰符"
+
+msgid "In orthographic mode moving up/down instead of moving forward/backward"
+msgstr "在正交模式下使用上/下移动代替前进/后退"
+
+msgid "In perspective mode moving forward/backward instead of moving up/down"
+msgstr "在透视模式下使用前进/后退代替上/下移动"
+
+msgid "Current viewport"
+msgstr "当前视口"
+
+msgid "Orthographic"
+msgstr "正交"
+
+msgid "Perspective"
+msgstr "透视"
+
+msgid "Projection Mode"
+msgstr "投影模式"
+
+msgid "Dual Marching Cubes"
+msgstr "对偶移动立方体"
+
+msgid ""
+"Check to construct iso-surface using Dual Marching Cubes algorithm, and "
+"remove check to construct iso-surface using Standard Marching Cubes algorithm"
+msgstr ""
+"勾选以使用对偶移动立方体算法构建等值面，取消勾选则使用标准移动立方体算法"
+
+msgid ""
+"The surface representing current voxel object will pass via this value in "
+"voxels"
+msgstr "表示当前体素对象的表面将通过体素中的此值"
+
+msgid "Ratio scale"
+msgstr "比例缩放"
+
+msgid "Scale not depending on total voxels count"
+msgstr "不依赖于总体素数的缩放"
+
+msgid "Volume rendering should be disabled."
+msgstr "应禁用体绘制。"
+
+msgid "Change Iso-Surface"
+msgstr "更改等值面"
+
+msgid "Create Voxels"
+msgstr "创建体素"
+
+msgid "Set number of repetitions"
+msgstr "设置重复次数"
+
+msgid "Toggle preview."
+msgstr "切换预览。"
+
+msgid "Result object has incorrect type"
+msgstr "结果对象类型不正确"
+
+msgid "Generate Lattices"
+msgstr "生成晶格"
+
+msgid "Please reset the transform of the object"
+msgstr "请重置对象的变换"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Selected mesh"
+msgstr "选定网格"
+
+msgid "Cut By Rect"
+msgstr "按矩形剪切"
+
+msgid "Add Mask"
+msgstr "添加蒙版"
+
+msgid "Subtract Rect"
+msgstr "减去矩形"
+
+msgid "Cubical voxels"
+msgstr "立方体素"
+
+msgid "Whether each voxel has same width, height and depth"
+msgstr "每个体素是否具有相同的宽度、高度和深度"
+
+msgid "Width, height and depth of each voxel in new object"
+msgstr "新对象中每个体素的宽度、高度和深度"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Signed"
+msgstr "有符号"
+
+msgid ""
+"Voxels will be filled with signed distances to input mesh: negative - inside "
+"and positive - outside"
+msgstr "体素将填入到输入网格的有符号距离：负值 - 内部，正值 - 外部"
+
+msgid "Unsigned"
+msgstr "无符号"
+
+msgid "Voxels will be filled with absolute distances to input mesh"
+msgstr "体素将填入到输入网格的绝对距离"
+
+msgid "Sign by Winding Rule"
+msgstr "按环绕规则确定符号"
+
+msgid ""
+"Whether the sign of distance is determined by generalized winding rule. It "
+"is forcedly On if the mesh has holes."
+msgstr "距离的符号是否由广义环绕规则决定。若网格有孔，则强制开启。"
+
+msgid "Mesh to Voxels"
+msgstr "网格转体素"
+
+msgid "Lattice Filling"
+msgstr "晶格填充"
+
+msgid "Filling Mode"
+msgstr "填充模式"
+
+msgid "Inner"
+msgstr "内部"
+
+msgid "Inside"
+msgstr "内部"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "Filling"
+msgstr "填充中"
+
+msgid "Result"
+msgstr "结果"
+
+msgid ""
+"The requested parameters require too much memory. Consider lowering the "
+"quality, increasing the interval or density."
+msgstr "请求的参数需要过多内存。请考虑降低质量、增加间距或密度。"
+
+msgid ""
+"Requires either single component or two nested components of different "
+"orientation."
+msgstr "需要单个组件或两个朝向不同的嵌套组件。"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Create Instances"
+msgstr "创建实例"
+
+msgid "Smooth Instances"
+msgstr "平滑实例"
+
+msgid "CBCT Teeth Segmentation"
+msgstr "CBCT 牙齿分割"
+
+msgid "Min corner:"
+msgstr "最小角点："
+
+msgid "Dims:"
+msgstr "尺寸："
+
+msgid "Create New Object"
+msgstr "创建新对象"
+
+msgid "Save to .json"
+msgstr "保存为 .json"
+
+msgid "Update active voxels box"
+msgstr "更新活动体素框"
+
+msgid "Add cropped volume"
+msgstr "添加裁剪后的体"
+
+msgid ""
+"One ObjectVoxels and optionally one ObjectMesh with valid models must be "
+"selected"
+msgstr "必须选择一个具有有效模型的 ObjectVoxels，可选择一个 ObjectMesh"
+
+msgid "Voxels"
+msgstr "体素"
+
+msgid "Auto Switch to Selected Objects"
+msgstr "自动切换到选定对象"
+
+msgid "Automatically switch to other objects when they are selected"
+msgstr "选中其他对象时自动切换到该对象"
+
+msgid "Click on the object to see how voxels density behaves near the surface"
+msgstr "单击对象以查看体素密度在表面附近的表现"
+
+msgid "Correction"
+msgstr "校正"
+
+msgid "Show Volume Values on Mesh"
+msgstr "在网格上显示体值"
+
+msgid "Measure voxel volume values on mesh vertices and show as color scale"
+msgstr "测量网格顶点上的体素体值并以颜色刻度显示"
+
+msgid "Show Derivatives on Mesh"
+msgstr "在网格上显示导数"
+
+msgid ""
+"Measure voxel volume value derivatives on mesh vertices (along mesh normals) "
+"and show as color scale"
+msgstr "测量网格顶点上的体素体值导数（沿网格法线）并以颜色刻度显示"
+
+msgid "Use Approximation"
+msgstr "使用近似"
+
+msgid ""
+"If selected, derivatives are approximated from the neighborhood of the "
+"point. Otherwise, it is simply a difference of values by the sides of the "
+"surface"
+msgstr "若选中，则根据点的邻域近似计算导数。否则，仅为表面两侧值的差值"
+
+msgid "Highlight Uncorrected Points"
+msgstr "高亮未校正的点"
+
+msgid "Highlight uncorrected points"
+msgstr "高亮未校正的点"
+
+msgid "Values range"
+msgstr "值范围"
+
+msgid "Values Range:"
+msgstr "值范围："
+
+msgid "Minimum"
+msgstr "最小"
+
+msgid "Average"
+msgstr "平均"
+
+msgid "Maximum"
+msgstr "最大"
+
+msgid "Display Range:"
+msgstr "显示范围："
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Update color map according to the range of values"
+msgstr "根据值范围更新颜色映射"
+
+msgid "Adjust mesh to voxels volume"
+msgstr "将网格调整到体素体积"
+
+msgid "Change ISO should not be active."
+msgstr "“更改 ISO”不应处于激活状态。"
+
+msgid "Object Section should not be active."
+msgstr "“对象截面”不应处于激活状态。"
+
+#, c++-format
+msgid ""
+"\n"
+"({}+LMB to set value by keyboard)"
+msgstr ""
+"\n"
+"（{}+鼠标左键 通过键盘设置值）"
+
+msgid "Voxels with value lower than minimum are transparent."
+msgstr "值低于最小值的体素为透明。"
+
+msgid "Voxels with value higher than maximum are transparent."
+msgstr "值高于最大值的体素为透明。"
+
+msgid "Opacity limit"
+msgstr "不透明度上限"
+
+msgid "Opacity limit of voxels in range."
+msgstr "范围内体素的不透明度上限。"
+
+msgid "Gray shades"
+msgstr "灰阶"
+
+msgid "Rainbow"
+msgstr "彩虹"
+
+msgid "One color"
+msgstr "单色"
+
+msgid "Color look up table"
+msgstr "颜色查找表"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Constant"
+msgstr "常数"
+
+msgid "Linear increasing"
+msgstr "线性递增"
+
+msgid "Linear decreasing"
+msgstr "线性递减"
+
+msgid "Opacity mode"
+msgstr "不透明度模式"
+
+msgid "Linear"
+msgstr "线性"
+
+msgid "Discrete"
+msgstr "离散"
+
+msgid "Filter type"
+msgstr "过滤器类型"
+
+msgid "Value Gradient"
+msgstr "值梯度"
+
+msgid "Alpha Gradient"
+msgstr "Alpha 梯度"
+
+msgid "Shading type"
+msgstr "着色类型"
+
+msgid "Clip Plane"
+msgstr "剪切平面"
+
+msgid "Active Voxels"
+msgstr "活动体素"
+
+msgid "Voxels Cut Mode"
+msgstr "体素剪切模式"
+
+msgid "Clip volume"
+msgstr "剪切体"
+
+msgid "Hold mouse over section plane to see voxel value in the section point."
+msgstr "将鼠标悬停在截面上以查看截面点处的体素值。"
+
+#, c-format
+msgid "%s+LMB on section plane to pick volume ISO value."
+msgstr "在截面上 %s+鼠标左键 拾取体的 ISO 值。"
+
+msgid "Press and hold LMB to make screen lasso to select active voxels."
+msgstr "按住鼠标左键以在屏幕上套索选择活动体素。"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - select from previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous"
+msgstr ""
+"按住：\n"
+"无 - 从先前的中选择\n"
+"%s - 添加到先前的\n"
+"Shift - 在先前的中取消选择"
+
+msgid "Reset Active Voxels"
+msgstr "重置活动体素"
+
+msgid "Change ISO"
+msgstr "更改 ISO"
+
+msgid "Voxels Derivative"
+msgstr "体素导数"
+
+msgid "Slice YZ"
+msgstr "YZ 切片"
+
+msgid "Slice ZX"
+msgstr "ZX 切片"
+
+msgid "Slice XY"
+msgstr "XY 切片"
+
+msgid "Modifier"
+msgstr "修饰符"
+
+msgid "IO scan picking mode"
+msgstr "IO 扫描拾取模式"
+
+msgid "Show tooltip"
+msgstr "显示工具提示"
+
+msgid "Pen"
+msgstr "钢笔"
+
+msgid "Paths"
+msgstr "路径"
+
+msgid "Seeds opacity"
+msgstr "种子不透明度"
+
+msgid "Clear seeds"
+msgstr "清除种子"
+
+msgid "LMB IO crown to add inside seeds"
+msgstr "在 IO 牙冠上单击鼠标左键以添加内部种子"
+
+#, c-format
+msgid "%s+LMB IO crown to add outside seeds"
+msgstr "%s+鼠标左键 在 IO 牙冠上添加外部种子"
+
+msgid "LMB to select slice"
+msgstr "鼠标左键选择切片"
+
+#, c-format
+msgid "%s+LMB to pick path start"
+msgstr "%s+鼠标左键 拾取路径起点"
+
+#, c-format
+msgid "%s+LMB to pick path finish"
+msgstr "%s+鼠标左键 拾取路径终点"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "RMB to draw tooth seed"
+msgstr "鼠标右键绘制牙齿种子"
+
+#, c-format
+msgid "%s+RMB to draw non tooth seed"
+msgstr "%s+鼠标右键 绘制非牙齿种子"
+
+msgid "RMB to pick path start"
+msgstr "鼠标右键拾取路径起点"
+
+msgid "RMB to pick path finish"
+msgstr "鼠标右键拾取路径终点"
+
+msgid "Enter to segment, Shift + Enter to accept segmentation and clear seeds"
+msgstr "按 Enter 分割，按 Shift+Enter 接受分割并清除种子"
+
+msgid "Mouse Wheel to control segmentation modifier"
+msgstr "鼠标滚轮控制分割修饰符"
+
+msgid "Axis Z"
+msgstr "Z 轴"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Median"
+msgstr "中值"
+
+msgid "Window size"
+msgstr "窗口大小"
+
+msgid "Size of the window used to filter the volume"
+msgstr "用于过滤体的窗口大小"
+
+msgid "Voxels Filtering"
+msgstr "体素过滤"
+
+msgid "Minimum voxel value after normalization"
+msgstr "归一化后的最小体素值"
+
+msgid "Maximum voxel value after normalization"
+msgstr "归一化后的最大体素值"
+
+msgid "Normalize"
+msgstr "归一化"
+
+msgid "Normalize Voxels"
+msgstr "归一化体素"
+
+msgid "Voxel 1"
+msgstr "体素 1"
+
+msgid "Voxel 2"
+msgstr "体素 2"
+
+msgid "Metric Type:"
+msgstr "度量类型："
+
+msgid "Exponent"
+msgstr "指数"
+
+msgid "Exponent modifier"
+msgstr "指数修饰符"
+
+msgid "Rebuild"
+msgstr "重建"
+
+msgid "Build four"
+msgstr "构建四个"
+
+msgid "Show optimal path between two voxels."
+msgstr "显示两个体素之间的最优路径。"
+
+msgid "Voxel Size XYZ"
+msgstr "体素大小 XYZ"
+
+msgid "Old"
+msgstr "旧"
+
+msgid "New"
+msgstr "新"
+
+msgid "Make cubical voxels"
+msgstr "生成立方体素"
+
+msgid "Resample Voxels"
+msgstr "重采样体素"
+
+msgid "New voxel size is same as old one."
+msgstr "新体素大小与旧体素大小相同。"
+
+msgid "Show Inactive Voxels "
+msgstr "显示非活动体素 "
+
+msgid "Highlight inactive voxels with red color"
+msgstr "用红色高亮非活动体素"
+
+msgid "Highlight Current Voxel"
+msgstr "高亮当前体素"
+
+msgid "Highlight selected voxel on the slice and in the scene"
+msgstr "在切片和场景中高亮选定的体素"
+
+msgid "Marker radius"
+msgstr "标记半径"
+
+msgid "Radius of the 3d marker, measured in number of voxels"
+msgstr "3D 标记的半径，以体素数衡量"
+
+msgid "Save current slice"
+msgstr "保存当前切片"
+
+msgid "Save all slices"
+msgstr "保存所有切片"
+
+msgid "Applies gaussian filter for volume"
+msgstr "对体应用高斯滤波"
+
+msgid "Smooth Voxels"
+msgstr "平滑体素"
+
+msgid "Simple Conversion"
+msgstr "简单转换"
+
+msgid "Smart Conversion"
+msgstr "智能转换"
+
+msgid ""
+"Improve voxel-to-mesh conversion with subvoxel correction, which boosts mesh "
+"precision but requires more computing power. Best used with CT and MRI scans."
+msgstr ""
+"通过亚体素校正改进体素到网格的转换，可提升网格精度但需要更多计算资源。最适合"
+"用于 CT 和 MRI 扫描。"
+
+msgid "Preserve Voxel Object"
+msgstr "保留体素对象"
+
+msgid ""
+"If checked then original voxel object will remain in scene in addition to "
+"converted mesh object."
+msgstr "若选中，除转换后的网格对象外，原始体素对象也将保留在场景中。"
+
+msgid "Voxels to Mesh"
+msgstr "体素转网格"
+
+msgid "Clip Scan by Plane"
+msgstr "用平面剪裁扫描"
+
+msgid "Clip scans by plane"
+msgstr "按平面裁剪扫描"
+
+msgid "Import scan"
+msgstr "导入扫描"
+
+msgid "Rotate scan"
+msgstr "旋转扫描"
+
+msgid "Register scan"
+msgstr "配准扫描"
+
+#~ msgid "Patch"
+#~ msgstr "补丁"
+
+#~ msgid ""
+#~ "In Patch mode disables smoothing and makes patches closer to initial "
+#~ "surface."
+#~ msgstr "在补丁模式下禁用平滑并使补丁更接近初始表面。"
+
+#~ msgid "Decimate Slices"
+#~ msgstr "简化切片"
+
+#~ msgid "Approved Guard Start"
+#~ msgstr "已批准防护开始"
+
+#~ msgid "Select Faces"
+#~ msgstr "选择面"
+
+#~ msgid "Select Edges"
+#~ msgstr "选择边"
+
+#~ msgid "Add component"
+#~ msgstr "添加组件"
+
+#~ msgid "Relax iterations"
+#~ msgstr "松弛迭代次数"
+
+#~ msgid "Max faces expand"
+#~ msgstr "面扩展最大数"
+
+#~ msgid "Boundary Edges"
+#~ msgstr "边界边"
+
+#~ msgid "Selects what type of segment boundaries to prefer."
+#~ msgstr "选择更倾向于哪种类型的分段边界。"

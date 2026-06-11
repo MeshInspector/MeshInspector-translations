@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Undo"
+msgstr "실행 취소"
+
+msgid "Undo the last action."
+msgstr "마지막 작업을 실행 취소합니다."
+
+msgid "Redo"
+msgstr "다시 실행"
+
+msgid "Redo last undone action."
+msgstr "마지막으로 실행 취소한 작업을 다시 실행합니다."
+
+msgid "New"
+msgstr "새로 만들기"
+
+msgid "Remove all objects from the scene."
+msgstr "장면에서 모든 객체를 제거합니다."
+
+msgid "Open Files"
+msgstr "파일 열기"
+
+msgid "Select files from the dialog and open them in the viewer window."
+msgstr "대화 상자에서 파일을 선택하여 뷰어 창에서 엽니다."
+
+msgid "Open Directory"
+msgstr "폴더 열기"
+
+msgid "Load all supported files from given directory and subdirectories."
+msgstr "지정한 폴더 및 하위 폴더에서 지원되는 모든 파일을 불러옵니다."
+
+msgid "Open DICOMs"
+msgstr "DICOM 열기"
+
+msgid "Load all DICOM volumes from a given directory and its subdirectories."
+msgstr "지정한 폴더 및 하위 폴더에서 모든 DICOM 볼륨을 불러옵니다."
+
+msgid "Open RAW Voxels"
+msgstr "RAW 복셀 열기"
+
+msgid "Load *.raw file with user-specified parameters."
+msgstr "사용자가 지정한 매개변수로 *.raw 파일을 불러옵니다."
+
+msgid "Binary Operations"
+msgstr "이항 연산"
+
+msgid ""
+"Various bivariate functions on individual voxel pairs: Union, Intersection, "
+"Difference, Max, Min, Sum, Multiply, Divide, Replace."
+msgstr ""
+"개별 복셀 쌍에 대한 다양한 이변량 함수: 합집합, 교집합, 차집합, 최댓값, 최솟"
+"값, 합, 곱하기, 나누기, 바꾸기."
+
+msgid "Open Voxels From TIFF"
+msgstr "TIFF에서 복셀 열기"
+
+msgid "Load voxels from a set of TIFF images"
+msgstr "TIFF 이미지 모음에서 복셀을 불러옵니다"
+
+msgid "Export"
+msgstr "내보내기"
+
+msgid "Save selected objects to files."
+msgstr "선택한 객체를 파일로 저장합니다."
+
+msgid "Save Selected"
+msgstr "선택 항목 저장"
+
+msgid "Save scene tree branches with selected objects to MRU format."
+msgstr "선택한 객체가 포함된 장면 트리 분기를 MRU 형식으로 저장합니다."
+
+msgid "Save Scene"
+msgstr "장면 저장"
+
+msgid "Save MRU scene to the file from which it was opened."
+msgstr "MRU 장면을 열었던 파일에 저장합니다."
+
+msgid "Save Scene As"
+msgstr "장면을 다른 이름으로 저장"
+
+msgid "Saves scene in a file."
+msgstr "장면을 파일에 저장합니다."
+
+msgid "Screenshot"
+msgstr "스크린샷"
+
+msgid "Saves screenshot of the scene to file."
+msgstr "장면의 스크린샷을 파일로 저장합니다."
+
+msgid "Save Screenshot"
+msgstr "스크린샷 저장"
+
+msgid "Saves a screenshot of the current view to file."
+msgstr "현재 뷰의 스크린샷을 파일로 저장합니다."
+
+msgid "Screenshot to Clipboard"
+msgstr "스크린샷을 클립보드로 복사"
+
+msgid "Copies screenshot of the scene to clipboard"
+msgstr "장면의 스크린샷을 클립보드로 복사합니다"
+
+msgid "Fit Data"
+msgstr "데이터에 맞추기"
+
+msgid ""
+"Changes current viewport settings to fit all visible objects in the scene."
+msgstr "장면 내에 보이는 모든 객체에 맞도록 현재 뷰포트 설정을 변경합니다."
+
+msgid "Fit Selected Objects"
+msgstr "선택한 객체에 맞추기"
+
+msgid ""
+"Changes current viewport settings to fit selected visible objects in scene."
+msgstr "장면 내에 보이는 선택된 객체에 맞도록 현재 뷰포트 설정을 변경합니다."
+
+msgid "Fit Selected Primitives"
+msgstr "선택한 기본 형상에 맞추기"
+
+msgid "Changes current viewport settings to fit selection."
+msgstr "선택 항목에 맞도록 현재 뷰포트 설정을 변경합니다."
+
+msgid "Camera"
+msgstr "카메라"
+
+msgid "Manually set camera."
+msgstr "카메라를 수동으로 설정합니다."
+
+msgid "Front View"
+msgstr "정면 뷰"
+
+msgid "A view of XZ plane with camera looking along Y."
+msgstr "카메라가 Y 방향을 향하는 XZ 평면 뷰."
+
+msgid "Top View"
+msgstr "상단 뷰"
+
+msgid "A view of XY plane with Z axis looking in camera."
+msgstr "Z 축이 카메라를 향하는 XY 평면 뷰."
+
+msgid "Bottom View"
+msgstr "하단 뷰"
+
+msgid "A view of XY plane with camera looking along Z."
+msgstr "카메라가 Z 방향을 향하는 XY 평면 뷰."
+
+msgid "Left View"
+msgstr "좌측 뷰"
+
+msgid "A view of YZ plane with camera looking along X."
+msgstr "카메라가 X 방향을 향하는 YZ 평면 뷰."
+
+msgid "Back View"
+msgstr "후면 뷰"
+
+msgid "A view of XZ plane with Y axis looking in camera."
+msgstr "Y 축이 카메라를 향하는 XZ 평면 뷰."
+
+msgid "Right View"
+msgstr "우측 뷰"
+
+msgid "A view of YZ plane with X axis looking in camera."
+msgstr "X 축이 카메라를 향하는 YZ 평면 뷰."
+
+msgid "Isometric View"
+msgstr "등각 뷰"
+
+msgid ""
+"Look at the object so the axes X,Y,Z form 120 degree angles on the view."
+msgstr "X, Y, Z 축이 뷰에서 120도 각을 이루도록 객체를 바라봅니다."
+
+msgid "Invert View"
+msgstr "뷰 반전"
+
+msgid "Rotates the camera 180 degrees around the current vertical axis."
+msgstr "현재 수직 축을 중심으로 카메라를 180도 회전시킵니다."
+
+msgid "Single Viewport"
+msgstr "단일 뷰포트"
+
+msgid "Setup single viewport for the whole window."
+msgstr "전체 창에 단일 뷰포트를 설정합니다."
+
+msgid "Horizontal Viewports"
+msgstr "수평 뷰포트"
+
+msgid "Setup two horizontal viewports for the whole window."
+msgstr "전체 창에 두 개의 수평 뷰포트를 설정합니다."
+
+msgid "Vertical Viewports"
+msgstr "수직 뷰포트"
+
+msgid "Setup two vertical viewports for the whole window."
+msgstr "전체 창에 두 개의 수직 뷰포트를 설정합니다."
+
+msgid "Quad Viewports"
+msgstr "네 개의 뷰포트"
+
+msgid "Setup four equal viewports for the whole window."
+msgstr "전체 창에 동일한 크기의 뷰포트 네 개를 설정합니다."
+
+msgid "Add Custom Theme"
+msgstr "사용자 지정 테마 추가"
+
+msgid "Customize and save the color theme."
+msgstr "색상 테마를 사용자 지정하고 저장합니다."
+
+msgid "Toggle Global Basis"
+msgstr "전역 기준 전환"
+
+msgid "Show or hide global 0 and X,Y,Z axes, also allows showing 3d grid."
+msgstr ""
+"전역 원점과 X, Y, Z 축을 표시하거나 숨기며, 3D 그리드 표시도 가능합니다."
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Show application settings window."
+msgstr "애플리케이션 설정 창을 표시합니다."
+
+msgid "Select Objects"
+msgstr "객체 선택"
+
+msgid "Selects objects by clicking them in the scene"
+msgstr "장면에서 객체를 클릭하여 선택합니다"
+
+msgid "Move Object"
+msgstr "객체 이동"
+
+msgid "Move an object in a scene using a mouse"
+msgstr "마우스를 사용하여 장면 내의 객체를 이동합니다"
+
+msgid "Sort by Name"
+msgstr "이름순 정렬"
+
+msgid "Sort all objects in the scene by name"
+msgstr "장면 내 모든 객체를 이름순으로 정렬합니다"
+
+msgid "Show All"
+msgstr "모두 표시"
+
+msgid "Show all objects in the scene"
+msgstr "장면 내 모든 객체를 표시합니다"
+
+msgid "Hide All"
+msgstr "모두 숨기기"
+
+msgid "Hide all objects in the scene"
+msgstr "장면 내 모든 객체를 숨깁니다"
+
+msgid "Select All"
+msgstr "모두 선택"
+
+msgid "Select all objects in the scene"
+msgstr "장면 내 모든 객체를 선택합니다"
+
+msgid "Unselect All"
+msgstr "모두 선택 해제"
+
+msgid "Unselect all objects in the scene"
+msgstr "장면 내 모든 객체의 선택을 해제합니다"
+
+msgid "Show Only Previous"
+msgstr "이전 항목만 표시"
+
+msgid "Select and show only previous"
+msgstr "이전 항목만 선택하여 표시합니다"
+
+msgid "Show Only Next"
+msgstr "다음 항목만 표시"
+
+msgid "Select and show only next"
+msgstr "다음 항목만 선택하여 표시합니다"
+
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+msgid "Rename object"
+msgstr "객체 이름 바꾸기"
+
+msgid "Remove Selected"
+msgstr "선택 항목 제거"
+
+msgid "Remove selected objects"
+msgstr "선택한 객체를 제거합니다"
+
+msgid "Active List"
+msgstr "활성 목록"
+
+msgid "Show list of active tools"
+msgstr "활성 도구 목록을 표시합니다"
+
+msgid "Rotator"
+msgstr "회전기"
+
+msgid "Permanently rotates the scene around vertical axis."
+msgstr "수직 축을 중심으로 장면을 지속적으로 회전시킵니다."
+
+msgid "Object Info"
+msgstr "객체 정보"
+
+msgid "Show information about currently selected object."
+msgstr "현재 선택된 객체의 정보를 표시합니다."
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "홈"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "뷰"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "선택"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "테스트"

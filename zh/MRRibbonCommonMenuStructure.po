@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Undo the last action."
+msgstr "撤销上一次操作。"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Redo last undone action."
+msgstr "重做上一次撤销的操作。"
+
+msgid "New"
+msgstr "新建"
+
+msgid "Remove all objects from the scene."
+msgstr "从场景中移除所有对象。"
+
+msgid "Open Files"
+msgstr "打开文件"
+
+msgid "Select files from the dialog and open them in the viewer window."
+msgstr "在对话框中选择文件并在查看器窗口中打开。"
+
+msgid "Open Directory"
+msgstr "打开文件夹"
+
+msgid "Load all supported files from given directory and subdirectories."
+msgstr "从指定文件夹及其子文件夹中加载所有受支持的文件。"
+
+msgid "Open DICOMs"
+msgstr "打开 DICOM"
+
+msgid "Load all DICOM volumes from a given directory and its subdirectories."
+msgstr "从指定文件夹及其子文件夹中加载所有 DICOM 体数据。"
+
+msgid "Open RAW Voxels"
+msgstr "打开 RAW 体素"
+
+msgid "Load *.raw file with user-specified parameters."
+msgstr "使用用户指定的参数加载 *.raw 文件。"
+
+msgid "Binary Operations"
+msgstr "二元运算"
+
+msgid ""
+"Various bivariate functions on individual voxel pairs: Union, Intersection, "
+"Difference, Max, Min, Sum, Multiply, Divide, Replace."
+msgstr ""
+"对单个体素对的各种二元函数:并集、交集、差集、最大值、最小值、求和、相乘、相"
+"除、替换。"
+
+msgid "Open Voxels From TIFF"
+msgstr "从 TIFF 打开体素"
+
+msgid "Load voxels from a set of TIFF images"
+msgstr "从一组 TIFF 图像加载体素"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Save selected objects to files."
+msgstr "将选中的对象保存到文件。"
+
+msgid "Save Selected"
+msgstr "保存所选"
+
+msgid "Save scene tree branches with selected objects to MRU format."
+msgstr "将包含所选对象的场景树分支以 MRU 格式保存。"
+
+msgid "Save Scene"
+msgstr "保存场景"
+
+msgid "Save MRU scene to the file from which it was opened."
+msgstr "将 MRU 场景保存到原打开的文件。"
+
+msgid "Save Scene As"
+msgstr "场景另存为"
+
+msgid "Saves scene in a file."
+msgstr "将场景保存到文件。"
+
+msgid "Screenshot"
+msgstr "截图"
+
+msgid "Saves screenshot of the scene to file."
+msgstr "将场景截图保存到文件。"
+
+msgid "Save Screenshot"
+msgstr "保存截图"
+
+msgid "Saves a screenshot of the current view to file."
+msgstr "将当前视图的截图保存到文件。"
+
+msgid "Screenshot to Clipboard"
+msgstr "截图到剪贴板"
+
+msgid "Copies screenshot of the scene to clipboard"
+msgstr "将场景截图复制到剪贴板"
+
+msgid "Fit Data"
+msgstr "适配数据"
+
+msgid ""
+"Changes current viewport settings to fit all visible objects in the scene."
+msgstr "调整当前视口设置以容纳场景中所有可见的对象。"
+
+msgid "Fit Selected Objects"
+msgstr "适配所选对象"
+
+msgid ""
+"Changes current viewport settings to fit selected visible objects in scene."
+msgstr "调整当前视口设置以容纳场景中所选的可见对象。"
+
+msgid "Fit Selected Primitives"
+msgstr "适配所选图元"
+
+msgid "Changes current viewport settings to fit selection."
+msgstr "调整当前视口设置以容纳选择。"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Manually set camera."
+msgstr "手动设置相机。"
+
+msgid "Front View"
+msgstr "前视图"
+
+msgid "A view of XZ plane with camera looking along Y."
+msgstr "相机沿 Y 方向观察的 XZ 平面视图。"
+
+msgid "Top View"
+msgstr "顶视图"
+
+msgid "A view of XY plane with Z axis looking in camera."
+msgstr "Z 轴指向相机的 XY 平面视图。"
+
+msgid "Bottom View"
+msgstr "底视图"
+
+msgid "A view of XY plane with camera looking along Z."
+msgstr "相机沿 Z 方向观察的 XY 平面视图。"
+
+msgid "Left View"
+msgstr "左视图"
+
+msgid "A view of YZ plane with camera looking along X."
+msgstr "相机沿 X 方向观察的 YZ 平面视图。"
+
+msgid "Back View"
+msgstr "后视图"
+
+msgid "A view of XZ plane with Y axis looking in camera."
+msgstr "Y 轴指向相机的 XZ 平面视图。"
+
+msgid "Right View"
+msgstr "右视图"
+
+msgid "A view of YZ plane with X axis looking in camera."
+msgstr "X 轴指向相机的 YZ 平面视图。"
+
+msgid "Isometric View"
+msgstr "等轴测视图"
+
+msgid ""
+"Look at the object so the axes X,Y,Z form 120 degree angles on the view."
+msgstr "以使 X、Y、Z 轴在视图中形成 120 度夹角的方式观察对象。"
+
+msgid "Invert View"
+msgstr "反转视图"
+
+msgid "Rotates the camera 180 degrees around the current vertical axis."
+msgstr "将相机绕当前垂直轴旋转 180 度。"
+
+msgid "Single Viewport"
+msgstr "单视口"
+
+msgid "Setup single viewport for the whole window."
+msgstr "为整个窗口设置单视口。"
+
+msgid "Horizontal Viewports"
+msgstr "水平视口"
+
+msgid "Setup two horizontal viewports for the whole window."
+msgstr "为整个窗口设置两个水平视口。"
+
+msgid "Vertical Viewports"
+msgstr "垂直视口"
+
+msgid "Setup two vertical viewports for the whole window."
+msgstr "为整个窗口设置两个垂直视口。"
+
+msgid "Quad Viewports"
+msgstr "四视口"
+
+msgid "Setup four equal viewports for the whole window."
+msgstr "为整个窗口设置四个均等视口。"
+
+msgid "Add Custom Theme"
+msgstr "添加自定义主题"
+
+msgid "Customize and save the color theme."
+msgstr "自定义并保存颜色主题。"
+
+msgid "Toggle Global Basis"
+msgstr "切换全局基准"
+
+msgid "Show or hide global 0 and X,Y,Z axes, also allows showing 3d grid."
+msgstr "显示或隐藏全局原点和 X、Y、Z 轴,并可显示 3D 网格。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Show application settings window."
+msgstr "显示应用程序设置窗口。"
+
+msgid "Select Objects"
+msgstr "选择对象"
+
+msgid "Selects objects by clicking them in the scene"
+msgstr "通过在场景中单击对象进行选择"
+
+msgid "Move Object"
+msgstr "移动对象"
+
+msgid "Move an object in a scene using a mouse"
+msgstr "使用鼠标在场景中移动对象"
+
+msgid "Sort by Name"
+msgstr "按名称排序"
+
+msgid "Sort all objects in the scene by name"
+msgstr "按名称对场景中的所有对象排序"
+
+msgid "Show All"
+msgstr "全部显示"
+
+msgid "Show all objects in the scene"
+msgstr "显示场景中的所有对象"
+
+msgid "Hide All"
+msgstr "全部隐藏"
+
+msgid "Hide all objects in the scene"
+msgstr "隐藏场景中的所有对象"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select all objects in the scene"
+msgstr "选择场景中的所有对象"
+
+msgid "Unselect All"
+msgstr "取消全选"
+
+msgid "Unselect all objects in the scene"
+msgstr "取消选择场景中的所有对象"
+
+msgid "Show Only Previous"
+msgstr "仅显示上一个"
+
+msgid "Select and show only previous"
+msgstr "仅选择并显示上一个"
+
+msgid "Show Only Next"
+msgstr "仅显示下一个"
+
+msgid "Select and show only next"
+msgstr "仅选择并显示下一个"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Rename object"
+msgstr "重命名对象"
+
+msgid "Remove Selected"
+msgstr "移除所选"
+
+msgid "Remove selected objects"
+msgstr "移除所选对象"
+
+msgid "Active List"
+msgstr "活动列表"
+
+msgid "Show list of active tools"
+msgstr "显示活动工具的列表"
+
+msgid "Rotator"
+msgstr "旋转器"
+
+msgid "Permanently rotates the scene around vertical axis."
+msgstr "持续绕垂直轴旋转场景。"
+
+msgid "Object Info"
+msgstr "对象信息"
+
+msgid "Show information about currently selected object."
+msgstr "显示当前所选对象的信息。"
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "主页"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "视图"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "选择"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "测试"

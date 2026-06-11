@@ -1,0 +1,328 @@
+# Russian translations for MRRibbonCommonMenuStructure.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-03-18 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Undo"
+msgstr "Отменить"
+
+msgid "Undo the last action."
+msgstr "Отменить последнее действие."
+
+msgid "Redo"
+msgstr "Повторить"
+
+msgid "Redo last undone action."
+msgstr "Повторить последнее отменённое действие."
+
+msgid "New"
+msgstr "Новая"
+
+msgid "Remove all objects from the scene."
+msgstr "Удалить все объекты со сцены."
+
+msgid "Open Files"
+msgstr "Открыть файлы"
+
+msgid "Select files from the dialog and open them in the viewer window."
+msgstr "Выбрать файлы в диалоге и открыть их в окне просмотра."
+
+msgid "Open Directory"
+msgstr "Открыть папку"
+
+msgid "Load all supported files from given directory and subdirectories."
+msgstr "Загрузить все поддерживаемые файлы из указанной папки и подпапок."
+
+msgid "Open DICOMs"
+msgstr "Открыть DICOM"
+
+msgid "Load all DICOM volumes from a given directory and its subdirectories."
+msgstr "Загрузить все тома DICOM из указанной папки и её подпапок."
+
+msgid "Open RAW Voxels"
+msgstr "Открыть RAW воксели"
+
+msgid "Load *.raw file with user-specified parameters."
+msgstr "Загрузить файл *.raw с указанными пользователем параметрами."
+
+msgid "Binary Operations"
+msgstr "Бинарные операции"
+
+msgid "Various bivariate functions on individual voxel pairs: Union, Intersection, Difference, Max, Min, Sum, Multiply, Divide, Replace."
+msgstr "Различные бинарные функции над парами вокселей: объединение, пересечение, разность, максимум, минимум, сумма, умножение, деление, замена."
+
+msgid "Open Voxels From TIFF"
+msgstr "Открыть воксели из TIFF"
+
+msgid "Load voxels from a set of TIFF images"
+msgstr "Загрузить воксели из набора изображений TIFF."
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Save selected objects to files."
+msgstr "Сохранить выбранные объекты в файлы."
+
+msgid "Save Selected"
+msgstr "Сохранить выбранные"
+
+msgid "Save scene tree branches with selected objects to MRU format."
+msgstr "Сохранить ветви дерева сцены с выбранными объектами в формате MRU."
+
+msgid "Save Scene"
+msgstr "Сохранить сцену"
+
+msgid "Save MRU scene to the file from which it was opened."
+msgstr "Сохранить сцену MRU в файл, из которого она была открыта."
+
+msgid "Save Scene As"
+msgstr "Сохранить сцену как"
+
+msgid "Saves scene in a file."
+msgstr "Сохраняет сцену в файл."
+
+msgid "Screenshot"
+msgstr "Снимок экрана"
+
+msgid "Saves screenshot of the scene to file."
+msgstr "Сохраняет снимок экрана сцены в файл."
+
+msgid "Save Screenshot"
+msgstr "Сохранить снимок экрана"
+
+msgid "Saves a screenshot of the current view to file."
+msgstr "Сохраняет снимок текущего вида в файл."
+
+msgid "Screenshot to Clipboard"
+msgstr "Снимок в буфер обмена"
+
+msgid "Copies screenshot of the scene to clipboard"
+msgstr "Копирует снимок экрана сцены в буфер обмена."
+
+msgid "Fit Data"
+msgstr "Вписать данные"
+
+msgid "Changes current viewport settings to fit all visible objects in the scene."
+msgstr "Изменяет настройки текущего вьюпорта для отображения всех видимых объектов сцены."
+
+msgid "Fit Selected Objects"
+msgstr "Вписать выбранные объекты"
+
+msgid "Changes current viewport settings to fit selected visible objects in scene."
+msgstr "Изменяет настройки текущего вьюпорта для отображения выбранных видимых объектов сцены."
+
+msgid "Fit Selected Primitives"
+msgstr "Вписать выбранные примитивы"
+
+msgid "Changes current viewport settings to fit selection."
+msgstr "Изменяет настройки текущего вьюпорта для отображения выделения."
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Manually set camera."
+msgstr "Настроить камеру вручную."
+
+msgid "Front View"
+msgstr "Вид спереди"
+
+msgid "A view of XZ plane with camera looking along Y."
+msgstr "Вид плоскости XZ с камерой, направленной вдоль оси Y."
+
+msgid "Top View"
+msgstr "Вид сверху"
+
+msgid "A view of XY plane with Z axis looking in camera."
+msgstr "Вид плоскости XY с осью Z, направленной в камеру."
+
+msgid "Bottom View"
+msgstr "Вид снизу"
+
+msgid "A view of XY plane with camera looking along Z."
+msgstr "Вид плоскости XY с камерой, направленной вдоль оси Z."
+
+msgid "Left View"
+msgstr "Вид слева"
+
+msgid "A view of YZ plane with camera looking along X."
+msgstr "Вид плоскости YZ с камерой, направленной вдоль оси X."
+
+msgid "Back View"
+msgstr "Вид сзади"
+
+msgid "A view of XZ plane with Y axis looking in camera."
+msgstr "Вид плоскости XZ с осью Y, направленной в камеру."
+
+msgid "Right View"
+msgstr "Вид справа"
+
+msgid "A view of YZ plane with X axis looking in camera."
+msgstr "Вид плоскости YZ с осью X, направленной в камеру."
+
+msgid "Isometric View"
+msgstr "Изометрический вид"
+
+msgid "Look at the object so the axes X,Y,Z form 120 degree angles on the view."
+msgstr "Смотреть на объект так, чтобы оси X, Y, Z образовывали углы по 120 градусов на виде."
+
+msgid "Invert View"
+msgstr "Инвертировать вид"
+
+msgid "Rotates the camera 180 degrees around the current vertical axis."
+msgstr "Поворачивает камеру на 180 градусов вокруг текущей вертикальной оси."
+
+msgid "Single Viewport"
+msgstr "Один вьюпорт"
+
+msgid "Setup single viewport for the whole window."
+msgstr "Установить один вьюпорт на всё окно."
+
+msgid "Horizontal Viewports"
+msgstr "Горизонтальные вьюпорты"
+
+msgid "Setup two horizontal viewports for the whole window."
+msgstr "Установить два горизонтальных вьюпорта на всё окно."
+
+msgid "Vertical Viewports"
+msgstr "Вертикальные вьюпорты"
+
+msgid "Setup two vertical viewports for the whole window."
+msgstr "Установить два вертикальных вьюпорта на всё окно."
+
+msgid "Quad Viewports"
+msgstr "Четыре вьюпорта"
+
+msgid "Setup four equal viewports for the whole window."
+msgstr "Установить четыре равных вьюпорта на всё окно."
+
+msgid "Add Custom Theme"
+msgstr "Добавить тему"
+
+msgid "Customize and save the color theme."
+msgstr "Настроить и сохранить цветовую тему."
+
+msgid "Toggle Global Basis"
+msgstr "Переключить глобальный базис"
+
+msgid "Show or hide global 0 and X,Y,Z axes, also allows showing 3d grid."
+msgstr "Показать или скрыть начало координат и оси X, Y, Z, а также отображение сетки 3D."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Show application settings window."
+msgstr "Открыть окно настроек приложения."
+
+msgid "Select Objects"
+msgstr "Выбрать объекты"
+
+msgid "Selects objects by clicking them in the scene"
+msgstr "Выбирает объекты щелчком по ним в сцене."
+
+msgid "Move Object"
+msgstr "Переместить объект"
+
+msgid "Move an object in a scene using a mouse"
+msgstr "Переместить объект в сцене с помощью мыши."
+
+msgid "Sort by Name"
+msgstr "Сортировать по имени"
+
+msgid "Sort all objects in the scene by name"
+msgstr "Сортировать все объекты сцены по имени."
+
+msgid "Show All"
+msgstr "Показать все"
+
+msgid "Show all objects in the scene"
+msgstr "Показать все объекты в сцене."
+
+msgid "Hide All"
+msgstr "Скрыть все"
+
+msgid "Hide all objects in the scene"
+msgstr "Скрыть все объекты в сцене."
+
+msgid "Select All"
+msgstr "Выбрать все"
+
+msgid "Select all objects in the scene"
+msgstr "Выбрать все объекты в сцене."
+
+msgid "Unselect All"
+msgstr "Снять выделение"
+
+msgid "Unselect all objects in the scene"
+msgstr "Снять выделение со всех объектов в сцене."
+
+msgid "Show Only Previous"
+msgstr "Показать только предыдущий"
+
+msgid "Select and show only previous"
+msgstr "Выбрать и показать только предыдущий."
+
+msgid "Show Only Next"
+msgstr "Показать только следующий"
+
+msgid "Select and show only next"
+msgstr "Выбрать и показать только следующий."
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Rename object"
+msgstr "Переименовать объект."
+
+msgid "Remove Selected"
+msgstr "Удалить выбранные"
+
+msgid "Remove selected objects"
+msgstr "Удалить выбранные объекты."
+
+msgid "Active List"
+msgstr "Список активных"
+
+msgid "Show list of active tools"
+msgstr "Показать список активных инструментов."
+
+msgid "Rotator"
+msgstr "Ротатор"
+
+msgid "Permanently rotates the scene around vertical axis."
+msgstr "Постоянно вращает сцену вокруг вертикальной оси."
+
+msgid "Object Info"
+msgstr "Информация об объекте"
+
+msgid "Show information about currently selected object."
+msgstr "Показать информацию о текущем выбранном объекте."
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "Главная"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "Вид"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "Выделение"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "КТ"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "Тест"

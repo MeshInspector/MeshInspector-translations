@@ -1,0 +1,8449 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Scans:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "LuT:"
+msgstr ""
+
+msgid "X-Ray source"
+msgstr ""
+
+msgid "Distance to center"
+msgstr ""
+
+msgid "Distance to detector"
+msgstr ""
+
+msgid "Detector"
+msgstr ""
+
+msgid "Horizontal shift"
+msgstr ""
+
+msgid "Vertical shift"
+msgstr ""
+
+msgid "In plane rotation"
+msgstr ""
+
+msgid "Pixel size"
+msgstr ""
+
+msgid "Rotation object"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Voxel size"
+msgstr ""
+
+msgid "Rotation direction:"
+msgstr ""
+
+msgid "CCW"
+msgstr ""
+
+msgid "CW"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "CUDA is not available"
+msgstr ""
+
+msgid "Cannot load tiff file: "
+msgstr ""
+
+msgid "CT Reconstruction"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Sign Out"
+msgstr ""
+
+msgid "and try with another account."
+msgstr ""
+
+msgid "Try with another account?"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Please enter valid email"
+msgstr ""
+
+msgid "Please enter your password"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Forgot your"
+msgstr ""
+
+msgid "password?"
+msgstr ""
+
+msgid "Need an account?"
+msgstr ""
+
+msgid "Sign Up"
+msgstr ""
+
+msgid "Welcome back!"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Don't have an account?"
+msgstr ""
+
+msgid "Please enter valid password"
+msgstr ""
+
+msgid "Already have an account?"
+msgstr ""
+
+msgid "Reset My Password"
+msgstr ""
+
+msgid "Back to"
+msgstr ""
+
+msgid "Confirm Account"
+msgstr ""
+
+msgid "Didn't receive a code?"
+msgstr ""
+
+msgid "Resend it"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Clear Scene"
+msgstr ""
+
+msgid ""
+"This version of MeshInspector is for Intel x86 architecture CPUs. Please "
+"download the version of MeshInspector for Apple Silicon for the best "
+"performance."
+msgstr ""
+
+msgid "Getting started with MeshInspector"
+msgstr ""
+
+msgid "Quick setup"
+msgstr ""
+
+msgid "Rotate With"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Color Theme"
+msgstr ""
+
+msgid "Middle Mouse Button"
+msgstr ""
+
+msgid "Left Mouse Button / Press and Drag"
+msgstr ""
+
+msgid "The settings can be changed at any time in the the Settings dialog"
+msgstr ""
+
+msgid "per user"
+msgstr ""
+
+msgid "per user billed yearly"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "What`s Included?"
+msgstr ""
+
+#, c-format
+msgid "All %s features, plus"
+msgstr ""
+
+msgid "Extend trial for 30 days"
+msgstr ""
+
+msgid "Compare Plans"
+msgstr ""
+
+msgid "How would you like to buy?"
+msgstr ""
+
+msgid "Choose how you would like to upgrade your MeshInspector plan"
+msgstr ""
+
+msgid "Buy directly from MeshInspector"
+msgstr ""
+
+msgid "Best for individuals and small teams comfortable learning on their own."
+msgstr ""
+
+msgid "Instant activation - start using your plan right after checkout"
+msgstr ""
+
+msgid "Pay online in USD via secure card payment"
+msgstr ""
+
+msgid "Self-service learning: official YouTube channel and knowledge base"
+msgstr ""
+
+msgid "Email support from our team"
+msgstr ""
+
+msgid "Buy Directly"
+msgstr ""
+
+msgid "Buy from a local distributor"
+msgstr ""
+
+msgid "Best for companies and teams that want hands-on onboarding."
+msgstr ""
+
+msgid "Personalized training for your team, tailored to your workflow"
+msgstr ""
+
+msgid "Support in your language and time zone"
+msgstr ""
+
+msgid "Local invoicing, currency, and procurement-friendly paperwork"
+msgstr ""
+
+msgid "Direct relationship with a partner familiar with your region's industry"
+msgstr ""
+
+msgid "Find a Distributor"
+msgstr ""
+
+msgid "Collect Usage Statistics"
+msgstr ""
+
+msgid ""
+"Allow application to collect (non-personal) data about tools that are used "
+"to improve performance."
+msgstr ""
+
+msgid ""
+"To help us understand how you use MeshInspector and make it better, we'll "
+"collect data on the tools you click on. This will give us insights to "
+"improve functionality and usability.\n"
+"\n"
+"No personal info or file data is collected, and you can opt out anytime in "
+"the settings."
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Manage Settings"
+msgstr ""
+
+#, c-format
+msgid "Version %s is available"
+msgstr ""
+
+msgid "Get Update"
+msgstr ""
+
+msgid "Get Desktop"
+msgstr ""
+
+msgid "This feature is included in Professional plan"
+msgstr ""
+
+msgid "This feature is included in Makers/Professional plan"
+msgstr ""
+
+msgid "This feature is not included in your plan"
+msgstr ""
+
+msgid "Show Welcome Window"
+msgstr ""
+
+msgid "Show welcome window when application starts."
+msgstr ""
+
+msgid "Drag & Drop Files"
+msgstr ""
+
+msgid "Anywhere to Open"
+msgstr ""
+
+msgid "To open DICOMs, RAW Voxels, TIFF use"
+msgstr ""
+
+msgid "ribbon menu."
+msgstr ""
+
+msgid "Quickstart"
+msgstr ""
+
+msgid "This curated video collection will"
+msgstr ""
+
+msgid "quickly and efficiently guide you"
+msgstr ""
+
+msgid "through the essentials."
+msgstr ""
+
+msgid "Watch Video"
+msgstr ""
+
+msgid "Create Simple Object"
+msgstr ""
+
+msgid "Easily generate basic shapes like"
+msgstr ""
+
+msgid "cubes, spheres, and more using"
+msgstr ""
+
+msgid "default settings."
+msgstr ""
+
+msgid "Cube"
+msgstr ""
+
+msgid "Cylinder"
+msgstr ""
+
+msgid "Sphere"
+msgstr ""
+
+msgid "Prism"
+msgstr ""
+
+msgid "Torus"
+msgstr ""
+
+msgid "Arrow"
+msgstr ""
+
+msgid "Create Object"
+msgstr ""
+
+msgid "Show on Startup"
+msgstr ""
+
+msgid "Reference object"
+msgstr ""
+
+msgid "Inspected object"
+msgstr ""
+
+msgid "Swap"
+msgstr ""
+
+msgid "Exchange reference and inspected objects."
+msgstr ""
+
+msgid "Take Selected"
+msgstr ""
+
+msgid ""
+"Take two currently selected objects as new reference and new inspected "
+"objects."
+msgstr ""
+
+msgid "Signed Distance"
+msgstr ""
+
+msgid ""
+"If a point is inside reference object its distance will get negative sign."
+msgstr ""
+
+msgid "Available only for to-Mesh or to-Points with normals mode."
+msgstr ""
+
+msgid "Distance to Point Plane"
+msgstr ""
+
+msgid ""
+"Distance to plane created by the nearest point and its normal.\n"
+"(Note! It may have unintuitive color degrees)"
+msgstr ""
+
+msgid "Available only for to-Points with normals mode"
+msgstr ""
+
+msgid "Auto Update Min/Max"
+msgstr ""
+
+msgid "Fit the palette automatically when data is changed"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Gray Out of Range"
+msgstr ""
+
+msgid ""
+"Whether to draw distances out of range in gray. Turning it on can accelerate "
+"signed distances computation."
+msgstr ""
+
+msgid "Gray Projections on Boundary"
+msgstr ""
+
+msgid "Gray vertices projecting on reference mesh boundary."
+msgstr ""
+
+msgid "Limit from Standard Deviation"
+msgstr ""
+
+msgid "Available only for disabled \"Zero to Green\" mode"
+msgstr ""
+
+msgid ""
+"If enabled - set automatic limits as signed average +/- 3 * standard "
+"deviation.\n"
+"if disabled - set automatic limits from min/max values."
+msgstr ""
+
+msgid "Compute Distances Time"
+msgstr ""
+
+msgid "ms"
+msgstr ""
+
+msgid "The time spent on last computation of all distances"
+msgstr ""
+
+msgid "DistanceCompare: Error saving statistics in CSV file"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show the nearest point and point the camera to it"
+msgstr ""
+
+msgid "Cannot show nearest point because its further than palette maximum"
+msgstr ""
+
+msgid "Show the furthest point and point the camera to it"
+msgstr ""
+
+msgid "Cannot show furthest point because its further than palette maximum"
+msgstr ""
+
+msgid "Save report to PDF"
+msgstr ""
+
+msgid "Save this statistics to a PDF file"
+msgstr ""
+
+msgid "Line Width"
+msgstr ""
+
+msgid "Point Size"
+msgstr ""
+
+msgid "Topology is consistently oriented."
+msgstr ""
+
+msgid "Topology is not consistently oriented."
+msgstr ""
+
+msgid "Mode: "
+msgstr ""
+
+msgid "Vert"
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Edges Labels"
+msgstr ""
+
+msgid "Neighbor Labels"
+msgstr ""
+
+msgid "Point's X"
+msgstr ""
+
+msgid "Point's Y"
+msgstr ""
+
+msgid "Point's Z"
+msgstr ""
+
+msgid "Polyline Point's XYZ"
+msgstr ""
+
+msgid "Edges"
+msgstr ""
+
+msgid "Vert labels"
+msgstr ""
+
+msgid "Neighbor labels"
+msgstr ""
+
+msgid "Next / Prev"
+msgstr ""
+
+msgid "Sym"
+msgstr ""
+
+msgid "VertId: "
+msgstr ""
+
+msgid "Next / Prev: "
+msgstr ""
+
+msgid "Sym: "
+msgstr ""
+
+msgid "Mesh"
+msgstr ""
+
+msgid "Show Selected Item"
+msgstr ""
+
+msgid "Show Triangle Labels"
+msgstr ""
+
+msgid "Show Edge Labels"
+msgstr ""
+
+msgid "Show Vert Labels"
+msgstr ""
+
+msgid "Show Neighbor Labels"
+msgstr ""
+
+msgid "Tri. Mode"
+msgstr ""
+
+msgid "Edge Mode"
+msgstr ""
+
+msgid "Vert Mode"
+msgstr ""
+
+msgid "Next Origin Edge"
+msgstr ""
+
+msgid "Prev. Origin Edge"
+msgstr ""
+
+msgid "Sym. Edge"
+msgstr ""
+
+msgid "Next Boundary Edge"
+msgstr ""
+
+msgid "Prev. Boundary Edge"
+msgstr ""
+
+msgid "Show detailed information about mesh and it's primitives."
+msgstr ""
+
+msgid "Vertex Id"
+msgstr ""
+
+msgid "Edge Id"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
+#, c++-format
+msgid "{} degrees"
+msgstr ""
+
+msgid "Dihedral angle"
+msgstr ""
+
+msgid "Cotan weight"
+msgstr ""
+
+msgid "Tri. Id"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Circum-Radius"
+msgstr ""
+
+msgid "Aspect Ratio"
+msgstr ""
+
+msgid "Texture ID"
+msgstr ""
+
+msgid "Clip object to get cross section"
+msgstr ""
+
+msgid "At least one objects should be in scene"
+msgstr ""
+
+msgid "Clip Objects"
+msgstr ""
+
+msgid "Recolor Objects"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Shifts section plane to its lowest extreme"
+msgstr ""
+
+msgid "Stops section plane movement"
+msgstr ""
+
+msgid "Starts section plane movement"
+msgstr ""
+
+msgid "Shifts section plane to its largest extreme"
+msgstr ""
+
+msgid "Auto Repeat"
+msgstr ""
+
+msgid ""
+"As soon as section plane reaches its largest extreme, restarts the movement "
+"from its lowest extreme"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid ""
+"The speed of section movement in length units per second. The sign of this "
+"value specifies the direction of movement."
+msgstr ""
+
+msgid "Section Window"
+msgstr ""
+
+msgid "Whether to show additional Section Window"
+msgstr ""
+
+msgid "Recolored"
+msgstr ""
+
+msgid "Give individual colors to objects in Section Window"
+msgstr ""
+
+msgid "Auto Fit"
+msgstr ""
+
+msgid ""
+"Whether to automatically zoom and pan Section Window to fit current sections"
+msgstr ""
+
+msgid "Clear Distance"
+msgstr ""
+
+msgid "Remove points with distance measurement from Section Window"
+msgstr ""
+
+msgid "Reset View"
+msgstr ""
+
+msgid "Mouse Controls"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Move section window"
+msgstr ""
+
+msgid "Pick point on section window"
+msgstr ""
+
+msgid "Move section inside section window"
+msgstr ""
+
+msgid "Zoom section inside section window"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Many"
+msgstr ""
+
+msgid "Export the current section only."
+msgstr ""
+
+msgid "Export several sections with fixed step between their planes."
+msgstr ""
+
+msgid "Number of Sections"
+msgstr ""
+
+msgid "Selects how many sections to export."
+msgstr ""
+
+msgid "Create Section Object"
+msgstr ""
+
+msgid "Sections Step"
+msgstr ""
+
+msgid "The step between two neighbor parallel sections"
+msgstr ""
+
+msgid "Create Sections with Step"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Cut Objects"
+msgstr ""
+
+msgid "Cannot change object because blocking plugin is active"
+msgstr ""
+
+msgid "There is no selected object to cut"
+msgstr ""
+
+msgid "Cut selected objects by the current section plane"
+msgstr ""
+
+msgid "Fill Section"
+msgstr ""
+
+msgid "Fill sections of cut objects with new triangles"
+msgstr ""
+
+msgid "Keep Both Sides"
+msgstr ""
+
+msgid "Selection here makes two objects from each original object"
+msgstr ""
+
+msgid "Cut PointCloud"
+msgstr ""
+
+msgid "Cut with plane"
+msgstr ""
+
+msgid "Add other part"
+msgstr ""
+
+#, c++-format
+msgid "Has {} empty object"
+msgid_plural "Has {} empty objects"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Invalid ids will not be visualized"
+msgstr ""
+
+msgid "Pseudo Mode"
+msgstr ""
+
+msgid "Face"
+msgstr ""
+
+msgid "Pseudo normals"
+msgstr ""
+
+msgid "Show all"
+msgstr ""
+
+msgid "Show neighbors"
+msgstr ""
+
+msgid "Point cloud should have normals"
+msgstr ""
+
+msgid "Curvature mode: "
+msgstr ""
+
+msgid "Mean"
+msgstr ""
+
+msgid "Gaussian"
+msgstr ""
+
+msgid "Recalculate Ranges"
+msgstr ""
+
+msgid ""
+"Scale of palette is logarithmic, shifted to zero.\n"
+"So zero curvature is equals zero on palette.\n"
+msgstr ""
+
+msgid "Move Objects to Global Zero"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Plane"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Point"
+msgstr ""
+
+msgid "Select Pick Mode"
+msgstr ""
+
+msgid ""
+"Click on object or feature to move it to global zero and orient objects "
+"along picked normal"
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid "Y"
+msgstr ""
+
+msgid "Z"
+msgstr ""
+
+msgid "Flip"
+msgstr ""
+
+msgid "Flip to Base Plane"
+msgstr ""
+
+msgid "Align to Base Plane"
+msgstr ""
+
+msgid "Show Common Box"
+msgstr ""
+
+msgid ""
+"Whether to show one box containing all active objects or a number of "
+"individual boxes, one per object"
+msgstr ""
+
+msgid "Interactive"
+msgstr ""
+
+msgid "Use Parameters"
+msgstr ""
+
+msgid "Objects"
+msgstr ""
+
+msgid "Primitives"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Segments"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Add Cube"
+msgstr ""
+
+msgid "Add Cylinder"
+msgstr ""
+
+msgid "Add Sphere"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Diameter"
+msgstr ""
+
+msgid "Radius"
+msgstr ""
+
+msgid ""
+"Click in the viewport to set start point\n"
+"Drag to adjust size\n"
+"Release to confirm"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Pivot point"
+msgstr ""
+
+msgid ""
+"Parameter of relative text box to text position point\n"
+"[0, 0] - text position point is left-down corner of text box\n"
+"[1, 1] - text position point is right - up corner\n"
+msgstr ""
+
+msgid "Show Preview"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Click to attach label to mesh in click position"
+msgstr ""
+
+#, c-format
+msgid "%s + Click on object to get point position under cursor"
+msgstr ""
+
+msgid "Add label"
+msgstr ""
+
+msgid "Save to Object"
+msgstr ""
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Clear All"
+msgstr ""
+
+msgid "Convert To Segment"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "Add Point Cloud"
+msgstr ""
+
+msgid "Convert to Points"
+msgstr ""
+
+msgid "Set Method"
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgid "Origin"
+msgstr ""
+
+msgid "Add Lines"
+msgstr ""
+
+msgid "Add Parallelepiped"
+msgstr ""
+
+msgid "Add Torus"
+msgstr ""
+
+msgid "Add Arrow"
+msgstr ""
+
+msgid "Add Prism"
+msgstr ""
+
+msgid "Add Cube feature"
+msgstr ""
+
+msgid "Add Parallelepiped feature"
+msgstr ""
+
+msgid "Add Cylinder feature"
+msgstr ""
+
+msgid "Add Sphere feature"
+msgstr ""
+
+msgid "Add Torus feature"
+msgstr ""
+
+msgid "Add Arrow feature"
+msgstr ""
+
+msgid "Add Prism feature"
+msgstr ""
+
+msgid "Parallelepiped"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Add Feature Object"
+msgstr ""
+
+msgid "Edge #0"
+msgstr ""
+
+msgid "Edge #1"
+msgstr ""
+
+msgid "Edge #2"
+msgstr ""
+
+msgid "Diameter 0"
+msgstr ""
+
+msgid "Diameter 1"
+msgstr ""
+
+msgid "Start Angle"
+msgstr ""
+
+msgid "Arc Size"
+msgstr ""
+
+msgid "UV Sphere"
+msgstr ""
+
+msgid "Horizontal Resolution"
+msgstr ""
+
+msgid "Vertical Resolution"
+msgstr ""
+
+msgid "Number of Vertices"
+msgstr ""
+
+msgid "Primary Radius"
+msgstr ""
+
+msgid "Secondary Radius"
+msgstr ""
+
+msgid "Primary Resolution"
+msgstr ""
+
+msgid "Secondary Resolution"
+msgstr ""
+
+msgid "Thickness"
+msgstr ""
+
+msgid "Cone Radius"
+msgstr ""
+
+msgid "Cone Height"
+msgstr ""
+
+msgid "Base Length"
+msgstr ""
+
+msgid "Left Angle"
+msgstr ""
+
+msgid "Right Angle"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Bounding Box Type"
+msgstr ""
+
+msgid "Bounding Box"
+msgstr ""
+
+msgid "Local Basis Type"
+msgstr ""
+
+msgid "Local Basis"
+msgstr ""
+
+msgid "Normals"
+msgstr ""
+
+msgid "Measuring angle between:"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset Angle Target"
+msgstr ""
+
+msgid "Angle:"
+msgstr ""
+
+msgid "Switch to Adjacent Angle"
+msgstr ""
+
+#, c++-format
+msgid "Point {}:"
+msgstr ""
+
+msgid "Add to Scene"
+msgstr ""
+
+msgid ""
+"If enabled - each finalized measurement will be added to scene,\n"
+"otherwise each new measurement will replace existing one"
+msgstr ""
+
+msgid "Snap to edge"
+msgstr ""
+
+msgid "Subfeatures"
+msgstr ""
+
+msgid "Change Angle Feature"
+msgstr ""
+
+msgid "Select at least one object to show subfeatures."
+msgstr ""
+
+msgid "Those objects don't have subfeatures."
+msgstr ""
+
+msgid "Select Angle Target from Subfeature"
+msgstr ""
+
+msgid "Select Angle Target from Tag"
+msgstr ""
+
+msgid "Measure Angle"
+msgstr ""
+
+msgid "Remove Current Angle Measurement"
+msgstr ""
+
+msgid "Copy Angle Measurement To Scene"
+msgstr ""
+
+msgid "X distance"
+msgstr ""
+
+msgid "Y distance"
+msgstr ""
+
+msgid "Z distance"
+msgstr ""
+
+msgid "3D distance"
+msgstr ""
+
+msgid "Point 2:"
+msgstr ""
+
+msgid "Point 1:"
+msgstr ""
+
+msgid "Nominal & Tolerance"
+msgstr ""
+
+msgid "Perform a distance measurement first."
+msgstr ""
+
+msgid "Nominal distance"
+msgstr ""
+
+msgid "No reference model, unable to guess values."
+msgstr ""
+
+msgid "Change Distance Feature"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr ""
+
+msgid "Mode:"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Measure distance between object centers or centeral axes."
+msgstr ""
+
+msgid "Exact (separation distance)"
+msgstr ""
+
+msgid ""
+"Measure exact separation distance. Not all combinations of features are "
+"supported."
+msgstr ""
+
+msgid "Change Measure Distance Mode"
+msgstr ""
+
+msgid "New Measurement"
+msgstr ""
+
+msgid "Reset Measure Distance Target"
+msgstr ""
+
+msgid "Select Distance Target from Subfeature"
+msgstr ""
+
+msgid "Select Distance Target from Tag"
+msgstr ""
+
+msgid "Measure Distance"
+msgstr ""
+
+msgid "Remove Current Distance Measurement"
+msgstr ""
+
+msgid "Copy Distance Measurement To Scene"
+msgstr ""
+
+msgid "Point:"
+msgstr ""
+
+msgid "Perform a point measurement first."
+msgstr ""
+
+msgid "Nominal position"
+msgstr ""
+
+msgid "Experimental"
+msgstr ""
+
+msgid "Show Nominal Position on Scene"
+msgstr ""
+
+msgid "Measure Points: New measurement"
+msgstr ""
+
+msgid "Measure Points: Reset"
+msgstr ""
+
+msgid "Measure Points: Pick new point"
+msgstr ""
+
+msgid "Add point measurement"
+msgstr ""
+
+msgid "Transform Control Widget"
+msgstr ""
+
+msgid "Transform Object by Widget"
+msgstr ""
+
+#, c-format
+msgid "Hold %s for scaling along selected axis"
+msgstr ""
+
+#, c-format
+msgid "Hold %s+Shift for uniform scaling"
+msgstr ""
+
+msgid "Scaling mode is unavailable when controls are detached"
+msgstr ""
+
+msgid "Control Settings"
+msgstr ""
+
+msgid "Fixed Size in Pixel"
+msgstr ""
+
+msgid "Set widget size values in pixels"
+msgstr ""
+
+msgid "Radius of widget controls in pixels"
+msgstr ""
+
+msgid "Controls Width"
+msgstr ""
+
+msgid "Width of widget controls in pixels"
+msgstr ""
+
+msgid "Radius of widget controls before scaling"
+msgstr ""
+
+msgid "Width of widget controls before scaling"
+msgstr ""
+
+msgid "Detach controls"
+msgstr ""
+
+msgid "Reset controls"
+msgstr ""
+
+msgid "Fit on mouse up"
+msgstr ""
+
+msgid "Dot threshold"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "x1000"
+msgstr ""
+
+msgid "x100"
+msgstr ""
+
+msgid "x10"
+msgstr ""
+
+msgid "x0.001"
+msgstr ""
+
+msgid "x0.01"
+msgstr ""
+
+msgid "x0.1"
+msgstr ""
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Load settings from file and apply it."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save settings to file."
+msgstr ""
+
+msgid "Active Rotation Axes"
+msgstr ""
+
+msgid "Axis A"
+msgstr ""
+
+msgid "Axis B"
+msgstr ""
+
+msgid "Axis C"
+msgstr ""
+
+msgid "Axes Order"
+msgstr ""
+
+msgid "Drag and drop to change order."
+msgstr ""
+
+msgid "Axes Settings"
+msgstr ""
+
+msgid "Feedrate Idle"
+msgstr ""
+
+msgid "Valid range [0, 100000]."
+msgstr ""
+
+msgid ""
+"0 - feedrate idle set as maximum feedrate on any action, or 100 if it isn't "
+"set"
+msgstr ""
+
+msgid "Home Position"
+msgstr ""
+
+msgid "Reset Changes"
+msgstr ""
+
+msgid "Set Default"
+msgstr ""
+
+msgid "Reset settings to default values and apply it."
+msgstr ""
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error parsing file."
+msgstr ""
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error loading settings from file"
+msgstr ""
+
+msgid "Save Idle Movement"
+msgstr ""
+
+msgid "G-code to Lines"
+msgstr ""
+
+msgid "Fit selected"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid ""
+"Visualize selected segment as mesh object.\n"
+"Usefull in web app."
+msgstr ""
+
+msgid "Work Color"
+msgstr ""
+
+msgid "Selected Color"
+msgstr ""
+
+msgid "Highlighted Color"
+msgstr ""
+
+msgid "Feedrate as Gradient"
+msgstr ""
+
+msgid "Search Closest by Screen"
+msgstr ""
+
+msgid "Accuracy"
+msgstr ""
+
+msgid "Show Error"
+msgstr ""
+
+msgid "Tool Animation"
+msgstr ""
+
+msgid "Show tool"
+msgstr ""
+
+msgid "Input Time"
+msgstr ""
+
+msgid "Formated Time"
+msgstr ""
+
+msgid "Play speed"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Nothing to play from this point."
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Milling Simulation"
+msgstr ""
+
+msgid "Work Piece Settings"
+msgstr ""
+
+msgid "Visible Preview Work Piece"
+msgstr ""
+
+msgid "Work Piece Size"
+msgstr ""
+
+msgid "Work Piece Pos"
+msgstr ""
+
+msgid "Milling Settings"
+msgstr ""
+
+msgid "Voxel Size"
+msgstr ""
+
+msgid "Movement Step"
+msgstr ""
+
+msgid "Colorize Milled"
+msgstr ""
+
+msgid "Mill All"
+msgstr ""
+
+msgid "Mill to Selected"
+msgstr ""
+
+msgid "Milling History"
+msgstr ""
+
+msgid "Activate Milling History"
+msgstr ""
+
+msgid "Re-calc Milling History"
+msgstr ""
+
+msgid "Show Milling History"
+msgstr ""
+
+msgid "Real-Time (Volume Render)"
+msgstr ""
+
+msgid "Auto Update Milling Progress"
+msgstr ""
+
+msgid "Export Milling History"
+msgstr ""
+
+msgid "Add Milling Result"
+msgstr ""
+
+msgid "Operation canceled."
+msgstr ""
+
+msgid "Error convertation grid to mesh."
+msgstr ""
+
+msgid "Add milling result"
+msgstr ""
+
+msgid "Toolpath"
+msgstr ""
+
+msgid "Tolerance"
+msgstr ""
+
+msgid "Tool"
+msgstr ""
+
+msgid "Show Toolpath Basis"
+msgstr ""
+
+msgid "Mesh-based computation"
+msgstr ""
+
+msgid "Distance volume-based computation"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Compute"
+msgstr ""
+
+msgid "Failed to compute swept volume"
+msgstr ""
+
+msgid "Swept volume"
+msgstr ""
+
+msgid "Add swept volume"
+msgstr ""
+
+msgid "Simplify"
+msgstr ""
+
+msgid "Target Triangles"
+msgstr ""
+
+msgid ""
+"Simplification stops after reaching desired number of triangles (or earlier "
+"if mesh quality does not allow so small number)"
+msgstr ""
+
+msgid ""
+"Simplification stops just before shape error (or the shortest edge length) "
+"becomes more than allowed value"
+msgstr ""
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original mesh is more than this value"
+msgstr ""
+
+msgid "Shortest Edge Length"
+msgstr ""
+
+msgid ""
+"Stop the decimation as soon as the shortest edge in the mesh is greater than "
+"this value"
+msgstr ""
+
+msgid "The minimum number of triangles (in selected region) after decimation"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+msgid "The percentage of triangles (in selected region) after decimation"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid ""
+"Changing parameters will lead to update mesh in real-time, may freeze for "
+"heavy operations."
+msgstr ""
+
+msgid "Minimal Error First"
+msgstr ""
+
+msgid "Shortest Edge First"
+msgstr ""
+
+msgid ""
+"The next edge to collapse will be the one that introduced minimal error to "
+"the surface"
+msgstr ""
+
+msgid "The next edge to collapse will be the shortest one"
+msgstr ""
+
+msgid "Strategy"
+msgstr ""
+
+msgid "Defines the order of edge collapses during decimation"
+msgstr ""
+
+msgid "Longest Edge Length"
+msgstr ""
+
+msgid "Maximal possible edge length created during decimation"
+msgstr ""
+
+msgid "Max Triangle Aspect Ratio"
+msgstr ""
+
+msgid ""
+"Maximal possible aspect ratio of a triangle introduced during decimation"
+msgstr ""
+
+msgid "Stabilizer"
+msgstr ""
+
+msgid ""
+"Small stabilizer is important to achieve good results on completely planar "
+"mesh parts, if your mesh is not-planer everywhere, then you can set it to "
+"zero"
+msgstr ""
+
+msgid "Touch Near Boundary Edges"
+msgstr ""
+
+msgid ""
+"Whether to allow collapsing edges having at least one vertex on (region) "
+"boundary"
+msgstr ""
+
+msgid "Optimize Vertex Positions"
+msgstr ""
+
+msgid ""
+"If selected then after each edge collapse the position of remaining vertex "
+"is optimized to minimize local shape change, if not selected then the edge "
+"is collapsed in one of its vertices, which keeps its position"
+msgstr ""
+
+msgid "Angle-based Weights"
+msgstr ""
+
+msgid ""
+"If unselected, then quadratic error metric is equal to the sum of distances "
+"to the planes of original mesh triangles.\n"
+"If selected, then the sum is weighted, and the weight is equal to the angle "
+"of adjacent triangle at the vertex divided on PI (to get one after summing "
+"all 3 vertices of the triangle)."
+msgstr ""
+
+msgid "Pack Mesh"
+msgstr ""
+
+msgid ""
+"Whether to remove unused vertices/edges/triangles from mesh at the end of "
+"the process"
+msgstr ""
+
+msgid "Parallel Algorithm"
+msgstr ""
+
+msgid ""
+"Whether to select parallel (faster) or sequential (more precise) algorithms"
+msgstr ""
+
+msgid "Subdivide Parts"
+msgstr ""
+
+msgid "The number of parts to split the mesh to process them in parallel"
+msgstr ""
+
+msgid ""
+"The number of parts to split the mesh to process them in parallel. Larger "
+"numbers here typically improve processing speed, but decrease mesh uniformity"
+msgstr ""
+
+msgid "Max error"
+msgstr ""
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original line is more than this value"
+msgstr ""
+
+msgid "Target edges"
+msgstr ""
+
+msgid "The minimum number of edges after decimation"
+msgstr ""
+
+msgid ""
+"Stabilizer is dimensionless coefficient. The larger is stabilizer, the more "
+"Decimator will strive to retain the density of input points. If stabilizer "
+"is zero, then only the shape of input line will be preserved, but some "
+"artifacts on absolutely linear paths can be seen."
+msgstr ""
+
+msgid "Longest edge length"
+msgstr ""
+
+msgid "Optimize vertex positions"
+msgstr ""
+
+msgid "Move boundary vertices"
+msgstr ""
+
+msgid ""
+"Whether to allow collapsing edges with at least one vertex on the end of not-"
+"closed polyline, otherwise boundary vertices are strictly fixed"
+msgstr ""
+
+msgid "Decimate lines"
+msgstr ""
+
+msgid "Merge Max"
+msgstr ""
+
+msgid "Add dist map to scene"
+msgstr ""
+
+msgid "Merge Min"
+msgstr ""
+
+msgid "Subtraction"
+msgstr ""
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr ""
+
+msgid "Pixel Size"
+msgstr ""
+
+msgid "Distance Threshold"
+msgstr ""
+
+msgid "Get Lines Critical points"
+msgstr ""
+
+msgid "DMap Size"
+msgstr ""
+
+msgid "Origin Point"
+msgstr ""
+
+msgid "With Sign"
+msgstr ""
+
+msgid "Per Edge offset"
+msgstr ""
+
+msgid "Shell offset"
+msgstr ""
+
+msgid "Sign detection method"
+msgstr ""
+
+msgid "Contours orientation"
+msgstr ""
+
+msgid "Recommended for oriented contours without self-intersections"
+msgstr ""
+
+msgid "Winding rule"
+msgstr ""
+
+msgid ""
+"Recommended for non-oriented contours or for contours with self-intersections"
+msgstr ""
+
+msgid "Resolution X"
+msgstr ""
+
+msgid "Resolution Y"
+msgstr ""
+
+msgid "Compute Derivative Colored Mesh"
+msgstr ""
+
+msgid "Use percentage"
+msgstr ""
+
+msgid "Percent of higher value of 1st derivative points"
+msgstr ""
+
+msgid "Threshold for the 1st derivative"
+msgstr ""
+
+msgid "Show 1st derivative points"
+msgstr ""
+
+msgid "Percent of higher value of 2nd derivative points"
+msgstr ""
+
+msgid "Threshold for 2nd derivative"
+msgstr ""
+
+msgid "Show 2nd derivative points"
+msgstr ""
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr ""
+
+msgid "Threshold"
+msgstr ""
+
+msgid "Load Image"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Resolution:"
+msgstr ""
+
+msgid "Min value:"
+msgstr ""
+
+msgid "Max value:"
+msgstr ""
+
+msgid "Value Scale Multiplier"
+msgstr ""
+
+msgid "Max Height"
+msgstr ""
+
+msgid "Import as Mesh"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Error loading image: "
+msgstr ""
+
+msgid "Error converting image: "
+msgstr ""
+
+msgid "Load Mesh from Image"
+msgstr ""
+
+msgid "Load Distance Map from Image"
+msgstr ""
+
+msgid "IsoValue"
+msgstr ""
+
+msgid "Use Depth"
+msgstr ""
+
+msgid "Create IsoLines"
+msgstr ""
+
+msgid "Y resolution"
+msgstr ""
+
+msgid "X resolution"
+msgstr ""
+
+msgid "Mesh to Distance Map"
+msgstr ""
+
+msgid "Convert Distance Map to Mesh"
+msgstr ""
+
+msgid "Use NVIDIA GPU"
+msgstr ""
+
+msgid "Not enough GPU memory to use CUDA-capable NVIDIA GPU"
+msgstr ""
+
+msgid "Not enough GPU memory for some tasks to use CUDA-capable NVIDIA GPU"
+msgstr ""
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected vertices ({}) less than minimal ({}) "
+"for this feature type"
+msgstr ""
+
+msgid "Unsupported reference object type"
+msgstr ""
+
+msgid "Add measurements holder"
+msgstr ""
+
+msgid "Pairs Forming Settings"
+msgstr ""
+
+msgid "Register Whole Objects"
+msgstr ""
+
+msgid ""
+"If selected then absolutely all point pairs between two objects will be "
+"considered during registration without filtering."
+msgstr ""
+
+msgid "Normals Max Angle"
+msgstr ""
+
+msgid ""
+"A points pair is used only if the angle between the normals at the points is "
+"not larger than this value."
+msgstr ""
+
+msgid "Max Distance"
+msgstr ""
+
+msgid ""
+"A points pair is used only if the distance between two points is lower than "
+"this value."
+msgstr ""
+
+msgid "Far Distance Factor"
+msgstr ""
+
+msgid ""
+"Points pair will be counted only if distance between points is lower than "
+"root-mean-square distance times this factor."
+msgstr ""
+
+msgid "Mutual Closest Points in Each Pair"
+msgstr ""
+
+msgid ""
+"A pair of points is formed only if both points in the pair are mutually "
+"closest (reciprocity test passed)."
+msgstr ""
+
+msgid "Sampling Spacing"
+msgstr ""
+
+msgid ""
+"This value determines sampling voxel size to select only one point in each "
+"voxel."
+msgstr ""
+
+msgid "Sample Target"
+msgstr ""
+
+msgid "Select what object will be samples to form origins of point pairs."
+msgstr ""
+
+msgid "Combined"
+msgstr ""
+
+msgid "Point-to-Point"
+msgstr ""
+
+msgid "Point-to-Plane"
+msgstr ""
+
+msgid "Select target function to minimize."
+msgstr ""
+
+msgid "Transformation"
+msgstr ""
+
+msgid "Select what kind of transformations are searched for."
+msgstr ""
+
+msgid "Fixed rotation axis"
+msgstr ""
+
+msgid "Allowed rotation axis"
+msgstr ""
+
+msgid "Stop Conditions"
+msgstr ""
+
+msgid "Max Iterations"
+msgstr ""
+
+msgid "Maximal possible number of ICP iterations."
+msgstr ""
+
+msgid "No Improvement Iterations"
+msgstr ""
+
+msgid ""
+"Stop ICP iterations if during given number of last iterations there was no "
+"improvement."
+msgstr ""
+
+msgid "Deviation Reached"
+msgstr ""
+
+msgid ""
+"Algorithm target root-mean-square distance. As soon as it is reached, the "
+"algorithm stops."
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Samples"
+msgstr ""
+
+msgid "Active point pairs"
+msgstr ""
+
+msgid "RMS point-to-point distance"
+msgstr ""
+
+msgid "RMS point-to-plane distance"
+msgstr ""
+
+msgid "Approx. Density"
+msgstr ""
+
+msgid ""
+"Prediction of the ratio of the volume filled and the volume of the inner "
+"component of the mesh."
+msgstr ""
+
+msgid "Real Density"
+msgstr ""
+
+msgid ""
+"Current ratio of the volume actually filled and the volume of the inner "
+"component of the mesh."
+msgstr ""
+
+msgid "Components"
+msgstr ""
+
+msgid ""
+"Number of connected components. Large number here indicates that current "
+"configuration of filling might be incorrect."
+msgstr ""
+
+msgid "Number of voxels"
+msgstr ""
+
+msgid "Number of voxels that would be used to build TPMS"
+msgstr ""
+
+msgid "Surface type"
+msgstr ""
+
+msgid "Type of the filling surface"
+msgstr ""
+
+msgid ""
+"Approximate density of the surface (ratio of filled and not filled volume)"
+msgstr ""
+
+msgid "Interval"
+msgstr ""
+
+msgid "Period of filling. Determines how often the elements are replicated."
+msgstr ""
+
+msgid "Quality Preset"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Iso"
+msgstr ""
+
+msgid ""
+"ISO value used to construct the surface. Influences the volume (amount of "
+"material)."
+msgstr ""
+
+msgid "Decimate"
+msgstr ""
+
+msgid "Decimate resulting filling surface"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid ""
+"Quality of the filling. Determines the resolution of the approximation of "
+"the surface. Increasing this parameter always produces better quality at the "
+"cost of longer execution time."
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Spheres"
+msgstr ""
+
+msgid "Add spheres at the intersections of bars"
+msgstr ""
+
+msgid "Sphere Radius"
+msgstr ""
+
+msgid "Kind"
+msgstr ""
+
+msgid "Select region on mesh to specify additional offset there."
+msgstr ""
+
+msgid "Regions"
+msgstr ""
+
+msgid "Additional Offset"
+msgstr ""
+
+msgid "This value will be added to global offset for selected region."
+msgstr ""
+
+msgid "Update Region"
+msgstr ""
+
+msgid "Change Active Box UI"
+msgstr ""
+
+msgid "Sampling Points"
+msgstr ""
+
+msgid "Number of points to be sampled for every vertex"
+msgstr ""
+
+msgid "Polynomial Degree"
+msgstr ""
+
+msgid "Degree of the polynomial used to fit the sampled points"
+msgstr ""
+
+msgid "Iterations"
+msgstr ""
+
+msgid "Number of iterations of the algorithm"
+msgstr ""
+
+msgid "Outlier threshold"
+msgstr ""
+
+msgid ""
+"For each iteration, if target position of the vertex is greater than this "
+"threshold, it is disregarded. For small degrees, this value should be small, "
+"for large degrees it may be larger. Measured in number of voxels"
+msgstr ""
+
+msgid "Preparation smooth"
+msgstr ""
+
+msgid ""
+"Speed of the preparation smoothing, performed before the iterations. May be "
+"set to zero for meshes that are smooth enough initially."
+msgstr ""
+
+msgid "Intermediate smooth"
+msgstr ""
+
+msgid ""
+"Speed of the intermediate smoothing, performed on each iteration. Small "
+"values are generally not recommended."
+msgstr ""
+
+#, c++-format
+msgid "Subfeatures of {}:"
+msgstr ""
+
+#, c++-format
+msgid "[ Back to {} ]"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+#, c++-format
+msgid ""
+"Model has {} hole. It is recommended to fix it before using Auto Rebuild."
+msgid_plural ""
+"Model has {} holes. It is recommended to fix them before using Auto Rebuild."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Ultra"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Convert feature to line"
+msgstr ""
+
+msgid "Max new vertices"
+msgstr ""
+
+msgid "Top limit on the number of edge splits and the number of new vertices"
+msgstr ""
+
+msgid "Shortest split segment"
+msgstr ""
+
+msgid ""
+"Subdivision is stopped when all line segments are shorter than this value"
+msgstr ""
+
+msgid "Curvature-based"
+msgstr ""
+
+msgid ""
+"This option works best for natural lines, where all segments have similar "
+"size, and no sharp angles in between"
+msgstr ""
+
+msgid "Re-make polyline (or part of polyline) using smaller faces."
+msgstr ""
+
+msgid "Subdivide Lines"
+msgstr ""
+
+msgid "Move Along Y Axis"
+msgstr ""
+
+msgid "Move Along X Axis"
+msgstr ""
+
+msgid "Move Along Z Axis"
+msgstr ""
+
+msgid "Use Custom Trajectory"
+msgstr ""
+
+msgid "No other lines objects in the scene"
+msgstr ""
+
+msgid "Select trajectory..."
+msgstr ""
+
+msgid "Trajectory"
+msgstr ""
+
+msgid "Trajectory Length"
+msgstr ""
+
+msgid "Allow Rotation"
+msgstr ""
+
+msgid ""
+"Rotate body in trajectory vertices if set, otherwise only translation along "
+"the trajectory will be applied."
+msgstr ""
+
+msgid "Auto Body's Center"
+msgstr ""
+
+msgid ""
+"The center point of body moves along the trajectory.\n"
+"If selected, then body's center is computed automatically from body's "
+"bounding box.\n"
+"If not selected, then body's center is considered equal to the center of its "
+"local basis."
+msgstr ""
+
+msgid "Start Mesh from Source"
+msgstr ""
+
+msgid ""
+"If selected, then body-contours will be located exactly on resulting mesh."
+msgstr ""
+
+msgid "Fill Holes"
+msgstr ""
+
+msgid "Whether to fill planar holes at both ends of the extrusion body."
+msgstr ""
+
+msgid "Make extrusion body mesh"
+msgstr ""
+
+msgid "Flip Orientation"
+msgstr ""
+
+msgid "Lines to Points"
+msgstr ""
+
+msgid "Offset (voxels)"
+msgstr ""
+
+msgid ""
+"Voxels located not farther than this value to the input mesh will be filled "
+"with exact distances, more distant voxels with +/- this value"
+msgstr ""
+
+msgid "Lines to Voxels"
+msgstr ""
+
+msgid "Stock"
+msgstr ""
+
+msgid "Cutter"
+msgstr ""
+
+msgid "Move cutter (or stock) to subtract it cutter from stock"
+msgstr ""
+
+msgid "Real-Time Boolean Cut"
+msgstr ""
+
+msgid "Initialize manual alignment points"
+msgstr ""
+
+msgid "Start Align Manually"
+msgstr ""
+
+msgid "Delete Pick Points"
+msgstr ""
+
+msgid "Change Fixed/Floating Objects"
+msgstr ""
+
+msgid "Pick Point"
+msgstr ""
+
+msgid "Pick Point and Align"
+msgstr ""
+
+msgid "Edit Pick Points"
+msgstr ""
+
+msgid "Change visibility"
+msgstr ""
+
+msgid "Selected Objects"
+msgstr ""
+
+msgid "Floating object"
+msgstr ""
+
+msgid "Floating objects"
+msgstr ""
+
+msgid "Fixed object"
+msgstr ""
+
+msgid "Fixed objects"
+msgstr ""
+
+#, c-format
+msgid "Press %s to select multiple objects"
+msgstr ""
+
+msgid "Auto Improve Alignment"
+msgstr ""
+
+msgid ""
+"Automatically improve alignment after each new picked pair (starting from "
+"3rd pair) of points using Iterative Closest Points (ICP) algorithm."
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Warning: objects have parent/child relations"
+msgstr ""
+
+#, c-format
+msgid ""
+"1. Choose floating and fixed objects\n"
+"2. Pick pivot points on fixed objects\n"
+"3. Pick points on floating objects\n"
+"4. Click Accept\n"
+"Drag to move, %s+drag to rotate"
+msgstr ""
+
+msgid "Accept Alignment"
+msgstr ""
+
+msgid "Add Point"
+msgstr ""
+
+msgid "Add Line"
+msgstr ""
+
+msgid "Add Plane"
+msgstr ""
+
+msgid "Add Circle"
+msgstr ""
+
+msgid "Add Cone"
+msgstr ""
+
+msgid ""
+"Selected objects are not ObjectMesh, ObjectPoints or FeatureObject joined to "
+"ObjectMesh or ObjectPoints"
+msgstr ""
+
+msgid "Feature Type"
+msgstr ""
+
+msgid ""
+"Click on point/mesh surface. Picked points can be dragged after creation."
+msgstr ""
+
+#, c-format
+msgid "Hold %s button to magnetize points to the mesh edges."
+msgstr ""
+
+msgid "Click with Shift button to remove a point."
+msgstr ""
+
+msgid "Select with:"
+msgstr ""
+
+msgid "Pick mesh boundary"
+msgstr ""
+
+msgid "Pick sub-feature"
+msgstr ""
+
+msgid "Creating a derived feature is not supported for this feature type."
+msgstr ""
+
+msgid "Discard the changes and start from scratch"
+msgstr ""
+
+msgid "Target Object"
+msgstr ""
+
+msgid "Refine object"
+msgstr ""
+
+msgid "Distance Limit"
+msgstr ""
+
+msgid "Maximum distance from the source model to the feature"
+msgstr ""
+
+msgid "Normal Tolerance"
+msgstr ""
+
+msgid ""
+"Maximum angle between the source model's normal and the feature's normal"
+msgstr ""
+
+msgid ""
+"Maximum amount of iterations performed until a stable set of points is found"
+msgstr ""
+
+msgid "Refine"
+msgstr ""
+
+msgid "Find new source points near the feature and use them to refine it"
+msgstr ""
+
+msgid "New Feature"
+msgstr ""
+
+msgid "Save created feature and start to define a new one"
+msgstr ""
+
+msgid "Developer features"
+msgstr ""
+
+msgid "Auto-update"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove all points"
+msgstr ""
+
+msgid "Select Regions"
+msgstr ""
+
+msgid "Add points for refine"
+msgstr ""
+
+#, c++-format
+msgid "Create a {} feature object"
+msgstr ""
+
+#, c++-format
+msgid "BestFit {}"
+msgstr ""
+
+msgid "Union"
+msgstr ""
+
+msgid "Intersection"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Object A"
+msgstr ""
+
+msgid "Object B"
+msgstr ""
+
+msgid "Leave only largest"
+msgstr ""
+
+msgid "Select two closed meshes"
+msgstr ""
+
+msgid "Add boolean result"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
+msgid "Deform"
+msgstr ""
+
+msgid "Fix"
+msgstr ""
+
+msgid "Radius of editing area."
+msgstr ""
+
+msgid "Radius presets:"
+msgstr ""
+
+msgid "Hotkey"
+msgstr ""
+
+msgid "Smoothness"
+msgstr ""
+
+msgid "Effect of smoothing surface."
+msgstr ""
+
+msgid "Material Thickness"
+msgstr ""
+
+msgid "Sharpness"
+msgstr ""
+
+msgid "Effect of force on points far from center editing area."
+msgstr ""
+
+msgid ""
+"Effect of smoothing modified area after editing is complete.\n"
+"0 - do not smooth."
+msgstr ""
+
+#, c-format
+msgid "Hold %s and scroll to change radius"
+msgstr ""
+
+msgid "Show Changes Map"
+msgstr ""
+
+msgid "Palette Settings"
+msgstr ""
+
+msgid "Calculation Method"
+msgstr ""
+
+msgid "Calculation method for visualizing mesh changes"
+msgstr ""
+
+msgid "Fix Selected Region"
+msgstr ""
+
+msgid "Boundary edges can be split to improve quality of the patch"
+msgstr ""
+
+msgid "Ignore Occlusion"
+msgstr ""
+
+msgid ""
+"Allow the user to edit parts of object that are hidden in the current view "
+"by other objects"
+msgstr ""
+
+msgid "Edit Only Co-directed Surface"
+msgstr ""
+
+msgid ""
+"Restricts editable area to vertices whose normals look into the same half-"
+"space as normal under cursor."
+msgstr ""
+
+msgid "Balanced Weights"
+msgstr ""
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies."
+msgstr ""
+
+msgid "Ideal Ridges/Grooves"
+msgstr ""
+
+msgid ""
+"If selected in Add/Remove modes, the modification will be done using "
+"Laplacian solver, where the closest vertices will be attracted toward mouse "
+"cursor to form ideal ridges or grooves."
+msgstr ""
+
+msgid "Subdivide Ridges/Grooves"
+msgstr ""
+
+msgid ""
+"If selected in Add/Remove modes, changed parts of mesh will be subdivided on "
+"mouse up."
+msgstr ""
+
+msgid "Mimic Fix"
+msgstr ""
+
+msgid ""
+"In Fix mode disables smoothing and makes patches closer to initial surface."
+msgstr ""
+
+msgid "Collide"
+msgstr ""
+
+msgid "Highlight collision faces of two meshes."
+msgstr ""
+
+msgid "Collision Plugin: new collision"
+msgstr ""
+
+msgid "Polyline must not be empty"
+msgstr ""
+
+msgid "Cut By Polyline"
+msgstr ""
+
+msgid "To start or continue extruding, drag selected triangles with LMB"
+msgstr ""
+
+#, c-format
+msgid "To restart extrusion, start dragging selected triangles with %s+LMB"
+msgstr ""
+
+msgid "Finish Extrusion"
+msgstr ""
+
+msgid "Fixes the current extrusion and makes it ready for a new extrusion"
+msgstr ""
+
+msgid "Subdivide Long Triangles"
+msgstr ""
+
+msgid ""
+"Extruded triangles will be subdivided into bands no longer than the longest "
+"edge in the boundary"
+msgstr ""
+
+msgid "Fixed Direction"
+msgstr ""
+
+msgid ""
+"Selected triangles will be extruded along specified direction. Enabling this "
+"option will finish current extrusion."
+msgstr ""
+
+msgid "Three components of the extrusion direction vector"
+msgstr ""
+
+msgid "Direct by Normals"
+msgstr ""
+
+msgid "Extrude Direction by Normals"
+msgstr ""
+
+msgid ""
+"Set extrusion direction by the average normal of the selected triangles. "
+"Current extrusion will be finished"
+msgstr ""
+
+msgid "Direct to Camera"
+msgstr ""
+
+msgid "Extrude Direction to Camera"
+msgstr ""
+
+msgid ""
+"Set extrusion direction toward you (the position of camera). Current "
+"extrusion will be finished"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Extrusion distance along the specified direction"
+msgstr ""
+
+msgid "Extrude Direction by Mouse"
+msgstr ""
+
+msgid "Extrude"
+msgstr ""
+
+msgid "Manual Extrude"
+msgstr ""
+
+msgid "Cone, Cylinder"
+msgstr ""
+
+msgid "Convert feature to mesh"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
+
+msgid "Planar"
+msgstr ""
+
+msgid "Complex"
+msgstr ""
+
+msgid "Min Area"
+msgstr ""
+
+msgid ""
+"This metric should produce good result in an average case, by minimizing "
+"both circumscribed circle's diameter around each triangle and dihedral angle "
+"between two triangles of each edge."
+msgstr ""
+
+msgid ""
+"This metric minimizes the sum of circumcircle radius times aspect ratio for "
+"all triangles in the triangulation, and it has extra penalty for the "
+"triangles having normals looking in the opposite side of plane containing "
+"the hole contour. It is specially designed for planar hole filling."
+msgstr ""
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum of edgeMetrics for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+
+msgid ""
+"This metric minimizes the area of the surface patch added to fill the hole. "
+"It is the best choice if the hole has degenerate shape or surrounded by "
+"degenerate triangles."
+msgstr ""
+
+msgid "Triangulate Only"
+msgstr ""
+
+msgid ""
+"If this check-box is not selected then additional vertices are created "
+"inside the patch for best mesh quality"
+msgstr ""
+
+msgid "Smooth Boundary"
+msgstr ""
+
+msgid ""
+"If triangulation metric makes smooth angle between neighbor triangles, then "
+"make smooth angle between patch triangles and triangles around the hole as "
+"well"
+msgstr ""
+
+msgid "Max Edge Length"
+msgstr ""
+
+msgid ""
+"Patch mesh subdivision is stopped when all mesh edges are shorter than this "
+"value"
+msgstr ""
+
+msgid "Avg."
+msgstr ""
+
+msgid "Computes average edge length in the mesh"
+msgstr ""
+
+msgid "Smooth Curvature"
+msgstr ""
+
+msgid "Make the patch absolutely smooth"
+msgstr ""
+
+msgid "Metric"
+msgstr ""
+
+msgid "Select a metric to be optimized during next hole filling"
+msgstr ""
+
+msgid "Edge Metric Priority"
+msgstr ""
+
+msgid ""
+"0 means that edge-part of the metric is completely ignored,\n"
+"1 - default behavior,\n"
+"1000 - edge-part of the metric is much more important than triangle-part of "
+"the metric."
+msgstr ""
+
+msgid "Max Polygon Subdivision"
+msgstr ""
+
+msgid ""
+"The maximum number of polygon subdivisions on a triangle and two smaller "
+"polygons"
+msgstr ""
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies"
+msgstr ""
+
+msgid "Natural Smooth"
+msgstr ""
+
+msgid ""
+"Expands, and repositions edges to maintain the natural shape of the model"
+msgstr ""
+
+msgid "Additional options"
+msgstr ""
+
+msgid ""
+"Creates a smooth surface to fill the hole, ideal for integrating seamlessly "
+"with curved areas"
+msgstr ""
+
+msgid "Natural"
+msgstr ""
+
+msgid ""
+"Generates a smooth surface, expands, and repositions edges to maintain the "
+"natural shape of the model"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid ""
+"Creates a flat surface with more detailed triangulation, offering a higher "
+"resolution fill for complex geometries"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid ""
+"Fills the hole with a flat surface using minimal triangles, suitable for "
+"preserving a simple geometry"
+msgstr ""
+
+msgid ""
+"Additional vertices are created inside the bridge to make it visually smooth "
+"including at its ends)"
+msgstr ""
+
+msgid "Creates a flat bridge without additional vertices"
+msgstr ""
+
+msgid "ObjectMesh doesn't have any holes"
+msgstr ""
+
+msgid "Fill single"
+msgstr ""
+
+msgid "Fill entire hole or several holes"
+msgstr ""
+
+msgid "Fill All"
+msgstr ""
+
+msgid "Divide a hole on parts"
+msgstr ""
+
+msgid "Make Bridge"
+msgstr ""
+
+msgid "Fill type"
+msgstr ""
+
+msgid ""
+"Click on the edges of the hole to fill it. Or Switch to selection by hole ID "
+"in control settings."
+msgstr ""
+
+#, c-format
+msgid ""
+"%s+Click on a hole edge in the 3D scene to exclude or include it when using "
+"th e Fill All Holes mode."
+msgstr ""
+
+msgid "Deselect Large Holes"
+msgstr ""
+
+msgid "Deselect the specified number of holes with the longest length"
+msgstr ""
+
+msgid "Deselect all holes whose length is less than the specified value"
+msgstr ""
+
+msgid ""
+"Deselect Less Than Minimum \n"
+"Perimeter"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Fill All Holes"
+msgstr ""
+
+msgid "Click on two hole edges to make bridge."
+msgstr ""
+
+msgid "Click on selected edge to unselect."
+msgstr ""
+
+msgid "Fill Corners"
+msgstr ""
+
+msgid "Allow making new triangle by clicking on the corner between two edges."
+msgstr ""
+
+msgid "Holes"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Control"
+msgstr ""
+
+msgid "Select Hole by"
+msgstr ""
+
+msgid "Mouse in 3D"
+msgstr ""
+
+msgid "Hole ID"
+msgstr ""
+
+msgid ""
+"How you would like to select a hole: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr ""
+
+msgid "Select Hole ID"
+msgstr ""
+
+msgid "ID of the hole to fill"
+msgstr ""
+
+msgid "Fill Selected Hole"
+msgstr ""
+
+msgid "Mouse Accuracy"
+msgstr ""
+
+msgid ""
+"Mesh boundary is highlighted if the mouse cursor is closer to it than this "
+"value in pixels"
+msgstr ""
+
+msgid "Border Line Width"
+msgstr ""
+
+msgid "The width of highlighted hole contour"
+msgstr ""
+
+msgid ""
+"Mesh boundary edge is highlighted if the mouse cursor is closer to it than "
+"this value in pixels"
+msgstr ""
+
+msgid "Mouse Accuracy at Corners"
+msgstr ""
+
+msgid ""
+"Two consecutive edges of mesh boundary are highlighted if the mouse cursor "
+"is closer to their common vertex than this value in pixels"
+msgstr ""
+
+msgid "Controls settings"
+msgstr ""
+
+msgid "Current Hole Metrics"
+msgstr ""
+
+msgid "Hole Perimeter"
+msgstr ""
+
+msgid "The length of highlighted hole boundary."
+msgstr ""
+
+msgid "Hole Area"
+msgstr ""
+
+msgid "The area of the highlighted hole."
+msgstr ""
+
+msgid "Fill One Hole"
+msgstr ""
+
+msgid "Make Smooth Bridge"
+msgstr ""
+
+msgid "Nearest Neighbours"
+msgstr ""
+
+msgid ""
+"The number of nearest neighbor points to use for building of local "
+"triangulation. Too small value can make not optimal triangulation and "
+"additional holes. Too big value increases difficulty of optimization and "
+"decreases performance."
+msgstr ""
+
+msgid "Critical Angle"
+msgstr ""
+
+msgid ""
+"Critical angle of triangles in local triangulation (angle between triangles "
+"in fan should be less then this value)."
+msgstr ""
+
+msgid "Fill Remaining Holes"
+msgstr ""
+
+msgid ""
+"Selects whether to fill the holes remained after using the given points."
+msgstr ""
+
+msgid "Auto Detect Holes to Fill"
+msgstr ""
+
+msgid "If activated then the tool will select holes to fill by itself."
+msgstr ""
+
+msgid "Max Hole Length"
+msgstr ""
+
+msgid "All holes with boundary length less than this value will be filled."
+msgstr ""
+
+msgid "Preserve Point Cloud"
+msgstr ""
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh with filled holes."
+msgstr ""
+
+msgid "Fill Holes with Extra Points"
+msgstr ""
+
+msgid "Select tunnel faces"
+msgstr ""
+
+msgid "Remove selected triangles"
+msgstr ""
+
+msgid "Fill created holes"
+msgstr ""
+
+msgid "Shortest"
+msgstr ""
+
+msgid "Most Curved"
+msgstr ""
+
+msgid "Most Concave"
+msgstr ""
+
+msgid "Most Convex"
+msgstr ""
+
+msgid "Least Curved"
+msgstr ""
+
+msgid "Search for the shortest by length loops."
+msgstr ""
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most curved "
+"(either concave or convex)."
+msgstr ""
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most concave."
+msgstr ""
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most convex."
+msgstr ""
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is least curved "
+"(neither concave nor convex)."
+msgstr ""
+
+msgid "Prefer Tunnels"
+msgstr ""
+
+msgid "Selects what kind of tunnel loops to search for."
+msgstr ""
+
+msgid "Advanced Select Options"
+msgstr ""
+
+msgid "Max Tunnel Length"
+msgstr ""
+
+msgid "The loops longer than this value will be ignored."
+msgstr ""
+
+msgid "Curvature Priority"
+msgstr ""
+
+msgid ""
+"If the value is 0, the curvature is ignored during the search. If the value "
+"is maximal, desired curvature dominates over the euclidean length of the "
+"loops."
+msgstr ""
+
+msgid ""
+"Maximal number of iterations of tunnel detection. Not all tunnels can be "
+"found on initial iterations. But on a big mesh with many tunnels even one "
+"iteration can take a while."
+msgstr ""
+
+msgid "Build Co-Loops"
+msgstr ""
+
+msgid ""
+"In this mode, shorter tunnels are found, but it requires more time to "
+"compute."
+msgstr ""
+
+msgid "Filter Equivalent Co-Loops"
+msgstr ""
+
+msgid ""
+"If this option is off, some tunnels may be cut in several places. Please "
+"active if it is an issue for you, but it will take significantly longer to "
+"compute."
+msgstr ""
+
+msgid "Select Tunnel Triangles"
+msgstr ""
+
+msgid "Add found loops as triangle selection in the mesh object."
+msgstr ""
+
+msgid "Remove Selected Triangles"
+msgstr ""
+
+msgid "Removes selected triangles from mesh object."
+msgstr ""
+
+msgid "Fill Created Holes"
+msgstr ""
+
+msgid "Fills the holes appeared after removal."
+msgstr ""
+
+msgid "Make mesh topologically equivalent to sphere."
+msgstr ""
+
+msgid "Positive"
+msgstr ""
+
+msgid "Shallowest"
+msgstr ""
+
+msgid "Both Sides"
+msgstr ""
+
+msgid ""
+"Verify that positive (normal) triangle direction has even number of "
+"intersections."
+msgstr ""
+
+msgid ""
+"Verify that one of triangle directions (positive or negative) has correct "
+"(even or odd) number of intersections.\n"
+"The direction which has lowest number of intersection is used."
+msgstr ""
+
+msgid ""
+"Verify that positive (normal) and negative (-normal) triangle directions "
+"both have correct number of intersections (even  and odd)."
+msgstr ""
+
+msgid "Virtual Fill Holes"
+msgstr ""
+
+msgid ""
+"If there are holes in mesh - virtually fills them to properly count "
+"intersections of rays going out through holes."
+msgstr ""
+
+msgid "Component Threshold"
+msgstr ""
+
+msgid ""
+"Flip orientation of components with at least this % of incorrectly oriented "
+"area."
+msgstr ""
+
+msgid "Reorient Mesh"
+msgstr ""
+
+msgid "Crease Angle"
+msgstr ""
+
+msgid "Edges with dihedral angle sharper this will be considered as creases"
+msgstr ""
+
+msgid "Critical Tri Aspect Ratio"
+msgstr ""
+
+msgid "Planar check is skipped for faces with worse aspect ratio"
+msgstr ""
+
+msgid "Fix Pockets"
+msgstr ""
+
+msgid "Minimum sum angle"
+msgstr ""
+
+msgid "Maximum iterations"
+msgstr ""
+
+msgid "Select spikes"
+msgstr ""
+
+msgid "Fix spikes"
+msgstr ""
+
+msgid "Fix Spikes"
+msgstr ""
+
+msgid "Specifies the number of objects to split this mesh into"
+msgstr ""
+
+msgid "Force Components"
+msgstr ""
+
+msgid "Pick Free Form Align Point"
+msgstr ""
+
+msgid "Please select two ObjectMesh or two ObjectPoints"
+msgstr ""
+
+msgid "Floating"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Click on objects to setup points pair for adjustment"
+msgstr ""
+
+msgid "Adjustment Grid"
+msgstr ""
+
+msgid "Free Form Align"
+msgstr ""
+
+msgid "Delete All Points"
+msgstr ""
+
+msgid "Delete All Free Form Align Points"
+msgstr ""
+
+msgid "Update FreeForm"
+msgstr ""
+
+msgid "X res"
+msgstr ""
+
+msgid "Y res"
+msgstr ""
+
+msgid "Z res"
+msgstr ""
+
+msgid "Reset/Start"
+msgstr ""
+
+msgid "Reset deformer"
+msgstr ""
+
+msgid ""
+"Allow user to edit points that are hidden in the current view by any objects"
+msgstr ""
+
+msgid "The selected cloud has no points"
+msgstr ""
+
+msgid "The selected cloud has more than 1024 points"
+msgstr ""
+
+msgid "Import Control Points"
+msgstr ""
+
+msgid "Export Control Points"
+msgstr ""
+
+msgid "Geodesic Line"
+msgstr ""
+
+msgid "Spline"
+msgstr ""
+
+msgid "If selected, draws a spline passing via user selected control points."
+msgstr ""
+
+msgid "Close Path"
+msgstr ""
+
+msgid ""
+"Open path can be extended by more control points. After path closing, only "
+"editing of points is permitted."
+msgstr ""
+
+msgid "At least three points required to close path."
+msgstr ""
+
+msgid "Import Points"
+msgstr ""
+
+msgid "Takes control points from the currently selected point cloud."
+msgstr ""
+
+msgid "Export Points"
+msgstr ""
+
+msgid "Creates new cloud object filled with the current control points."
+msgstr ""
+
+msgid "After Cutting"
+msgstr ""
+
+msgid "Delete Part of Surface"
+msgstr ""
+
+msgid "Delete the surface at one side of the contour."
+msgstr ""
+
+msgid "Select Part of Surface"
+msgstr ""
+
+msgid "Select surface triangles at one side of the contour."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid ""
+"Do not delete or select any part of the mesh, just split the edges "
+"intersected by the contour, and select the edges appeared under the contour."
+msgstr ""
+
+msgid "Left Part"
+msgstr ""
+
+msgid "Delete/select the surface to the left of the contour."
+msgstr ""
+
+msgid "Right Part"
+msgstr ""
+
+msgid "Delete/select the surface to the right of the contour."
+msgstr ""
+
+msgid "Smaller Part"
+msgstr ""
+
+msgid ""
+"Delete/select the surface to the left or to the right from the contour, "
+"whatever is smaller."
+msgstr ""
+
+msgid ""
+"Introduce new selected edges along the path, dividing neighbor triangles"
+msgstr ""
+
+msgid "At least two points required to cut mesh"
+msgstr ""
+
+msgid "Hotkeys"
+msgstr ""
+
+msgid ""
+"No path among current points exists. The points are placed on different "
+"connected components"
+msgstr ""
+
+msgid "Control Points"
+msgstr ""
+
+msgid "Total number of user picked control points."
+msgstr ""
+
+msgid "Path Length"
+msgstr ""
+
+msgid "Total length of constructed geodesic path via all points."
+msgstr ""
+
+msgid "Line Segments"
+msgstr ""
+
+msgid ""
+"Total number of triangles passed by the geodesic path, which is straight "
+"line within each triangle."
+msgstr ""
+
+msgid "Spline Options"
+msgstr ""
+
+msgid "Show Geodesic Path as well"
+msgstr ""
+
+msgid ""
+"If selected, shows geodesic path connecting control points together with the "
+"spline."
+msgstr ""
+
+msgid "Maximum distance between geodesic path points and spline points."
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid ""
+"If selected, shows maximum distance between path points and spline points "
+"with a line segment."
+msgstr ""
+
+msgid "Add Control Point"
+msgstr ""
+
+msgid ""
+"Adds control point on the geodesic path in the place where it deviates the "
+"most from the spline."
+msgstr ""
+
+msgid "Respect Normals"
+msgstr ""
+
+msgid ""
+"If selected, then the spline will be orthogonal to mesh normals at control "
+"points."
+msgstr ""
+
+msgid "Sampling Step"
+msgstr ""
+
+msgid ""
+"Additional points will be added between each pair of control points, until "
+"the distance between neighbor points becomes less than this distance."
+msgstr ""
+
+msgid "Control Stability"
+msgstr ""
+
+msgid ""
+"A positive value, the more the value the closer resulting spline will be to "
+"given control points."
+msgstr ""
+
+msgid "Construction Iterations"
+msgstr ""
+
+msgid ""
+"More iterations improve the quality of spline in expense to its longer "
+"construction time."
+msgstr ""
+
+msgid "Point Cloud"
+msgstr ""
+
+msgid "Polyline"
+msgstr ""
+
+msgid "Create in scene new point cloud with normals."
+msgstr ""
+
+msgid "Create in scene new lines object."
+msgstr ""
+
+msgid "Export as"
+msgstr ""
+
+msgid "Select the object type representing the path or spline."
+msgstr ""
+
+msgid "Create Spline Object"
+msgstr ""
+
+msgid "Clone shown spline as new object of selected type"
+msgstr ""
+
+msgid "Create Cut Line Object"
+msgstr ""
+
+msgid "Add cut line corresponding to the current spline as new object"
+msgstr ""
+
+msgid "Create Geodesic Path Object"
+msgstr ""
+
+msgid "Clone geodesic path as new object of selected type"
+msgstr ""
+
+msgid "Geodesic Search Options"
+msgstr ""
+
+msgid "Dijkstra bidir."
+msgstr ""
+
+msgid "Dijkstra A*"
+msgstr ""
+
+msgid "Fast Marching"
+msgstr ""
+
+msgid ""
+"Use bidirectional modification of Dijkstra method for initial path "
+"construction. It is in general fast, but can find not the shortest geodesic "
+"unlike Fast Marching."
+msgstr ""
+
+msgid ""
+"Use A* modification of Dijkstra method for initial path construction. It is "
+"the fastest option for near linear paths, but can work slower if the path is "
+"very distinct from a line."
+msgstr ""
+
+msgid ""
+"Use Fast Marching method for initial path construction. It is typically "
+"closer to the shortest geodesic, but takes longer to compute."
+msgstr ""
+
+msgid "Initial Path"
+msgstr ""
+
+msgid "The method to construct initial path approximation"
+msgstr ""
+
+msgid "Max. Geodesic Iterations"
+msgstr ""
+
+msgid "Maximum number of iterations in making geodesic path from initial path"
+msgstr ""
+
+msgid "Geodesic Iterations Made"
+msgstr ""
+
+msgid ""
+"Actual number of iterations done in making geodesic path from initial path"
+msgstr ""
+
+msgid "Initial Path Time"
+msgstr ""
+
+msgid "The time spent in initial path construction"
+msgstr ""
+
+msgid "Make Geodesic Time"
+msgstr ""
+
+msgid "The time spent in making geodesic path from initial path"
+msgstr ""
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr ""
+
+msgid "Cannot add points to closed path"
+msgstr ""
+
+msgid "Move Point"
+msgstr ""
+
+msgid "Remove Point"
+msgstr ""
+
+msgid "Path is already closed"
+msgstr ""
+
+msgid "Add Cut Line"
+msgstr ""
+
+msgid "Add Cut Points"
+msgstr ""
+
+msgid "Cannot cut empty path."
+msgstr ""
+
+msgid ""
+"Cannot cut path that is fully located on single triangle, please subdivide "
+"mesh first."
+msgstr ""
+
+msgid "Mesh cannot be cut because path has intersection."
+msgstr ""
+
+msgid "Cut along Spline"
+msgstr ""
+
+msgid "Cut along Geodesic Path"
+msgstr ""
+
+msgid "Add Spline"
+msgstr ""
+
+msgid "Add Spline Points"
+msgstr ""
+
+msgid "Add Geodesic Line"
+msgstr ""
+
+msgid "Add Geodesic Points"
+msgstr ""
+
+msgid "Expansion"
+msgstr ""
+
+msgid "Edge weights scheme:"
+msgstr ""
+
+msgid "Cotangent"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Laplacian"
+msgstr ""
+
+msgid "The number of passes over the mesh"
+msgstr ""
+
+msgid "Max Angle Change"
+msgstr ""
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value"
+msgstr ""
+
+msgid "Reduce Total Angle"
+msgstr ""
+
+msgid ""
+"0% here means optimizing only Delaunay criterion.\n"
+"100% means that only dihedral angles between triangles are minimized, "
+"ignoring Delaunay criterion.\n"
+"Other values mean that a mixture of both criteria will be optimized."
+msgstr ""
+
+msgid "Intrinsic Delone"
+msgstr ""
+
+msgid ""
+"In Intrinsic Delaunay mode every edge corresponds to a geodesic line between "
+"end vertices on the original mesh. Still we show all edges as straight line "
+"segments."
+msgstr ""
+
+msgid ""
+"Triangles with larger aspect ratio will be considered degenerate. And Max "
+"Angle Change will be skipped for them"
+msgstr ""
+
+msgid "Make Delone"
+msgstr ""
+
+#, c-format
+msgid "%d edge flip on last apply"
+msgid_plural "%d edge flips on last apply"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Method:"
+msgstr ""
+
+msgid "Rays"
+msgstr ""
+
+msgid "Calculate thickness using normal rays"
+msgstr ""
+
+msgid "Calculate thickness using maximum inscribed spheres"
+msgstr ""
+
+msgid "Enough Thickness"
+msgstr ""
+
+msgid ""
+"Places with this or larger thickness will be colored green, with smaller "
+"thickness - yellow and reddish."
+msgstr ""
+
+msgid "Maximum Curvature"
+msgstr ""
+
+msgid ""
+"Places with zero curvature will be colored green, with large curvature - "
+"blue for positive and red for negative."
+msgstr ""
+
+msgid "Show Min"
+msgstr ""
+
+msgid "Show Max"
+msgstr ""
+
+msgid "Show Subdivided Mesh"
+msgstr ""
+
+msgid "Subdivide given mesh and show thickness at it for better visualization"
+msgstr ""
+
+msgid "Signed Curvature"
+msgstr ""
+
+msgid ""
+"Present surface curvature computed as inversed radius of the maximal sphere "
+"touching the surface each point. The sign is positive if maximal inscribed "
+"sphere is smaller than the maximal sphere outside the mesh."
+msgstr ""
+
+msgid "Max Angle"
+msgstr ""
+
+msgid ""
+"Maximum angle between search direction and the direction from sphere's "
+"center to the other found touch point. The decrease of this value helps "
+"avoiding too small spheres on noisy surfaces. "
+msgstr ""
+
+msgid "Maximum Sphere Radius"
+msgstr ""
+
+msgid ""
+"Maximum allowed radius of the sphere. Please change it only if auto-"
+"detection has failed."
+msgstr ""
+
+msgid "Recalculate"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Inside A"
+msgstr ""
+
+msgid "Outside A"
+msgstr ""
+
+msgid "Inside B"
+msgstr ""
+
+msgid "Outside B"
+msgstr ""
+
+msgid "Difference B-A"
+msgstr ""
+
+msgid "Difference A-B"
+msgstr ""
+
+msgid "Mesh-based Boolean: Inside"
+msgstr ""
+
+msgid "Mesh-based Boolean: Outside"
+msgstr ""
+
+msgid "Mesh-based Boolean: Union"
+msgstr ""
+
+msgid "Mesh-based Boolean: Intersection"
+msgstr ""
+
+msgid "Mesh-based Boolean: Difference"
+msgstr ""
+
+msgid "Boolean points: Inside"
+msgstr ""
+
+msgid "Boolean points: Outside"
+msgstr ""
+
+msgid "Boolean points: Union"
+msgstr ""
+
+msgid "Boolean points: Intersection"
+msgstr ""
+
+msgid "Boolean points: Difference"
+msgstr ""
+
+msgid "Force Mode"
+msgstr ""
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during boolean "
+"operation."
+msgstr ""
+
+msgid "Show intersections"
+msgstr ""
+
+msgid "Each contour line starts white and ends black"
+msgstr ""
+
+msgid "Show all contours"
+msgstr ""
+
+msgid "Selected contour"
+msgstr ""
+
+msgid "Show selected only"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Intersection number"
+msgstr ""
+
+msgid "Each cut line starts red and ends blue"
+msgstr ""
+
+msgid "Show object A cut"
+msgstr ""
+
+msgid "Show object B cut"
+msgstr ""
+
+msgid "Show faces with intersections"
+msgstr ""
+
+msgid "Add Intersection Lines"
+msgstr ""
+
+msgid "Add Intersection Contours"
+msgstr ""
+
+msgid "Select Cut Edges"
+msgstr ""
+
+msgid ""
+"Select edges that are created on result mesh in place of intersection with "
+"other mesh."
+msgstr ""
+
+msgid "Some contours are not closed"
+msgstr ""
+
+msgid "ObjectMesh doesn't have any selected edges"
+msgstr ""
+
+msgid "Operation failed while cutting new edges."
+msgstr ""
+
+msgid "Invalid configuration, input edges should have one closed loop."
+msgstr ""
+
+msgid "Chamfering Edges"
+msgstr ""
+
+msgid "Filleting Edges"
+msgstr ""
+
+msgid "Mirror objects"
+msgstr ""
+
+msgid "Mirror"
+msgstr ""
+
+msgid "Sigma"
+msgstr ""
+
+msgid "Add Noise"
+msgstr ""
+
+msgid "Mesh has selected region."
+msgstr ""
+
+msgid "Partial Offset"
+msgstr ""
+
+msgid "Shell Region"
+msgstr ""
+
+msgid "Offset selected part of the surface outside."
+msgstr ""
+
+msgid "Constructs a shell around selected mesh region."
+msgstr ""
+
+msgid "Entire Model"
+msgstr ""
+
+msgid "Shell"
+msgstr ""
+
+msgid "Thickening"
+msgstr ""
+
+msgid "Expand/Shrink"
+msgstr ""
+
+msgid "Shrink/Expand"
+msgstr ""
+
+msgid "Offset the surface outside or inside depending on sign and value."
+msgstr ""
+
+msgid "Offset the surface both inside and outside."
+msgstr ""
+
+msgid ""
+"Create an object of finite width with two bounding surfaces: thickening "
+"original mesh for positive values,  and hollowing original mesh for negative "
+"values."
+msgstr ""
+
+msgid "Perform positive and then negative offset."
+msgstr ""
+
+msgid "Perform negative and then positive offset."
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "The amount of displacement measured from the original surface."
+msgstr ""
+
+msgid "Anisotropy XYZ"
+msgstr ""
+
+msgid ""
+"If some value here is above 1, then offset along that direction is increased "
+"appropriately. One of XYZ is always 1."
+msgstr ""
+
+msgid "Sharpening"
+msgstr ""
+
+msgid ""
+"Voxels are converted in mesh using Dual Marching Cubes algorithm, which "
+"produces smooth rounding of corners"
+msgstr ""
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth mode"
+msgstr ""
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, with "
+"additional post-processing to highlight sharp features if they are known to "
+"be present in the result"
+msgstr ""
+
+msgid "How to convert voxels into final mesh"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Winding Number"
+msgstr ""
+
+msgid "Projection Normal"
+msgstr ""
+
+msgid ""
+"Automatic selection of the fastest method among safe options for the current "
+"mesh"
+msgstr ""
+
+msgid ""
+"Detects sign from the winding number generalization with support for holes "
+"and self-intersections in mesh"
+msgstr ""
+
+msgid ""
+"Detects sign from the pseudonormal in closest mesh point, which is fast but "
+"unsafe in the presence of holes and self-intersections in mesh"
+msgstr ""
+
+msgid "Sign Detection"
+msgstr ""
+
+msgid ""
+"How to determine the sign of distance in each voxel to differentiate "
+"interior from exterior"
+msgstr ""
+
+msgid "Precision"
+msgstr ""
+
+msgid ""
+"Relative precision of generalized winding number computation that is used to "
+"find inner and outer parts of the body. Smaller values here speed up "
+"computations."
+msgstr ""
+
+msgid "Min New Vertex Deviation"
+msgstr ""
+
+msgid ""
+"Minimal surface deviation to introduce new vertex in a voxel, measured in "
+"voxel size"
+msgstr ""
+
+msgid "Max New Rank 2 Deviation"
+msgstr ""
+
+msgid ""
+"Maximal surface deviation to introduce new rank 2 vertex (on intersection of "
+"2 planes), measured in voxel size"
+msgstr ""
+
+msgid "Max New Rank 3 Deviation"
+msgstr ""
+
+msgid ""
+"Maximal surface deviation to introduce new rank 3 vertex (on intersection of "
+"3 planes), measured in voxel size"
+msgstr ""
+
+msgid "Max Old Vertex Correction"
+msgstr ""
+
+msgid ""
+"Correct positions of the input vertices using reference mesh by not more "
+"than this distance, measured in voxelSize. Big correction can be wrong and "
+"result from self-intersections in the reference mesh"
+msgstr ""
+
+msgid ""
+"Perform mesh decimation at the end to get rid of short edges and degenerate "
+"triangles."
+msgstr ""
+
+msgid ""
+"Whether to minimize summed deviation of triangle-triangle angles from plane "
+"on resulting mesh. This mode highlights sharp edges. If decimation is on, "
+"this mode is performed before and after decimation and further reduces the "
+"number of triangles."
+msgstr ""
+
+msgid "Offset"
+msgstr ""
+
+msgid "Offset (unsigned)"
+msgstr ""
+
+msgid "Larger voxels counts require more resources, recommended value < 1M"
+msgstr ""
+
+msgid "Offset lines"
+msgstr ""
+
+msgid "Please select ObjectMesh or ObjectPoints with child Feature object"
+msgstr ""
+
+msgid "Selected Feature object should have ObjectMesh or ObjectPoint parent"
+msgstr ""
+
+msgid "Orient Object by Feature"
+msgstr ""
+
+#, c++-format
+msgid "{} orientation by features"
+msgstr ""
+
+msgid "Global Offset"
+msgstr ""
+
+msgid "Offset that is applied to whole mesh."
+msgstr ""
+
+msgid "Two-Sided"
+msgstr ""
+
+msgid "If not set - builds only positive part of the shell"
+msgstr ""
+
+msgid "Interpolation"
+msgstr ""
+
+msgid ""
+"Larger value leads to smoother transition among variadic region offsets."
+msgstr ""
+
+msgid "Variatic Regions"
+msgstr ""
+
+msgid "Partial Shell"
+msgstr ""
+
+msgid "ObjectMesh doesn't have any selected triangles"
+msgstr ""
+
+msgid "Diameter of each stone"
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid "Distance between two ajacent stones"
+msgstr ""
+
+msgid "Rotation"
+msgstr ""
+
+msgid "Rotates all the grid"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Minimal distance from stone to border"
+msgstr ""
+
+msgid "Maximal Count"
+msgstr ""
+
+msgid "Maximal number of stones"
+msgstr ""
+
+msgid "Load Custom Stone Mesh"
+msgstr ""
+
+msgid "Use alternate mesh for stone, e.g. diamond model or etc."
+msgstr ""
+
+msgid "Adjust Individual Stones"
+msgstr ""
+
+msgid "Stop editing grid and continue wit adjusting of individual stones"
+msgstr ""
+
+msgid "Freeze Moved Stones"
+msgstr ""
+
+msgid "Unfreeze All Stones"
+msgstr ""
+
+msgid "Individual Settings"
+msgstr ""
+
+msgid "Adjust diameter of picked stone"
+msgstr ""
+
+#, c-format
+msgid ""
+"Pick a stone to adjust it individually.\n"
+"Pick with %s pressed to freeze/unfreeze a stone."
+msgstr ""
+
+msgid "Number of iterations for grid refinement"
+msgstr ""
+
+msgid ""
+"Too small number here can lead to instability, too large - to slow "
+"convergence"
+msgstr ""
+
+msgid "Show Grid Mesh"
+msgstr ""
+
+msgid "ObjectMesh must have selected triangles"
+msgstr ""
+
+msgid "Positioning Type:"
+msgstr ""
+
+msgid "Sharp Boundary"
+msgstr ""
+
+msgid ""
+"After repositioning the region is smooth only inside, but can have sharp "
+"turn on the boundary."
+msgstr ""
+
+msgid "Pressure"
+msgstr ""
+
+msgid ""
+"The amount of pressure applied to mesh region: positive pressure moves the "
+"vertices outside, negative - inside, zero constructs minimal surface."
+msgstr ""
+
+msgid "Smooth Everywhere"
+msgstr ""
+
+msgid ""
+"After repositioning the region is smooth both inside and on the boundary."
+msgstr ""
+
+msgid ""
+"The number of algorithm's repetitions. Typically more iterations mean better "
+"result, but longer computation."
+msgstr ""
+
+msgid "Cotangent Edge Weights"
+msgstr ""
+
+msgid ""
+"Cotangent edge weights in Laplacian equations are recommended by the theory "
+"and they work the best except for meshes with degenerations. If unselected "
+"all edges have same unit weights."
+msgstr ""
+
+msgid "Neighbor Area as Vertex Mass"
+msgstr ""
+
+msgid ""
+"Vertex mass proportional to the area of surrounding triangles in Laplacian "
+"equations is recommended by the theory and it works the best except for "
+"meshes with degenerations. If unselected all vertices have same unit mass."
+msgstr ""
+
+msgid "Optimize Triangulation"
+msgstr ""
+
+msgid ""
+"If selected, triangulation will be made Delaunay prior to constructing "
+"Laplacian linear system to improve its qualities."
+msgstr ""
+
+msgid "Selection must not include all vertices of a mesh connected component"
+msgstr ""
+
+msgid "Re-position"
+msgstr ""
+
+msgid "Print Direction"
+msgstr ""
+
+msgid "Three components of print direction vector"
+msgstr ""
+
+msgid "To select print direction toward the user"
+msgstr ""
+
+msgid "Direct from Holes"
+msgstr ""
+
+msgid ""
+"To select print direction along the smallest side of dense bounding box "
+"around the object, and away from the hole(s)"
+msgstr ""
+
+msgid "Find Undercuts"
+msgstr ""
+
+msgid "To select triangles that are hidden if look from the tip of the arrow"
+msgstr ""
+
+msgid "Optimize Print Direction"
+msgstr ""
+
+msgid "Projected Area"
+msgstr ""
+
+msgid "Projected Area Approx"
+msgstr ""
+
+msgid "Total area of undercut faces"
+msgstr ""
+
+msgid ""
+"Summed absolute area of undercut faces as visible if look from direction"
+msgstr ""
+
+msgid "Faster approximation of Projected Area metric"
+msgstr ""
+
+msgid "Select what metric 'Find Better Direction' button will minimize."
+msgstr ""
+
+msgid "Max Base Angle"
+msgstr ""
+
+msgid "Base Angle Step"
+msgstr ""
+
+msgid "Polar Angle Step"
+msgstr ""
+
+msgid "Find Optimal Direction"
+msgstr ""
+
+msgid "Benchmark"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Bottom Extension"
+msgstr ""
+
+msgid "Wall Angle"
+msgstr ""
+
+msgid "Gaussian Smooth"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Selection Only"
+msgstr ""
+
+msgid "Fix all undercuts in the mesh."
+msgstr ""
+
+msgid "Fix undercuts for selected region only."
+msgstr ""
+
+msgid "Fix Undercuts"
+msgstr ""
+
+msgid "Select what undercuts will be fixed."
+msgstr ""
+
+msgid "Extrude Base"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid ""
+"Ensure both 3D objects share the same global coordinates for accurate "
+"projection."
+msgstr ""
+
+msgid "Project Mesh Colors"
+msgstr ""
+
+msgid "Three components of the milling tool direction"
+msgstr ""
+
+msgid "To Camera"
+msgstr ""
+
+msgid "Off Camera"
+msgstr ""
+
+msgid "Tool Radius"
+msgstr ""
+
+msgid ""
+"Number of iterations performed to compensate tool radius:\n"
+"  more iterations decreases probability of self-intersections and produce "
+"smoother result in general\n"
+"  but it takes longer time."
+msgstr ""
+
+msgid "Relax Expansion"
+msgstr ""
+
+msgid ""
+"Amount of vertices layers around actually changed vertices that will be "
+"relaxed on each iteration."
+msgstr ""
+
+msgid "Relax Iterations"
+msgstr ""
+
+msgid "Number of relax iterations applied on each compensation step."
+msgstr ""
+
+msgid "Relax Force"
+msgstr ""
+
+msgid "Force of relax iterations applied on each compensation step."
+msgstr ""
+
+msgid "Compensate Radius"
+msgstr ""
+
+msgid "Minuend"
+msgstr ""
+
+msgid "Subtrahend"
+msgstr ""
+
+msgid "Usage Tips"
+msgstr ""
+
+msgid "Drag any of two objects to make it Subtrahend shown semi-transparent."
+msgstr ""
+
+msgid ""
+"The objMinuend_ object becomes Minuend and is hidden. Instead a third object "
+"with Difference is shown."
+msgstr ""
+
+msgid "Boolean Runs"
+msgstr ""
+
+msgid "The number of times, Boolean was called."
+msgstr ""
+
+msgid "Boolean Fails"
+msgstr ""
+
+msgid "The number of Boolean runs finished with a fail."
+msgstr ""
+
+msgid "Average Time"
+msgstr ""
+
+msgid "The time spent on average Boolean run."
+msgstr ""
+
+msgid "Last Time"
+msgstr ""
+
+msgid "The time spent in last Boolean run."
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
+msgid "Processor name in this computer."
+msgstr ""
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth offsetMode"
+msgstr ""
+
+msgid ""
+"This is threshold value for generalized winding number to select location of "
+"output mesh.\n"
+"\n"
+"For closed meshes with normals outside, winding number is 1 inside and 0 "
+"outside, so the ideal threshold is 0.5.\n"
+"\n"
+"For planar meshes, winding number is 0.5 inside and -0.5 outside, so the "
+"ideal threshold is 0."
+msgstr ""
+
+msgid "Close Holes"
+msgstr ""
+
+msgid "Whether to close all holes in generalized winding number  mode."
+msgstr ""
+
+msgid "Pre-Subdivide"
+msgstr ""
+
+msgid ""
+"Subdivision of large input triangles typically increases overall performance "
+"at the cost of somewhat more memory usage."
+msgstr ""
+
+msgid "Rebuild Meshes"
+msgstr ""
+
+msgid "Rebuild Mesh"
+msgstr ""
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected verts ({}) less than minimal ({}) for "
+"this feature type"
+msgstr ""
+
+msgid "Exactly 1 feature object must be selected"
+msgstr ""
+
+msgid "Selected object must be a feature object"
+msgstr ""
+
+msgid ""
+"Selected feature object must have appropriate parent object (mesh or point "
+"cloud)"
+msgstr ""
+
+msgid "Feature Object"
+msgstr ""
+
+msgid "Reference Object"
+msgstr ""
+
+msgid "Reference Obj."
+msgstr ""
+
+msgid "Floating Obj."
+msgstr ""
+
+msgid "Exchange Reference and Floating objects."
+msgstr ""
+
+msgid "Auto Initial"
+msgstr ""
+
+msgid ""
+"Automatically select initial transformation for the floating object  based "
+"on covariance matrices of both floating and reference objects."
+msgstr ""
+
+msgid "Visual settings"
+msgstr ""
+
+msgid "Show pair lines"
+msgstr ""
+
+msgid "Show points"
+msgstr ""
+
+msgid "Show normals"
+msgstr ""
+
+msgid "Lines always front"
+msgstr ""
+
+msgid ""
+"Run Iterative Closest Point (ICP) algorithm starting from the current "
+"position."
+msgstr ""
+
+msgid ""
+"Objects are too far apart. Perform a rough initial alignment using Align "
+"Manually, Transform, or Move object."
+msgstr ""
+
+msgid "Reset Objects"
+msgstr ""
+
+msgid "Registration reset objects"
+msgstr ""
+
+msgid "Restore original position of both Reference and Floating objects."
+msgstr ""
+
+msgid "Mechanical Surface"
+msgstr ""
+
+msgid ""
+"This option works best for non-natural surfaces, where triangles have non-"
+"uniform shapes and sharp edges in between."
+msgstr ""
+
+msgid "Organic Surface"
+msgstr ""
+
+msgid ""
+"This option works best for natural surfaces, where all triangles are close "
+"to equilateral and have similar area, and no sharp edges in between."
+msgstr ""
+
+msgid "Target Edge Length"
+msgstr ""
+
+msgid ""
+"The algorithm will try to keep the length of all edges close to this value, "
+"splitting the edges longer than this value, and then eliminating the edges "
+"shorter than this value."
+msgstr ""
+
+msgid "Preserve Sharpness"
+msgstr ""
+
+#, c++-format
+msgid "Edge flip is allowed if it changes dihedral angle no more than {}"
+msgstr ""
+
+msgid "Project on Original Mesh"
+msgstr ""
+
+msgid ""
+"If true, then every new vertex after subdivision will be projected on the "
+"original mesh (before smoothing); this does not affect the vertices moved on "
+"other stages of the processing."
+msgstr ""
+
+msgid "Max Boundary Shift"
+msgstr ""
+
+msgid "Maximal shift of a boundary during one edge collapse."
+msgstr ""
+
+msgid "Final Relax Iterations"
+msgstr ""
+
+msgid ""
+"The number of iterations of final relaxation of mesh vertices. Few "
+"iterations can give almost perfect uniformity of the vertices and edge "
+"lengths but deviate from the original surface."
+msgstr ""
+
+msgid "No Shrinkage"
+msgstr ""
+
+msgid ""
+"If checkbox is selected then the tool prevents the surface from shrinkage "
+"after many iterations."
+msgstr ""
+
+msgid "Remesh"
+msgstr ""
+
+msgid "All selected objects have only one component."
+msgstr ""
+
+msgid "Largest Component"
+msgstr ""
+
+msgid "Segment Mesh: Segment"
+msgstr ""
+
+msgid ""
+"Direction should be approximately normal to next segment boundary, and "
+"oriented toward the part of the object you want to segment."
+msgstr ""
+
+msgid ""
+"Three components of direction vector, which should be approximately "
+"orthogonal to expected segment boundary"
+msgstr ""
+
+msgid "Orient Direction vector to the current viewer position."
+msgstr ""
+
+msgid "Auto update to camera"
+msgstr ""
+
+msgid "Keep orienting Direction vector to viewer position."
+msgstr ""
+
+msgid "Draw direction"
+msgstr ""
+
+msgid "Show Direction vector in 3D scene using a cylinder."
+msgstr ""
+
+msgid "Show All Labels"
+msgstr ""
+
+msgid ""
+"Show labels for all points of all segments.\n"
+"If this option is disabled, labels will be displayed only for new and "
+"editable segments."
+msgstr ""
+
+msgid "Click nearby to move"
+msgstr ""
+
+msgid "If activated, a selected point can be dragged if first clicked nearby."
+msgstr ""
+
+#, c-format
+msgid "Hold %s to temporarily invert"
+msgstr ""
+
+msgid "Hide original object"
+msgstr ""
+
+msgid "Activate to observe other scene objects."
+msgstr ""
+
+msgid "Segmentation: new selection"
+msgstr ""
+
+msgid "Convert segments into face selection."
+msgstr ""
+
+msgid "Make objects"
+msgstr ""
+
+msgid "Convert segments into scene objects."
+msgstr ""
+
+msgid "Click LMB to create / move selected point"
+msgstr ""
+
+msgid "Press and hold LMB to move selected / created point"
+msgstr ""
+
+msgid "Shift+Click LMB to select segment to add point at next click"
+msgstr ""
+
+#, c-format
+msgid "%s+Click LMB on segment to remove it"
+msgstr ""
+
+msgid "Segmentation: create objects"
+msgstr ""
+
+msgid "Select Component"
+msgstr ""
+
+msgid "Select Largest Selection"
+msgstr ""
+
+msgid "Maximum length of edges to be selected."
+msgstr ""
+
+msgid "Select Short Edges"
+msgstr ""
+
+msgid "Close distance"
+msgstr ""
+
+msgid ""
+"Vertices located closer than this distance will be end-points of found twin "
+"edges"
+msgstr ""
+
+msgid "Select Twin Edges"
+msgstr ""
+
+msgid "Self-Boolean"
+msgstr ""
+
+msgid "Number of tunnels"
+msgstr ""
+
+msgid "Update tunnel contours"
+msgstr ""
+
+msgid "Select single tunnel"
+msgstr ""
+
+msgid "Select loop ID"
+msgstr ""
+
+msgid "Homology basis is empty"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Select internal part"
+msgstr ""
+
+msgid "Find signed distance"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+#, c-format
+msgid "Smart search time: %.3f ms"
+msgstr ""
+
+#, c-format
+msgid "Full search time: %.3f ms"
+msgstr ""
+
+msgid "Simple Partial Offset"
+msgstr ""
+
+msgid "ObjectMesh has less than two holes"
+msgstr ""
+
+msgid "Number of Holes: "
+msgstr ""
+
+msgid "Select Holes by"
+msgstr ""
+
+msgid ""
+"How you would like to select holes: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr ""
+
+msgid "Triangulate only"
+msgstr ""
+
+msgid ""
+"Subdivision is stopped when all edges inside or on the boundary of the "
+"region are not longer than this value"
+msgstr ""
+
+msgid "Computes 1.5 of average edge length in the mesh"
+msgstr ""
+
+msgid ""
+"Make stitch over the holes smooth both inside and on its boundary with "
+"existed surface"
+msgstr ""
+
+msgid "Circumscribed"
+msgstr ""
+
+msgid ""
+"This metric minimizes the maximal dihedral angle between the faces in the "
+"triangulation and on its boundary, and it avoids creating too degenerate "
+"triangles. For planar holes it is the same as Circumscribed metric"
+msgstr ""
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum edgeMetric for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+
+msgid ""
+"This metric minimizes the sum of circumcircle radii for all triangles in the "
+"triangulation. It is rather fast to calculate, and it results in typically "
+"good triangulations"
+msgstr ""
+
+msgid "Select a metric to be optimized during next hole stitching"
+msgstr ""
+
+msgid "Stitch Holes"
+msgstr ""
+
+msgid "Edge Weights Scheme"
+msgstr ""
+
+msgid ""
+"Choose if all the edges have unit weight or it depends on local geometry"
+msgstr ""
+
+msgid "Stitch Two Holes failed"
+msgstr ""
+
+msgid "Stitch Two Holes"
+msgstr ""
+
+msgid "Too few holes!"
+msgstr ""
+
+msgid "First Hole ID"
+msgstr ""
+
+msgid "ID of the first hole to stitch"
+msgstr ""
+
+msgid "Second Hole ID"
+msgstr ""
+
+msgid "ID of the second hole to stitch"
+msgstr ""
+
+msgid "Subdivide"
+msgstr ""
+
+msgid "Max New Vertices"
+msgstr ""
+
+msgid ""
+"0% - same subdivision everywhere, 100% - subdivision is much finer in the "
+"regions of high curvature compared to planar regions."
+msgstr ""
+
+msgid "Smooth Mode"
+msgstr ""
+
+msgid ""
+"Puts new vertices so that they form a smooth surface together with existing "
+"vertices. This option works best for natural surfaces without sharp edges in "
+"between triangles"
+msgstr ""
+
+msgid ""
+"If selected, then every new vertex will be projected on the original mesh "
+"(before smoothing). This option works best for natural surfaces without "
+"sharp edges in between triangles"
+msgstr ""
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value "
+"in degrees"
+msgstr ""
+
+msgid "Min Sharp Dihedral Angle"
+msgstr ""
+
+msgid ""
+"In case of activated Smooth Mode, the smoothness is locally deactivated at "
+"the edges having dihedral angle at least this value in degrees"
+msgstr ""
+
+msgid "Max Tri Aspect Ratio"
+msgstr ""
+
+msgid ""
+"The subdivision stops as soon as all triangles (in the region) have aspect "
+"ratio below or equal to this value"
+msgstr ""
+
+msgid "Selected Triangles Boundary"
+msgstr ""
+
+msgid "Selected Edges"
+msgstr ""
+
+msgid "Draw surface distance from user picked point."
+msgstr ""
+
+msgid "Draw surface distance from selected region boundary."
+msgstr ""
+
+msgid "Draw surface distance from selected edges."
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Select the source from which surface distance will be measured."
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Do not draw any distance iso-line."
+msgstr ""
+
+msgid "Draw exactly one distance iso-line with user defined value."
+msgstr ""
+
+msgid "Draw several distance iso-lines with fixed distance step."
+msgstr ""
+
+msgid "Iso-lines"
+msgstr ""
+
+msgid "Select whether to draw distance iso-lines."
+msgstr ""
+
+msgid "Iso-value"
+msgstr ""
+
+msgid "Specify exact distance value to draw iso-line of that distance."
+msgstr ""
+
+msgid "Cut & Select"
+msgstr ""
+
+msgid "Cuts the mesh along shown iso-line and selects the region inside."
+msgstr ""
+
+msgid "Number of Iso-lines"
+msgstr ""
+
+msgid "The number of distance iso-lines to draw on the surface"
+msgstr ""
+
+msgid "Max Vertex Updates"
+msgstr ""
+
+msgid ""
+"The maximum amount of times vertex distance can be updated. The more the "
+"better obtuse triangles are handled"
+msgstr ""
+
+msgid "No boundary of selected triangles found"
+msgstr ""
+
+msgid "No selected edges found"
+msgstr ""
+
+msgid "Pick point on mesh..."
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Text Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Detalization"
+msgstr ""
+
+msgid "Thick modifier"
+msgstr ""
+
+msgid "Symbols thickness modifier (in units of base text height)"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Result type"
+msgstr ""
+
+msgid "Create text as ObjectMesh."
+msgstr ""
+
+msgid "Add text mesh"
+msgstr ""
+
+msgid "Add text lines"
+msgstr ""
+
+msgid "Click two points on the mesh surface to define the text direction."
+msgstr ""
+
+msgid "Drag the points to adjust direction as needed."
+msgstr ""
+
+msgid "Applies only to multiline text"
+msgstr ""
+
+msgid "Depth (-)/Height (+) "
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Real-Time Preview"
+msgstr ""
+
+msgid "Font-based Size Calculation"
+msgstr ""
+
+msgid ""
+"If checked then size of each symbol will be calculated from font height, "
+"otherwise - on bounding box of the text"
+msgstr ""
+
+msgid "Bend Text along Path"
+msgstr ""
+
+msgid "Maximum movement"
+msgstr ""
+
+msgid "Use Custom Normal"
+msgstr ""
+
+msgid "Custom Normal"
+msgstr ""
+
+msgid "Add Text to Mesh"
+msgstr ""
+
+msgid "Add Text to Scene"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "BoldItalic"
+msgstr ""
+
+msgid "The current font does not support the following types: "
+msgstr ""
+
+msgid "Outside Offset"
+msgstr ""
+
+msgid "The amount of surface offset in the direction of normals."
+msgstr ""
+
+msgid "Inside Offset"
+msgstr ""
+
+msgid "The amount of surface offset in the opposite direction to normals."
+msgstr ""
+
+msgid "Normals Trust"
+msgstr ""
+
+msgid ""
+"This slider allows user to control over normal smoothing\n"
+"1%- more smoothing\n"
+"10% - default smoothing"
+msgstr ""
+
+msgid "Thicken"
+msgstr ""
+
+msgid "Vertices located closer than this distance will be united"
+msgstr ""
+
+msgid "Only boundary vertices"
+msgstr ""
+
+msgid "If checked only boundary vertices can be united"
+msgstr ""
+
+msgid "Unite Close Vertices"
+msgstr ""
+
+msgid "Selected mesh has only one component."
+msgstr ""
+
+msgid "Use Random Shifts"
+msgstr ""
+
+msgid ""
+"Apply random shift to each mesh, to prevent degenerations on coincident "
+"surfaces."
+msgstr ""
+
+msgid "Fix Degenerations"
+msgstr ""
+
+msgid ""
+"Try to fix degenerations after each boolean step, to prevent boolean failure "
+"due to high amount of degenerated faces."
+msgstr ""
+
+msgid ""
+"Max allowed random shifts in each direction, and max allowed deviation after "
+"degeneration fixing."
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid ""
+"Separate nested meshes and remove them, just like union operation should do, "
+"use this if input meshes are single component"
+msgstr ""
+
+msgid ""
+"Merge nested meshes, useful if input meshes are components of single object"
+msgstr ""
+
+msgid ""
+"Does not separate components and call union for all input meshes, works "
+"slower than Remove and Merge method but returns valid result if input meshes "
+"has multiple components"
+msgstr ""
+
+msgid "Nested Shells Mode"
+msgstr ""
+
+msgid "Determines how to handle nested shells."
+msgstr ""
+
+msgid "Merge on Fail"
+msgstr ""
+
+msgid ""
+"If boolean operation fails for some reason, merge shell instead of raising "
+"error."
+msgstr ""
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during union "
+"operation."
+msgstr ""
+
+msgid "Preserve Original Meshes"
+msgstr ""
+
+msgid ""
+"If checked then original meshes will remain in scene in addition to united "
+"mesh."
+msgstr ""
+
+msgid "Unite"
+msgstr ""
+
+msgid "Unite Many Meshes"
+msgstr ""
+
+msgid "Mesh object does not have UV-coordinates for each vertex"
+msgstr ""
+
+msgid "UV to XY"
+msgstr ""
+
+msgid "Initial Offset"
+msgstr ""
+
+msgid "Base Thickness"
+msgstr ""
+
+msgid "Additional Thickness"
+msgstr ""
+
+msgid "Offset From Mesh"
+msgstr ""
+
+msgid "Interpolation Distance"
+msgstr ""
+
+msgid "Generate Aligner"
+msgstr ""
+
+msgid "Cannot create aligner"
+msgstr ""
+
+msgid "Max Shift"
+msgstr ""
+
+msgid ""
+"The shift of mesh parts orthogonal to Z-axis with normal against Z-axis. For "
+"other mesh parts the shift will be less and will depend on the angle between "
+"point pseudo-normal and Z-axis."
+msgstr ""
+
+msgid "Reduce self-intersections"
+msgstr ""
+
+msgid ""
+"If selected, limits the movement of each vertex to reduce self-intersections "
+"in the mesh."
+msgstr ""
+
+msgid "Min Thickness"
+msgstr ""
+
+msgid "Avoids moving a vertex closer than this distance to another triangle."
+msgstr ""
+
+msgid "Z-Compensate"
+msgstr ""
+
+msgid "Minimum Area"
+msgstr ""
+
+#, c-format
+msgid "%.6f sq. units"
+msgstr ""
+
+msgid "Triangles Aspect Ratio"
+msgstr ""
+
+msgid "Maximum Edge Length"
+msgstr ""
+
+msgid "1% of tolerance"
+msgstr ""
+
+msgid "Subdivide mesh after fix to eliminate degeneracies that stayed."
+msgstr ""
+
+msgid "Forced Fix"
+msgstr ""
+
+msgid ""
+"Try to fix this by removing bad triangles and their surroundings and filling "
+"resulting holes in last fix iteration.\n"
+"Only avalilable if Subdivide is enabled."
+msgstr ""
+
+msgid "Mimic Patch"
+msgstr ""
+
+msgid ""
+"In Force mode disables smoothing and makes patches closer to initial surface."
+msgstr ""
+
+msgid "Minimum Perimeter"
+msgstr ""
+
+msgid "Inspect Loaded Meshes"
+msgstr ""
+
+msgid ""
+"Suggest using Mesh Healer tool if potential issues are present in loaded "
+"mesh."
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Iterations number when fixing defects by moving points"
+msgstr ""
+
+msgid "Max Triangles Expansion"
+msgstr ""
+
+msgid "Maximum size of affected area around self-intersecting faces"
+msgstr ""
+
+msgid "Cut And Fill"
+msgstr ""
+
+msgid ""
+"If set cuts selfies area and fills generated hole, otherwise just relaxes "
+"selfies area"
+msgstr ""
+
+msgid ""
+"In Cut And Fill mode disables smoothing and makes patches closer to initial "
+"surface."
+msgstr ""
+
+msgid "Touches as Self-Intersections"
+msgstr ""
+
+msgid "If set - detects coincident and touching faces as self-intersections"
+msgstr ""
+
+msgid "Maximum Tunnel Length"
+msgstr ""
+
+msgid "Critical Thickness"
+msgstr ""
+
+msgid "Undercut Height"
+msgstr ""
+
+msgid "Same as tolerance"
+msgstr ""
+
+msgid "Undercut Distance"
+msgstr ""
+
+msgid "30% of tolerance"
+msgstr ""
+
+msgid "Axis"
+msgstr ""
+
+msgid "To X"
+msgstr ""
+
+msgid "Set axis to X"
+msgstr ""
+
+msgid "To Y"
+msgstr ""
+
+msgid "Set axis to Y"
+msgstr ""
+
+msgid "To Z"
+msgstr ""
+
+msgid "Set axis to Z"
+msgstr ""
+
+msgid "Set axis to camera"
+msgstr ""
+
+msgid "To -X"
+msgstr ""
+
+msgid "Set axis to -X"
+msgstr ""
+
+msgid "To -Y"
+msgstr ""
+
+msgid "Set axis to -Y"
+msgstr ""
+
+msgid "To -Z"
+msgstr ""
+
+msgid "Set axis to -Z"
+msgstr ""
+
+msgid "Switch Mesh Healer on the selected mesh?"
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "Computation is in progress..."
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Inspect and Repair"
+msgstr ""
+
+msgid "Advanced Mode"
+msgstr ""
+
+msgid "Repair Selected"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Save Selection on Exit"
+msgstr ""
+
+msgid "Save selection after closing the tool."
+msgstr ""
+
+msgid "Mesh Healer: Delete Selection"
+msgstr ""
+
+msgid ""
+"Deletes faces that are now selected in mesh, it could simplify fixing some "
+"issues.\n"
+"(Del)"
+msgstr ""
+
+msgid "Printability Checks"
+msgstr ""
+
+msgid "Restart on Mesh Selection Change"
+msgstr ""
+
+msgid ""
+"The Mesh Healer tool will automatically restart when you select a different "
+"mesh from the list."
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Load Settings"
+msgstr ""
+
+msgid "Auto Rebuild Model"
+msgstr ""
+
+msgid "Select Mesh Issues"
+msgstr ""
+
+msgid "MeshHealer: deselect"
+msgstr ""
+
+msgid "Inspect"
+msgstr ""
+
+msgid "Update Checked"
+msgstr ""
+
+msgid "Some mesh issues remain. Please consider using Rebuild Model"
+msgstr ""
+
+msgid "Repair Resolution"
+msgstr ""
+
+msgid ""
+"Maximum distance the healed mesh may deviate from the original surface "
+"(tolerance). Choose a value that matches or is finer than your intended "
+"printing resolution."
+msgstr ""
+
+msgid "Show Deviation Map"
+msgstr ""
+
+msgid ""
+"Visualize differences between the original and repaired mesh. Red highlights "
+"areas where the mesh has been added, while blue shows where material has "
+"been removed. This color-coded map helps you easily spot changes."
+msgstr ""
+
+msgid "Discrete Palette"
+msgstr ""
+
+msgid ""
+"If checked, palette will have several discrete levels. Otherwise it will be "
+"smooth."
+msgstr ""
+
+msgid "Local Repair"
+msgstr ""
+
+msgid ""
+"Fixes mesh inconsistencies locally, without altering the entire model. You "
+"can choose to repair all or only selected types of issues."
+msgstr ""
+
+msgid "Auto Repair"
+msgstr ""
+
+msgid ""
+"Rebuilds the entire model, resolving all mesh issues based on the selected "
+"printing resolution. Higher accuracy improves precision but may increase "
+"computation time."
+msgstr ""
+
+msgid "Detection Settings"
+msgstr ""
+
+msgid "Repair Settings"
+msgstr ""
+
+msgid "How to convert intermediate voxels representation into final mesh"
+msgstr ""
+
+msgid "Close All Holes"
+msgstr ""
+
+msgid ""
+"Whether to close all holes (even larger than the threshold in settings) in "
+"generalized winding number mode."
+msgstr ""
+
+msgid "Auto Repair Mesh"
+msgstr ""
+
+msgid "Repair Mesh"
+msgstr ""
+
+msgid "Disconnected Parts"
+msgstr ""
+
+msgid ""
+"When mesh components intersect, they can cause 3D printing problems. Mesh "
+"Healer fixes this by joining large intersecting parts through Boolean Union "
+"operations and removing smaller ones."
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Small components are removed during repair operation."
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Large components are united during repair operation."
+msgstr ""
+
+msgid ""
+"Holes can disrupt workflows. Mesh Healer fills small holes to ensure model "
+"integrity."
+msgstr ""
+
+msgid "Small holes are filled during repair operation."
+msgstr ""
+
+msgid "To fix large holes please go to Fill Holes plugin or rebuild model."
+msgstr ""
+
+msgid "Self-Intersections"
+msgstr ""
+
+msgid ""
+"Self-intersections create geometric irregularities that Mesh Healer resolves "
+"by optimizing the model's topology."
+msgstr ""
+
+msgid "Zero-Area Triangles"
+msgstr ""
+
+msgid ""
+"Zero-Area Triangles (degeneracies) are situations where geometric elements, "
+"such as points, lines, or faces, become less well-defined, which can lead to "
+"inaccuracies and errors. Mesh Healer address degeneracies by automatically "
+"resolving them."
+msgstr ""
+
+msgid "Flipped Normals"
+msgstr ""
+
+msgid ""
+"Flipped normals can cause incorrect geometry interpretation. Mesh Healer "
+"detects and corrects flipped normals to ensure proper surface orientation."
+msgstr ""
+
+msgid "Small Tunnels"
+msgstr ""
+
+msgid ""
+"Small tunnel faces can be problematic as they may lead to printing "
+"difficulties, rendering artifacts, or inaccuracies in simulations, "
+"potentially compromising the overall quality and functionality of the model. "
+"Mesh Healer address small tunnel faces to ensure a more robust and reliable "
+"representation."
+msgstr ""
+
+msgid "Undercuts"
+msgstr ""
+
+msgid ""
+"Undercuts can be problematic in 3D printing and manufacturing processes "
+"because they can hinder the removal of support structures, complicate mold "
+"design for traditional manufacturing methods like injection molding, and may "
+"require additional processing steps to address the challenges posed by the "
+"geometry, potentially increasing production time and costs."
+msgstr ""
+
+msgid "Thin Walls"
+msgstr ""
+
+msgid ""
+"Highlights areas with thin walls that may cause weak structures, durability "
+"issues, and printing or assembly challenges."
+msgstr ""
+
+msgid "Apply Transform"
+msgstr ""
+
+msgid ""
+"You are about to apply transformation to a voxel object. Due to the nature "
+"of voxels representation in Mesh Inspector, voxels will be additionally "
+"moved so that no data has negative coordinate by any of dimensions"
+msgstr ""
+
+msgid "To Components"
+msgstr ""
+
+msgid "Textures have been deleted because they require too much memory"
+msgstr ""
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} component. You can select any of output objects and "
+"split it again."
+msgid_plural ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"There are too many connected components in initial object, so smaller "
+"components were collected in additional resulting objects."
+msgstr ""
+
+msgid "At least one closed contour required."
+msgstr ""
+
+msgid "Planar Processing"
+msgstr ""
+
+msgid ""
+"If selected all contours will be considered planar and they will be "
+"triangulated together allowing for inner holes and self-intersections among "
+"contours.\n"
+"If unselected each contour will be triangulated by its own."
+msgstr ""
+
+msgid "Thick Mesh"
+msgstr ""
+
+msgid ""
+"If selected the mesh will be closed and have given thickness.\n"
+"If unselected the mesh is planar with open boundary."
+msgstr ""
+
+msgid ""
+"Repeat the polyline shifted at this distance to get the other end of the "
+"mesh."
+msgstr ""
+
+msgid "Lines to Mesh"
+msgstr ""
+
+msgid "Make Convex Hull"
+msgstr ""
+
+msgid "At least one object with colors must be selected"
+msgstr ""
+
+msgid "Delete Colors"
+msgstr ""
+
+msgid "Flip normals"
+msgstr ""
+
+msgid "Flip All"
+msgstr ""
+
+msgid "Flip all normal on object"
+msgstr ""
+
+msgid "Flip Selected Components"
+msgstr ""
+
+msgid "Flip normals selected components"
+msgstr ""
+
+msgid "Flip normal on component with selected face"
+msgstr ""
+
+msgid "Flip normal on picked component"
+msgstr ""
+
+msgid "Click on the components to change the normals"
+msgstr ""
+
+msgid "Flip normal picked component"
+msgstr ""
+
+msgid "Combine"
+msgstr ""
+
+msgid ""
+"Too many points in PointCloud:\n"
+"Visualization is simplified (only part of the points is drawn)"
+msgstr ""
+
+msgid ""
+"Some input point have normals and some others do not, all normals are lost"
+msgstr ""
+
+msgid "Delete by Normal"
+msgstr ""
+
+msgid "Move to Zero"
+msgstr ""
+
+msgid "Copies"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Translation"
+msgstr ""
+
+msgid "Rotation Pivot"
+msgstr ""
+
+msgid "Rotation Angles"
+msgstr ""
+
+msgid "Multi Clone"
+msgstr ""
+
+msgid "Optimize"
+msgstr ""
+
+msgid "All selected point clouds don't have normals"
+msgstr ""
+
+msgid "All point clouds already don't have normals"
+msgstr ""
+
+msgid "Remove normals"
+msgstr ""
+
+msgid "Selfy Contours"
+msgstr ""
+
+msgid "No self-intersections found"
+msgstr ""
+
+msgid "Separate Teeth"
+msgstr ""
+
+msgid "All selected objects do not have vertex colors."
+msgstr ""
+
+msgid "Separate Teeth Margins"
+msgstr ""
+
+msgid "Straighten boundary"
+msgstr ""
+
+msgid "Selected ObjectMesh should have selected faces."
+msgstr ""
+
+msgid "Smooth Region Boundary"
+msgstr ""
+
+msgid "Only mesh objects must be selected"
+msgstr ""
+
+msgid "At least one selected mesh object must be colored using a texture"
+msgstr ""
+
+msgid "Texture to Vertex Colors"
+msgstr ""
+
+msgid ""
+"At least one selected mesh object must be colored using a faces color map"
+msgstr ""
+
+msgid "Faces to Vertex Colors"
+msgstr ""
+
+msgid "Cannot read Build Plate config: "
+msgstr ""
+
+msgid "Select Existing"
+msgstr ""
+
+msgid "Name "
+msgstr ""
+
+msgid "Min Interval"
+msgstr ""
+
+msgid "Slicing Step"
+msgstr ""
+
+msgid "3D Plate"
+msgstr ""
+
+msgid "Cannot remove Build Plate config: "
+msgstr ""
+
+msgid "Cannot rename Build Plate config: "
+msgstr ""
+
+msgid "Common Rotation"
+msgstr ""
+
+msgid "Angle XYZ"
+msgstr ""
+
+msgid "Apply to All"
+msgstr ""
+
+msgid "Apply Common Rotation"
+msgstr ""
+
+msgid "Allow 3D Nesting"
+msgstr ""
+
+msgid "Selected Build Plate does not allow 3d nesting"
+msgstr ""
+
+msgid "Order Nesting by Volume"
+msgstr ""
+
+msgid ""
+"If enabled - nests objects in the order of decreasing volume, otherwise "
+"nests them in scene tree order"
+msgstr ""
+
+msgid "Allow XY Rotation for Auto Nesting"
+msgstr ""
+
+msgid "Use Neighbours Density Metric"
+msgstr ""
+
+msgid ""
+"If enabled - prefers to nest next meshes with maximum neighborhood density"
+msgstr ""
+
+msgid "Check Less Combinations"
+msgstr ""
+
+msgid "Group Size"
+msgstr ""
+
+msgid "Nest each group of this size independently"
+msgstr ""
+
+msgid "Max Groups [DEBUG]"
+msgstr ""
+
+msgid "Uniform Nesting"
+msgstr ""
+
+msgid ""
+"If enabled - tries to find better interval for more uniform objects "
+"distribution in the nest"
+msgstr ""
+
+msgid "Tetris based Densify"
+msgstr ""
+
+msgid "If enabled - tries to densify nesting after each added group"
+msgstr ""
+
+msgid "Reset Transformations on Exit"
+msgstr ""
+
+msgid "Last \"Auto Nest\" status"
+msgstr ""
+
+msgid "Auto Nest"
+msgstr ""
+
+#, c++-format
+msgid "{}/{} nested"
+msgstr ""
+
+#, c++-format
+msgid "{} object was not nested"
+msgid_plural "{} objects were not nested"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Current Group [DEBUG]"
+msgstr ""
+
+msgid "Num Step"
+msgstr ""
+
+msgid "Nest Next Group [DEBUG]"
+msgstr ""
+
+msgid "Nest Single Group"
+msgstr ""
+
+msgid "Print Name"
+msgstr ""
+
+msgid "Export Only Nested"
+msgstr ""
+
+msgid "Export Manifest Files"
+msgstr ""
+
+msgid ""
+"This feature is not available in Web version, consider using desktop "
+"application in order to export manifest files"
+msgstr ""
+
+msgid "Remove Nested from Scene after Export"
+msgstr ""
+
+msgid "Fixing"
+msgstr ""
+
+msgid "Max Hole Perimeter"
+msgstr ""
+
+msgid "Healing will fill all holes with perimeter less or equal to this value"
+msgstr ""
+
+msgid "Max Component Area Ratio"
+msgstr ""
+
+msgid ""
+"Healing will remove components with area less this percent of total model "
+"area"
+msgstr ""
+
+msgid "Fix All"
+msgstr ""
+
+msgid "There is no nested models"
+msgstr ""
+
+msgid "Max Slice Deviation"
+msgstr ""
+
+msgid ""
+"Maximum deviation allowed when decimating exported 3mf slices. Set 0 to "
+"disable slice decimation."
+msgstr ""
+
+msgid "Please specify valid slice step to export slicestack 3mf"
+msgstr ""
+
+msgid "Import Config"
+msgstr ""
+
+msgid "Reset Nesting"
+msgstr ""
+
+msgid "Remove Nested Models"
+msgstr ""
+
+msgid "Remove Nested Models & Reset Others"
+msgstr ""
+
+msgid "Move objects to nest center"
+msgstr ""
+
+msgid "Orient to Plane"
+msgstr ""
+
+msgid "Nesting: Fix"
+msgstr ""
+
+msgid "Click to open"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr ""
+
+msgid "System Information"
+msgstr ""
+
+msgid "Operating System"
+msgstr ""
+
+msgid "Files and Directories"
+msgstr ""
+
+msgid "Resources Directory"
+msgstr ""
+
+msgid "Config Directory"
+msgstr ""
+
+msgid "Log File"
+msgstr ""
+
+msgid "Model Name"
+msgstr ""
+
+msgid "Concurrent Threads"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "OpenGL Vendor"
+msgstr ""
+
+msgid "OpenGL Renderer"
+msgstr ""
+
+msgid "OpenGL Version"
+msgstr ""
+
+msgid "CUDA Versions"
+msgstr ""
+
+msgid "CUDA Compute Capability"
+msgstr ""
+
+msgid "CUDA Memory"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Framebuffer Size"
+msgstr ""
+
+msgid "Window Size"
+msgstr ""
+
+msgid "Pixel Ratio"
+msgstr ""
+
+msgid "System Scaling"
+msgstr ""
+
+msgid "Menu Scaling"
+msgstr ""
+
+msgid "System Memory"
+msgstr ""
+
+msgid "Virtual Memory Total"
+msgstr ""
+
+msgid "Virtual Memory Available"
+msgstr ""
+
+msgid "Physical Memory Total"
+msgstr ""
+
+msgid "Physical Memory Available"
+msgstr ""
+
+msgid "Process Memory"
+msgstr ""
+
+msgid "Peak Virtual Memory"
+msgstr ""
+
+msgid "Current Virtual Memory"
+msgstr ""
+
+msgid "Peak Physical Memory"
+msgstr ""
+
+msgid "Current Physical Memory"
+msgstr ""
+
+msgid "History Store Memory"
+msgstr ""
+
+msgid "Currently Used"
+msgstr ""
+
+msgid "Maximum Limit"
+msgstr ""
+
+#, c++-format
+msgid ""
+"Click to open release page\n"
+"{}+Click to open commit page"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "Blending"
+msgstr ""
+
+msgid "Add layer"
+msgstr ""
+
+msgid "Remove layer"
+msgstr ""
+
+msgid "Reset coloring"
+msgstr ""
+
+msgid "Brush size"
+msgstr ""
+
+#, c-format
+msgid "Hold %s to erase"
+msgstr ""
+
+#, c-format
+msgid "Drag with Shift - faster, %s - slower"
+msgstr ""
+
+msgid "PivotPoint"
+msgstr ""
+
+#, c-format
+msgid ""
+"Parameter of relative text box to text position point\n"
+"min value [0, 0] - text position point is left-down corner of text box\n"
+"max value [1, 1] - text position point is right - up corner\n"
+"Drag with Shift - faster, %s - slower"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Source point width"
+msgstr ""
+
+msgid "Leader line width"
+msgstr ""
+
+msgid "Background padding"
+msgstr ""
+
+msgid "Change label"
+msgstr ""
+
+msgid "Scale model"
+msgstr ""
+
+msgid "Reset view"
+msgstr ""
+
+msgid "Image to front plane"
+msgstr ""
+
+msgid "Force default"
+msgstr ""
+
+msgid "Image pos"
+msgstr ""
+
+msgid "Model pos"
+msgstr ""
+
+msgid "Model quat"
+msgstr ""
+
+msgid "Align position of object, image of object and camera."
+msgstr ""
+
+msgid "Embedded python is not available"
+msgstr ""
+
+msgid "Output:"
+msgstr ""
+
+msgid "Open File"
+msgstr ""
+
+msgid "Save Script"
+msgstr ""
+
+msgid "Load Example"
+msgstr ""
+
+msgid "Clear Output"
+msgstr ""
+
+msgid "Surface Point Cloud"
+msgstr ""
+
+msgid "Directions Point Cloud"
+msgstr ""
+
+msgid "Distances"
+msgstr ""
+
+msgid "Create Mesh"
+msgstr ""
+
+msgid "Status: "
+msgstr ""
+
+msgid "Common Settings"
+msgstr ""
+
+msgid "Tool Diameter"
+msgstr ""
+
+msgid "Radius of the milling tool"
+msgstr ""
+
+msgid "Size of voxel needed to offset mesh"
+msgstr ""
+
+msgid "Step Over"
+msgstr ""
+
+msgid "Distance between sections built along Z axis"
+msgstr ""
+
+msgid "Critical Length"
+msgstr ""
+
+msgid ""
+"If distance to the next section is smaller than it, transition will be "
+"performed along the surface.Otherwise transition will be through the safe "
+"plane"
+msgstr ""
+
+msgid "Safe Z"
+msgstr ""
+
+msgid ""
+"Z-coordinate of plane where tool can move in any direction without touching "
+"the object"
+msgstr ""
+
+msgid "Use Flat Tool"
+msgstr ""
+
+msgid "Generate toolpath for the flat milling tool"
+msgstr ""
+
+msgid "Type of Tool Path"
+msgstr ""
+
+msgid "Constant Z"
+msgstr ""
+
+msgid "Lacing"
+msgstr ""
+
+msgid "Constant Cusp"
+msgstr ""
+
+msgid "Bypass Direction"
+msgstr ""
+
+msgid "Which direction isolines or sections should be passed in"
+msgstr ""
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Counterclockwise"
+msgstr ""
+
+msgid "Lacing Direction"
+msgstr ""
+
+msgid "Axis X"
+msgstr ""
+
+msgid "Axis Y"
+msgstr ""
+
+msgid "Toolpath in Empty Areas"
+msgstr ""
+
+msgid "Create toolpath to mill excess material to make empty areas."
+msgstr ""
+
+msgid "Toolpath Expansion"
+msgstr ""
+
+msgid ""
+"Expansion of the area in which the toolpath is created.\n"
+"The area has the shape of a box."
+msgstr ""
+
+msgid "Mill From Center To Boundary"
+msgstr ""
+
+msgid ""
+"If checked then isolines will be processed from center point to the boundary "
+"(usually it means from up to down)"
+msgstr ""
+
+msgid "Interpolate Lines"
+msgstr ""
+
+msgid "Line Interp. Tolerance"
+msgstr ""
+
+msgid "Maximal deviation of line from given path"
+msgstr ""
+
+msgid "Maximal Line Length"
+msgstr ""
+
+msgid "Segments longer than this value will not be optimized"
+msgstr ""
+
+msgid "Interpolate Arcs"
+msgstr ""
+
+msgid "Appropriate segments of the tool path with be interpolated with arcs"
+msgstr ""
+
+msgid "Arc Interp. Tolerance"
+msgstr ""
+
+msgid "Maximal deviation of arc from given path"
+msgstr ""
+
+msgid "Maximal Arc Radius"
+msgstr ""
+
+msgid ""
+"Segments will not be optimized if radius of the arc is bigger than tis value"
+msgstr ""
+
+msgid "Feedrate Settings"
+msgstr ""
+
+msgid "Plunge Length"
+msgstr ""
+
+msgid ""
+"When the mill is moving down, it will be slowed down in this distance from "
+"mesh"
+msgstr ""
+
+msgid "Retract Length"
+msgstr ""
+
+msgid ""
+"When the mill is moving up, it will be slowed down in this distance from mesh"
+msgstr ""
+
+msgid "Plunge Feed"
+msgstr ""
+
+msgid "Speed of slow movement down"
+msgstr ""
+
+msgid "Retract Feed"
+msgstr ""
+
+msgid "Speed of slow movement up"
+msgstr ""
+
+msgid "Base Feed"
+msgstr ""
+
+msgid "Speed of regular milling"
+msgstr ""
+
+msgid "Visualization"
+msgstr ""
+
+msgid "Show Offset"
+msgstr ""
+
+msgid "Show Isolines"
+msgstr ""
+
+msgid "Show Start Contours"
+msgstr ""
+
+msgid "Show Start Vertices"
+msgstr ""
+
+msgid "Create Tool Path"
+msgstr ""
+
+msgid "Tool Path: Constant Z"
+msgstr ""
+
+msgid "Tool Path: Lacing"
+msgstr ""
+
+msgid "Tool Path: Constant Cusp"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Edit tag"
+msgstr ""
+
+msgid "Remove tag"
+msgstr ""
+
+msgid "Export to CSV"
+msgstr ""
+
+msgid "Cannot save file"
+msgstr ""
+
+msgid "File saved successfully."
+msgstr ""
+
+msgid "Free-form Adjust"
+msgstr ""
+
+msgid "Max Group Size"
+msgstr ""
+
+msgid "Cascade Mode:"
+msgstr ""
+
+msgid "Sequential"
+msgstr ""
+
+msgid ""
+"Divide objects into groups by their order in scene.\n"
+"Good when each object has size comparable to whole scene."
+msgstr ""
+
+msgid "AABB Tree"
+msgstr ""
+
+msgid ""
+"Build AABB tree based on object bounding boxes then use subtrees as groups.\n"
+"Good when each object is much smaller than whole scene."
+msgstr ""
+
+msgid "Global Registration"
+msgstr ""
+
+msgid "No active pairs found, please consider changing parameters"
+msgstr ""
+
+msgid "Reset Transforms"
+msgstr ""
+
+msgid "Reset Global Registration"
+msgstr ""
+
+msgid "Freeform Adjust"
+msgstr ""
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Object Id"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Deviation Map"
+msgstr ""
+
+msgid "High Deviation"
+msgstr ""
+
+msgid "Orient as Existing Normals"
+msgstr ""
+
+msgid ""
+"If selected then keeps orientation from original normals, only adjust their "
+"direction."
+msgstr ""
+
+msgid "Smart"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Toward Point"
+msgstr ""
+
+msgid ""
+"Activates smart algorithm that selects similar orientation of normals in "
+"close points."
+msgstr ""
+
+msgid ""
+"Activates fast algorithm (about 5 times faster than Smart) that orients all "
+"normals away from the cloud's centroid."
+msgstr ""
+
+msgid ""
+"Each normal is oriented toward the selected point (e.g. known placement of "
+"Lidar)."
+msgstr ""
+
+msgid "Orientation"
+msgstr ""
+
+msgid ""
+"Select the method how to choose between two opposite normal orientations in "
+"each point."
+msgstr ""
+
+msgid ""
+"X,Y,Z of the position in local coordinates of point cloud, where Lidar is "
+"located and where normals shall be oriented."
+msgstr ""
+
+msgid "Selects whether to fill holes after triangulation."
+msgstr ""
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to "
+"triangulated mesh result."
+msgstr ""
+
+msgid "Reduce Noise"
+msgstr ""
+
+msgid "Limit near Initial"
+msgstr ""
+
+msgid ""
+"If selected then maximal displacement of each point during denoising will be "
+"limited."
+msgstr ""
+
+msgid "Max Displacement"
+msgstr ""
+
+msgid "Maximum distance between a point and its position before relaxation."
+msgstr ""
+
+msgid "The number of algorithm repetitions for each vertex."
+msgstr ""
+
+msgid ""
+"Shift ratio toward relaxed position, 0.5 - half way to target position (more "
+"than 0.5 leads to instability)."
+msgstr ""
+
+msgid "Relax Tetrahedrons"
+msgstr ""
+
+msgid ""
+"Special processing of vertices having only 3 not-boundary edges, if selected "
+"such vertices will be put in the plane defined by their neighbors."
+msgstr ""
+
+msgid "Fast Indicator Computation"
+msgstr ""
+
+msgid "Use fast but approximate variation of the algorithm."
+msgstr ""
+
+msgid "Normal Iterations"
+msgstr ""
+
+msgid ""
+"The number of iterations to smooth normals and find creases, the more the "
+"better quality, but longer computation."
+msgstr ""
+
+msgid "Point Iterations"
+msgstr ""
+
+msgid ""
+"The number of iterations to update vertex coordinates from found normals, "
+"the more the better quality, but longer computation."
+msgstr ""
+
+msgid "Beta"
+msgstr ""
+
+msgid "0.001 - sharp edges, 0.01 - moderate edges, 0.1 - smooth edges"
+msgstr ""
+
+msgid "Gamma"
+msgstr ""
+
+msgid "The amount of smoothing: 0 - no smoothing, 1 - average smoothing, ..."
+msgstr ""
+
+msgid "Guide Weight"
+msgstr ""
+
+msgid ""
+"How much resulting points must be attracted to initial points (e.g. to avoid "
+"general shrinkage), must be > 0"
+msgstr ""
+
+msgid "Select creases"
+msgstr ""
+
+msgid "Select sharp edges detected during denoising."
+msgstr ""
+
+msgid "Neighborhood Radius"
+msgstr ""
+
+msgid "The radius of each local neighborhood."
+msgstr ""
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Iterative"
+msgstr ""
+
+msgid ""
+"Finds sample points so that the ball of given radius around each sample does "
+"not contain other samples, and the union of all balls contain all cloud "
+"points."
+msgstr ""
+
+msgid ""
+"Subdivides the space on 3D grid, and return one sample point per grid cell."
+msgstr ""
+
+msgid ""
+"Iteratively removes one point with minimal metric (describing distance to "
+"the closest point and previous nearby removals), thus allowing stopping at "
+"any given number of samples."
+msgstr ""
+
+msgid "Select the algorithm of point sampling."
+msgstr ""
+
+msgid "Voxel cell size."
+msgstr ""
+
+msgid "Minimal distance between samples in planar regions before relaxation."
+msgstr ""
+
+msgid "Number of Samples"
+msgstr ""
+
+msgid "Target number of samples to be selected."
+msgstr ""
+
+msgid ""
+"0 - same spacing everywhere.\n"
+"1 - much denser spacing in curved regions."
+msgstr ""
+
+msgid "Remove Others"
+msgstr ""
+
+msgid "Select sampled points."
+msgstr ""
+
+msgid "Remove not sampled points."
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "What to do with the found samples."
+msgstr ""
+
+msgid "Sort Points"
+msgstr ""
+
+msgid ""
+"If checked process the points in lexicographical order, which gives tighter "
+"and more uniform samples. If unchecked process the points according to their "
+"ids, which is faster."
+msgstr ""
+
+msgid ""
+"The number of post-processing iterations to move each sample toward the "
+"center of its Voronoi cell. It helps avoiding selection of outliers and "
+"sometimes improving the uniformity."
+msgstr ""
+
+msgid "Min Points In Sample"
+msgstr ""
+
+msgid ""
+"If a sample represents less than this number of input points then such "
+"sample will be discarded; it can be used to remove outliers."
+msgstr ""
+
+msgid "Average Values"
+msgstr ""
+
+msgid ""
+"Instead of sampling existing points/normals/colors computes averaged points/"
+"normals/colors, which increases smoothness of the result."
+msgstr ""
+
+msgid "Sample Points"
+msgstr ""
+
+msgid "Specifies the number of objects to split this point cloud into"
+msgstr ""
+
+msgid "Merge scans to one mesh"
+msgstr ""
+
+msgid "If checked perform global registration of points objects"
+msgstr ""
+
+msgid "If checked perform points sampling"
+msgstr ""
+
+msgid "Reset Normals"
+msgstr ""
+
+msgid "If checked perform removing and making new normals"
+msgstr ""
+
+msgid "Remove Outliers"
+msgstr ""
+
+msgid "If checked find and remove outliers points"
+msgstr ""
+
+msgid "If checked perform reducing noise"
+msgstr ""
+
+msgid "Keep largest component"
+msgstr ""
+
+msgid "If checked remove all components except largest"
+msgstr ""
+
+msgid "Save Debug Objects"
+msgstr ""
+
+msgid "If checked save objects after each step"
+msgstr ""
+
+msgid "Make Normals"
+msgstr ""
+
+msgid "Outliers Points"
+msgstr ""
+
+msgid "Count of find and remove outliers iterations"
+msgstr ""
+
+msgid "Points to Mesh"
+msgstr ""
+
+msgid "Merge Scans"
+msgstr ""
+
+msgid "Scans to Mesh"
+msgstr ""
+
+msgid "Save normals"
+msgstr ""
+
+msgid "Point cover"
+msgstr ""
+
+msgid "Target Point Distance"
+msgstr ""
+
+msgid "Mesh to Points"
+msgstr ""
+
+msgid "Average Points Radius"
+msgstr ""
+
+msgid ""
+"Maximum distance between a point and the nearest point of the same component "
+"so that a ball with such a radius contains on average this number of points."
+msgstr ""
+
+msgid "Components not found"
+msgstr ""
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr ""
+
+msgid "Avg Influence Neighbours"
+msgstr ""
+
+msgid ""
+"Select distance of influence to have on average given number of points "
+"there. The more the value the smoother is the surface, but the processing "
+"takes longer."
+msgstr ""
+
+msgid "Min Influence Neighbours"
+msgstr ""
+
+msgid ""
+"Minimum sum of influence weights from surrounding points for a triangle to "
+"appear, meaning that there shall be at least this number of points in close "
+"proximity."
+msgstr ""
+
+msgid "Fuse All in One"
+msgstr ""
+
+msgid ""
+"Whether Fusion should fuse multiple point clouds into one mesh (selected) or "
+"into separate meshes (unselected)."
+msgstr ""
+
+msgid "Preserve Point Clouds"
+msgstr ""
+
+msgid ""
+"If checked then original point clouds will remain in scene in addition to "
+"mesh results."
+msgstr ""
+
+msgid "Experimental Weights"
+msgstr ""
+
+msgid "Use experimental weights to fill voxel values"
+msgstr ""
+
+msgid "Fuse"
+msgstr ""
+
+msgid "Fusion"
+msgstr ""
+
+msgid "Error merging points"
+msgstr ""
+
+msgid "Fusion Many in One"
+msgstr ""
+
+msgid "All selected objects must be point clouds with normals"
+msgstr ""
+
+msgid "Orient Normals"
+msgstr ""
+
+msgid "Closed Line"
+msgstr ""
+
+msgid "Whether to treat the points as closed or open line."
+msgstr ""
+
+msgid "Points to Lines"
+msgstr ""
+
+msgid "Add Offset-Lines from Points"
+msgstr ""
+
+msgid "Point cloud must have at least 3 points"
+msgstr ""
+
+msgid "Point cloud must have at most 100'000 points"
+msgstr ""
+
+msgid ""
+"Points will be sampled (added and removed) to reach approximately this "
+"distance between neighboring points."
+msgstr ""
+
+msgid "Create Point Cloud"
+msgstr ""
+
+msgid "Clone shown spline as new scene object"
+msgstr ""
+
+msgid "Add Resampled Point Cloud"
+msgstr ""
+
+msgid "Specify the minimal radius of the neigbourhood ball"
+msgstr ""
+
+msgid "Num. Neighbours"
+msgstr ""
+
+msgid "Specify the minimal number of neighbours in the neigbourhood"
+msgstr ""
+
+msgid ""
+"Radius of neighborhood around each point to consider for building local "
+"triangulation."
+msgstr ""
+
+msgid "Actual Radius"
+msgstr ""
+
+msgid "Ball radius actually used in neighbours search after increase if any."
+msgstr ""
+
+msgid "Points in Ball"
+msgstr ""
+
+msgid ""
+"The number of points within the ball of given (or increased) radius around "
+"the center, excluding the center itself."
+msgstr ""
+
+msgid "Center Point Id"
+msgstr ""
+
+msgid "Local Neighbours"
+msgstr ""
+
+msgid "Within Radius"
+msgstr ""
+
+msgid "Do not show any point ids."
+msgstr ""
+
+msgid "Show incident point ids for all triangles around the center."
+msgstr ""
+
+msgid ""
+"Show all point ids within ball of given (or increased) radius around the "
+"center."
+msgstr ""
+
+msgid "Show Point IDs"
+msgstr ""
+
+msgid "Alpha Shape"
+msgstr ""
+
+msgid "Show Plane"
+msgstr ""
+
+msgid "Trust Normals"
+msgstr ""
+
+msgid "Automatic Radius Increase"
+msgstr ""
+
+msgid "Delone steps"
+msgstr ""
+
+msgid "1 Repetition"
+msgstr ""
+
+msgid "2 Repetitions"
+msgstr ""
+
+msgid "3 Repetitions"
+msgstr ""
+
+msgid "Best combination"
+msgstr ""
+
+msgid ""
+"Create unoriented mesh from triangles that appear in one local triangulation "
+"only."
+msgstr ""
+
+msgid ""
+"Create unoriented mesh from triangles that appear in exactly two local "
+"triangulations."
+msgstr ""
+
+msgid ""
+"Create unoriented mesh from triangles that appear in three local "
+"triangulations."
+msgstr ""
+
+msgid ""
+"Create oriented mesh from triangles with as many repetitions as possible."
+msgstr ""
+
+msgid "Include Triangles"
+msgstr ""
+
+msgid "Triangulate"
+msgstr ""
+
+msgid "Sample"
+msgstr ""
+
+msgid "Angle"
+msgstr ""
+
+msgid "Minimal angle between neighbor points to treat them as boundary."
+msgstr ""
+
+msgid "Select Boundary Points"
+msgstr ""
+
+msgid "Outliers Points update settings"
+msgstr ""
+
+msgid "Max Outlier Component Size"
+msgstr ""
+
+msgid "Maximum points in the outlier component"
+msgstr ""
+
+msgid "Max Neighbors"
+msgstr ""
+
+msgid "Maximum number of adjacent points for an outlier point"
+msgstr ""
+
+msgid "neighbors"
+msgstr ""
+
+msgid "points"
+msgstr ""
+
+msgid "Min Height Ratio"
+msgstr ""
+
+msgid ""
+"Minimum distance (as proportion of search radius) to the approximate surface "
+"from outliers point"
+msgstr ""
+
+msgid "Min Angle Diff"
+msgstr ""
+
+msgid "Minimum angle of difference of normal at outlier points"
+msgstr ""
+
+msgid "Select Outliers"
+msgstr ""
+
+msgid "Empty Point Cloud."
+msgstr ""
+
+msgid "Remove Outliers Points"
+msgstr ""
+
+msgid "MeshInspector Logo"
+msgstr ""
+
+msgid "Company Logo"
+msgstr ""
+
+msgid "Set Logo"
+msgstr ""
+
+msgid "Prepared for:"
+msgstr ""
+
+msgid "Select Photo"
+msgstr ""
+
+msgid "Remove Photo"
+msgstr ""
+
+msgid "Path to photo"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Need any Point Measurement Object"
+msgstr ""
+
+msgid "Need any Distance Measurement Object"
+msgstr ""
+
+msgid "Comparisons"
+msgstr ""
+
+msgid "Available only when the \"Surface Deviation\" tool is active."
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Save to File"
+msgstr ""
+
+msgid "Set Test Values"
+msgstr ""
+
+msgid "Full area: "
+msgstr ""
+
+msgid "Scalar type:"
+msgstr ""
+
+msgid "Absolute"
+msgstr ""
+
+msgid "Compare type:"
+msgstr ""
+
+msgid "Less"
+msgstr ""
+
+msgid "Greater"
+msgstr ""
+
+msgid "Select by Area"
+msgstr ""
+
+msgid "Camera Facing Selection: add selection"
+msgstr ""
+
+msgid "Camera Facing Selection: reduce selection"
+msgstr ""
+
+msgid "Delete Selection"
+msgstr ""
+
+msgid "Dilate selection regions"
+msgstr ""
+
+msgid "Erode selection regions"
+msgstr ""
+
+msgid "Dilate & Erode selection regions"
+msgstr ""
+
+msgid "Erode & Dilate selection regions"
+msgstr ""
+
+msgid "Dilation distance "
+msgstr ""
+
+msgid "Erosion distance"
+msgstr ""
+
+msgid "Dilate"
+msgstr ""
+
+msgid "Erode"
+msgstr ""
+
+msgid "Dilate & Erode"
+msgstr ""
+
+msgid "Erode & Dilate"
+msgstr ""
+
+msgid ""
+"Unable to erode or dilate if all the triangles of ObjectMesh are already "
+"selected"
+msgstr ""
+
+msgid "ObjectPoints doesn't have any selected points"
+msgstr ""
+
+msgid ""
+"Unable to erode or dilate if all the points of ObjectPoints are already "
+"selected"
+msgstr ""
+
+msgid "Dilate selection edges"
+msgstr ""
+
+msgid "Erode selection edges"
+msgstr ""
+
+msgid ""
+"Unable to erode or dilate if all the edges of ObjectMesh are already selected"
+msgstr ""
+
+msgid "Include backfaces"
+msgstr ""
+
+msgid "Include only visible"
+msgstr ""
+
+msgid "Include boundaries"
+msgstr ""
+
+msgid "Include mesh boundaries incident with selected edges."
+msgstr ""
+
+#, c-format
+msgid ""
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+
+#, c-format
+msgid ""
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+
+msgid "Press Enter or Select button to make selection"
+msgstr ""
+
+msgid "Pick polyline on surface first."
+msgstr ""
+
+msgid "Edge Selector: new selection"
+msgstr ""
+
+msgid "Edge Selector: add selection"
+msgstr ""
+
+msgid "Edge Selector: reduce selection"
+msgstr ""
+
+msgid "Edge Selector: mirror selection"
+msgstr ""
+
+msgid "Edge Selector: Polyline"
+msgstr ""
+
+msgid ""
+"Unable to expand if all the triangles of ObjectMesh are already selected"
+msgstr ""
+
+msgid "Expand to Components"
+msgstr ""
+
+msgid "Expand selected edges"
+msgstr ""
+
+msgid "Unable to expand if all the edges of ObjectMesh are already selected"
+msgstr ""
+
+msgid "Expand Selection"
+msgstr ""
+
+msgid "Single face"
+msgstr ""
+
+msgid "Polygon Model"
+msgstr ""
+
+msgid "Loop Model"
+msgstr ""
+
+msgid "Loop Screen"
+msgstr ""
+
+msgid "Brush Screen"
+msgstr ""
+
+msgid "Select one triangle under the mouse cursor."
+msgstr ""
+
+msgid ""
+"Define selected region boundary on the surface by mouse clicking of "
+"intermediate points."
+msgstr ""
+
+msgid ""
+"Define selected region boundary on the surface by holding mouse button and "
+"moving."
+msgstr ""
+
+msgid ""
+"Define selected region boundary on the screen by holding mouse button and "
+"moving."
+msgstr ""
+
+msgid ""
+"Define selected region on the screen by holding mouse button and moving."
+msgstr ""
+
+msgid "Choose the method of selection."
+msgstr ""
+
+msgid "The width of region boundary drawn on surface."
+msgstr ""
+
+msgid "Select Back Triangles"
+msgstr ""
+
+msgid "Whether to select triangles oriented away from the camera."
+msgstr ""
+
+msgid "Select Only Visible"
+msgstr ""
+
+msgid ""
+"Whether to select only visible triangles or also the triangles occluded by "
+"others."
+msgstr ""
+
+msgid "Brush radius"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+
+msgid "Click LMB on first point or press ENTER to make selection"
+msgstr ""
+
+msgid "Select Triangles"
+msgstr ""
+
+msgid "Select More Triangles"
+msgstr ""
+
+msgid "Select Less Triangles"
+msgstr ""
+
+msgid "Select Other Triangles"
+msgstr ""
+
+msgid "Triangle Selector: Polyline"
+msgstr ""
+
+msgid ""
+"How much to expand triangle selection: 0% - no expansion, 100% - maximal "
+"expansion."
+msgstr ""
+
+msgid "Smart Expand"
+msgstr ""
+
+msgid "Select Region Part"
+msgstr ""
+
+msgid "Select not Region Part"
+msgstr ""
+
+msgid "Converts selected triangles in region seeds."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "back region selection"
+msgstr ""
+
+msgid "Converts region seeds in selected triangles."
+msgstr ""
+
+msgid "Manually Select not Region Part"
+msgstr ""
+
+msgid ""
+"If unselected, determine not-region part automatically based on manually "
+"selected region part."
+msgstr ""
+
+msgid "Select not Region"
+msgstr ""
+
+msgid "Converts selected triangles in not-region seeds."
+msgstr ""
+
+msgid "back not region selection"
+msgstr ""
+
+msgid "Converts not-region seeds in selected triangles."
+msgstr ""
+
+msgid "Uncertainty Distance"
+msgstr ""
+
+msgid ""
+"The distance between user-selected region part and automatically selected "
+"not-region part."
+msgstr ""
+
+msgid ""
+"1. Select with Face Selector:\n"
+" a. Region triangles (shown in green)\n"
+" b. Not-region triangles (shown in gray)\n"
+"2. Click \"Select\""
+msgstr ""
+
+msgid "Select Region"
+msgstr ""
+
+msgid "Inverse selection"
+msgstr ""
+
+msgid "Partition Mesh"
+msgstr ""
+
+msgid "Partitioner"
+msgstr ""
+
+msgid "Color Segments"
+msgstr ""
+
+msgid "Uncolor Segments"
+msgstr ""
+
+msgid "Any Curved"
+msgstr ""
+
+msgid ""
+"Segment boundaries tend to pass along concave or convex edges (but not edges "
+"inside planar regions)."
+msgstr ""
+
+msgid "Concave"
+msgstr ""
+
+msgid "Segment boundaries tend to pass along concave edges."
+msgstr ""
+
+msgid "Convex"
+msgstr ""
+
+msgid "Segment boundaries tend to pass along convex edges."
+msgstr ""
+
+msgid "Num Segments"
+msgstr ""
+
+msgid "Select the number of segments to partition your mesh into."
+msgstr ""
+
+msgid "Color the Segments"
+msgstr ""
+
+msgid ""
+"If selected then all triangles of one segment will receive same distinctive "
+"color, otherwise only segment boundaries will be shown with selected edges."
+msgstr ""
+
+msgid "Select boundary edges: add selection"
+msgstr ""
+
+msgid "Select boundary faces: add selection"
+msgstr ""
+
+msgid "Deviation from plane at edge:"
+msgstr ""
+
+msgid "Degrees"
+msgstr ""
+
+msgid ""
+"If deviation form common plane for two faces is greater than this value - "
+"shared edge is marked as crease (or selected)."
+msgstr ""
+
+msgid "Show as:"
+msgstr ""
+
+msgid "Crease edges"
+msgstr ""
+
+msgid ""
+"Light and shades are not interpolated among sharp edges (only visible if "
+"flat shading is disabled)."
+msgstr ""
+
+msgid "Selected edges"
+msgstr ""
+
+msgid "Select sharp edges on mesh but does not affect light and shades."
+msgstr ""
+
+msgid ""
+"Connected components of the crease (or selected ) edges with summary length "
+"less than critical value will be excluded"
+msgstr ""
+
+msgid "How many times filtering is applied"
+msgstr ""
+
+msgid "Filter components"
+msgstr ""
+
+msgid ""
+"If checked then connected components with summary length of their edges less "
+"than Critical Length will be excluded"
+msgstr ""
+
+msgid "Filter branches"
+msgstr ""
+
+msgid "If checked then branches shorter than Critical Length will be excluded"
+msgstr ""
+
+msgid "Update Creases"
+msgstr ""
+
+msgid "Recompute crease edges using current settings"
+msgstr ""
+
+msgid "Select Edges by Angle"
+msgstr ""
+
+msgid "Select Creases by Angle"
+msgstr ""
+
+msgid "Min Aspect Ratio"
+msgstr ""
+
+msgid "Minimum aspect ration of the triangle to be selected."
+msgstr ""
+
+msgid "Boundary Only"
+msgstr ""
+
+msgid "Select only triangles with at least one boundary edge."
+msgstr ""
+
+msgid "Select Degeneracies"
+msgstr ""
+
+msgid "Append to Selection"
+msgstr ""
+
+msgid ""
+"If set - adds new selection to existing, otherwise overwrite existing "
+"selection."
+msgstr ""
+
+msgid ""
+"Expands disorientations to whole components if disoriented area are larger "
+"of following threshold."
+msgstr ""
+
+msgid "Select Disorientations"
+msgstr ""
+
+msgid "Multiple Edges Selection: select"
+msgstr ""
+
+msgid "Min Angle"
+msgstr ""
+
+msgid ""
+"Minimal excess of triangle's summed angles with 3 neighbor triangles. The "
+"larger minimal angle the less number of triangles will be found."
+msgstr ""
+
+msgid "Select Not Smooth Triangles"
+msgstr ""
+
+msgid "Select Outer Layer"
+msgstr ""
+
+msgid "Three components of direction vector"
+msgstr ""
+
+msgid "Layer Step"
+msgstr ""
+
+msgid "Distance between layers"
+msgstr ""
+
+msgid "Max Overhang Distance"
+msgstr ""
+
+msgid "Maximum overhang distance within a layer"
+msgstr ""
+
+msgid "Smooth Out Overhangs"
+msgstr ""
+
+msgid "Remove small overhang artifacts"
+msgstr ""
+
+msgid "Overhang Selection: faces"
+msgstr ""
+
+msgid "Lasso"
+msgstr ""
+
+msgid "Rect"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
+msgid "Pick"
+msgstr ""
+
+msgid "Select triangles/points within a shape bounded by a drawn curve"
+msgstr ""
+
+msgid "Select triangles/points within a rectangle defined by a mouse drag"
+msgstr ""
+
+msgid "Select triangles/points within polygon drawn by its vertices"
+msgstr ""
+
+msgid "Select triangles/points under a drawn curve"
+msgstr ""
+
+msgid "Select a single triangle/point by a mouse click"
+msgstr ""
+
+msgid "Select All Primitives"
+msgstr ""
+
+msgid "Change brush radius in scene"
+msgstr ""
+
+msgid "Close Polyline"
+msgstr ""
+
+#, c++-format
+msgid "Select Primitives by {}"
+msgstr ""
+
+msgid "Select Only Visible Triangles"
+msgstr ""
+
+msgid "Brush Radius"
+msgstr ""
+
+msgid "Self-intersections"
+msgstr ""
+
+msgid "Select triangles intersecting with other triangles"
+msgstr ""
+
+msgid "Inside part"
+msgstr ""
+
+msgid "Select triangles located inside (not on the boundary) of the surface"
+msgstr ""
+
+msgid "Overlaps"
+msgstr ""
+
+msgid "Select triangles having oppositely oriented triangles close by"
+msgstr ""
+
+msgid "Add to existing selection"
+msgstr ""
+
+msgid "Whether to add triangles to existing selection or replace it"
+msgstr ""
+
+msgid "Touch is Intersection"
+msgstr ""
+
+msgid ""
+"Select not only intersecting triangles, but the triangles that only touch "
+"one another."
+msgstr ""
+
+msgid "Select Self Intersections"
+msgstr ""
+
+msgid "Select incident faces"
+msgstr ""
+
+msgid "ObjectMesh doesn't have unique selected edges or creases"
+msgstr ""
+
+msgid "Swap creases with selected edges"
+msgstr ""
+
+msgid "Update selection"
+msgstr ""
+
+msgid "Append selection"
+msgstr ""
+
+msgid "Update selection by default, append selection while holding "
+msgstr ""
+
+msgid "Append selection by default, update selection while holding "
+msgstr ""
+
+msgid "Default Selection Behavior"
+msgstr ""
+
+msgid "NONE"
+msgstr ""
+
+msgid "Unselect in Previous"
+msgstr ""
+
+msgid "Reverse Selection"
+msgstr ""
+
+msgid "Mesh should have selected triangles."
+msgstr ""
+
+msgid "Point cloud should have selected points."
+msgstr ""
+
+msgid "Shrink selected edges"
+msgstr ""
+
+msgid "Unable to shrink if all the edges of ObjectMesh are already selected"
+msgstr ""
+
+msgid "Shrink Selection"
+msgstr ""
+
+msgid "ObjectMesh doesn't have any selected faces"
+msgstr ""
+
+msgid "Unable to shrink if all the faces of ObjectMesh are already selected"
+msgstr ""
+
+msgid "Clear selected edges"
+msgstr ""
+
+msgid "Clear selected primitives"
+msgstr ""
+
+msgid "Add fillers"
+msgstr ""
+
+msgid "Overheal Mesh"
+msgstr ""
+
+msgid "Place Meshes"
+msgstr ""
+
+msgid "Unite Connectors"
+msgstr ""
+
+msgid "Subtract Connectors"
+msgstr ""
+
+msgid "Place Mesh: Remove Mesh"
+msgstr ""
+
+msgid "Place Mesh: Add Mesh"
+msgstr ""
+
+msgid "Place Mesh: Modify Mesh"
+msgstr ""
+
+msgid "Cloud Point's XYZ"
+msgstr ""
+
+msgid "Cloud Point's Normal"
+msgstr ""
+
+msgid "SolarRadiation"
+msgstr ""
+
+msgid "Apply Stamp"
+msgstr ""
+
+msgid "Terrain to Mesh"
+msgstr ""
+
+msgid "Open ZIP file"
+msgstr ""
+
+msgid "Create test volume"
+msgstr ""
+
+msgid "Test volume resampling by interpolation"
+msgstr ""
+
+msgid "Test volume interpolation"
+msgstr ""
+
+msgid "Test small volumes resampling"
+msgstr ""
+
+msgid "Authorization is disabled."
+msgstr ""
+
+msgid "Use arrow keys on keyboard to move camera in space"
+msgstr ""
+
+msgid "Speed Modifier"
+msgstr ""
+
+msgid "In orthographic mode moving up/down instead of moving forward/backward"
+msgstr ""
+
+msgid "In perspective mode moving forward/backward instead of moving up/down"
+msgstr ""
+
+msgid "Current viewport"
+msgstr ""
+
+msgid "Orthographic"
+msgstr ""
+
+msgid "Perspective"
+msgstr ""
+
+msgid "Projection Mode"
+msgstr ""
+
+msgid "Dual Marching Cubes"
+msgstr ""
+
+msgid ""
+"Check to construct iso-surface using Dual Marching Cubes algorithm, and "
+"remove check to construct iso-surface using Standard Marching Cubes algorithm"
+msgstr ""
+
+msgid ""
+"The surface representing current voxel object will pass via this value in "
+"voxels"
+msgstr ""
+
+msgid "Ratio scale"
+msgstr ""
+
+msgid "Scale not depending on total voxels count"
+msgstr ""
+
+msgid "Volume rendering should be disabled."
+msgstr ""
+
+msgid "Change Iso-Surface"
+msgstr ""
+
+msgid "Create Voxels"
+msgstr ""
+
+msgid "Set number of repetitions"
+msgstr ""
+
+msgid "Toggle preview."
+msgstr ""
+
+msgid "Result object has incorrect type"
+msgstr ""
+
+msgid "Generate Lattices"
+msgstr ""
+
+msgid "Please reset the transform of the object"
+msgstr ""
+
+msgid "Operation"
+msgstr ""
+
+msgid "Selected mesh"
+msgstr ""
+
+msgid "Cut By Rect"
+msgstr ""
+
+msgid "Add Mask"
+msgstr ""
+
+msgid "Subtract Rect"
+msgstr ""
+
+msgid "Cubical voxels"
+msgstr ""
+
+msgid "Whether each voxel has same width, height and depth"
+msgstr ""
+
+msgid "Width, height and depth of each voxel in new object"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Signed"
+msgstr ""
+
+msgid ""
+"Voxels will be filled with signed distances to input mesh: negative - inside "
+"and positive - outside"
+msgstr ""
+
+msgid "Unsigned"
+msgstr ""
+
+msgid "Voxels will be filled with absolute distances to input mesh"
+msgstr ""
+
+msgid "Sign by Winding Rule"
+msgstr ""
+
+msgid ""
+"Whether the sign of distance is determined by generalized winding rule. It "
+"is forcedly On if the mesh has holes."
+msgstr ""
+
+msgid "Mesh to Voxels"
+msgstr ""
+
+msgid "Lattice Filling"
+msgstr ""
+
+msgid "Filling Mode"
+msgstr ""
+
+msgid "Inner"
+msgstr ""
+
+msgid "Inside"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Filling"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid ""
+"The requested parameters require too much memory. Consider lowering the "
+"quality, increasing the interval or density."
+msgstr ""
+
+msgid ""
+"Requires either single component or two nested components of different "
+"orientation."
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Create Instances"
+msgstr ""
+
+msgid "Smooth Instances"
+msgstr ""
+
+msgid "CBCT Teeth Segmentation"
+msgstr ""
+
+msgid "Min corner:"
+msgstr ""
+
+msgid "Dims:"
+msgstr ""
+
+msgid "Create New Object"
+msgstr ""
+
+msgid "Save to .json"
+msgstr ""
+
+msgid "Update active voxels box"
+msgstr ""
+
+msgid "Add cropped volume"
+msgstr ""
+
+msgid ""
+"One ObjectVoxels and optionally one ObjectMesh with valid models must be "
+"selected"
+msgstr ""
+
+msgid "Voxels"
+msgstr ""
+
+msgid "Auto Switch to Selected Objects"
+msgstr ""
+
+msgid "Automatically switch to other objects when they are selected"
+msgstr ""
+
+msgid "Click on the object to see how voxels density behaves near the surface"
+msgstr ""
+
+msgid "Correction"
+msgstr ""
+
+msgid "Show Volume Values on Mesh"
+msgstr ""
+
+msgid "Measure voxel volume values on mesh vertices and show as color scale"
+msgstr ""
+
+msgid "Show Derivatives on Mesh"
+msgstr ""
+
+msgid ""
+"Measure voxel volume value derivatives on mesh vertices (along mesh normals) "
+"and show as color scale"
+msgstr ""
+
+msgid "Use Approximation"
+msgstr ""
+
+msgid ""
+"If selected, derivatives are approximated from the neighborhood of the "
+"point. Otherwise, it is simply a difference of values by the sides of the "
+"surface"
+msgstr ""
+
+msgid "Highlight Uncorrected Points"
+msgstr ""
+
+msgid "Highlight uncorrected points"
+msgstr ""
+
+msgid "Values range"
+msgstr ""
+
+msgid "Values Range:"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Average"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Display Range:"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Update color map according to the range of values"
+msgstr ""
+
+msgid "Adjust mesh to voxels volume"
+msgstr ""
+
+msgid "Change ISO should not be active."
+msgstr ""
+
+msgid "Object Section should not be active."
+msgstr ""
+
+#, c++-format
+msgid ""
+"\n"
+"({}+LMB to set value by keyboard)"
+msgstr ""
+
+msgid "Voxels with value lower than minimum are transparent."
+msgstr ""
+
+msgid "Voxels with value higher than maximum are transparent."
+msgstr ""
+
+msgid "Opacity limit"
+msgstr ""
+
+msgid "Opacity limit of voxels in range."
+msgstr ""
+
+msgid "Gray shades"
+msgstr ""
+
+msgid "Rainbow"
+msgstr ""
+
+msgid "One color"
+msgstr ""
+
+msgid "Color look up table"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Constant"
+msgstr ""
+
+msgid "Linear increasing"
+msgstr ""
+
+msgid "Linear decreasing"
+msgstr ""
+
+msgid "Opacity mode"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+msgid "Discrete"
+msgstr ""
+
+msgid "Filter type"
+msgstr ""
+
+msgid "Value Gradient"
+msgstr ""
+
+msgid "Alpha Gradient"
+msgstr ""
+
+msgid "Shading type"
+msgstr ""
+
+msgid "Clip Plane"
+msgstr ""
+
+msgid "Active Voxels"
+msgstr ""
+
+msgid "Voxels Cut Mode"
+msgstr ""
+
+msgid "Clip volume"
+msgstr ""
+
+msgid "Hold mouse over section plane to see voxel value in the section point."
+msgstr ""
+
+#, c-format
+msgid "%s+LMB on section plane to pick volume ISO value."
+msgstr ""
+
+msgid "Press and hold LMB to make screen lasso to select active voxels."
+msgstr ""
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - select from previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous"
+msgstr ""
+
+msgid "Reset Active Voxels"
+msgstr ""
+
+msgid "Change ISO"
+msgstr ""
+
+msgid "Voxels Derivative"
+msgstr ""
+
+msgid "Slice YZ"
+msgstr ""
+
+msgid "Slice ZX"
+msgstr ""
+
+msgid "Slice XY"
+msgstr ""
+
+msgid "Modifier"
+msgstr ""
+
+msgid "IO scan picking mode"
+msgstr ""
+
+msgid "Show tooltip"
+msgstr ""
+
+msgid "Pen"
+msgstr ""
+
+msgid "Paths"
+msgstr ""
+
+msgid "Seeds opacity"
+msgstr ""
+
+msgid "Clear seeds"
+msgstr ""
+
+msgid "LMB IO crown to add inside seeds"
+msgstr ""
+
+#, c-format
+msgid "%s+LMB IO crown to add outside seeds"
+msgstr ""
+
+msgid "LMB to select slice"
+msgstr ""
+
+#, c-format
+msgid "%s+LMB to pick path start"
+msgstr ""
+
+#, c-format
+msgid "%s+LMB to pick path finish"
+msgstr ""
+
+msgid "Density"
+msgstr ""
+
+msgid "RMB to draw tooth seed"
+msgstr ""
+
+#, c-format
+msgid "%s+RMB to draw non tooth seed"
+msgstr ""
+
+msgid "RMB to pick path start"
+msgstr ""
+
+msgid "RMB to pick path finish"
+msgstr ""
+
+msgid "Enter to segment, Shift + Enter to accept segmentation and clear seeds"
+msgstr ""
+
+msgid "Mouse Wheel to control segmentation modifier"
+msgstr ""
+
+msgid "Axis Z"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Median"
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Size of the window used to filter the volume"
+msgstr ""
+
+msgid "Voxels Filtering"
+msgstr ""
+
+msgid "Minimum voxel value after normalization"
+msgstr ""
+
+msgid "Maximum voxel value after normalization"
+msgstr ""
+
+msgid "Normalize"
+msgstr ""
+
+msgid "Normalize Voxels"
+msgstr ""
+
+msgid "Voxel 1"
+msgstr ""
+
+msgid "Voxel 2"
+msgstr ""
+
+msgid "Metric Type:"
+msgstr ""
+
+msgid "Exponent"
+msgstr ""
+
+msgid "Exponent modifier"
+msgstr ""
+
+msgid "Rebuild"
+msgstr ""
+
+msgid "Build four"
+msgstr ""
+
+msgid "Show optimal path between two voxels."
+msgstr ""
+
+msgid "Voxel Size XYZ"
+msgstr ""
+
+msgid "Old"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Make cubical voxels"
+msgstr ""
+
+msgid "Resample Voxels"
+msgstr ""
+
+msgid "New voxel size is same as old one."
+msgstr ""
+
+msgid "Show Inactive Voxels "
+msgstr ""
+
+msgid "Highlight inactive voxels with red color"
+msgstr ""
+
+msgid "Highlight Current Voxel"
+msgstr ""
+
+msgid "Highlight selected voxel on the slice and in the scene"
+msgstr ""
+
+msgid "Marker radius"
+msgstr ""
+
+msgid "Radius of the 3d marker, measured in number of voxels"
+msgstr ""
+
+msgid "Save current slice"
+msgstr ""
+
+msgid "Save all slices"
+msgstr ""
+
+msgid "Applies gaussian filter for volume"
+msgstr ""
+
+msgid "Smooth Voxels"
+msgstr ""
+
+msgid "Simple Conversion"
+msgstr ""
+
+msgid "Smart Conversion"
+msgstr ""
+
+msgid ""
+"Improve voxel-to-mesh conversion with subvoxel correction, which boosts mesh "
+"precision but requires more computing power. Best used with CT and MRI scans."
+msgstr ""
+
+msgid "Preserve Voxel Object"
+msgstr ""
+
+msgid ""
+"If checked then original voxel object will remain in scene in addition to "
+"converted mesh object."
+msgstr ""
+
+msgid "Voxels to Mesh"
+msgstr ""
+
+msgid "Clip Scan by Plane"
+msgstr ""
+
+msgid "Clip scans by plane"
+msgstr ""
+
+msgid "Import scan"
+msgstr ""
+
+msgid "Rotate scan"
+msgstr ""
+
+msgid "Register scan"
+msgstr ""

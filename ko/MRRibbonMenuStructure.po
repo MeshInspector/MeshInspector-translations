@@ -1,0 +1,1757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid ""
+"Contact with developers, report a bug, ask a question, suggest an "
+"enhancement."
+msgstr "개발자에게 문의하거나 버그 신고, 질문, 개선 제안을 합니다."
+
+msgid "About"
+msgstr "정보"
+
+msgid "Read about this app"
+msgstr "이 애플리케이션에 대한 정보를 읽습니다"
+
+msgid "Open Log"
+msgstr "로그 열기"
+
+msgid "Open application log"
+msgstr "애플리케이션 로그를 엽니다"
+
+msgid "Show Local Basis"
+msgstr "로컬 기준 표시"
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr "객체 기준 프레임의 원점과 X, Y, Z 축을 표시합니다."
+
+msgid "Transform Object"
+msgstr "객체 변환"
+
+msgid "Graphics mode for changing object position in space."
+msgstr "공간에서 객체 위치를 변경하는 그래픽 모드입니다."
+
+msgid "Move to Zero"
+msgstr "원점으로 이동"
+
+msgid ""
+"If a visual object is selected, then moves the center of its bounding box in "
+"parent's zero point.\n"
+"If a features is selected, then moves its parent so that the feature comes "
+"in grandparent's zero point."
+msgstr ""
+"시각 객체가 선택되어 있으면 해당 경계 상자의 중심을 부모의 원점으로 이동시킵"
+"니다.\n"
+"피처가 선택되어 있으면 부모를 이동하여 피처가 조부모의 원점에 위치하도록 합니"
+"다."
+
+msgid "Camera Navigation"
+msgstr "카메라 내비게이션"
+
+msgid "Allows user to freely navigate camera in world space using arrow keys."
+msgstr ""
+"방향키를 사용하여 월드 공간에서 카메라를 자유롭게 이동할 수 있게 합니다."
+
+msgid "Apply Transform"
+msgstr "변환 적용"
+
+msgid ""
+"Transforms object points and resets object transform, visually object will "
+"remain the same."
+msgstr ""
+"객체의 점을 변환하고 객체의 변환을 재설정합니다. 시각적으로 객체는 동일하게 "
+"유지됩니다."
+
+msgid "Mirror"
+msgstr "미러"
+
+msgid "Reflects object points"
+msgstr "객체의 점을 반사시킵니다"
+
+msgid "Add Noise"
+msgstr "노이즈 추가"
+
+msgid "Adds noise to each point of the object"
+msgstr "객체의 각 점에 노이즈를 추가합니다"
+
+msgid "Align Manually"
+msgstr "수동 정렬"
+
+msgid ""
+"Move target object to combine given points on origin object with points on "
+"target object."
+msgstr ""
+"원본 객체의 지정 점과 대상 객체의 점이 일치하도록 대상 객체를 이동시킵니다."
+
+msgid "Freeform Align"
+msgstr "자유 정렬"
+
+msgid ""
+"Deform target object to combine given points on origin object with points on "
+"target object."
+msgstr ""
+"원본 객체의 지정 점과 대상 객체의 점이 일치하도록 대상 객체를 변형합니다."
+
+msgid "Registration"
+msgstr "정합"
+
+msgid ""
+"Find transformation for target object to minimize difference between "
+"original and target objects using iterative closest point (ICP) algorithm."
+msgstr ""
+"반복 최근접점(ICP) 알고리즘을 사용하여 원본 객체와 대상 객체 사이의 차이를 최"
+"소화하는 변환을 대상 객체에 대해 찾습니다."
+
+msgid "Global Registration"
+msgstr "전역 정합"
+
+msgid "Find transformation for all object to align them all simultaneously."
+msgstr "모든 객체를 동시에 정렬하기 위한 변환을 찾습니다."
+
+msgid "Scale"
+msgstr "스케일"
+
+msgid "Rescale selected object"
+msgstr "선택한 객체의 크기를 다시 조정합니다"
+
+msgid "Lattice Modifier"
+msgstr "래티스 수정자"
+
+msgid "Modify mesh according to transformations of reference grid."
+msgstr "참조 격자의 변환에 따라 메시를 수정합니다."
+
+msgid "Create Simple Objects"
+msgstr "단순 객체 생성"
+
+msgid ""
+"Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
+"torus and arrow."
+msgstr "기하 기본 메시 생성: 큐브, 평행육면체, 원통, 구, 토러스, 화살표."
+
+msgid "Create Primitive (Interactive)"
+msgstr "기본 형상 생성(대화식)"
+
+msgid "Clone"
+msgstr "복제"
+
+msgid "Clones all selected objects."
+msgstr "선택한 모든 객체를 복제합니다."
+
+msgid "Create Text"
+msgstr "텍스트 생성"
+
+msgid "Create text as mesh or lines object"
+msgstr "메시 또는 라인 객체로 텍스트를 생성합니다"
+
+msgid "Text on Mesh"
+msgstr "메시 위 텍스트"
+
+msgid "Create text as ObjectMesh on the object surface."
+msgstr "객체 표면에 ObjectMesh로 텍스트를 생성합니다."
+
+msgid "Combine"
+msgstr "결합"
+
+msgid ""
+"Merge selected geometry into one object while keeping topology, materials, "
+"and internal primitives unchanged. No welding or boolean operations."
+msgstr ""
+"위상, 재질, 내부 기본 요소를 변경하지 않고 선택한 형상을 하나의 객체로 병합합"
+"니다. 용접이나 부울 연산은 수행하지 않습니다."
+
+msgid "To Components"
+msgstr "구성 요소로"
+
+msgid "Create mesh object from each connected component of selected mesh."
+msgstr "선택한 메시의 각 연결 구성 요소로부터 메시 객체를 생성합니다."
+
+msgid "Keep Largest Component"
+msgstr "최대 구성 요소 유지"
+
+msgid "Remove all connected components of selected mesh except the largest one"
+msgstr ""
+"선택한 메시의 가장 큰 연결 구성 요소를 제외한 모든 연결 구성 요소를 제거합니"
+"다"
+
+msgid "Force Components"
+msgstr "구성 요소 강제 분할"
+
+msgid "Split mesh object on defined number of components"
+msgstr "정의된 수의 구성 요소로 메시 객체를 분할합니다"
+
+msgid "Convex Hull"
+msgstr "컨벡스 헐"
+
+msgid "Create convex hull mesh for each selected mesh or points."
+msgstr "선택한 각 메시 또는 포인트에 대해 컨벡스 헐 메시를 생성합니다."
+
+msgid "Delete Colors"
+msgstr "색상 삭제"
+
+msgid "Convert objects with colored parts or textures into solid colored ones."
+msgstr "색상 영역이나 텍스처가 있는 객체를 단색 객체로 변환합니다."
+
+msgid "Texture to Vertex Colors"
+msgstr "텍스처를 정점 색상으로"
+
+msgid ""
+"Convert mesh coloring by means of a texture into a colors stored in vertices."
+msgstr "텍스처를 통한 메시 채색을 정점에 저장된 색상으로 변환합니다."
+
+msgid "Triangle to Vertex Colors"
+msgstr "삼각형을 정점 색상으로"
+
+msgid ""
+"Convert mesh coloring by means of a triangle color map into a colors stored "
+"in vertices."
+msgstr "삼각형 색상 맵을 통한 메시 채색을 정점에 저장된 색상으로 변환합니다."
+
+msgid "Selection to Object"
+msgstr "선택을 객체로"
+
+msgid ""
+"Create a new object of the same type from the selection on the active object."
+msgstr "활성 객체의 선택 영역에서 동일한 유형의 새 객체를 생성합니다."
+
+msgid "Voxels Segmentation"
+msgstr "복셀 분할"
+
+msgid "Show and create volumes segments from voxel image."
+msgstr "복셀 이미지로부터 볼륨 분할을 표시하고 생성합니다."
+
+msgid "Regular Map Meshing"
+msgstr "정규 맵 메시화"
+
+msgid "Convert a regular map from a file into a mesh object."
+msgstr "파일의 정규 맵을 메시 객체로 변환합니다."
+
+msgid "Terrain to Mesh"
+msgstr "지형을 메시로"
+
+msgid ""
+"Makes mesh object (performs triangulation) out of points object with regular "
+"terrain structure."
+msgstr ""
+"규칙적인 지형 구조를 가진 포인트 객체로부터 메시 객체를 생성합니다(삼각화 수"
+"행)."
+
+msgid "Mesh to Distance Map"
+msgstr "메시를 거리 맵으로"
+
+msgid "Create depth map of selected object."
+msgstr "선택한 객체의 깊이 맵을 생성합니다."
+
+msgid "Lines to Distance Map"
+msgstr "라인을 거리 맵으로"
+
+msgid "Create distance map in some area for selected lines."
+msgstr "선택한 라인에 대해 일정 영역의 거리 맵을 생성합니다."
+
+msgid "Offset"
+msgstr "오프셋"
+
+msgid "Create mesh from object lines by offsetting it."
+msgstr "객체 라인을 오프셋하여 메시를 생성합니다."
+
+msgid "Lines to Voxels"
+msgstr "라인을 복셀로"
+
+msgid "Create object voxels from object lines."
+msgstr "객체 라인으로부터 객체 복셀을 생성합니다."
+
+msgid "Extrusion Body"
+msgstr "돌출 본체"
+
+msgid "Create mesh by extruding one object lines along another one."
+msgstr "한 객체의 라인을 다른 객체의 라인을 따라 돌출시켜 메시를 생성합니다."
+
+msgid "Distance Map to IsoLines"
+msgstr "거리 맵을 등치선으로"
+
+msgid "Create object lines that are iso-lines of selected distance map."
+msgstr "선택한 거리 맵의 등치선이 되는 객체 라인을 생성합니다."
+
+msgid "Distance Map to Image"
+msgstr "거리 맵을 이미지로"
+
+msgid "Create image from distance map"
+msgstr "거리 맵으로부터 이미지를 생성합니다"
+
+msgid "Distance Map to Image Advanced"
+msgstr "거리 맵을 이미지로(고급)"
+
+msgid "Create image from distance map with advanced parameters"
+msgstr "고급 매개변수로 거리 맵으로부터 이미지를 생성합니다"
+
+msgid "Image to Distance Map"
+msgstr "이미지를 거리 맵으로"
+
+msgid "Load image and create distance map from it with advanced parameters"
+msgstr "이미지를 불러와 고급 매개변수로 거리 맵을 생성합니다"
+
+msgid "Distance Map to Mesh"
+msgstr "거리 맵을 메시로"
+
+msgid "Convert Distance Map to Mesh"
+msgstr "거리 맵을 메시로 변환합니다"
+
+msgid "Mesh to Points"
+msgstr "메시를 포인트로"
+
+msgid ""
+"Create object points (object of points cloud) from selected object mesh."
+msgstr "선택한 객체 메시로부터 객체 포인트(포인트 클라우드 객체)를 생성합니다."
+
+msgid "Project Color"
+msgstr "색상 투영"
+
+msgid ""
+"Projects Vertex Colors, Texture, or Face colors (all attributes) from one "
+"mesh to another."
+msgstr ""
+"한 메시에서 다른 메시로 정점 색상, 텍스처 또는 면 색상(모든 속성)을 투영합니"
+"다."
+
+msgid "Mesh to Voxels"
+msgstr "메시를 복셀로"
+
+msgid "Create object voxels from selected object mesh."
+msgstr "선택한 객체 메시로부터 객체 복셀을 생성합니다."
+
+msgid "Voxels to Mesh"
+msgstr "복셀을 메시로"
+
+msgid "Create object mesh from selected object voxels iso-surface."
+msgstr "선택한 객체 복셀의 등가면으로부터 객체 메시를 생성합니다."
+
+msgid "Lines to Mesh"
+msgstr "라인을 메시로"
+
+msgid "Create mesh from a set of closed lines"
+msgstr "닫힌 라인 집합으로부터 메시를 생성합니다"
+
+msgid "Lines to Points"
+msgstr "라인을 포인트로"
+
+msgid ""
+"Create object points (object of points cloud) from selected object lines."
+msgstr ""
+"선택한 객체 라인으로부터 객체 포인트(포인트 클라우드 객체)를 생성합니다."
+
+msgid "Measure Distance"
+msgstr "거리 측정"
+
+msgid "Show distance between selected points on selected objects."
+msgstr "선택한 객체의 선택한 점들 사이의 거리를 표시합니다."
+
+msgid "Measure Angle"
+msgstr "각도 측정"
+
+msgid "Show angle between selected edges on selected objects."
+msgstr "선택한 객체의 선택한 가장자리 사이의 각도를 표시합니다."
+
+msgid "Signed Distance"
+msgstr "부호 있는 거리"
+
+msgid ""
+"Show minimal distance between two objects. For intersecting objects will "
+"show maximum distance with a negative sign."
+msgstr ""
+"두 객체 사이의 최소 거리를 표시합니다. 교차하는 객체의 경우 음수 부호와 함께 "
+"최대 거리를 표시합니다."
+
+msgid "Collision Detection"
+msgstr "충돌 감지"
+
+msgid "Selects collision triangles of two meshes."
+msgstr "두 메시의 충돌 삼각형을 선택합니다."
+
+msgid "Surface Deviation"
+msgstr "표면 편차"
+
+msgid ""
+"Show colorized distance map from origin object on the surface of target "
+"object."
+msgstr "대상 객체 표면에 원본 객체로부터의 색상 거리 맵을 표시합니다."
+
+msgid "Visualize Curvature"
+msgstr "곡률 시각화"
+
+msgid "Show colorized curvature of selected mesh."
+msgstr "선택한 메시의 색상 곡률을 표시합니다."
+
+msgid "Surface Distance"
+msgstr "표면 거리"
+
+msgid "Draw colorized distance map on object surface from selected point."
+msgstr "선택한 점에서부터 객체 표면에 색상 거리 맵을 그립니다."
+
+msgid "Measure Thickness"
+msgstr "두께 측정"
+
+msgid "Visualize with colors the thickness of the object at every point."
+msgstr "각 점에서의 객체 두께를 색상으로 시각화합니다."
+
+msgid "Mesh Cut & Measure"
+msgstr "메시 절단 및 측정"
+
+msgid ""
+"Slice your mesh along a geodesic or spline path and read the precise path "
+"length."
+msgstr ""
+"측지선 또는 스플라인 경로를 따라 메시를 절단하고 정확한 경로 길이를 읽습니다."
+
+msgid "Cut By Polyline"
+msgstr "폴리라인으로 절단"
+
+msgid "Cuts mesh into two parts by the polyline"
+msgstr "폴리라인으로 메시를 두 부분으로 절단합니다"
+
+msgid "Partial Shell"
+msgstr "부분 셸"
+
+msgid "Applies shell-offset with non-uniform offset distance"
+msgstr "비균일 오프셋 거리로 셸 오프셋을 적용합니다"
+
+msgid "Fast Offset"
+msgstr "빠른 오프셋"
+
+msgid ""
+"Applies offset with non-uniform offset distance. Correctness of resulting "
+"geometry is not guaranteed."
+msgstr ""
+"비균일 오프셋 거리로 오프셋을 적용합니다. 결과 형상의 정확성은 보장되지 않습"
+"니다."
+
+msgid "Solar Radiation"
+msgstr "태양 복사"
+
+msgid "Computes intensity of solar light on a terrain and a bunch of samples"
+msgstr "지형과 샘플 집합에서의 태양광 강도를 계산합니다"
+
+msgid "Voxels Path"
+msgstr "복셀 경로"
+
+msgid "Show optimal path between two voxels."
+msgstr "두 복셀 사이의 최적 경로를 표시합니다."
+
+msgid "Best Fit"
+msgstr "최적 적합"
+
+msgid ""
+"Creates a feature objcts with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 피처 객체를 생성합니다."
+
+msgid "Point"
+msgstr "포인트"
+
+msgid ""
+"Create a point feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 포인트 피처를 생성합니다."
+
+msgid "Line"
+msgstr "라인"
+
+msgid ""
+"Create a line feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 라인 피처를 생성합니다."
+
+msgid "Plane"
+msgstr "평면"
+
+msgid ""
+"Create a plane feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 평면 피처를 생성합니다."
+
+msgid "Circle"
+msgstr "원"
+
+msgid ""
+"Create a circle feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 원 피처를 생성합니다."
+
+msgid "Sphere"
+msgstr "구"
+
+msgid ""
+"Create a sphere feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 구 피처를 생성합니다."
+
+msgid "Cylinder"
+msgstr "원통"
+
+msgid ""
+"Create a cylinder feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 원통 피처를 생성합니다."
+
+msgid "Cone"
+msgstr "원뿔"
+
+msgid ""
+"Create a cone feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"메시를 가진 선택한 객체로부터 표준편차가 가장 낮은 원뿔 피처를 생성합니다."
+
+msgid "Make Z"
+msgstr "Z 축으로 설정"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the XY plane, "
+"the Z axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"피처가 XY 평면에 위치하고 Z 축이 법선이 되도록 모델 방향을 즉시 조정합니다.\n"
+"(반대 방향으로 조정하려면 SHIFT를 누르고 있으세요)"
+
+msgid "Make X"
+msgstr "X 축으로 설정"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the YZ plane, "
+"the X axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"피처가 YZ 평면에 위치하고 X 축이 법선이 되도록 모델 방향을 즉시 조정합니다.\n"
+"(반대 방향으로 조정하려면 SHIFT를 누르고 있으세요)"
+
+msgid "Make Y"
+msgstr "Y 축으로 설정"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the ZX plane, "
+"the Y axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"피처가 ZX 평면에 위치하고 Y 축이 법선이 되도록 모델 방향을 즉시 조정합니다.\n"
+"(반대 방향으로 조정하려면 SHIFT를 누르고 있으세요)"
+
+msgid "3-2-1 Align"
+msgstr "3-2-1 정렬"
+
+msgid "Orient selected object tree by XY plane, XZ plane and zero point."
+msgstr ""
+"XY 평면, XZ 평면, 원점을 기준으로 선택한 객체 트리의 방향을 조정합니다."
+
+msgid "Align to Plane"
+msgstr "평면에 정렬"
+
+msgid "Orient object by one of global basis planes based on user pick."
+msgstr "사용자 선택에 따라 전역 기준 평면 중 하나에 객체를 정렬합니다."
+
+msgid "Nesting"
+msgstr "네스팅"
+
+msgid "Reposition selected objects on top of build plate to fit into it."
+msgstr ""
+"선택한 객체들을 빌드 플레이트 위에 다시 배치하여 안에 들어가도록 합니다."
+
+msgid "Show Dense BBox"
+msgstr "밀착 경계 상자 표시"
+
+msgid "Show minimal box that bounds selected object."
+msgstr "선택한 객체를 둘러싸는 최소 상자를 표시합니다."
+
+msgid "Sample Points"
+msgstr "포인트 샘플링"
+
+msgid "Show a set of sparse vertices."
+msgstr "희소 정점 집합을 표시합니다."
+
+msgid "Lines Derivative"
+msgstr "라인 미분"
+
+msgid "Show critical points on distance map of selected lines."
+msgstr "선택한 라인의 거리 맵에서 임계점을 표시합니다."
+
+msgid "UV to XY"
+msgstr "UV를 XY로"
+
+msgid ""
+"Writes UV texture coorindates of each vertex in its XY space coordinates and "
+"sets Z=0."
+msgstr ""
+"각 정점의 UV 텍스처 좌표를 해당 XY 공간 좌표에 기록하고 Z=0으로 설정합니다."
+
+msgid "Mesh Derivative"
+msgstr "메시 미분"
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr "선택한 객체 메시의 거리 맵에서 임계점을 표시합니다."
+
+msgid "Pave Area"
+msgstr "영역 채우기"
+
+msgid "Pave selected area on mesh with hexagonal pattern."
+msgstr "메시 위 선택한 영역을 육각형 패턴으로 채웁니다."
+
+msgid "Stamp Brush"
+msgstr "스탬프 브러시"
+
+msgid "Apply selected area as stamp to picked parts of mesh."
+msgstr "선택한 영역을 스탬프로 메시의 선택된 부분에 적용합니다."
+
+msgid "Homology Basis"
+msgstr "호몰로지 기저"
+
+msgid ""
+"Find representative not-contractible loops of the surface, which are not "
+"equivalent one to another."
+msgstr "서로 동치가 아닌 표면의 수축 불가능 대표 루프를 찾습니다."
+
+msgid "Bounding Box"
+msgstr "경계 상자"
+
+msgid ""
+"Show box that bounds selected object, and having edges parallel to axes."
+msgstr "선택한 객체를 둘러싸고 가장자리가 축과 평행한 상자를 표시합니다."
+
+msgid "Mesh Info"
+msgstr "메시 정보"
+
+msgid "Show detailed information about mesh and its primitives."
+msgstr "메시와 그 기본 요소에 대한 자세한 정보를 표시합니다."
+
+msgid "Lines Info"
+msgstr "라인 정보"
+
+msgid "Show detailed information about lines and it's primitives."
+msgstr "라인과 그 기본 요소에 대한 자세한 정보를 표시합니다."
+
+msgid "Show Normals"
+msgstr "법선 표시"
+
+msgid "Show different kinds of normals."
+msgstr "다양한 종류의 법선을 표시합니다."
+
+msgid "Section"
+msgstr "단면"
+
+msgid ""
+"Show cross-section of objects by user selected plane. Create object lines "
+"from that cross-section."
+msgstr ""
+"사용자가 선택한 평면으로 객체의 단면을 표시하고, 그 단면으로부터 객체 라인을 "
+"생성합니다."
+
+msgid "Points Info"
+msgstr "포인트 정보"
+
+msgid "Tool for point cloud analysis"
+msgstr "포인트 클라우드 분석 도구"
+
+msgid "Voxels Slice"
+msgstr "복셀 슬라이스"
+
+msgid "Show volume slice as image."
+msgstr "볼륨 슬라이스를 이미지로 표시합니다."
+
+msgid "Voxels Normalize"
+msgstr "복셀 정규화"
+
+msgid "Linearly normalize all the selected voxel object to the given range."
+msgstr "선택한 모든 복셀 객체를 주어진 범위로 선형 정규화합니다."
+
+msgid "Voxels Derivative"
+msgstr "복셀 미분"
+
+msgid ""
+"Calculate voxels derivative (the length of the gradient vector in every "
+"point)."
+msgstr "복셀 미분(각 점에서의 그래디언트 벡터의 길이)을 계산합니다."
+
+msgid "Voxels Median Filter"
+msgstr "복셀 중앙값 필터"
+
+msgid ""
+"Apply a median filter to the voxel object, suppressing high-frequency noises"
+msgstr "복셀 객체에 중앙값 필터를 적용하여 고주파 노이즈를 억제합니다"
+
+msgid "Edit Voxel Mask"
+msgstr "복셀 마스크 편집"
+
+msgid "Edit (clear, extend) voxel mask."
+msgstr "복셀 마스크를 편집합니다(지우기, 확장)."
+
+msgid "Lattice Structures"
+msgstr "래티스 구조"
+
+msgid "Fill surface with porous structure to prepare it for 3D printing"
+msgstr "3D 프린팅을 위해 표면을 다공성 구조로 채웁니다"
+
+msgid "Generate Lattices"
+msgstr "래티스 생성"
+
+msgid "Create filling of a porous structure"
+msgstr "다공성 구조의 채움을 생성합니다"
+
+msgid "Segment Teeth CBCT"
+msgstr "CBCT 치아 분할"
+
+msgid ""
+"Teeth segmentation for CBCT scans. Takes a CBCT scan and creates a volume "
+"representing the mask of teeth in the scan."
+msgstr ""
+"CBCT 스캔에 대한 치아 분할. CBCT 스캔을 입력으로 받아 스캔 내 치아의 마스크"
+"를 나타내는 볼륨을 생성합니다."
+
+msgid "Aligner Generator"
+msgstr "얼라이너 생성기"
+
+msgid "Volume Rendering"
+msgstr "볼륨 렌더링"
+
+msgid "Voxels Resampling"
+msgstr "복셀 리샘플링"
+
+msgid "Resample voxels to fit the given scale."
+msgstr "주어진 스케일에 맞도록 복셀을 리샘플링합니다."
+
+msgid "Voxels Smooth"
+msgstr "복셀 평활화"
+
+msgid "Applies gaussian filter to smooth voxel values."
+msgstr "복셀 값을 평활화하기 위해 가우시안 필터를 적용합니다."
+
+msgid "Voxels Line Graph"
+msgstr "복셀 선 그래프"
+
+msgid "Show graph of voxels values along user-selected line."
+msgstr "사용자가 선택한 라인을 따라 복셀 값의 그래프를 표시합니다."
+
+msgid "Voxels Inspector"
+msgstr "복셀 검사기"
+
+msgid "Adjust mesh by the voxels gradient at sub-voxel precision"
+msgstr "서브 복셀 정밀도로 복셀 그래디언트에 따라 메시를 조정합니다"
+
+msgid "Optimize"
+msgstr "최적화"
+
+msgid ""
+"Remove any empty spaces in the memory representation of the object, and "
+"reorder elements to put close in space elements in close memory locations."
+msgstr ""
+"객체의 메모리 표현에서 빈 공간을 모두 제거하고, 공간적으로 가까운 요소들이 메"
+"모리상에서도 가까운 위치에 놓이도록 요소를 재정렬합니다."
+
+msgid ""
+"Subdivide selected point cloud on given number of components grouping points "
+"by their indices."
+msgstr ""
+"포인트들을 인덱스로 그룹화하여 선택한 포인트 클라우드를 주어진 수의 구성 요소"
+"로 세분합니다."
+
+msgid "Change ISO"
+msgstr "ISO 변경"
+
+msgid ""
+"Select what iso-surface will represent the voxel object on the screen, and "
+"choose the method to construct the iso-surface."
+msgstr ""
+"복셀 객체를 화면에 표시할 등가면을 선택하고 등가면을 생성하는 방법을 선택합니"
+"다."
+
+msgid "Set Active Voxel Box"
+msgstr "활성 복셀 상자 설정"
+
+msgid "Set area (box) for work on voxels."
+msgstr "복셀 작업 영역(상자)을 설정합니다."
+
+msgid "Make Normals"
+msgstr "법선 생성"
+
+msgid ""
+"Produce normal for each point in the cloud, in particular improving point "
+"cloud shading during visualization."
+msgstr ""
+"클라우드의 각 포인트에 대한 법선을 생성하며, 특히 시각화 시 포인트 클라우드 "
+"음영을 개선합니다."
+
+msgid "Orient Point Normals"
+msgstr "포인트 법선 방향 정렬"
+
+msgid "Select similar orientation of normals in close points."
+msgstr "가까운 포인트들의 법선 방향을 비슷하게 정렬합니다."
+
+msgid "Remove Normals"
+msgstr "법선 제거"
+
+msgid "Remove normals from point clouds."
+msgstr "포인트 클라우드에서 법선을 제거합니다."
+
+msgid "Select Boundary Points"
+msgstr "경계 포인트 선택"
+
+msgid "Select points on boundaries of point clouds."
+msgstr "포인트 클라우드의 경계에 있는 포인트를 선택합니다."
+
+msgid "Flip Normals"
+msgstr "법선 뒤집기"
+
+msgid ""
+"Flip orientation of active mesh objects. Can flip orientation of individual "
+"components if just one mesh object is active."
+msgstr ""
+"활성 메시 객체의 방향을 뒤집습니다. 단 하나의 메시 객체만 활성화된 경우 개별 "
+"구성 요소의 방향을 뒤집을 수 있습니다."
+
+msgid "Flip orientation of active point clouds."
+msgstr "활성 포인트 클라우드의 방향을 뒤집습니다."
+
+msgid "Flip Orientation"
+msgstr "방향 뒤집기"
+
+msgid "Reverse direction of all active lines."
+msgstr "모든 활성 라인의 방향을 반전합니다."
+
+msgid "Fix Tunnels"
+msgstr "터널 수정"
+
+msgid "Make mesh topologically equivalent to a sphere."
+msgstr "메시를 위상적으로 구와 동등하게 만듭니다."
+
+msgid "Fix Spikes"
+msgstr "스파이크 수정"
+
+msgid ""
+"Smooth the bulge out vertices (that have a sum of adjacent angles less than "
+"given value)."
+msgstr "튀어나온 정점(인접 각의 합이 주어진 값보다 작은 정점)을 평활화합니다."
+
+msgid "Extrude Base"
+msgstr "베이스 돌출"
+
+msgid ""
+"Create closed printable model (like in dentistry) from an arbitrary open or "
+"closed mesh, optionally fixing the undercuts."
+msgstr ""
+"임의의 열린 또는 닫힌 메시로부터 폐쇄된 출력 가능 모델(치과에서와 같이)을 생"
+"성하며, 선택적으로 언더컷을 수정합니다."
+
+msgid "Radius Compensation"
+msgstr "반지름 보정"
+
+msgid ""
+"Compensate spherical tool radius in selected mesh area (or whole mesh) with "
+"fixed boundaries."
+msgstr ""
+"고정 경계 조건에서 선택한 메시 영역(또는 전체 메시)의 구형 공구 반지름을 보정"
+"합니다."
+
+msgid "Fill Holes"
+msgstr "구멍 채우기"
+
+msgid ""
+"Find holes and fill them with extra triangles, or make bridges to split big "
+"holes on smaller parts."
+msgstr ""
+"구멍을 찾아 추가 삼각형으로 채우거나 큰 구멍을 더 작은 부분으로 나누는 다리"
+"를 만듭니다."
+
+msgid "Fill Holes with Extra Points"
+msgstr "추가 포인트로 구멍 채우기"
+
+msgid ""
+"Find holes and fill them with extra triangles using points from the selected "
+"cloud as vertices of new triangles."
+msgstr ""
+"구멍을 찾아 선택한 클라우드의 포인트를 새 삼각형의 정점으로 사용하여 추가 삼"
+"각형으로 채웁니다."
+
+msgid "Stitch Two Holes"
+msgstr "두 구멍 잇기"
+
+msgid ""
+"Create mesh as tunnel between two holes (closed contour without internal "
+"mesh)."
+msgstr ""
+"두 구멍 사이를 잇는 터널 형태의 메시를 생성합니다(내부 메시 없는 닫힌 윤곽)."
+
+msgid "Extrude"
+msgstr "돌출"
+
+msgid "Extrude triangles from the selected area with the mouse"
+msgstr "마우스로 선택한 영역의 삼각형을 돌출시킵니다"
+
+msgid "Make Delone"
+msgstr "들로네 변환"
+
+msgid ""
+"Change triangulation of the mesh without moving its vertices to reach "
+"Delaunay optimality."
+msgstr ""
+"정점을 이동하지 않고 메시의 삼각화를 변경하여 들로네 최적성에 도달합니다."
+
+msgid "Remesh"
+msgstr "리메시"
+
+msgid ""
+"Change mesh of the surface to have nearly uniform edge length everywhere."
+msgstr ""
+"전체적으로 거의 균일한 가장자리 길이를 갖도록 표면의 메시를 변경합니다."
+
+msgid "Mesh Healer"
+msgstr "메시 힐러"
+
+msgid ""
+"Detects mesh problems that may affect 3D printing, allow to rebuild mesh and "
+"make the surface watertight, or repair local problems."
+msgstr ""
+"3D 프린팅에 영향을 줄 수 있는 메시 문제를 감지하고, 메시를 재구성하여 표면을 "
+"방수가 되도록 만들거나 국부적인 문제를 복구할 수 있게 합니다."
+
+msgid "Mesh Overhealer"
+msgstr "메시 오버힐러"
+
+msgid "Tool to perform extreme intrusive healing operations on mesh."
+msgstr "메시에 극단적으로 침습적인 복구 작업을 수행하는 도구."
+
+msgid "Fix Pockets"
+msgstr "포켓 수정"
+
+msgid ""
+"Finds crease edges and re-triangulates planar areas around them, useful to "
+"fix double faces"
+msgstr ""
+"주름 가장자리를 찾아 그 주변의 평면 영역을 다시 삼각화합니다. 이중 면 수정에 "
+"유용합니다"
+
+msgid "Subdivide"
+msgstr "세분"
+
+msgid "Split large triangles on smaller ones."
+msgstr "큰 삼각형을 더 작은 삼각형으로 분할합니다."
+
+msgid "Split large line segments on smaller ones."
+msgstr "긴 선분을 더 짧은 선분으로 분할합니다."
+
+msgid "Smooth Boundary"
+msgstr "경계 평활화"
+
+msgid "Add triangles to mesh boundary to make it more straighten."
+msgstr "메시 경계에 삼각형을 추가하여 더 곧게 만듭니다."
+
+msgid "Smooth Region Boundary"
+msgstr "영역 경계 평활화"
+
+msgid "Moves boundary vertices of selected region to make it smoother."
+msgstr "선택한 영역의 경계 정점을 이동하여 더 부드럽게 만듭니다."
+
+msgid "Delete by Normal"
+msgstr "법선으로 삭제"
+
+msgid ""
+"Delete object's triangles with normals pointed to the target geometry center."
+msgstr "법선이 대상 형상의 중심을 가리키는 객체 삼각형을 삭제합니다."
+
+msgid "Laplacian Brush"
+msgstr "라플라시안 브러시"
+
+msgid "Modify mesh by Laplacian brush."
+msgstr "라플라시안 브러시로 메시를 수정합니다."
+
+msgid "Reduce Noise"
+msgstr "노이즈 감소"
+
+msgid "Smooth mesh, point cloud or line."
+msgstr "메시, 포인트 클라우드 또는 라인을 평활화합니다."
+
+msgid "Re-position"
+msgstr "재배치"
+
+msgid ""
+"Position mesh vertices smoothly inside the selected region (excluding region "
+"boundary and selected edges) with the rest of the mesh."
+msgstr ""
+"선택한 영역 내부에서(영역 경계와 선택한 가장자리는 제외) 메시의 나머지 부분"
+"과 함께 메시 정점을 부드럽게 배치합니다."
+
+msgid "Voxel Boolean"
+msgstr "복셀 부울"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, converting them into voxels before and converting the "
+"result back into mesh object."
+msgstr ""
+"표면 메시로 표현된 두 객체의 합집합, 교집합 또는 차집합을 구성합니다. 사전에 "
+"복셀로 변환한 후 결과를 다시 메시 객체로 변환합니다."
+
+msgid "Union"
+msgstr "합집합"
+
+msgid ""
+"Boolean-union the selected meshes into a single watertight surface. "
+"Overlapping geometry is fused, interior primitives are removed, and "
+"intersections are automatically resolved."
+msgstr ""
+"선택한 메시들을 부울 합집합으로 단일 방수 표면으로 결합합니다. 겹치는 형상은 "
+"융합되고, 내부 기본 요소는 제거되며, 교차 부분은 자동으로 해결됩니다."
+
+msgid "Distance Map Boolean"
+msgstr "거리 맵 부울"
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr "두 거리 맵 간의 최댓값, 최솟값 또는 차로 거리 맵을 생성합니다."
+
+msgid "Select Primitives"
+msgstr "기본 요소 선택"
+
+msgid "Select and deselect mesh triangles and points of point clouds."
+msgstr "메시의 삼각형과 포인트 클라우드의 포인트를 선택하거나 선택 해제합니다."
+
+msgid "Triangles Selector"
+msgstr "삼각형 선택기"
+
+msgid "Edge Selector"
+msgstr "가장자리 선택기"
+
+msgid "Expand Selection"
+msgstr "선택 확장"
+
+msgid "Add one layer of triangles to the selection."
+msgstr "선택에 삼각형 한 층을 추가합니다."
+
+msgid "Smart Expand"
+msgstr "스마트 확장"
+
+msgid ""
+"Allows one to easily expand triangle selection on planar or smooth regions "
+"of mesh."
+msgstr ""
+"메시의 평평하거나 매끄러운 영역에서 삼각형 선택을 쉽게 확장할 수 있도록 합니"
+"다."
+
+msgid "Expand Selected Edges"
+msgstr "선택한 가장자리 확장"
+
+msgid "Add one layer of edges to the selection."
+msgstr "선택에 가장자리 한 층을 추가합니다."
+
+msgid "Select Short Edges"
+msgstr "짧은 가장자리 선택"
+
+msgid "Selects all edges not longer than given value."
+msgstr "주어진 값보다 길지 않은 모든 가장자리를 선택합니다."
+
+msgid "Select Twin Edges"
+msgstr "쌍둥이 가장자리 선택"
+
+msgid ""
+"Find pairs of vertices located very close, and then select edges in between "
+"of them."
+msgstr ""
+"매우 가까이 위치한 정점 쌍을 찾은 다음, 그 사이의 가장자리를 선택합니다."
+
+msgid "Select Incident Triangles"
+msgstr "인접 삼각형 선택"
+
+msgid "Select all triangles which are connected to selected edges."
+msgstr "선택한 가장자리에 연결된 모든 삼각형을 선택합니다."
+
+msgid "Swap Creases / Edges"
+msgstr "주름/가장자리 교체"
+
+msgid "Selected edges become creases and vice verse."
+msgstr "선택한 가장자리는 주름이 되고 그 반대도 마찬가지입니다."
+
+msgid "Shrink Selection"
+msgstr "선택 축소"
+
+msgid "Unselect one layer of triangles on the selection boundary."
+msgstr "선택 경계에 있는 삼각형 한 층의 선택을 해제합니다."
+
+msgid "Shrink Selected Edges"
+msgstr "선택한 가장자리 축소"
+
+msgid "Unselect one layer of edges on the selection boundary."
+msgstr "선택 경계에 있는 가장자리 한 층의 선택을 해제합니다."
+
+msgid "Grow/Shrink Selected"
+msgstr "선택 확장/축소"
+
+msgid "Dilate or erode selected regions by some distance."
+msgstr "선택한 영역을 일정 거리만큼 팽창시키거나 침식합니다."
+
+msgid "Grow/Shrink Selected Edges"
+msgstr "선택한 가장자리 확장/축소"
+
+msgid "Dilate or erode selected edges by some distance."
+msgstr "선택한 가장자리를 일정 거리만큼 팽창시키거나 침식합니다."
+
+msgid "Inverse Selection"
+msgstr "선택 반전"
+
+msgid ""
+"In meshes/clouds all selected triangles/points become unselected and vice "
+"versa."
+msgstr ""
+"메시/클라우드에서 선택된 모든 삼각형/포인트는 선택 해제되고 그 반대도 마찬가"
+"지입니다."
+
+msgid "Clear Selections"
+msgstr "선택 지우기"
+
+msgid "Clear selected triangles for meshes and points for point clouds"
+msgstr "메시의 선택된 삼각형과 포인트 클라우드의 선택된 포인트를 지웁니다"
+
+msgid "Clear Selected Edges"
+msgstr "선택한 가장자리 지우기"
+
+msgid "Clear selected edges on meshes"
+msgstr "메시의 선택된 가장자리를 지웁니다"
+
+msgid "Delete Selected"
+msgstr "선택 항목 삭제"
+
+msgid "Delete selected area"
+msgstr "선택한 영역 삭제"
+
+msgid "Select Camera-Facing"
+msgstr "카메라 방향 선택"
+
+msgid ""
+"Add to selection all triangles oriented toward the camera (even if other "
+"triangles occlude them)"
+msgstr ""
+"카메라를 향한 모든 삼각형을 선택에 추가합니다(다른 삼각형이 그것들을 가리고 "
+"있어도)"
+
+msgid "Unselect Camera-Facing"
+msgstr "카메라 방향 선택 해제"
+
+msgid ""
+"Remove from selection all triangles oriented toward the camera (even if "
+"other triangles occlude them)"
+msgstr ""
+"카메라를 향한 모든 삼각형을 선택에서 제거합니다(다른 삼각형이 그것들을 가리"
+"고 있어도)"
+
+msgid "Select by Area"
+msgstr "면적으로 선택"
+
+msgid "Select Creases by Angle"
+msgstr "각도로 주름 선택"
+
+msgid "Select Boundary Tris"
+msgstr "경계 삼각형 선택"
+
+msgid "Add to selection all triangles lying on the bounds of the mesh"
+msgstr "메시 경계에 위치한 모든 삼각형을 선택에 추가합니다"
+
+msgid "Select Boundary Edges"
+msgstr "경계 가장자리 선택"
+
+msgid "Add to selection all edges lying on the bounds of the mesh"
+msgstr "메시 경계에 위치한 모든 가장자리를 선택에 추가합니다"
+
+msgid "Select Outer Layer"
+msgstr "외부 층 선택"
+
+msgid ""
+"For double-layer mesh with one layer having normals outside and the other "
+"layer - inside, finds all triangles of the outer layer."
+msgstr ""
+"한 층의 법선이 바깥쪽을 향하고 다른 층의 법선이 안쪽을 향하는 이중 층 메시에"
+"서 외부 층의 모든 삼각형을 찾습니다."
+
+msgid "Select Disorientations"
+msgstr "방향 오류 선택"
+
+msgid ""
+"Selects triangles that look in the wrong direction, based on number of ray "
+"intersections."
+msgstr "광선 교차 수를 기반으로 잘못된 방향을 향하는 삼각형을 선택합니다."
+
+msgid "Orient Mesh Normals"
+msgstr "메시 법선 방향 정렬"
+
+msgid ""
+"Flips orientation of mesh components looking in the wrong direction, based "
+"on number of ray intersections."
+msgstr ""
+"광선 교차 수를 기반으로 잘못된 방향을 향하는 메시 구성 요소의 방향을 뒤집습니"
+"다."
+
+msgid "Select Degeneracies"
+msgstr "퇴화 삼각형 선택"
+
+msgid "Select all degenerate triangles based on their aspect ratio."
+msgstr "종횡비를 기준으로 모든 퇴화 삼각형을 선택합니다."
+
+msgid "Select Not Smooth Triangles"
+msgstr "비매끄러운 삼각형 선택"
+
+msgid ""
+"Select inner triangles of the active mesh, where the surface is especially "
+"not smooth."
+msgstr "표면이 특히 매끄럽지 않은 활성 메시의 내부 삼각형을 선택합니다."
+
+msgid "Select Multiple Edges"
+msgstr "다중 가장자리 선택"
+
+msgid "Select Self Intersections"
+msgstr "자기 교차 선택"
+
+msgid "Select Self-Intersecting triangles of the mesh"
+msgstr "메시의 자기 교차 삼각형을 선택합니다"
+
+msgid "Expand to Components"
+msgstr "구성 요소로 확장"
+
+msgid ""
+"Expand current triangle selection to whole mesh components considering "
+"selected edges as component boundaries."
+msgstr ""
+"선택한 가장자리를 구성 요소 경계로 간주하여 현재 삼각형 선택을 전체 메시 구"
+"성 요소로 확장합니다."
+
+msgid "Select Component"
+msgstr "구성 요소 선택"
+
+msgid ""
+"Select the connected component of mesh or one of the selected connected "
+"components of mesh."
+msgstr ""
+"메시의 연결 구성 요소 또는 메시의 선택된 연결 구성 요소 중 하나를 선택합니다."
+
+msgid "Select Largest Component"
+msgstr "최대 구성 요소 선택"
+
+msgid "Select the largest connected component of mesh."
+msgstr "메시의 가장 큰 연결 구성 요소를 선택합니다."
+
+msgid "Select Overhangs"
+msgstr "오버행 선택"
+
+msgid "Select overhanging triangles."
+msgstr "오버행 삼각형을 선택합니다."
+
+msgid "ImGui Demo"
+msgstr "ImGui 데모"
+
+msgid "Demonstrate ImGui features."
+msgstr "ImGui 기능을 보여 줍니다."
+
+msgid "Picker Test"
+msgstr "선택기 테스트"
+
+msgid "Spaces Test"
+msgstr "공간 테스트"
+
+msgid "Http Test"
+msgstr "HTTP 테스트"
+
+msgid "Separate Teeth"
+msgstr "치아 분리"
+
+msgid "Separate Teeth Margins"
+msgstr "치아 마진 분리"
+
+msgid "History Explorer"
+msgstr "히스토리 탐색기"
+
+msgid "Shows detailed information about undo/redo stacks."
+msgstr "실행 취소/다시 실행 스택에 대한 자세한 정보를 표시합니다."
+
+msgid "Laplacian Test"
+msgstr "라플라시안 테스트"
+
+msgid "Gum Analyzer"
+msgstr "잇몸 분석기"
+
+msgid "Library Distances Test"
+msgstr "라이브러리 거리 테스트"
+
+msgid "Gingiva Generation"
+msgstr "잇몸 생성"
+
+msgid "Test generating gigiva"
+msgstr "잇몸 생성을 테스트합니다"
+
+msgid "Bevel Edges"
+msgstr "가장자리 모따기"
+
+msgid "Apply chamfering or filleting to selected edges."
+msgstr "선택한 가장자리에 모따기 또는 필렛을 적용합니다."
+
+msgid "Lines Visualization"
+msgstr "라인 시각화"
+
+msgid "Test Progress Bar"
+msgstr "진행률 표시줄 테스트"
+
+msgid "Boolean Benchmark"
+msgstr "부울 벤치마크"
+
+msgid ""
+"Run a fixed boolean A-B microbenchmark on two spheres; reports AVG/MIN/MAX "
+"timings."
+msgstr ""
+"두 개의 구에 대해 고정된 부울 A-B 마이크로벤치마크를 실행합니다. AVG/MIN/MAX "
+"시간을 보고합니다."
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Run embedded python-interpreter terminal."
+msgstr "내장 파이썬 인터프리터 터미널을 실행합니다."
+
+msgid "Direction Transform"
+msgstr "방향 변환"
+
+msgid ""
+"Transform mesh into 3 voxel objects, representing the direction from each "
+"voxel to the closest point on the mesh."
+msgstr ""
+"각 복셀에서 메시 위 가장 가까운 점까지의 방향을 나타내는 3개의 복셀 객체로 메"
+"시를 변환합니다."
+
+msgid "Perspective Align"
+msgstr "원근 정렬"
+
+msgid "Align position of object, image of object and camera."
+msgstr "객체, 객체의 이미지, 카메라의 위치를 정렬합니다."
+
+msgid "Sign out"
+msgstr "로그아웃"
+
+msgid "Color Map Aggregator"
+msgstr "컬러 맵 집계기"
+
+msgid "Segment Mesh"
+msgstr "메시 분할"
+
+msgid ""
+"Segment mesh in two parts with the boundary passing via two user-given "
+"points."
+msgstr "사용자가 지정한 두 점을 통과하는 경계로 메시를 두 부분으로 분할합니다."
+
+msgid "Select Region"
+msgstr "영역 선택"
+
+msgid ""
+"Smart region selection on mesh by defining a few seed triangles belonging to "
+"the region and other triangles not belonging to the region, by minimizing "
+"the sum of metric over the boundary."
+msgstr ""
+"영역에 속하는 시드 삼각형과 영역에 속하지 않는 다른 삼각형을 정의하여 경계에"
+"서의 메트릭 합을 최소화함으로써 메시의 영역을 스마트하게 선택합니다."
+
+msgid "Partitioner"
+msgstr "분할기"
+
+msgid ""
+"This tool automatically splits the mesh into a specified number of segments, "
+"displaying their boundaries as selected edges."
+msgstr ""
+"이 도구는 메시를 지정된 수의 분할로 자동 분리하고, 그 경계를 선택된 가장자리"
+"로 표시합니다."
+
+msgid "Points to Mesh"
+msgstr "포인트를 메시로"
+
+msgid ""
+"Create mesh objects by taking vertices from active point clouds and adding "
+"triangles (triangulation)."
+msgstr ""
+"활성 포인트 클라우드에서 정점을 가져와 삼각형을 추가(삼각화)하여 메시 객체를 "
+"생성합니다."
+
+msgid "Points to Lines"
+msgstr "포인트를 라인으로"
+
+msgid ""
+"Create lines objects by taking vertices from active point clouds and "
+"connecting them in signle line sequentially."
+msgstr ""
+"활성 포인트 클라우드에서 정점을 가져와 순차적으로 단일 라인으로 연결하여 라"
+"인 객체를 생성합니다."
+
+msgid "Fusion"
+msgstr "융합"
+
+msgid "Create approximate object mesh from a point cloud with normals."
+msgstr "법선이 있는 포인트 클라우드로부터 근사 객체 메시를 생성합니다."
+
+msgid "Triangulation Debug"
+msgstr "삼각화 디버그"
+
+msgid "Debugging of object mesh from selected point cloud creation."
+msgstr "선택한 포인트 클라우드로부터 객체 메시를 생성하는 과정을 디버깅합니다."
+
+msgid "Points to Spline"
+msgstr "포인트를 스플라인으로"
+
+msgid "Creates a smooth line out of ordered points."
+msgstr "순서가 있는 포인트로부터 매끄러운 라인을 생성합니다."
+
+msgid "Points to Offset-Lines"
+msgstr "포인트를 오프셋 라인으로"
+
+msgid "Creates a offset-lines from given points on the mesh ."
+msgstr "메시 위 주어진 포인트로부터 오프셋 라인을 생성합니다 ."
+
+msgid "Simplify"
+msgstr "단순화"
+
+msgid ""
+"Decimate mesh - reduce the number of structural elements in the mesh while "
+"keeping the general shape close to the original."
+msgstr ""
+"메시 데시메이트 — 전체적인 형상을 원본에 가깝게 유지하면서 메시의 구조적 요"
+"소 수를 줄입니다."
+
+msgid ""
+"Decimate polyline - reduce the number of structural elements in the polyline "
+"while keeping the general shape close to the original."
+msgstr ""
+"폴리라인 데시메이트 — 전체적인 형상을 원본에 가깝게 유지하면서 폴리라인의 구"
+"조적 요소 수를 줄입니다."
+
+msgid "Unite Close Vertices"
+msgstr "가까운 정점 합치기"
+
+msgid ""
+"Find close groups of mesh vertices and replace each group with one vertex."
+msgstr "메시 정점들의 가까운 그룹을 찾아 각 그룹을 하나의 정점으로 대체합니다."
+
+msgid "Constucts a mesh shifted relative to input one on given offset"
+msgstr "입력 메시에 대해 주어진 오프셋만큼 이동한 메시를 구성합니다"
+
+msgid "Hollow/Thicken"
+msgstr "비우기/두껍게 하기"
+
+msgid ""
+"Converts any mesh into closed mesh with two surfaces shifted in opposite "
+"directions relative to initial mesh."
+msgstr ""
+"임의의 메시를 초기 메시에 대해 반대 방향으로 이동한 두 표면을 갖는 닫힌 메시"
+"로 변환합니다."
+
+msgid "Z-Compensate"
+msgstr "Z 보정"
+
+msgid ""
+"For 3D printers: shifts every vertex with normal having negative projection "
+"on Z-axis, along Z-axis."
+msgstr ""
+"3D 프린터용: Z축에 음의 투영을 갖는 법선의 모든 정점을 Z축을 따라 이동시킵니"
+"다."
+
+msgid "Auto Repair Mesh"
+msgstr "메시 자동 복구"
+
+msgid ""
+"Repair one or multiple meshes by completely rebuilding them with the "
+"specified tolerance level."
+msgstr ""
+"지정된 허용 오차 수준으로 완전히 재구성하여 하나 또는 여러 메시를 복구합니다."
+
+msgid "Toolpath"
+msgstr "공구 경로"
+
+msgid "Build z-constant tool path for the given mesh"
+msgstr "주어진 메시에 대해 Z 상수 공구 경로를 작성합니다"
+
+msgid "Mesh Boolean"
+msgstr "메시 부울"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, preserving input mesh pieces where possible."
+msgstr ""
+"표면 메시로 표현된 두 객체의 합집합, 교집합 또는 차집합을 구성하며, 가능한 경"
+"우 입력 메시 조각을 보존합니다."
+
+msgid "Real-Time Boolean"
+msgstr "실시간 부울"
+
+msgid "Subtract one mesh from another in real time."
+msgstr "한 메시를 다른 메시에서 실시간으로 뺍니다."
+
+msgid "Real-Time Boolean Cutter"
+msgstr "실시간 부울 커터"
+
+msgid "Subtract one mesh from another in real time accumulative."
+msgstr "한 메시를 다른 메시에서 실시간으로 누적하여 뺍니다."
+
+msgid "Self-Boolean"
+msgstr "자기 부울"
+
+msgid ""
+"Performs mesh boolean operation on mesh with itself in order to fix self-"
+"intersections."
+msgstr "자기 교차를 수정하기 위해 메시 자체에 대해 부울 연산을 수행합니다."
+
+msgid "Selfy Contours"
+msgstr "자기 교차 윤곽"
+
+msgid ""
+"Finds contours of select-intersections in active meshes and adds them in "
+"scene as line objects."
+msgstr "활성 메시에서 자기 교차의 윤곽을 찾아 라인 객체로 장면에 추가합니다."
+
+msgid "Label Configurator"
+msgstr "레이블 구성기"
+
+msgid "Edit label text, position and pivot point."
+msgstr "레이블의 텍스트, 위치 및 피벗 포인트를 편집합니다."
+
+msgid "Test Render"
+msgstr "렌더링 테스트"
+
+msgid "Testing render performance in different modes."
+msgstr "다양한 모드에서 렌더링 성능을 테스트합니다."
+
+msgid "Ribbon UI Test"
+msgstr "리본 UI 테스트"
+
+msgid "Testing UI elements"
+msgstr "UI 요소를 테스트합니다"
+
+msgid "G-code Visualizer"
+msgstr "G-code 시각화 도구"
+
+msgid "Visualize toolpath set by g-code commands."
+msgstr "G-code 명령으로 설정된 공구 경로를 시각화합니다."
+
+msgid "G-code to Lines"
+msgstr "G-code를 라인으로"
+
+msgid "Create object lines from object g-code."
+msgstr "객체 G-code로부터 객체 라인을 생성합니다."
+
+msgid "CNC Machine Settings"
+msgstr "CNC 기계 설정"
+
+msgid "Settings of the CNC machine simulator."
+msgstr "CNC 기계 시뮬레이터의 설정입니다."
+
+msgid "Brush"
+msgstr "브러시"
+
+msgid "Add, remove or relax material (mesh surface)."
+msgstr "재료(메시 표면)를 추가, 제거 또는 완화합니다."
+
+msgid "Select Outliers"
+msgstr "이상치 선택"
+
+msgid "Select points that are far from others point"
+msgstr "다른 점들로부터 멀리 떨어진 점을 선택합니다"
+
+msgid "Reset Welcome Window"
+msgstr "환영 창 재설정"
+
+msgid "Show the welcome window on the next application start"
+msgstr "다음 애플리케이션 시작 시 환영 창을 표시합니다"
+
+msgid ""
+"Create point cloud objects from each connected component of selected point "
+"cloud."
+msgstr ""
+"선택한 포인트 클라우드의 각 연결 구성 요소로부터 포인트 클라우드 객체를 생성"
+"합니다."
+
+msgid "Objects List Render Test"
+msgstr "객체 목록 렌더링 테스트"
+
+msgid "Fps and frame time test in objects list rendering."
+msgstr "객체 목록 렌더링에서의 FPS 및 프레임 시간 테스트."
+
+msgid "Open Encrypted ZIP"
+msgstr "암호화된 ZIP 열기"
+
+msgid "Open an encrypted ZIP archive"
+msgstr "암호화된 ZIP 압축 파일을 엽니다"
+
+msgid "Refine Feature"
+msgstr "피처 정제"
+
+msgid "Refine an existing feature object to a mesh or a point cloud"
+msgstr "기존 피처 객체를 메시 또는 포인트 클라우드로 정제합니다"
+
+msgid "Test Voxels Interpolation"
+msgstr "복셀 보간 테스트"
+
+msgid ""
+"Test certain voxels functions (creation, accessors, resampling, "
+"interpolation)"
+msgstr "특정 복셀 기능(생성, 접근자, 리샘플링, 보간)을 테스트합니다"
+
+msgid "Crash Me"
+msgstr "강제 충돌"
+
+msgid ""
+"Performs some invalid operation to check program stability and correct "
+"logging"
+msgstr ""
+"프로그램 안정성과 올바른 로깅을 확인하기 위해 일부 잘못된 작업을 수행합니다"
+
+msgid "Test UI Rect Allocator"
+msgstr "UI 사각형 할당기 테스트"
+
+msgid "Notification Test"
+msgstr "알림 테스트"
+
+msgid "Adding notifications manually"
+msgstr "수동으로 알림을 추가합니다"
+
+msgid "Signals Connections"
+msgstr "신호 연결"
+
+msgid "Show Viewer signals and number of connections per signal"
+msgstr "뷰어 신호와 신호당 연결 수를 표시합니다"
+
+msgid "Place Mesh"
+msgstr "메시 배치"
+
+msgid "Tool that allows to place selected mesh on any other picked object"
+msgstr "선택한 메시를 선택된 다른 객체 위에 배치할 수 있는 도구"
+
+msgid "Fillers Test"
+msgstr "필러 테스트"
+
+msgid "Swept Volume"
+msgstr "스윕 볼륨"
+
+msgid "Palette Test"
+msgstr "팔레트 테스트"
+
+msgid "Scans to Mesh"
+msgstr "스캔을 메시로"
+
+msgid "Merge scans represented as points objects to one mesh object."
+msgstr "포인트 객체로 표현된 스캔들을 하나의 메시 객체로 병합합니다."
+
+msgid "Object Tag Manager"
+msgstr "객체 태그 관리자"
+
+msgid "Manage visual object tags and related colors."
+msgstr "시각 객체 태그와 관련 색상을 관리합니다."
+
+msgid "Set Object Tags"
+msgstr "객체 태그 설정"
+
+msgid "Set or unset visual object tags to selected objects."
+msgstr "선택한 객체의 시각 객체 태그를 설정 또는 해제합니다."
+
+msgid "Measure Points"
+msgstr "포인트 측정"
+
+msgid "Show coordinates of selected points on selected objects."
+msgstr "선택한 객체에서 선택한 포인트의 좌표를 표시합니다."
+
+msgid "Multi Clone"
+msgstr "다중 복제"
+
+msgid "Create multiple copies of a selected object."
+msgstr "선택한 객체의 여러 복사본을 생성합니다."
+
+msgid "Quality Control Report"
+msgstr "품질 관리 보고서"
+
+msgid "Tool for generation quality control report pdf file."
+msgstr "품질 관리 보고서 PDF 파일을 생성하는 도구입니다."
+
+msgid "Feature to Mesh"
+msgstr "피처를 메시로"
+
+msgid "Convert selected features to meshes."
+msgstr "선택한 피처를 메시로 변환합니다."
+
+msgid "Feature to Line"
+msgstr "피처를 라인으로"
+
+msgid "Convert selected features to lines."
+msgstr "선택한 피처를 라인으로 변환합니다."
+
+msgid "Build Plate"
+msgstr "빌드 플레이트"
+
+msgid "Configure Build Plate or load it from saved presets."
+msgstr "빌드 플레이트를 구성하거나 저장된 사전 설정에서 불러옵니다."
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "홈"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "뷰"
+
+msgctxt "Tab name"
+msgid "Transform"
+msgstr "변환"
+
+msgctxt "Tab name"
+msgid "Inspect"
+msgstr "검사"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "선택"
+
+msgctxt "Tab name"
+msgid "Mesh Edit"
+msgstr "메시 편집"
+
+msgctxt "Tab name"
+msgid "Mesh Repair"
+msgstr "메시 복구"
+
+msgctxt "Tab name"
+msgid "Points"
+msgstr "포인트"
+
+msgctxt "Tab name"
+msgid "Lines"
+msgstr "라인"
+
+msgctxt "Tab name"
+msgid "Distance Maps"
+msgstr "거리 맵"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Toolpath"
+msgstr "공구 경로"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr "실험적"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "테스트"

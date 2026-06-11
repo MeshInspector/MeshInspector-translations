@@ -1,0 +1,9113 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"PO-Revision-Date: 2026-04-15 10:21+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Scans:"
+msgstr "スキャン:"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "LuT:"
+msgstr "LuT:"
+
+msgid "X-Ray source"
+msgstr "X線源"
+
+msgid "Distance to center"
+msgstr "中心までの距離"
+
+msgid "Distance to detector"
+msgstr "検出器までの距離"
+
+msgid "Detector"
+msgstr "検出器"
+
+msgid "Horizontal shift"
+msgstr "水平シフト"
+
+msgid "Vertical shift"
+msgstr "垂直シフト"
+
+msgid "In plane rotation"
+msgstr "平面内回転"
+
+msgid "Pixel size"
+msgstr "ピクセルサイズ"
+
+msgid "Rotation object"
+msgstr "回転オブジェクト"
+
+msgid "Resolution"
+msgstr "解像度"
+
+msgid "Voxel size"
+msgstr "ボクセルサイズ"
+
+msgid "Rotation direction:"
+msgstr "回転方向:"
+
+msgid "CCW"
+msgstr "反時計回り"
+
+msgid "CW"
+msgstr "時計回り"
+
+msgid "Run"
+msgstr "実行"
+
+msgid "CUDA is not available"
+msgstr "CUDAは使用できません"
+
+msgid "Cannot load tiff file: "
+msgstr "TIFFファイルを読み込めません: "
+
+msgid "CT Reconstruction"
+msgstr "CT再構成"
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid "Sign Out"
+msgstr "サインアウト"
+
+msgid "and try with another account."
+msgstr "別のアカウントで試してください。"
+
+msgid "Try with another account?"
+msgstr "別のアカウントで試しますか?"
+
+msgid "Sign in"
+msgstr "サインイン"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Sign In"
+msgstr "サインイン"
+
+msgid "Please enter valid email"
+msgstr "有効なメールアドレスを入力してください"
+
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+msgid "Remember me"
+msgstr "ログイン状態を保持する"
+
+msgid "Forgot your"
+msgstr "パスワードを"
+
+msgid "password?"
+msgstr "お忘れですか?"
+
+msgid "Need an account?"
+msgstr "アカウントが必要ですか?"
+
+msgid "Sign Up"
+msgstr "サインアップ"
+
+msgid "Welcome back!"
+msgstr "おかえりなさい!"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Don't have an account?"
+msgstr "アカウントをお持ちでないですか?"
+
+msgid "Please enter valid password"
+msgstr "有効なパスワードを入力してください"
+
+msgid "Already have an account?"
+msgstr "すでにアカウントをお持ちですか?"
+
+msgid "Reset My Password"
+msgstr "パスワードをリセット"
+
+msgid "Back to"
+msgstr "戻る"
+
+msgid "Confirm Account"
+msgstr "アカウントを確認"
+
+msgid "Didn't receive a code?"
+msgstr "コードを受け取っていませんか?"
+
+msgid "Resend it"
+msgstr "再送する"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "New Password"
+msgstr "新しいパスワード"
+
+msgid "Change Password"
+msgstr "パスワードを変更"
+
+msgid "Clear Scene"
+msgstr "シーンをクリア"
+
+msgid ""
+"This version of MeshInspector is for Intel x86 architecture CPUs. Please "
+"download the version of MeshInspector for Apple Silicon for the best "
+"performance."
+msgstr ""
+"このバージョンのMeshInspectorはIntel x86アーキテクチャ向けです。最良のパ"
+"フォーマンスのためにApple Silicon版をダウンロードしてください。"
+
+msgid "Getting started with MeshInspector"
+msgstr "MeshInspectorを始める"
+
+msgid "Quick setup"
+msgstr "クイック設定"
+
+msgid "Rotate With"
+msgstr "回転操作:"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Color Theme"
+msgstr "カラーテーマ"
+
+msgid "Middle Mouse Button"
+msgstr "中ボタン"
+
+msgid "Left Mouse Button / Press and Drag"
+msgstr "左ボタン / 押してドラッグ"
+
+msgid "The settings can be changed at any time in the the Settings dialog"
+msgstr "設定はいつでも設定ダイアログで変更できます"
+
+msgid "per user"
+msgstr "ユーザーあたり"
+
+msgid "per user billed yearly"
+msgstr "ユーザーあたり年間請求"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "What`s Included?"
+msgstr "含まれる機能は?"
+
+#, c-format
+msgid "All %s features, plus"
+msgstr "%s のすべての機能に加えて"
+
+msgid "Extend trial for 30 days"
+msgstr "試用期間を30日延長"
+
+msgid "Compare Plans"
+msgstr "プランを比較"
+
+msgid "How would you like to buy?"
+msgstr "ご購入方法をお選びください"
+
+msgid "Choose how you would like to upgrade your MeshInspector plan"
+msgstr "MeshInspector プランのアップグレード方法を選択してください"
+
+msgid "Buy directly from MeshInspector"
+msgstr "MeshInspector から直接購入"
+
+msgid "Best for individuals and small teams comfortable learning on their own."
+msgstr "自分で学ぶことに慣れている個人や小規模チームに最適です。"
+
+msgid "Instant activation - start using your plan right after checkout"
+msgstr "即時有効化 - 購入後すぐにプランを使い始められます"
+
+msgid "Pay online in USD via secure card payment"
+msgstr "安全なカード決済により USD でオンライン支払い"
+
+msgid "Self-service learning: official YouTube channel and knowledge base"
+msgstr "セルフサービス学習：公式 YouTube チャンネルとナレッジベース"
+
+msgid "Email support from our team"
+msgstr "当チームによるメールサポート"
+
+msgid "Buy Directly"
+msgstr "直接購入"
+
+msgid "Buy from a local distributor"
+msgstr "地域の販売代理店から購入"
+
+msgid "Best for companies and teams that want hands-on onboarding."
+msgstr "実践的なオンボーディングを希望する企業やチームに最適です。"
+
+msgid "Personalized training for your team, tailored to your workflow"
+msgstr "ワークフローに合わせた、チーム向けの個別トレーニング"
+
+msgid "Support in your language and time zone"
+msgstr "お客様の言語とタイムゾーンでのサポート"
+
+msgid "Local invoicing, currency, and procurement-friendly paperwork"
+msgstr "現地での請求、通貨、調達に適した書類対応"
+
+msgid "Direct relationship with a partner familiar with your region's industry"
+msgstr "お客様の地域の業界に精通したパートナーとの直接的な関係"
+
+msgid "Find a Distributor"
+msgstr "販売代理店を探す"
+
+msgid "Collect Usage Statistics"
+msgstr "使用統計を収集する"
+
+msgid ""
+"Allow application to collect (non-personal) data about tools that are used "
+"to improve performance."
+msgstr ""
+"パフォーマンス向上のために、使用しているツールに関する（個人情報を含まない）"
+"データの収集を許可します。"
+
+msgid ""
+"To help us understand how you use MeshInspector and make it better, we'll "
+"collect data on the tools you click on. This will give us insights to "
+"improve functionality and usability.\n"
+"\n"
+"No personal info or file data is collected, and you can opt out anytime in "
+"the settings."
+msgstr ""
+"MeshInspectorの使い方を理解しより良い製品にするために、クリックしたツールの"
+"データを収集します。これにより機能性と使いやすさの改善に役立てます。\n"
+"\n"
+"個人情報やファイルデータは収集されません。また、いつでも設定からオプトアウト"
+"できます。"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Manage Settings"
+msgstr "設定を管理"
+
+#, c-format
+msgid "Version %s is available"
+msgstr "バージョン %s が利用可能です"
+
+msgid "Get Update"
+msgstr "アップデートを取得"
+
+msgid "Get Desktop"
+msgstr "デスクトップ版を入手"
+
+msgid "This feature is included in Professional plan"
+msgstr "この機能はプロフェッショナルプランに含まれています"
+
+msgid "This feature is included in Makers/Professional plan"
+msgstr "この機能はメーカー/プロフェッショナルプランに含まれています"
+
+msgid "This feature is not included in your plan"
+msgstr "この機能はご利用のプランに含まれていません"
+
+msgid "Show Welcome Window"
+msgstr "ウェルカムウィンドウを表示"
+
+msgid "Show welcome window when application starts."
+msgstr "アプリケーション起動時にウェルカムウィンドウを表示します。"
+
+msgid "Drag & Drop Files"
+msgstr "ファイルをドラッグ&ドロップ"
+
+msgid "Anywhere to Open"
+msgstr "どこにでもドロップして開く"
+
+msgid "To open DICOMs, RAW Voxels, TIFF use"
+msgstr "DICOM、RAWボクセル、TIFFを開くには"
+
+msgid "ribbon menu."
+msgstr "リボンメニューを使用してください。"
+
+msgid "Quickstart"
+msgstr "クイックスタート"
+
+msgid "This curated video collection will"
+msgstr "厳選されたビデオコレクションで"
+
+msgid "quickly and efficiently guide you"
+msgstr "基礎を素早く効率的に"
+
+msgid "through the essentials."
+msgstr "学ぶことができます。"
+
+msgid "Watch Video"
+msgstr "動画を見る"
+
+msgid "Create Simple Object"
+msgstr "シンプルなオブジェクトを作成"
+
+msgid "Easily generate basic shapes like"
+msgstr "デフォルト設定を使って、立方体や"
+
+msgid "cubes, spheres, and more using"
+msgstr "球などの基本的な形状を"
+
+msgid "default settings."
+msgstr "簡単に生成できます。"
+
+msgid "Cube"
+msgstr "立方体"
+
+msgid "Cylinder"
+msgstr "円柱"
+
+msgid "Sphere"
+msgstr "球"
+
+msgid "Prism"
+msgstr "角柱"
+
+msgid "Torus"
+msgstr "トーラス"
+
+msgid "Arrow"
+msgstr "矢印"
+
+msgid "Create Object"
+msgstr "オブジェクトを作成"
+
+msgid "Show on Startup"
+msgstr "起動時に表示"
+
+msgid "Reference object"
+msgstr "参照オブジェクト"
+
+msgid "Inspected object"
+msgstr "検査オブジェクト"
+
+msgid "Swap"
+msgstr "入れ替え"
+
+msgid "Exchange reference and inspected objects."
+msgstr "参照オブジェクトと検査オブジェクトを入れ替えます。"
+
+msgid "Take Selected"
+msgstr "選択を使用"
+
+msgid ""
+"Take two currently selected objects as new reference and new inspected "
+"objects."
+msgstr ""
+"現在選択されている2つのオブジェクトを新しい参照オブジェクトと検査オブジェクト"
+"として使用します。"
+
+msgid "Signed Distance"
+msgstr "符号付き距離"
+
+msgid ""
+"If a point is inside reference object its distance will get negative sign."
+msgstr "参照オブジェクトの内側にある点の距離は負の値になります。"
+
+msgid "Available only for to-Mesh or to-Points with normals mode."
+msgstr "メッシュまでまたは法線付きポイントまでのモードでのみ使用可能です。"
+
+msgid "Distance to Point Plane"
+msgstr "ポイント平面までの距離"
+
+msgid ""
+"Distance to plane created by the nearest point and its normal.\n"
+"(Note! It may have unintuitive color degrees)"
+msgstr ""
+"最近傍点とその法線で作成された平面までの距離。\n"
+"（注: 直感的でない色の段階になる場合があります）"
+
+msgid "Available only for to-Points with normals mode"
+msgstr "法線付きポイントまでのモードでのみ使用可能です"
+
+msgid "Auto Update Min/Max"
+msgstr "最小/最大を自動更新"
+
+msgid "Fit the palette automatically when data is changed"
+msgstr "データが変更されたとき、パレットを自動的にフィットします"
+
+msgid "Advanced"
+msgstr "詳細"
+
+msgid "Gray Out of Range"
+msgstr "範囲外をグレーで表示"
+
+msgid ""
+"Whether to draw distances out of range in gray. Turning it on can accelerate "
+"signed distances computation."
+msgstr ""
+"範囲外の距離をグレーで描画するかどうか。有効にすると符号付き距離の計算が速く"
+"なる場合があります。"
+
+msgid "Gray Projections on Boundary"
+msgstr "境界上の投影をグレーで表示"
+
+msgid "Gray vertices projecting on reference mesh boundary."
+msgstr "参照メッシュ境界に投影する頂点をグレーで表示します。"
+
+msgid "Limit from Standard Deviation"
+msgstr "標準偏差からの制限"
+
+msgid "Available only for disabled \"Zero to Green\" mode"
+msgstr "「ゼロを緑に設定」モードが無効の場合のみ使用可能です"
+
+msgid ""
+"If enabled - set automatic limits as signed average +/- 3 * standard "
+"deviation.\n"
+"if disabled - set automatic limits from min/max values."
+msgstr ""
+"有効時: 自動上下限を符号付き平均 +/- 3 * 標準偏差に設定。\n"
+"無効時: 最小/最大値から自動上下限を設定。"
+
+msgid "Compute Distances Time"
+msgstr "距離計算時間"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "The time spent on last computation of all distances"
+msgstr "すべての距離の最後の計算に費やした時間"
+
+msgid "DistanceCompare: Error saving statistics in CSV file"
+msgstr "距離比較: CSVファイルへの統計保存エラー"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Show the nearest point and point the camera to it"
+msgstr "最近傍点を表示してカメラをその点に向ける"
+
+msgid "Cannot show nearest point because its further than palette maximum"
+msgstr "最近傍点がパレットの最大値より遠いため表示できません"
+
+msgid "Show the furthest point and point the camera to it"
+msgstr "最遠点を表示してカメラをその点に向ける"
+
+msgid "Cannot show furthest point because its further than palette maximum"
+msgstr "最遠点がパレットの最大値より遠いため表示できません"
+
+msgid "Save report to PDF"
+msgstr "レポートをPDFに保存"
+
+msgid "Save this statistics to a PDF file"
+msgstr "この統計をPDFファイルに保存します"
+
+msgid "Line Width"
+msgstr "線幅"
+
+msgid "Point Size"
+msgstr "ポイントサイズ"
+
+msgid "Topology is consistently oriented."
+msgstr "トポロジーは一貫して向きが揃っています。"
+
+msgid "Topology is not consistently oriented."
+msgstr "トポロジーの向きが一貫していません。"
+
+msgid "Mode: "
+msgstr "モード: "
+
+msgid "Vert"
+msgstr "頂点"
+
+msgid "Edge"
+msgstr "エッジ"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Edges Labels"
+msgstr "エッジラベル"
+
+msgid "Neighbor Labels"
+msgstr "隣接ラベル"
+
+msgid "Point's X"
+msgstr "ポイントX"
+
+msgid "Point's Y"
+msgstr "ポイントY"
+
+msgid "Point's Z"
+msgstr "ポイントZ"
+
+msgid "Polyline Point's XYZ"
+msgstr "ポリラインポイントXYZ"
+
+msgid "Edges"
+msgstr "エッジ"
+
+msgid "Vert labels"
+msgstr "頂点ラベル"
+
+msgid "Neighbor labels"
+msgstr "隣接ラベル"
+
+msgid "Next / Prev"
+msgstr "次 / 前"
+
+msgid "Sym"
+msgstr "対称"
+
+msgid "VertId: "
+msgstr "頂点ID: "
+
+msgid "Next / Prev: "
+msgstr "次 / 前: "
+
+msgid "Sym: "
+msgstr "対称: "
+
+msgid "Mesh"
+msgstr "メッシュ"
+
+msgid "Show Selected Item"
+msgstr "選択アイテムを表示"
+
+msgid "Show Triangle Labels"
+msgstr "三角形ラベルを表示"
+
+msgid "Show Edge Labels"
+msgstr "エッジラベルを表示"
+
+msgid "Show Vert Labels"
+msgstr "頂点ラベルを表示"
+
+msgid "Show Neighbor Labels"
+msgstr "隣接ラベルを表示"
+
+msgid "Tri. Mode"
+msgstr "三角形モード"
+
+msgid "Edge Mode"
+msgstr "エッジモード"
+
+msgid "Vert Mode"
+msgstr "頂点モード"
+
+msgid "Next Origin Edge"
+msgstr "次の起点エッジ"
+
+msgid "Prev. Origin Edge"
+msgstr "前の起点エッジ"
+
+msgid "Sym. Edge"
+msgstr "対称エッジ"
+
+msgid "Next Boundary Edge"
+msgstr "次の境界エッジ"
+
+msgid "Prev. Boundary Edge"
+msgstr "前の境界エッジ"
+
+msgid "Show detailed information about mesh and it's primitives."
+msgstr "メッシュとそのプリミティブに関する詳細情報を表示します。"
+
+msgid "Vertex Id"
+msgstr "頂点ID"
+
+msgid "Edge Id"
+msgstr "エッジID"
+
+msgid "Length"
+msgstr "長さ"
+
+#, c++-format
+msgid "{} degrees"
+msgstr "{} 度"
+
+msgid "Dihedral angle"
+msgstr "二面角"
+
+msgid "Cotan weight"
+msgstr "コタンジェント重み"
+
+msgid "Tri. Id"
+msgstr "三角形ID"
+
+msgid "Area"
+msgstr "面積"
+
+msgid "Circum-Radius"
+msgstr "外接円半径"
+
+msgid "Aspect Ratio"
+msgstr "アスペクト比"
+
+msgid "Texture ID"
+msgstr "テクスチャID"
+
+msgid "Clip object to get cross section"
+msgstr "断面を取得するためにオブジェクトをクリップ"
+
+msgid "At least one objects should be in scene"
+msgstr "シーンに少なくとも1つのオブジェクトが必要です"
+
+msgid "Clip Objects"
+msgstr "オブジェクトをクリップ"
+
+msgid "Recolor Objects"
+msgstr "オブジェクトを再着色"
+
+msgid "Animation"
+msgstr "アニメーション"
+
+msgid "Shifts section plane to its lowest extreme"
+msgstr "断面平面を最下端に移動"
+
+msgid "Stops section plane movement"
+msgstr "断面平面の移動を停止"
+
+msgid "Starts section plane movement"
+msgstr "断面平面の移動を開始"
+
+msgid "Shifts section plane to its largest extreme"
+msgstr "断面平面を最上端に移動"
+
+msgid "Auto Repeat"
+msgstr "自動繰り返し"
+
+msgid ""
+"As soon as section plane reaches its largest extreme, restarts the movement "
+"from its lowest extreme"
+msgstr "断面平面が最上端に到達すると、最下端から移動を再開します"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid ""
+"The speed of section movement in length units per second. The sign of this "
+"value specifies the direction of movement."
+msgstr "断面移動の速度（長さ単位/秒）。この値の符号が移動方向を指定します。"
+
+msgid "Section Window"
+msgstr "断面ウィンドウ"
+
+msgid "Whether to show additional Section Window"
+msgstr "追加の断面ウィンドウを表示するかどうか"
+
+msgid "Recolored"
+msgstr "再着色済み"
+
+msgid "Give individual colors to objects in Section Window"
+msgstr "断面ウィンドウのオブジェクトに個別の色を設定"
+
+msgid "Auto Fit"
+msgstr "自動フィット"
+
+msgid ""
+"Whether to automatically zoom and pan Section Window to fit current sections"
+msgstr "現在の断面に合わせて断面ウィンドウを自動的にズーム・パンするかどうか"
+
+msgid "Clear Distance"
+msgstr "距離をクリア"
+
+msgid "Remove points with distance measurement from Section Window"
+msgstr "距離計測のポイントを断面ウィンドウから削除"
+
+msgid "Reset View"
+msgstr "ビューをリセット"
+
+msgid "Mouse Controls"
+msgstr "マウス操作"
+
+msgid "Move"
+msgstr "移動"
+
+msgid "Move section window"
+msgstr "断面ウィンドウを移動"
+
+msgid "Pick point on section window"
+msgstr "断面ウィンドウでポイントを選択"
+
+msgid "Move section inside section window"
+msgstr "断面ウィンドウ内で断面を移動"
+
+msgid "Zoom section inside section window"
+msgstr "断面ウィンドウ内で断面をズーム"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "One"
+msgstr "一つ"
+
+msgid "Many"
+msgstr "複数"
+
+msgid "Export the current section only."
+msgstr "現在の断面のみをエクスポートします。"
+
+msgid "Export several sections with fixed step between their planes."
+msgstr "平面間の固定ステップで複数の断面をエクスポートします。"
+
+msgid "Number of Sections"
+msgstr "断面数"
+
+msgid "Selects how many sections to export."
+msgstr "エクスポートする断面の数を選択します。"
+
+msgid "Create Section Object"
+msgstr "断面オブジェクトを作成"
+
+msgid "Sections Step"
+msgstr "断面ステップ"
+
+msgid "The step between two neighbor parallel sections"
+msgstr "隣接する平行断面間のステップ"
+
+msgid "Create Sections with Step"
+msgstr "ステップで断面を作成"
+
+msgid "Cut"
+msgstr "カット"
+
+msgid "Cut Objects"
+msgstr "オブジェクトをカット"
+
+msgid "Cannot change object because blocking plugin is active"
+msgstr "ブロッキングプラグインが有効なためオブジェクトを変更できません"
+
+msgid "There is no selected object to cut"
+msgstr "カットする選択オブジェクトがありません"
+
+msgid "Cut selected objects by the current section plane"
+msgstr "現在の断面平面で選択したオブジェクトをカットします"
+
+msgid "Fill Section"
+msgstr "セクションを埋める"
+
+msgid "Fill sections of cut objects with new triangles"
+msgstr "カットしたオブジェクトの断面を新しい三角形で埋めます"
+
+msgid "Keep Both Sides"
+msgstr "両側を保持"
+
+msgid "Selection here makes two objects from each original object"
+msgstr "選択すると、各元のオブジェクトから2つのオブジェクトを作成します"
+
+msgid "Cut PointCloud"
+msgstr "点群をカット"
+
+msgid "Cut with plane"
+msgstr "平面でカット"
+
+msgid "Add other part"
+msgstr "他のパーツを追加"
+
+#, c++-format
+msgid "Has {} empty object"
+msgid_plural "Has {} empty objects"
+msgstr[0] "{} 個の空のオブジェクトがあります"
+
+msgid "Invalid ids will not be visualized"
+msgstr "無効なIDは表示されません"
+
+msgid "Pseudo Mode"
+msgstr "擬似モード"
+
+msgid "Face"
+msgstr "面"
+
+msgid "Pseudo normals"
+msgstr "擬似法線"
+
+msgid "Show all"
+msgstr "すべて表示"
+
+msgid "Show neighbors"
+msgstr "隣接を表示"
+
+msgid "Point cloud should have normals"
+msgstr "点群には法線が必要です"
+
+msgid "Curvature mode: "
+msgstr "曲率モード: "
+
+msgid "Mean"
+msgstr "平均"
+
+msgid "Gaussian"
+msgstr "ガウシアン"
+
+msgid "Recalculate Ranges"
+msgstr "範囲を再計算"
+
+msgid ""
+"Scale of palette is logarithmic, shifted to zero.\n"
+"So zero curvature is equals zero on palette.\n"
+msgstr ""
+"パレットのスケールは対数で、ゼロにシフトされています。\n"
+"したがって、曲率ゼロはパレット上でゼロに相当します。\n"
+
+msgid "Move Objects to Global Zero"
+msgstr "オブジェクトをグローバル原点に移動"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Plane"
+msgstr "平面"
+
+msgid "Vector"
+msgstr "ベクトル"
+
+msgid "Point"
+msgstr "ポイント"
+
+msgid "Select Pick Mode"
+msgstr "ピックモードを選択"
+
+msgid ""
+"Click on object or feature to move it to global zero and orient objects "
+"along picked normal"
+msgstr ""
+"オブジェクトまたはフィーチャーをクリックして、グローバル原点に移動し、ピック"
+"した法線に沿ってオブジェクトを向けます"
+
+msgid "X"
+msgstr "X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Flip"
+msgstr "反転"
+
+msgid "Flip to Base Plane"
+msgstr "基準平面へ反転"
+
+msgid "Align to Base Plane"
+msgstr "基準平面に整列"
+
+msgid "Show Common Box"
+msgstr "共通ボックスを表示"
+
+msgid ""
+"Whether to show one box containing all active objects or a number of "
+"individual boxes, one per object"
+msgstr ""
+"すべてのアクティブオブジェクトを含む1つのボックスを表示するか、オブジェクトご"
+"とに個別のボックスを表示するかを選択します"
+
+msgid "Interactive"
+msgstr "インタラクティブ"
+
+msgid "Use Parameters"
+msgstr "パラメーターを使用"
+
+msgid "Objects"
+msgstr "オブジェクト"
+
+msgid "Primitives"
+msgstr "プリミティブ"
+
+msgid "Points"
+msgstr "ポイント"
+
+msgid "Segments"
+msgstr "セグメント"
+
+msgid "Labels"
+msgstr "ラベル"
+
+msgid "Add Cube"
+msgstr "立方体を追加"
+
+msgid "Add Cylinder"
+msgstr "円柱を追加"
+
+msgid "Add Sphere"
+msgstr "球を追加"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Diameter"
+msgstr "直径"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid ""
+"Click in the viewport to set start point\n"
+"Drag to adjust size\n"
+"Release to confirm"
+msgstr ""
+"ビューポートでクリックして開始点を設定\n"
+"ドラッグしてサイズを調整\n"
+"離して確定"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Pivot point"
+msgstr "ピボットポイント"
+
+msgid ""
+"Parameter of relative text box to text position point\n"
+"[0, 0] - text position point is left-down corner of text box\n"
+"[1, 1] - text position point is right - up corner\n"
+msgstr ""
+"テキストボックスのテキスト位置ポイントに対する相対パラメーター\n"
+"[0, 0] - テキスト位置ポイントはテキストボックスの左下角\n"
+"[1, 1] - テキスト位置ポイントは右上角\n"
+
+msgid "Show Preview"
+msgstr "プレビューを表示"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Click to attach label to mesh in click position"
+msgstr "クリックしてクリック位置のメッシュにラベルを付加します"
+
+#, c-format
+msgid "%s + Click on object to get point position under cursor"
+msgstr "%s + オブジェクトをクリックしてカーソル下のポイント位置を取得"
+
+msgid "Add label"
+msgstr "ラベルを追加"
+
+msgid "Save to Object"
+msgstr "オブジェクトに保存"
+
+msgid "Coordinates"
+msgstr "座標"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Clear All"
+msgstr "すべてクリア"
+
+msgid "Convert To Segment"
+msgstr "セグメントに変換"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Convert"
+msgstr "変換"
+
+msgid "Add Point Cloud"
+msgstr "点群を追加"
+
+msgid "Convert to Points"
+msgstr "ポイントに変換"
+
+msgid "Set Method"
+msgstr "メソッドを設定"
+
+msgid "Destination"
+msgstr "宛先"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Origin"
+msgstr "原点"
+
+msgid "Add Lines"
+msgstr "ラインを追加"
+
+msgid "Add Parallelepiped"
+msgstr "平行六面体を追加"
+
+msgid "Add Torus"
+msgstr "トーラスを追加"
+
+msgid "Add Arrow"
+msgstr "矢印を追加"
+
+msgid "Add Prism"
+msgstr "角柱を追加"
+
+msgid "Add Cube feature"
+msgstr "立方体フィーチャーを追加"
+
+msgid "Add Parallelepiped feature"
+msgstr "平行六面体フィーチャーを追加"
+
+msgid "Add Cylinder feature"
+msgstr "円柱フィーチャーを追加"
+
+msgid "Add Sphere feature"
+msgstr "球フィーチャーを追加"
+
+msgid "Add Torus feature"
+msgstr "トーラスフィーチャーを追加"
+
+msgid "Add Arrow feature"
+msgstr "矢印フィーチャーを追加"
+
+msgid "Add Prism feature"
+msgstr "角柱フィーチャーを追加"
+
+msgid "Parallelepiped"
+msgstr "平行六面体"
+
+msgid "Center"
+msgstr "中心"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Add Feature Object"
+msgstr "フィーチャーオブジェクトを追加"
+
+msgid "Edge #0"
+msgstr "エッジ #0"
+
+msgid "Edge #1"
+msgstr "エッジ #1"
+
+msgid "Edge #2"
+msgstr "エッジ #2"
+
+msgid "Diameter 0"
+msgstr "直径 0"
+
+msgid "Diameter 1"
+msgstr "直径 1"
+
+msgid "Start Angle"
+msgstr "開始角度"
+
+msgid "Arc Size"
+msgstr "円弧サイズ"
+
+msgid "UV Sphere"
+msgstr "UV 球"
+
+msgid "Horizontal Resolution"
+msgstr "水平解像度"
+
+msgid "Vertical Resolution"
+msgstr "垂直解像度"
+
+msgid "Number of Vertices"
+msgstr "頂点数"
+
+msgid "Primary Radius"
+msgstr "主半径"
+
+msgid "Secondary Radius"
+msgstr "副半径"
+
+msgid "Primary Resolution"
+msgstr "主解像度"
+
+msgid "Secondary Resolution"
+msgstr "副解像度"
+
+msgid "Thickness"
+msgstr "厚さ"
+
+msgid "Cone Radius"
+msgstr "円錐半径"
+
+msgid "Cone Height"
+msgstr "円錐高さ"
+
+msgid "Base Length"
+msgstr "底辺の長さ"
+
+msgid "Left Angle"
+msgstr "左角度"
+
+msgid "Right Angle"
+msgstr "右角度"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "Bounding Box Type"
+msgstr "バウンディングボックスタイプ"
+
+msgid "Bounding Box"
+msgstr "バウンディングボックス"
+
+msgid "Local Basis Type"
+msgstr "ローカル基底タイプ"
+
+msgid "Local Basis"
+msgstr "ローカル基準"
+
+msgid "Normals"
+msgstr "法線"
+
+msgid "Measuring angle between:"
+msgstr "角度を計測中:"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset Angle Target"
+msgstr "角度ターゲットをリセット"
+
+msgid "Angle:"
+msgstr "角度:"
+
+msgid "Switch to Adjacent Angle"
+msgstr "隣接角度に切り替え"
+
+#, c++-format
+msgid "Point {}:"
+msgstr "ポイント {}:"
+
+msgid "Add to Scene"
+msgstr "シーンに追加"
+
+msgid ""
+"If enabled - each finalized measurement will be added to scene,\n"
+"otherwise each new measurement will replace existing one"
+msgstr ""
+"有効にすると、確定した各計測値がシーンに追加されます。\n"
+"無効の場合、新しい計測値が既存のものを置き換えます"
+
+msgid "Snap to edge"
+msgstr "エッジにスナップ"
+
+msgid "Subfeatures"
+msgstr "サブフィーチャー"
+
+msgid "Change Angle Feature"
+msgstr "角度フィーチャーを変更"
+
+msgid "Select at least one object to show subfeatures."
+msgstr ""
+"サブフィーチャーを表示するには少なくとも1つのオブジェクトを選択してください。"
+
+msgid "Those objects don't have subfeatures."
+msgstr "これらのオブジェクトにはサブフィーチャーがありません。"
+
+msgid "Select Angle Target from Subfeature"
+msgstr "サブフィーチャーから角度ターゲットを選択"
+
+msgid "Select Angle Target from Tag"
+msgstr "タグから角度ターゲットを選択"
+
+msgid "Measure Angle"
+msgstr "角度を計測"
+
+msgid "Remove Current Angle Measurement"
+msgstr "現在の角度計測を削除"
+
+msgid "Copy Angle Measurement To Scene"
+msgstr "角度計測をシーンにコピー"
+
+msgid "X distance"
+msgstr "X 距離"
+
+msgid "Y distance"
+msgstr "Y 距離"
+
+msgid "Z distance"
+msgstr "Z 距離"
+
+msgid "3D distance"
+msgstr "3D 距離"
+
+msgid "Point 2:"
+msgstr "ポイント 2:"
+
+msgid "Point 1:"
+msgstr "ポイント 1:"
+
+msgid "Nominal & Tolerance"
+msgstr "公称値と許容差"
+
+msgid "Perform a distance measurement first."
+msgstr "まず距離計測を行ってください。"
+
+msgid "Nominal distance"
+msgstr "公称距離"
+
+msgid "No reference model, unable to guess values."
+msgstr "参照モデルがないため、値を推測できません。"
+
+msgid "Change Distance Feature"
+msgstr "距離フィーチャーを変更"
+
+msgid "Advanced settings"
+msgstr "詳細設定"
+
+msgid "Mode:"
+msgstr "モード:"
+
+msgid "Simple"
+msgstr "シンプル"
+
+msgid "Measure distance between object centers or centeral axes."
+msgstr "オブジェクトの中心または中心軸間の距離を計測します。"
+
+msgid "Exact (separation distance)"
+msgstr "正確（分離距離）"
+
+msgid ""
+"Measure exact separation distance. Not all combinations of features are "
+"supported."
+msgstr ""
+"正確な分離距離を計測します。すべてのフィーチャーの組み合わせに対応しているわ"
+"けではありません。"
+
+msgid "Change Measure Distance Mode"
+msgstr "距離計測モードを変更"
+
+msgid "New Measurement"
+msgstr "新しい計測"
+
+msgid "Reset Measure Distance Target"
+msgstr "距離計測ターゲットをリセット"
+
+msgid "Select Distance Target from Subfeature"
+msgstr "サブフィーチャーから距離ターゲットを選択"
+
+msgid "Select Distance Target from Tag"
+msgstr "タグから距離ターゲットを選択"
+
+msgid "Measure Distance"
+msgstr "距離を計測"
+
+msgid "Remove Current Distance Measurement"
+msgstr "現在の距離計測を削除"
+
+msgid "Copy Distance Measurement To Scene"
+msgstr "距離計測をシーンにコピー"
+
+msgid "Point:"
+msgstr "ポイント:"
+
+msgid "Perform a point measurement first."
+msgstr "まずポイント計測を行ってください。"
+
+msgid "Nominal position"
+msgstr "公称位置"
+
+msgid "Experimental"
+msgstr "試験的"
+
+msgid "Show Nominal Position on Scene"
+msgstr "シーンに公称位置を表示"
+
+msgid "Measure Points: New measurement"
+msgstr "ポイント測定: 新規測定"
+
+msgid "Measure Points: Reset"
+msgstr "ポイント測定: リセット"
+
+msgid "Measure Points: Pick new point"
+msgstr "ポイント測定: 新規ポイント選択"
+
+msgid "Add point measurement"
+msgstr "ポイント計測を追加"
+
+msgid "Transform Control Widget"
+msgstr "変換コントロールウィジェット"
+
+msgid "Transform Object by Widget"
+msgstr "ウィジェットでオブジェクトを変換"
+
+#, c-format
+msgid "Hold %s for scaling along selected axis"
+msgstr "%s を押しながら選択した軸に沿ってスケーリング"
+
+#, c-format
+msgid "Hold %s+Shift for uniform scaling"
+msgstr "%s+Shift を押しながら均一スケーリング"
+
+msgid "Scaling mode is unavailable when controls are detached"
+msgstr "コントロールが切り離されているとき、スケーリングモードは使用できません"
+
+msgid "Control Settings"
+msgstr "コントロール設定"
+
+msgid "Fixed Size in Pixel"
+msgstr "ピクセル固定サイズ"
+
+msgid "Set widget size values in pixels"
+msgstr "ウィジェットのサイズをピクセルで設定"
+
+msgid "Radius of widget controls in pixels"
+msgstr "ウィジェットコントロールの半径（ピクセル）"
+
+msgid "Controls Width"
+msgstr "コントロール幅"
+
+msgid "Width of widget controls in pixels"
+msgstr "ウィジェットコントロールの幅（ピクセル）"
+
+msgid "Radius of widget controls before scaling"
+msgstr "スケーリング前のウィジェットコントロールの半径"
+
+msgid "Width of widget controls before scaling"
+msgstr "スケーリング前のウィジェットコントロールの幅"
+
+msgid "Detach controls"
+msgstr "コントロールを切り離す"
+
+msgid "Reset controls"
+msgstr "コントロールをリセット"
+
+msgid "Fit on mouse up"
+msgstr "マウスを離したときにフィット"
+
+msgid "Dot threshold"
+msgstr "ドット閾値"
+
+msgid "Scale"
+msgstr "スケール"
+
+msgid "x1000"
+msgstr "x1000"
+
+msgid "x100"
+msgstr "x100"
+
+msgid "x10"
+msgstr "x10"
+
+msgid "x0.001"
+msgstr "x0.001"
+
+msgid "x0.01"
+msgstr "x0.01"
+
+msgid "x0.1"
+msgstr "x0.1"
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr "オブジェクト参照フレームの原点とX、Y、Z軸を表示します。"
+
+msgid "Load"
+msgstr "読み込み"
+
+msgid "Load settings from file and apply it."
+msgstr "ファイルから設定を読み込んで適用します。"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save settings to file."
+msgstr "設定をファイルに保存します。"
+
+msgid "Active Rotation Axes"
+msgstr "アクティブな回転軸"
+
+msgid "Axis A"
+msgstr "A 軸"
+
+msgid "Axis B"
+msgstr "B 軸"
+
+msgid "Axis C"
+msgstr "C 軸"
+
+msgid "Axes Order"
+msgstr "軸の順序"
+
+msgid "Drag and drop to change order."
+msgstr "ドラッグ＆ドロップで順序を変更します。"
+
+msgid "Axes Settings"
+msgstr "軸設定"
+
+msgid "Feedrate Idle"
+msgstr "送り速度（アイドル）"
+
+msgid "Valid range [0, 100000]."
+msgstr "有効範囲 [0, 100000]。"
+
+msgid ""
+"0 - feedrate idle set as maximum feedrate on any action, or 100 if it isn't "
+"set"
+msgstr ""
+"0 - アイドル送り速度を任意のアクションの最大送り速度に設定、設定されていない"
+"場合は 100"
+
+msgid "Home Position"
+msgstr "ホーム位置"
+
+msgid "Reset Changes"
+msgstr "変更をリセット"
+
+msgid "Set Default"
+msgstr "デフォルトに設定"
+
+msgid "Reset settings to default values and apply it."
+msgstr "設定をデフォルト値にリセットして適用します。"
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error parsing file."
+msgstr ""
+"CNCマシン設定:\n"
+"ファイルの解析エラー。"
+
+msgid ""
+"CNC Machine Settings:\n"
+"Error loading settings from file"
+msgstr ""
+"CNCマシン設定:\n"
+"ファイルから設定を読み込む際のエラー"
+
+msgid "Save Idle Movement"
+msgstr "アイドル動作を保存"
+
+msgid "G-code to Lines"
+msgstr "G コードをラインに変換"
+
+msgid "Fit selected"
+msgstr "選択に合わせる"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid ""
+"Visualize selected segment as mesh object.\n"
+"Usefull in web app."
+msgstr ""
+"選択したセグメントをメッシュオブジェクトとして可視化します。\n"
+"ウェブアプリで便利です。"
+
+msgid "Work Color"
+msgstr "作業色"
+
+msgid "Selected Color"
+msgstr "選択色"
+
+msgid "Highlighted Color"
+msgstr "ハイライト色"
+
+msgid "Feedrate as Gradient"
+msgstr "送り速度をグラデーションで表示"
+
+msgid "Search Closest by Screen"
+msgstr "画面で最近傍を検索"
+
+msgid "Accuracy"
+msgstr "精度"
+
+msgid "Show Error"
+msgstr "エラーを表示"
+
+msgid "Tool Animation"
+msgstr "ツールアニメーション"
+
+msgid "Show tool"
+msgstr "ツールを表示"
+
+msgid "Input Time"
+msgstr "入力時間"
+
+msgid "Formated Time"
+msgstr "フォーマット済み時間"
+
+msgid "Play speed"
+msgstr "再生速度"
+
+msgid "Play"
+msgstr "再生"
+
+msgid "Nothing to play from this point."
+msgstr "この地点から再生するものはありません。"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Milling Simulation"
+msgstr "切削シミュレーション"
+
+msgid "Work Piece Settings"
+msgstr "ワーク設定"
+
+msgid "Visible Preview Work Piece"
+msgstr "ワークのプレビューを表示"
+
+msgid "Work Piece Size"
+msgstr "ワークサイズ"
+
+msgid "Work Piece Pos"
+msgstr "ワーク位置"
+
+msgid "Milling Settings"
+msgstr "切削設定"
+
+msgid "Voxel Size"
+msgstr "ボクセルサイズ"
+
+msgid "Movement Step"
+msgstr "移動ステップ"
+
+msgid "Colorize Milled"
+msgstr "切削箇所を色付け"
+
+msgid "Mill All"
+msgstr "すべて切削"
+
+msgid "Mill to Selected"
+msgstr "選択位置まで切削"
+
+msgid "Milling History"
+msgstr "切削履歴"
+
+msgid "Activate Milling History"
+msgstr "切削履歴を有効化"
+
+msgid "Re-calc Milling History"
+msgstr "切削履歴を再計算"
+
+msgid "Show Milling History"
+msgstr "切削履歴を表示"
+
+msgid "Real-Time (Volume Render)"
+msgstr "リアルタイム（ボリュームレンダリング）"
+
+msgid "Auto Update Milling Progress"
+msgstr "切削進捗を自動更新"
+
+msgid "Export Milling History"
+msgstr "切削履歴をエクスポート"
+
+msgid "Add Milling Result"
+msgstr "切削結果を追加"
+
+msgid "Operation canceled."
+msgstr "操作がキャンセルされました。"
+
+msgid "Error convertation grid to mesh."
+msgstr "グリッドからメッシュへの変換エラー。"
+
+msgid "Add milling result"
+msgstr "切削結果を追加"
+
+msgid "Toolpath"
+msgstr "ツールパス"
+
+msgid "Tolerance"
+msgstr "許容値"
+
+msgid "Tool"
+msgstr "ツール"
+
+msgid "Show Toolpath Basis"
+msgstr "ツールパス基準を表示"
+
+msgid "Mesh-based computation"
+msgstr "メッシュベースの計算"
+
+msgid "Distance volume-based computation"
+msgstr "距離ボリュームベースの計算"
+
+msgid "Method"
+msgstr "メソッド"
+
+msgid "Compute"
+msgstr "計算"
+
+msgid "Failed to compute swept volume"
+msgstr "スウェプトボリュームの計算に失敗しました"
+
+msgid "Swept volume"
+msgstr "スウェプトボリューム"
+
+msgid "Add swept volume"
+msgstr "スウェプトボリュームを追加"
+
+msgid "Simplify"
+msgstr "簡略化"
+
+msgid "Target Triangles"
+msgstr "目標三角形数"
+
+msgid ""
+"Simplification stops after reaching desired number of triangles (or earlier "
+"if mesh quality does not allow so small number)"
+msgstr ""
+"目標三角形数に達すると簡略化を停止します（メッシュ品質によりそれより早く停止"
+"する場合があります）"
+
+msgid ""
+"Simplification stops just before shape error (or the shortest edge length) "
+"becomes more than allowed value"
+msgstr "形状誤差（または最短エッジ長）が許容値を超える直前に簡略化を停止します"
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original mesh is more than this value"
+msgstr ""
+"元のメッシュからの推定距離偏差がこの値を超えるとすぐに間引きを停止します"
+
+msgid "Shortest Edge Length"
+msgstr "最短エッジ長"
+
+msgid ""
+"Stop the decimation as soon as the shortest edge in the mesh is greater than "
+"this value"
+msgstr "メッシュの最短エッジがこの値より大きくなるとすぐに間引きを停止します"
+
+msgid "The minimum number of triangles (in selected region) after decimation"
+msgstr "間引き後の最小三角形数（選択領域内）"
+
+msgid "Percentage"
+msgstr "パーセンテージ"
+
+msgid "The percentage of triangles (in selected region) after decimation"
+msgstr "間引き後の三角形の割合（選択領域内）"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid ""
+"Changing parameters will lead to update mesh in real-time, may freeze for "
+"heavy operations."
+msgstr ""
+"パラメーターを変更するとリアルタイムでメッシュが更新されます。重い処理の場合"
+"フリーズする可能性があります。"
+
+msgid "Minimal Error First"
+msgstr "最小誤差優先"
+
+msgid "Shortest Edge First"
+msgstr "最短エッジ優先"
+
+msgid ""
+"The next edge to collapse will be the one that introduced minimal error to "
+"the surface"
+msgstr "次に折り畳むエッジは、サーフェスへの誤差が最小となるものになります"
+
+msgid "The next edge to collapse will be the shortest one"
+msgstr "次に折り畳むエッジは最短のものになります"
+
+msgid "Strategy"
+msgstr "ストラテジー"
+
+msgid "Defines the order of edge collapses during decimation"
+msgstr "間引き中のエッジ折り畳みの順序を定義します"
+
+msgid "Longest Edge Length"
+msgstr "最長エッジ長"
+
+msgid "Maximal possible edge length created during decimation"
+msgstr "間引き中に生成される可能性がある最大エッジ長"
+
+msgid "Max Triangle Aspect Ratio"
+msgstr "最大三角形アスペクト比"
+
+msgid ""
+"Maximal possible aspect ratio of a triangle introduced during decimation"
+msgstr "間引き中に導入される三角形の最大アスペクト比"
+
+msgid "Stabilizer"
+msgstr "安定化係数"
+
+msgid ""
+"Small stabilizer is important to achieve good results on completely planar "
+"mesh parts, if your mesh is not-planer everywhere, then you can set it to "
+"zero"
+msgstr ""
+"完全に平面なメッシュ部分で良好な結果を得るには小さな安定化係数が重要です。"
+"メッシュが全体的に平面でない場合はゼロに設定できます"
+
+msgid "Touch Near Boundary Edges"
+msgstr "境界付近のエッジに触れる"
+
+msgid ""
+"Whether to allow collapsing edges having at least one vertex on (region) "
+"boundary"
+msgstr ""
+"（領域）境界上に少なくとも1つの頂点を持つエッジの折り畳みを許可するかどうか"
+
+msgid "Optimize Vertex Positions"
+msgstr "頂点位置を最適化"
+
+msgid ""
+"If selected then after each edge collapse the position of remaining vertex "
+"is optimized to minimize local shape change, if not selected then the edge "
+"is collapsed in one of its vertices, which keeps its position"
+msgstr ""
+"選択すると、各エッジ折り畳み後に残存頂点の位置を最適化してローカル形状変化を"
+"最小化します。選択しない場合、エッジはその頂点の一方で折り畳まれ、位置が維持"
+"されます"
+
+msgid "Angle-based Weights"
+msgstr "角度ベースの重み"
+
+msgid ""
+"If unselected, then quadratic error metric is equal to the sum of distances "
+"to the planes of original mesh triangles.\n"
+"If selected, then the sum is weighted, and the weight is equal to the angle "
+"of adjacent triangle at the vertex divided on PI (to get one after summing "
+"all 3 vertices of the triangle)."
+msgstr ""
+"選択しない場合、二次誤差メトリクスは元のメッシュ三角形の平面への距離の合計に"
+"なります。\n"
+"選択すると合計が重み付けされ、重みは頂点における隣接三角形の角度をPIで割った"
+"値になります（三角形の3頂点すべてを合計して1を得るため）。"
+
+msgid "Pack Mesh"
+msgstr "メッシュをパック"
+
+msgid ""
+"Whether to remove unused vertices/edges/triangles from mesh at the end of "
+"the process"
+msgstr "処理終了時にメッシュの未使用の頂点/エッジ/三角形を削除するかどうか"
+
+msgid "Parallel Algorithm"
+msgstr "並列アルゴリズム"
+
+msgid ""
+"Whether to select parallel (faster) or sequential (more precise) algorithms"
+msgstr "並列（高速）または順次（より精密）アルゴリズムを選択するかどうか"
+
+msgid "Subdivide Parts"
+msgstr "分割パーツ"
+
+msgid "The number of parts to split the mesh to process them in parallel"
+msgstr "並列処理するためにメッシュを分割するパーツ数"
+
+msgid ""
+"The number of parts to split the mesh to process them in parallel. Larger "
+"numbers here typically improve processing speed, but decrease mesh uniformity"
+msgstr ""
+"並列処理するためにメッシュを分割するパーツ数。大きい数値は通常処理速度を向上"
+"しますが、メッシュの均一性が低下します"
+
+msgid "Max error"
+msgstr "最大誤差"
+
+msgid ""
+"Stop the decimation as soon as the estimated distance deviation from the "
+"original line is more than this value"
+msgstr "元のラインからの推定距離偏差がこの値を超えるとすぐに間引きを停止します"
+
+msgid "Target edges"
+msgstr "目標エッジ数"
+
+msgid "The minimum number of edges after decimation"
+msgstr "間引き後の最小エッジ数"
+
+msgid ""
+"Stabilizer is dimensionless coefficient. The larger is stabilizer, the more "
+"Decimator will strive to retain the density of input points. If stabilizer "
+"is zero, then only the shape of input line will be preserved, but some "
+"artifacts on absolutely linear paths can be seen."
+msgstr ""
+"安定化係数は無次元係数です。安定化係数が大きいほど、間引きツールは入力ポイン"
+"トの密度を保持しようとします。安定化係数がゼロの場合、入力ラインの形状のみが"
+"保持されますが、完全に直線のパスにアーティファクトが見える場合があります。"
+
+msgid "Longest edge length"
+msgstr "最長エッジ長"
+
+msgid "Optimize vertex positions"
+msgstr "頂点位置を最適化"
+
+msgid "Move boundary vertices"
+msgstr "境界頂点を移動"
+
+msgid ""
+"Whether to allow collapsing edges with at least one vertex on the end of not-"
+"closed polyline, otherwise boundary vertices are strictly fixed"
+msgstr ""
+"開いたポリラインの端に少なくとも1つの頂点を持つエッジの折り畳みを許可するかど"
+"うか。無効の場合、境界頂点は厳密に固定されます"
+
+msgid "Decimate lines"
+msgstr "ラインを間引き"
+
+msgid "Merge Max"
+msgstr "最大値でマージ"
+
+msgid "Add dist map to scene"
+msgstr "距離マップをシーンに追加"
+
+msgid "Merge Min"
+msgstr "最小値でマージ"
+
+msgid "Subtraction"
+msgstr "差分"
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr ""
+"2つの距離マップの最大値、最小値、または差分として距離マップを作成します。"
+
+msgid "Pixel Size"
+msgstr "ピクセルサイズ"
+
+msgid "Distance Threshold"
+msgstr "距離閾値"
+
+msgid "Get Lines Critical points"
+msgstr "ラインの臨界点を取得"
+
+msgid "DMap Size"
+msgstr "距離マップサイズ"
+
+msgid "Origin Point"
+msgstr "原点"
+
+msgid "With Sign"
+msgstr "符号付き"
+
+msgid "Per Edge offset"
+msgstr "エッジごとのオフセット"
+
+msgid "Shell offset"
+msgstr "シェルオフセット"
+
+msgid "Sign detection method"
+msgstr "符号検出メソッド"
+
+msgid "Contours orientation"
+msgstr "輪郭の向き"
+
+msgid "Recommended for oriented contours without self-intersections"
+msgstr "自己交差のない向き付き輪郭に推奨"
+
+msgid "Winding rule"
+msgstr "巻き数ルール"
+
+msgid ""
+"Recommended for non-oriented contours or for contours with self-intersections"
+msgstr "向き付きでない輪郭や自己交差のある輪郭に推奨"
+
+msgid "Resolution X"
+msgstr "X 解像度"
+
+msgid "Resolution Y"
+msgstr "Y 解像度"
+
+msgid "Compute Derivative Colored Mesh"
+msgstr "導関数カラーメッシュを計算"
+
+msgid "Use percentage"
+msgstr "パーセントを使用"
+
+msgid "Percent of higher value of 1st derivative points"
+msgstr "1次導関数ポイントの高い値のパーセント"
+
+msgid "Threshold for the 1st derivative"
+msgstr "1次導関数の閾値"
+
+msgid "Show 1st derivative points"
+msgstr "1次導関数ポイントを表示"
+
+msgid "Percent of higher value of 2nd derivative points"
+msgstr "2次導関数ポイントの高い値のパーセント"
+
+msgid "Threshold for 2nd derivative"
+msgstr "2次導関数の閾値"
+
+msgid "Show 2nd derivative points"
+msgstr "2次導関数ポイントを表示"
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr "選択したオブジェクトメッシュの距離マップに臨界点を表示します。"
+
+msgid "Threshold"
+msgstr "閾値"
+
+msgid "Load Image"
+msgstr "画像を読み込み"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Resolution:"
+msgstr "解像度:"
+
+msgid "Min value:"
+msgstr "最小値:"
+
+msgid "Max value:"
+msgstr "最大値:"
+
+msgid "Value Scale Multiplier"
+msgstr "値スケール乗数"
+
+msgid "Max Height"
+msgstr "最大高さ"
+
+msgid "Import as Mesh"
+msgstr "メッシュとしてインポート"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Error loading image: "
+msgstr "画像の読み込みエラー: "
+
+msgid "Error converting image: "
+msgstr "画像の変換エラー: "
+
+msgid "Load Mesh from Image"
+msgstr "画像からメッシュを読み込み"
+
+msgid "Load Distance Map from Image"
+msgstr "画像から距離マップを読み込み"
+
+msgid "IsoValue"
+msgstr "等値"
+
+msgid "Use Depth"
+msgstr "深度を使用"
+
+msgid "Create IsoLines"
+msgstr "等値線を作成"
+
+msgid "Y resolution"
+msgstr "Y 解像度"
+
+msgid "X resolution"
+msgstr "X 解像度"
+
+msgid "Mesh to Distance Map"
+msgstr "メッシュから距離マップに変換"
+
+msgid "Convert Distance Map to Mesh"
+msgstr "距離マップをメッシュに変換"
+
+msgid "Use NVIDIA GPU"
+msgstr "NVIDIA GPUを使用"
+
+msgid "Not enough GPU memory to use CUDA-capable NVIDIA GPU"
+msgstr "CUDAに対応したNVIDIA GPUを使用するためのGPUメモリが不足しています"
+
+msgid "Not enough GPU memory for some tasks to use CUDA-capable NVIDIA GPU"
+msgstr ""
+"一部のタスクでCUDAに対応したNVIDIA GPUを使用するためのGPUメモリが不足していま"
+"す"
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected vertices ({}) less than minimal ({}) "
+"for this feature type"
+msgstr ""
+"精密化できません。選択した頂点数 ({}) がこのフィーチャータイプの最小数 ({}) "
+"より少ないです"
+
+msgid "Unsupported reference object type"
+msgstr "サポートされていない参照オブジェクトタイプ"
+
+msgid "Add measurements holder"
+msgstr "計測ホルダーを追加"
+
+msgid "Pairs Forming Settings"
+msgstr "ペア形成設定"
+
+msgid "Register Whole Objects"
+msgstr "オブジェクト全体を位置合わせ"
+
+msgid ""
+"If selected then absolutely all point pairs between two objects will be "
+"considered during registration without filtering."
+msgstr ""
+"選択すると、レジストレーション時に2つのオブジェクト間のすべての点ペアがフィル"
+"タリングなしで考慮されます。"
+
+msgid "Normals Max Angle"
+msgstr "法線の最大角度"
+
+msgid ""
+"A points pair is used only if the angle between the normals at the points is "
+"not larger than this value."
+msgstr ""
+"ポイントの法線間の角度がこの値以下の場合にのみ、ポイントペアが使用されます。"
+
+msgid "Max Distance"
+msgstr "最大距離"
+
+msgid ""
+"A points pair is used only if the distance between two points is lower than "
+"this value."
+msgstr "2点間の距離がこの値未満の場合にのみ、ポイントペアが使用されます。"
+
+msgid "Far Distance Factor"
+msgstr "遠距離係数"
+
+msgid ""
+"Points pair will be counted only if distance between points is lower than "
+"root-mean-square distance times this factor."
+msgstr ""
+"ポイント間の距離が二乗平均平方根距離にこの係数を掛けた値より低い場合にのみ、"
+"ポイントペアがカウントされます。"
+
+msgid "Mutual Closest Points in Each Pair"
+msgstr "各ペアで互いに最近傍のポイント"
+
+msgid ""
+"A pair of points is formed only if both points in the pair are mutually "
+"closest (reciprocity test passed)."
+msgstr ""
+"ペアの両ポイントが互いに最近傍の場合にのみ（相互テスト合格）、ポイントペアが"
+"形成されます。"
+
+msgid "Sampling Spacing"
+msgstr "サンプリング間隔"
+
+msgid ""
+"This value determines sampling voxel size to select only one point in each "
+"voxel."
+msgstr ""
+"この値は、各ボクセル内で1つのポイントのみを選択するためのサンプリングボクセル"
+"サイズを決定します。"
+
+msgid "Sample Target"
+msgstr "サンプルターゲット"
+
+msgid "Select what object will be samples to form origins of point pairs."
+msgstr ""
+"ポイントペアの起点を形成するためにサンプリングするオブジェクトを選択します。"
+
+msgid "Combined"
+msgstr "組み合わせ"
+
+msgid "Point-to-Point"
+msgstr "点対点"
+
+msgid "Point-to-Plane"
+msgstr "点対平面"
+
+msgid "Select target function to minimize."
+msgstr "最小化するターゲット関数を選択します。"
+
+msgid "Transformation"
+msgstr "変換"
+
+msgid "Select what kind of transformations are searched for."
+msgstr "検索する変換の種類を選択します。"
+
+msgid "Fixed rotation axis"
+msgstr "固定回転軸"
+
+msgid "Allowed rotation axis"
+msgstr "許可された回転軸"
+
+msgid "Stop Conditions"
+msgstr "停止条件"
+
+msgid "Max Iterations"
+msgstr "最大反復回数"
+
+msgid "Maximal possible number of ICP iterations."
+msgstr "ICPの最大反復回数。"
+
+msgid "No Improvement Iterations"
+msgstr "改善なし反復回数"
+
+msgid ""
+"Stop ICP iterations if during given number of last iterations there was no "
+"improvement."
+msgstr "指定した回数の反復で改善がなければICP反復を停止します。"
+
+msgid "Deviation Reached"
+msgstr "到達偏差"
+
+msgid ""
+"Algorithm target root-mean-square distance. As soon as it is reached, the "
+"algorithm stops."
+msgstr ""
+"アルゴリズムの目標二乗平均平方根距離。到達するとアルゴリズムが停止します。"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Samples"
+msgstr "サンプル"
+
+msgid "Active point pairs"
+msgstr "アクティブなポイントペア"
+
+msgid "RMS point-to-point distance"
+msgstr "RMS 点対点距離"
+
+msgid "RMS point-to-plane distance"
+msgstr "RMS 点対平面距離"
+
+msgid "Approx. Density"
+msgstr "近似密度"
+
+msgid ""
+"Prediction of the ratio of the volume filled and the volume of the inner "
+"component of the mesh."
+msgstr ""
+"充填されたボリュームとメッシュの内部コンポーネントのボリュームの比率の予測。"
+
+msgid "Real Density"
+msgstr "実際の密度"
+
+msgid ""
+"Current ratio of the volume actually filled and the volume of the inner "
+"component of the mesh."
+msgstr ""
+"実際に充填されたボリュームとメッシュの内部コンポーネントのボリュームの現在の"
+"比率。"
+
+msgid "Components"
+msgstr "コンポーネント"
+
+msgid ""
+"Number of connected components. Large number here indicates that current "
+"configuration of filling might be incorrect."
+msgstr ""
+"連結コンポーネントの数。大きい数値は現在の充填設定が正しくない可能性を示しま"
+"す。"
+
+msgid "Number of voxels"
+msgstr "ボクセル数"
+
+msgid "Number of voxels that would be used to build TPMS"
+msgstr "TPMSを構築するために使用されるボクセル数"
+
+msgid "Surface type"
+msgstr "サーフェスタイプ"
+
+msgid "Type of the filling surface"
+msgstr "充填サーフェスのタイプ"
+
+msgid ""
+"Approximate density of the surface (ratio of filled and not filled volume)"
+msgstr "サーフェスの近似密度（充填ボリュームと未充填ボリュームの比率）"
+
+msgid "Interval"
+msgstr "間隔"
+
+msgid "Period of filling. Determines how often the elements are replicated."
+msgstr "充填の周期。要素の繰り返し頻度を決定します。"
+
+msgid "Quality Preset"
+msgstr "品質プリセット"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Standard"
+msgstr "標準"
+
+msgid "High"
+msgstr "高"
+
+msgid "Iso"
+msgstr "等値"
+
+msgid ""
+"ISO value used to construct the surface. Influences the volume (amount of "
+"material)."
+msgstr ""
+"サーフェスを構築するために使用されるISO値。ボリューム（材料量）に影響します。"
+
+msgid "Decimate"
+msgstr "間引き"
+
+msgid "Decimate resulting filling surface"
+msgstr "充填サーフェスの結果を間引き"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid ""
+"Quality of the filling. Determines the resolution of the approximation of "
+"the surface. Increasing this parameter always produces better quality at the "
+"cost of longer execution time."
+msgstr ""
+"充填の品質。サーフェス近似の解像度を決定します。このパラメーターを増加する"
+"と、実行時間が長くなる代わりに品質が向上します。"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Spheres"
+msgstr "球"
+
+msgid "Add spheres at the intersections of bars"
+msgstr "バーの交差点に球を追加"
+
+msgid "Sphere Radius"
+msgstr "球の半径"
+
+msgid "Kind"
+msgstr "種類"
+
+msgid "Select region on mesh to specify additional offset there."
+msgstr "追加オフセットを指定するメッシュ上の領域を選択します。"
+
+msgid "Regions"
+msgstr "領域"
+
+msgid "Additional Offset"
+msgstr "追加オフセット"
+
+msgid "This value will be added to global offset for selected region."
+msgstr "この値が選択領域のグローバルオフセットに追加されます。"
+
+msgid "Update Region"
+msgstr "領域を更新"
+
+msgid "Change Active Box UI"
+msgstr "アクティブボックスUIを変更"
+
+msgid "Sampling Points"
+msgstr "サンプリングポイント"
+
+msgid "Number of points to be sampled for every vertex"
+msgstr "各頂点のサンプリングポイント数"
+
+msgid "Polynomial Degree"
+msgstr "多項式次数"
+
+msgid "Degree of the polynomial used to fit the sampled points"
+msgstr "サンプリングポイントのフィッティングに使用する多項式の次数"
+
+msgid "Iterations"
+msgstr "反復回数"
+
+msgid "Number of iterations of the algorithm"
+msgstr "アルゴリズムの反復回数"
+
+msgid "Outlier threshold"
+msgstr "外れ値閾値"
+
+msgid ""
+"For each iteration, if target position of the vertex is greater than this "
+"threshold, it is disregarded. For small degrees, this value should be small, "
+"for large degrees it may be larger. Measured in number of voxels"
+msgstr ""
+"各反復で、頂点の目標位置がこの閾値より大きい場合は無視されます。小さい次数で"
+"はこの値を小さく、大きい次数では大きくできます。ボクセル数で測定します"
+
+msgid "Preparation smooth"
+msgstr "準備スムージング"
+
+msgid ""
+"Speed of the preparation smoothing, performed before the iterations. May be "
+"set to zero for meshes that are smooth enough initially."
+msgstr ""
+"反復前に実行される準備スムージングの速度。初期状態で十分滑らかなメッシュには"
+"ゼロに設定できます。"
+
+msgid "Intermediate smooth"
+msgstr "中間スムージング"
+
+msgid ""
+"Speed of the intermediate smoothing, performed on each iteration. Small "
+"values are generally not recommended."
+msgstr ""
+"各反復で実行される中間スムージングの速度。小さい値は一般的に推奨されません。"
+
+#, c++-format
+msgid "Subfeatures of {}:"
+msgstr "{} のサブフィーチャー:"
+
+#, c++-format
+msgid "[ Back to {} ]"
+msgstr "[ {} に戻る ]"
+
+msgid "Volume"
+msgstr "ボリューム"
+
+#, c++-format
+msgid ""
+"Model has {} hole. It is recommended to fix it before using Auto Rebuild."
+msgid_plural ""
+"Model has {} holes. It is recommended to fix them before using Auto Rebuild."
+msgstr[0] ""
+"モデルに {} 個の穴があります。自動リビルドを使用する前に修正することをお勧め"
+"します。"
+
+msgid "Ultra"
+msgstr "最高"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Convert feature to line"
+msgstr "フィーチャーをラインに変換"
+
+msgid "Max new vertices"
+msgstr "最大新規頂点数"
+
+msgid "Top limit on the number of edge splits and the number of new vertices"
+msgstr "エッジ分割数と新規頂点数の上限"
+
+msgid "Shortest split segment"
+msgstr "最短分割セグメント"
+
+msgid ""
+"Subdivision is stopped when all line segments are shorter than this value"
+msgstr "すべてのラインセグメントがこの値より短くなると細分化が停止します"
+
+msgid "Curvature-based"
+msgstr "曲率ベース"
+
+msgid ""
+"This option works best for natural lines, where all segments have similar "
+"size, and no sharp angles in between"
+msgstr ""
+"このオプションは、すべてのセグメントが似たようなサイズで急角度がない自然なラ"
+"インに最適です"
+
+msgid "Re-make polyline (or part of polyline) using smaller faces."
+msgstr ""
+"小さい面を使用してポリラインを（またはポリラインの一部を）再作成します。"
+
+msgid "Subdivide Lines"
+msgstr "ラインを細分化"
+
+msgid "Move Along Y Axis"
+msgstr "Y 軸に沿って移動"
+
+msgid "Move Along X Axis"
+msgstr "X 軸に沿って移動"
+
+msgid "Move Along Z Axis"
+msgstr "Z 軸に沿って移動"
+
+msgid "Use Custom Trajectory"
+msgstr "カスタム軌跡を使用"
+
+msgid "No other lines objects in the scene"
+msgstr "シーンに他のラインオブジェクトがありません"
+
+msgid "Select trajectory..."
+msgstr "軌跡を選択..."
+
+msgid "Trajectory"
+msgstr "軌跡"
+
+msgid "Trajectory Length"
+msgstr "軌跡の長さ"
+
+msgid "Allow Rotation"
+msgstr "回転を許可"
+
+msgid ""
+"Rotate body in trajectory vertices if set, otherwise only translation along "
+"the trajectory will be applied."
+msgstr ""
+"設定すると、軌跡頂点でボディを回転します。設定しない場合、軌跡に沿った平行移"
+"動のみが適用されます。"
+
+msgid "Auto Body's Center"
+msgstr "ボディの中心を自動設定"
+
+msgid ""
+"The center point of body moves along the trajectory.\n"
+"If selected, then body's center is computed automatically from body's "
+"bounding box.\n"
+"If not selected, then body's center is considered equal to the center of its "
+"local basis."
+msgstr ""
+"ボディの中心点が軌跡に沿って移動します。\n"
+"選択すると、ボディの中心はバウンディングボックスから自動的に計算されます。\n"
+"選択しない場合、ボディの中心はローカル基底の中心と同じとみなされます。"
+
+msgid "Start Mesh from Source"
+msgstr "ソースからメッシュを開始"
+
+msgid ""
+"If selected, then body-contours will be located exactly on resulting mesh."
+msgstr "選択すると、ボディ輪郭が結果メッシュ上に正確に配置されます。"
+
+msgid "Fill Holes"
+msgstr "穴を埋める"
+
+msgid "Whether to fill planar holes at both ends of the extrusion body."
+msgstr "押し出しボディの両端の平面穴を埋めるかどうか。"
+
+msgid "Make extrusion body mesh"
+msgstr "押し出しボディメッシュを作成"
+
+msgid "Flip Orientation"
+msgstr "向きを反転"
+
+msgid "Lines to Points"
+msgstr "ラインをポイントに変換"
+
+msgid "Offset (voxels)"
+msgstr "オフセット（ボクセル）"
+
+msgid ""
+"Voxels located not farther than this value to the input mesh will be filled "
+"with exact distances, more distant voxels with +/- this value"
+msgstr ""
+"入力メッシュからこの値以内にあるボクセルには正確な距離が充填され、それより遠"
+"いボクセルには +/- この値が使用されます"
+
+msgid "Lines to Voxels"
+msgstr "ラインをボクセルに変換"
+
+msgid "Stock"
+msgstr "ストック"
+
+msgid "Cutter"
+msgstr "カッター"
+
+msgid "Move cutter (or stock) to subtract it cutter from stock"
+msgstr "カッター（またはストック）を移動してストックからカッターを差し引きます"
+
+msgid "Real-Time Boolean Cut"
+msgstr "リアルタイムブール演算カット"
+
+msgid "Initialize manual alignment points"
+msgstr "手動整列ポイントを初期化"
+
+msgid "Start Align Manually"
+msgstr "手動位置合わせを開始"
+
+msgid "Delete Pick Points"
+msgstr "ピックポイントを削除"
+
+msgid "Change Fixed/Floating Objects"
+msgstr "固定/浮動オブジェクトを変更"
+
+msgid "Pick Point"
+msgstr "ポイントを選択"
+
+msgid "Pick Point and Align"
+msgstr "ポイントを選択して位置合わせ"
+
+msgid "Edit Pick Points"
+msgstr "選択ポイントを編集"
+
+msgid "Change visibility"
+msgstr "表示を変更"
+
+msgid "Selected Objects"
+msgstr "選択オブジェクト"
+
+msgid "Floating object"
+msgstr "フローティングオブジェクト"
+
+msgid "Floating objects"
+msgstr "フローティングオブジェクト"
+
+msgid "Fixed object"
+msgstr "固定オブジェクト"
+
+msgid "Fixed objects"
+msgstr "固定オブジェクト"
+
+#, c-format
+msgid "Press %s to select multiple objects"
+msgstr "%s を押して複数のオブジェクトを選択"
+
+msgid "Auto Improve Alignment"
+msgstr "整列を自動改善"
+
+msgid ""
+"Automatically improve alignment after each new picked pair (starting from "
+"3rd pair) of points using Iterative Closest Points (ICP) algorithm."
+msgstr ""
+"反復最近傍点（ICP）アルゴリズムを使用して、新しいポイントペアが選択されるたび"
+"に（3ペア目から）自動的に整列を改善します。"
+
+msgid "Accept"
+msgstr "確定"
+
+msgid "Warning: objects have parent/child relations"
+msgstr "警告: オブジェクトに親子関係があります"
+
+#, c-format
+msgid ""
+"1. Choose floating and fixed objects\n"
+"2. Pick pivot points on fixed objects\n"
+"3. Pick points on floating objects\n"
+"4. Click Accept\n"
+"Drag to move, %s+drag to rotate"
+msgstr ""
+"1. フローティングと固定オブジェクトを選択\n"
+"2. 固定オブジェクトのピボットポイントを選択\n"
+"3. フローティングオブジェクトのポイントを選択\n"
+"4. 確定をクリック\n"
+"ドラッグで移動、%s+ドラッグで回転"
+
+msgid "Accept Alignment"
+msgstr "整列を確定"
+
+msgid "Add Point"
+msgstr "ポイントを追加"
+
+msgid "Add Line"
+msgstr "直線を追加"
+
+msgid "Add Plane"
+msgstr "平面を追加"
+
+msgid "Add Circle"
+msgstr "円を追加"
+
+msgid "Add Cone"
+msgstr "円錐を追加"
+
+msgid ""
+"Selected objects are not ObjectMesh, ObjectPoints or FeatureObject joined to "
+"ObjectMesh or ObjectPoints"
+msgstr ""
+"選択したオブジェクトは ObjectMesh、ObjectPoints、または ObjectMesh/"
+"ObjectPoints に結合された FeatureObject ではありません"
+
+msgid "Feature Type"
+msgstr "フィーチャータイプ"
+
+msgid ""
+"Click on point/mesh surface. Picked points can be dragged after creation."
+msgstr ""
+"ポイント/メッシュサーフェスをクリックします。選択したポイントは作成後にドラッ"
+"グできます。"
+
+#, c-format
+msgid "Hold %s button to magnetize points to the mesh edges."
+msgstr "%s ボタンを押しながらポイントをメッシュエッジに引き付けます。"
+
+msgid "Click with Shift button to remove a point."
+msgstr "Shift ボタンでクリックしてポイントを削除します。"
+
+msgid "Select with:"
+msgstr "選択方法:"
+
+msgid "Pick mesh boundary"
+msgstr "メッシュ境界を選択"
+
+msgid "Pick sub-feature"
+msgstr "サブフィーチャーを選択"
+
+msgid "Creating a derived feature is not supported for this feature type."
+msgstr ""
+"このフィーチャータイプでは派生フィーチャーの作成はサポートされていません。"
+
+msgid "Discard the changes and start from scratch"
+msgstr "変更を破棄して最初からやり直す"
+
+msgid "Target Object"
+msgstr "ターゲットオブジェクト"
+
+msgid "Refine object"
+msgstr "オブジェクトを精密化"
+
+msgid "Distance Limit"
+msgstr "距離制限"
+
+msgid "Maximum distance from the source model to the feature"
+msgstr "ソースモデルからフィーチャーまでの最大距離"
+
+msgid "Normal Tolerance"
+msgstr "法線許容差"
+
+msgid ""
+"Maximum angle between the source model's normal and the feature's normal"
+msgstr "ソースモデルの法線とフィーチャーの法線の最大角度"
+
+msgid ""
+"Maximum amount of iterations performed until a stable set of points is found"
+msgstr "安定したポイントセットが見つかるまでの最大反復回数"
+
+msgid "Refine"
+msgstr "精密化"
+
+msgid "Find new source points near the feature and use them to refine it"
+msgstr "フィーチャー付近の新しいソースポイントを見つけて精密化に使用します"
+
+msgid "New Feature"
+msgstr "新しいフィーチャー"
+
+msgid "Save created feature and start to define a new one"
+msgstr "作成したフィーチャーを保存して新しいフィーチャーの定義を開始します"
+
+msgid "Developer features"
+msgstr "開発者機能"
+
+msgid "Auto-update"
+msgstr "自動更新"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove all points"
+msgstr "すべてのポイントを削除"
+
+msgid "Select Regions"
+msgstr "領域を選択"
+
+msgid "Add points for refine"
+msgstr "精密化のためにポイントを追加"
+
+#, c++-format
+msgid "Create a {} feature object"
+msgstr "{} フィーチャーオブジェクトを作成"
+
+#, c++-format
+msgid "BestFit {}"
+msgstr "最適フィット {}"
+
+msgid "Union"
+msgstr "和集合"
+
+msgid "Intersection"
+msgstr "交差"
+
+msgid "Difference"
+msgstr "差集合"
+
+msgid "Object A"
+msgstr "オブジェクト A"
+
+msgid "Object B"
+msgstr "オブジェクト B"
+
+msgid "Leave only largest"
+msgstr "最大のもののみ残す"
+
+msgid "Select two closed meshes"
+msgstr "2つの閉じたメッシュを選択"
+
+msgid "Add boolean result"
+msgstr "ブーリアン結果を追加"
+
+msgid "Smooth"
+msgstr "スムーズ"
+
+msgid "Deform"
+msgstr "変形"
+
+msgid "Fix"
+msgstr "修正"
+
+msgid "Radius of editing area."
+msgstr "編集エリアの半径。"
+
+msgid "Radius presets:"
+msgstr "半径プリセット:"
+
+msgid "Hotkey"
+msgstr "ホットキー"
+
+msgid "Smoothness"
+msgstr "滑らかさ"
+
+msgid "Effect of smoothing surface."
+msgstr "サーフェスのスムージング効果。"
+
+msgid "Material Thickness"
+msgstr "素材の厚さ"
+
+msgid "Sharpness"
+msgstr "シャープネス"
+
+msgid "Effect of force on points far from center editing area."
+msgstr "編集エリアの中心から遠いポイントへの力の効果。"
+
+msgid ""
+"Effect of smoothing modified area after editing is complete.\n"
+"0 - do not smooth."
+msgstr ""
+"編集完了後の修正エリアのスムージング効果。\n"
+"0 - スムージングしない。"
+
+#, c-format
+msgid "Hold %s and scroll to change radius"
+msgstr "%s を押しながらスクロールして半径を変更"
+
+msgid "Show Changes Map"
+msgstr "変更マップを表示"
+
+msgid "Palette Settings"
+msgstr "パレット設定"
+
+msgid "Calculation Method"
+msgstr "計算メソッド"
+
+msgid "Calculation method for visualizing mesh changes"
+msgstr "メッシュ変更を可視化するための計算メソッド"
+
+msgid "Fix Selected Region"
+msgstr "選択した領域を固定"
+
+msgid "Boundary edges can be split to improve quality of the patch"
+msgstr "パッチの品質を向上させるために境界エッジを分割できます"
+
+msgid "Ignore Occlusion"
+msgstr "遮蔽を無視"
+
+msgid ""
+"Allow the user to edit parts of object that are hidden in the current view "
+"by other objects"
+msgstr ""
+"他のオブジェクトによって現在のビューで隠れているオブジェクトの部分を編集でき"
+"ます"
+
+msgid "Edit Only Co-directed Surface"
+msgstr "同方向のサーフェスのみを編集"
+
+msgid ""
+"Restricts editable area to vertices whose normals look into the same half-"
+"space as normal under cursor."
+msgstr ""
+"カーソル下の法線と同じ半空間を向く法線を持つ頂点のみに編集エリアを制限しま"
+"す。"
+
+msgid "Balanced Weights"
+msgstr "バランス調整済み重み"
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies."
+msgstr ""
+"頂点のスムーズな位置決め時に学術文献で推奨される重みを使用するかどうか。使用"
+"しない場合、退化に耐性のある単位重みが使用されます。"
+
+msgid "Ideal Ridges/Grooves"
+msgstr "理想的なリッジ/溝"
+
+msgid ""
+"If selected in Add/Remove modes, the modification will be done using "
+"Laplacian solver, where the closest vertices will be attracted toward mouse "
+"cursor to form ideal ridges or grooves."
+msgstr ""
+"追加/削除モードで選択すると、ラプラシアンソルバーを使用して修正が行われ、最近"
+"傍頂点がマウスカーソルに引き寄せられ、理想的なリッジや溝を形成します。"
+
+msgid "Subdivide Ridges/Grooves"
+msgstr "リッジ/溝を細分化"
+
+msgid ""
+"If selected in Add/Remove modes, changed parts of mesh will be subdivided on "
+"mouse up."
+msgstr ""
+"追加/削除モードで選択すると、マウスを離したときにメッシュの変更部分が細分化さ"
+"れます。"
+
+msgid "Mimic Fix"
+msgstr "修正を模倣"
+
+msgid ""
+"In Fix mode disables smoothing and makes patches closer to initial surface."
+msgstr ""
+"修正モードでスムージングを無効にし、パッチを初期サーフェスに近づけます。"
+
+msgid "Collide"
+msgstr "衝突検出"
+
+msgid "Highlight collision faces of two meshes."
+msgstr "2つのメッシュの衝突面をハイライトします。"
+
+msgid "Collision Plugin: new collision"
+msgstr "衝突プラグイン: 新しい衝突"
+
+msgid "Polyline must not be empty"
+msgstr "ポリラインを空にすることはできません"
+
+msgid "Cut By Polyline"
+msgstr "ポリラインでカット"
+
+msgid "To start or continue extruding, drag selected triangles with LMB"
+msgstr "押し出しを開始または続けるには、選択した三角形を LMB でドラッグします"
+
+#, c-format
+msgid "To restart extrusion, start dragging selected triangles with %s+LMB"
+msgstr "押し出しを再開するには、%s+LMB で選択した三角形をドラッグし始めます"
+
+msgid "Finish Extrusion"
+msgstr "押し出しを終了"
+
+msgid "Fixes the current extrusion and makes it ready for a new extrusion"
+msgstr "現在の押し出しを確定し、新しい押し出しの準備をします"
+
+msgid "Subdivide Long Triangles"
+msgstr "長い三角形を細分化"
+
+msgid ""
+"Extruded triangles will be subdivided into bands no longer than the longest "
+"edge in the boundary"
+msgstr "押し出した三角形は、境界の最長エッジより長くないバンドに細分化されます"
+
+msgid "Fixed Direction"
+msgstr "固定方向"
+
+msgid ""
+"Selected triangles will be extruded along specified direction. Enabling this "
+"option will finish current extrusion."
+msgstr ""
+"選択した三角形は指定した方向に押し出されます。このオプションを有効にすると現"
+"在の押し出しが終了します。"
+
+msgid "Three components of the extrusion direction vector"
+msgstr "押し出し方向ベクトルの3成分"
+
+msgid "Direct by Normals"
+msgstr "法線方向に向ける"
+
+msgid "Extrude Direction by Normals"
+msgstr "押し出し方向 (法線基準)"
+
+msgid ""
+"Set extrusion direction by the average normal of the selected triangles. "
+"Current extrusion will be finished"
+msgstr ""
+"選択した三角形の平均法線方向で押し出し方向を設定します。現在の押し出しが終了"
+"します"
+
+msgid "Direct to Camera"
+msgstr "カメラ方向に向ける"
+
+msgid "Extrude Direction to Camera"
+msgstr "押し出し方向 (カメラ方向)"
+
+msgid ""
+"Set extrusion direction toward you (the position of camera). Current "
+"extrusion will be finished"
+msgstr ""
+"押し出し方向をあなたの方向（カメラの位置）に設定します。現在の押し出しが終了"
+"します"
+
+msgid "Amount"
+msgstr "量"
+
+msgid "Extrusion distance along the specified direction"
+msgstr "指定した方向に沿った押し出し距離"
+
+msgid "Extrude Direction by Mouse"
+msgstr "押し出し方向 (マウス操作)"
+
+msgid "Extrude"
+msgstr "押し出し"
+
+msgid "Manual Extrude"
+msgstr "手動押し出し"
+
+msgid "Cone, Cylinder"
+msgstr "円錐、円柱"
+
+msgid "Convert feature to mesh"
+msgstr "フィーチャーをメッシュに変換"
+
+msgid "Universal"
+msgstr "ユニバーサル"
+
+msgid "Planar"
+msgstr "平面"
+
+msgid "Complex"
+msgstr "複雑"
+
+msgid "Min Area"
+msgstr "最小面積"
+
+msgid ""
+"This metric should produce good result in an average case, by minimizing "
+"both circumscribed circle's diameter around each triangle and dihedral angle "
+"between two triangles of each edge."
+msgstr ""
+"このメトリクスは、各三角形の外接円の直径と各エッジの2つの三角形間の二面角の両"
+"方を最小化することで、平均的なケースで良好な結果を生成します。"
+
+msgid ""
+"This metric minimizes the sum of circumcircle radius times aspect ratio for "
+"all triangles in the triangulation, and it has extra penalty for the "
+"triangles having normals looking in the opposite side of plane containing "
+"the hole contour. It is specially designed for planar hole filling."
+msgstr ""
+"このメトリクスは三角形分割のすべての三角形の外接円半径とアスペクト比の積の合"
+"計を最小化し、穴の輪郭を含む平面の反対側に法線が向く三角形に追加ペナルティを"
+"与えます。平面穴充填向けに特別に設計されています。"
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum of edgeMetrics for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+"このメトリクスは三角形分割内のすべての三角形の triangleMetric の合計と、三角"
+"形分割内部および境界上のすべてのエッジの edgeMetric の合計を最小化します。\n"
+"ここで\n"
+"  triangleMetric は重み付き三角形面積と三角形のアスペクト比に比例し、\n"
+"  edgeMetric は三角形間の角度に対して ( ( 1 - cos( x ) ) / ( 1 + "
+"cos( x ) ) ) ^ 4 として増加します"
+
+msgid ""
+"This metric minimizes the area of the surface patch added to fill the hole. "
+"It is the best choice if the hole has degenerate shape or surrounded by "
+"degenerate triangles."
+msgstr ""
+"このメトリクスは穴を埋めるために追加されたサーフェスパッチの面積を最小化しま"
+"す。穴が退化した形状を持つか、退化した三角形に囲まれている場合に最良の選択肢"
+"です。"
+
+msgid "Triangulate Only"
+msgstr "三角形分割のみ"
+
+msgid ""
+"If this check-box is not selected then additional vertices are created "
+"inside the patch for best mesh quality"
+msgstr ""
+"このチェックボックスが選択されていない場合、最良のメッシュ品質のためにパッチ"
+"内部に追加頂点が作成されます"
+
+msgid "Smooth Boundary"
+msgstr "滑らかな境界"
+
+msgid ""
+"If triangulation metric makes smooth angle between neighbor triangles, then "
+"make smooth angle between patch triangles and triangles around the hole as "
+"well"
+msgstr ""
+"三角形分割メトリクスが隣接三角形間を滑らかな角度にする場合、パッチ三角形と穴"
+"周りの三角形間も滑らかな角度にします"
+
+msgid "Max Edge Length"
+msgstr "最大エッジ長"
+
+msgid ""
+"Patch mesh subdivision is stopped when all mesh edges are shorter than this "
+"value"
+msgstr ""
+"すべてのメッシュエッジがこの値より短くなるとパッチメッシュの細分化が停止しま"
+"す"
+
+msgid "Avg."
+msgstr "平均"
+
+msgid "Computes average edge length in the mesh"
+msgstr "メッシュの平均エッジ長を計算します"
+
+msgid "Smooth Curvature"
+msgstr "滑らかな曲率"
+
+msgid "Make the patch absolutely smooth"
+msgstr "パッチを完全に滑らかにします"
+
+msgid "Metric"
+msgstr "メトリクス"
+
+msgid "Select a metric to be optimized during next hole filling"
+msgstr "次の穴充填で最適化するメトリクスを選択します"
+
+msgid "Edge Metric Priority"
+msgstr "エッジメトリクスの優先度"
+
+msgid ""
+"0 means that edge-part of the metric is completely ignored,\n"
+"1 - default behavior,\n"
+"1000 - edge-part of the metric is much more important than triangle-part of "
+"the metric."
+msgstr ""
+"0はメトリクスのエッジ部分が完全に無視されることを意味し、\n"
+"1 - デフォルトの動作、\n"
+"1000 - メトリクスのエッジ部分が三角形部分よりはるかに重要になります。"
+
+msgid "Max Polygon Subdivision"
+msgstr "最大ポリゴン細分化"
+
+msgid ""
+"The maximum number of polygon subdivisions on a triangle and two smaller "
+"polygons"
+msgstr "三角形と2つの小さいポリゴンに対するポリゴン細分化の最大数"
+
+msgid ""
+"Whether to use recommended in the academic literature weights during smooth "
+"positioning of the vertices, otherwise unit weights will be used, which can "
+"tolerate any degeneracies"
+msgstr ""
+"頂点のスムーズな位置決め時に学術文献で推奨される重みを使用するかどうか。使用"
+"しない場合、退化に耐性のある単位重みが使用されます"
+
+msgid "Natural Smooth"
+msgstr "自然スムーズ"
+
+msgid ""
+"Expands, and repositions edges to maintain the natural shape of the model"
+msgstr "モデルの自然な形状を維持するためにエッジを拡張し再配置します"
+
+msgid "Additional options"
+msgstr "追加オプション"
+
+msgid ""
+"Creates a smooth surface to fill the hole, ideal for integrating seamlessly "
+"with curved areas"
+msgstr ""
+"穴を埋める滑らかなサーフェスを作成します。曲面エリアとシームレスに統合するの"
+"に理想的です"
+
+msgid "Natural"
+msgstr "自然"
+
+msgid ""
+"Generates a smooth surface, expands, and repositions edges to maintain the "
+"natural shape of the model"
+msgstr ""
+"滑らかなサーフェスを生成し、モデルの自然な形状を維持するためにエッジを拡張し"
+"再配置します"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid ""
+"Creates a flat surface with more detailed triangulation, offering a higher "
+"resolution fill for complex geometries"
+msgstr ""
+"より詳細な三角形分割で平面サーフェスを作成し、複雑なジオメトリに対してより高"
+"解像度の充填を提供します"
+
+msgid "Flat"
+msgstr "フラット"
+
+msgid ""
+"Fills the hole with a flat surface using minimal triangles, suitable for "
+"preserving a simple geometry"
+msgstr ""
+"最小限の三角形を使用して平面サーフェスで穴を埋めます。シンプルなジオメトリの"
+"保持に適しています"
+
+msgid ""
+"Additional vertices are created inside the bridge to make it visually smooth "
+"including at its ends)"
+msgstr ""
+"ブリッジの内部に追加頂点が作成され、端部も含めて視覚的に滑らかになります)"
+
+msgid "Creates a flat bridge without additional vertices"
+msgstr "追加頂点なしでフラットブリッジを作成します"
+
+msgid "ObjectMesh doesn't have any holes"
+msgstr "ObjectMesh に穴がありません"
+
+msgid "Fill single"
+msgstr "単一を充填"
+
+msgid "Fill entire hole or several holes"
+msgstr "穴全体または複数の穴を充填します"
+
+msgid "Fill All"
+msgstr "すべてを充填"
+
+msgid "Divide a hole on parts"
+msgstr "穴をパーツに分割"
+
+msgid "Make Bridge"
+msgstr "ブリッジを作成"
+
+msgid "Fill type"
+msgstr "充填タイプ"
+
+msgid ""
+"Click on the edges of the hole to fill it. Or Switch to selection by hole ID "
+"in control settings."
+msgstr ""
+"穴のエッジをクリックして充填します。またはコントロール設定で穴 ID による選択"
+"に切り替えます。"
+
+#, c-format
+msgid ""
+"%s+Click on a hole edge in the 3D scene to exclude or include it when using "
+"th e Fill All Holes mode."
+msgstr ""
+"すべての穴を充填モード使用時に %s+クリックで3Dシーン内の穴のエッジを除外また"
+"は含めます。"
+
+msgid "Deselect Large Holes"
+msgstr "大きい穴の選択を解除"
+
+msgid "Deselect the specified number of holes with the longest length"
+msgstr "最も長い穴を指定した数だけ選択解除します"
+
+msgid "Deselect all holes whose length is less than the specified value"
+msgstr "長さが指定値未満のすべての穴の選択を解除します"
+
+msgid ""
+"Deselect Less Than Minimum \n"
+"Perimeter"
+msgstr ""
+"最小周長未満の\n"
+"選択を解除"
+
+msgid "Discard"
+msgstr "破棄"
+
+msgid "Fill All Holes"
+msgstr "すべての穴を充填"
+
+msgid "Click on two hole edges to make bridge."
+msgstr "2つの穴のエッジをクリックしてブリッジを作成します。"
+
+msgid "Click on selected edge to unselect."
+msgstr "選択したエッジをクリックして選択解除します。"
+
+msgid "Fill Corners"
+msgstr "コーナーを充填"
+
+msgid "Allow making new triangle by clicking on the corner between two edges."
+msgstr "2つのエッジ間のコーナーをクリックして新しい三角形を作成できます。"
+
+msgid "Holes"
+msgstr "穴"
+
+msgid "Selected"
+msgstr "選択済み"
+
+msgid "Control"
+msgstr "コントロール"
+
+msgid "Select Hole by"
+msgstr "穴の選択方法"
+
+msgid "Mouse in 3D"
+msgstr "3D でマウス"
+
+msgid "Hole ID"
+msgstr "穴 ID"
+
+msgid ""
+"How you would like to select a hole: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr ""
+"穴の選択方法: マウス - 3Dビューで選択、またはダイアログで穴IDにより選択"
+
+msgid "Select Hole ID"
+msgstr "穴 ID を選択"
+
+msgid "ID of the hole to fill"
+msgstr "充填する穴の ID"
+
+msgid "Fill Selected Hole"
+msgstr "選択した穴を充填"
+
+msgid "Mouse Accuracy"
+msgstr "マウス精度"
+
+msgid ""
+"Mesh boundary is highlighted if the mouse cursor is closer to it than this "
+"value in pixels"
+msgstr ""
+"マウスカーソルがこの値（ピクセル）より近い場合、メッシュ境界がハイライトされ"
+"ます"
+
+msgid "Border Line Width"
+msgstr "境界線の幅"
+
+msgid "The width of highlighted hole contour"
+msgstr "ハイライトされた穴の輪郭の幅"
+
+msgid ""
+"Mesh boundary edge is highlighted if the mouse cursor is closer to it than "
+"this value in pixels"
+msgstr ""
+"マウスカーソルがこの値（ピクセル）より近い場合、メッシュ境界エッジがハイライ"
+"トされます"
+
+msgid "Mouse Accuracy at Corners"
+msgstr "コーナーでのマウス精度"
+
+msgid ""
+"Two consecutive edges of mesh boundary are highlighted if the mouse cursor "
+"is closer to their common vertex than this value in pixels"
+msgstr ""
+"マウスカーソルが共通頂点からこの値（ピクセル）より近い場合、メッシュ境界の連"
+"続する2つのエッジがハイライトされます"
+
+msgid "Controls settings"
+msgstr "コントロール設定"
+
+msgid "Current Hole Metrics"
+msgstr "現在の穴のメトリクス"
+
+msgid "Hole Perimeter"
+msgstr "穴の周長"
+
+msgid "The length of highlighted hole boundary."
+msgstr "ハイライトされた穴の境界の長さ。"
+
+msgid "Hole Area"
+msgstr "穴の面積"
+
+msgid "The area of the highlighted hole."
+msgstr "ハイライトされた穴の面積。"
+
+msgid "Fill One Hole"
+msgstr "1つの穴を埋める"
+
+msgid "Make Smooth Bridge"
+msgstr "滑らかなブリッジを作成"
+
+msgid "Nearest Neighbours"
+msgstr "最近傍"
+
+msgid ""
+"The number of nearest neighbor points to use for building of local "
+"triangulation. Too small value can make not optimal triangulation and "
+"additional holes. Too big value increases difficulty of optimization and "
+"decreases performance."
+msgstr ""
+"ローカル三角形分割の構築に使用する最近傍ポイント数。小さすぎる値は最適でない"
+"三角形分割や追加の穴を生む可能性があります。大きすぎる値は最適化を困難にし、"
+"パフォーマンスを低下させます。"
+
+msgid "Critical Angle"
+msgstr "臨界角"
+
+msgid ""
+"Critical angle of triangles in local triangulation (angle between triangles "
+"in fan should be less then this value)."
+msgstr ""
+"ローカル三角形分割の三角形の臨界角（扇形の三角形間の角度はこの値未満である必"
+"要があります）。"
+
+msgid "Fill Remaining Holes"
+msgstr "残りの穴を充填"
+
+msgid ""
+"Selects whether to fill the holes remained after using the given points."
+msgstr "指定したポイントを使用した後に残った穴を充填するかどうかを選択します。"
+
+msgid "Auto Detect Holes to Fill"
+msgstr "充填する穴を自動検出"
+
+msgid "If activated then the tool will select holes to fill by itself."
+msgstr "有効にすると、ツールが充填する穴を自動的に選択します。"
+
+msgid "Max Hole Length"
+msgstr "最大穴長"
+
+msgid "All holes with boundary length less than this value will be filled."
+msgstr "境界長がこの値未満のすべての穴が充填されます。"
+
+msgid "Preserve Point Cloud"
+msgstr "点群を保持"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh with filled holes."
+msgstr ""
+"チェックすると、穴を充填したメッシュに加えて元の点群がシーンに残ります。"
+
+msgid "Fill Holes with Extra Points"
+msgstr "追加ポイントで穴を充填"
+
+msgid "Select tunnel faces"
+msgstr "トンネル面を選択"
+
+msgid "Remove selected triangles"
+msgstr "選択した三角形を削除"
+
+msgid "Fill created holes"
+msgstr "作成された穴を埋める"
+
+msgid "Shortest"
+msgstr "最短"
+
+msgid "Most Curved"
+msgstr "最も曲率が高い"
+
+msgid "Most Concave"
+msgstr "最も凹"
+
+msgid "Most Convex"
+msgstr "最も凸"
+
+msgid "Least Curved"
+msgstr "最も曲率が低い"
+
+msgid "Search for the shortest by length loops."
+msgstr "長さが最短のループを検索します。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most curved "
+"(either concave or convex)."
+msgstr ""
+"メッシュが最も曲率が高い（凹または凸のいずれか）エッジに沿ったループを検索し"
+"ます。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most concave."
+msgstr "メッシュが最も凹なエッジに沿ったループを検索します。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is most convex."
+msgstr "メッシュが最も凸なエッジに沿ったループを検索します。"
+
+msgid ""
+"Search for the loops passing along the edges, where the mesh is least curved "
+"(neither concave nor convex)."
+msgstr ""
+"メッシュの曲率が最も低い（凹でも凸でもない）エッジに沿ったループを検索しま"
+"す。"
+
+msgid "Prefer Tunnels"
+msgstr "トンネルを優先"
+
+msgid "Selects what kind of tunnel loops to search for."
+msgstr "検索するトンネルループの種類を選択します。"
+
+msgid "Advanced Select Options"
+msgstr "詳細選択オプション"
+
+msgid "Max Tunnel Length"
+msgstr "最大トンネル長"
+
+msgid "The loops longer than this value will be ignored."
+msgstr "この値より長いループは無視されます。"
+
+msgid "Curvature Priority"
+msgstr "曲率の優先度"
+
+msgid ""
+"If the value is 0, the curvature is ignored during the search. If the value "
+"is maximal, desired curvature dominates over the euclidean length of the "
+"loops."
+msgstr ""
+"値が 0 の場合、検索中に曲率が無視されます。値が最大の場合、希望する曲率がルー"
+"プのユークリッド長より優先されます。"
+
+msgid ""
+"Maximal number of iterations of tunnel detection. Not all tunnels can be "
+"found on initial iterations. But on a big mesh with many tunnels even one "
+"iteration can take a while."
+msgstr ""
+"トンネル検出の最大反復回数。初期の反復ですべてのトンネルが見つかるわけではあ"
+"りませんが、多くのトンネルがある大きなメッシュでは1回の反復でも時間がかかる場"
+"合があります。"
+
+msgid "Build Co-Loops"
+msgstr "コループを構築"
+
+msgid ""
+"In this mode, shorter tunnels are found, but it requires more time to "
+"compute."
+msgstr ""
+"このモードでは短いトンネルが見つかりますが、計算により多くの時間が必要です。"
+
+msgid "Filter Equivalent Co-Loops"
+msgstr "等価コループをフィルター"
+
+msgid ""
+"If this option is off, some tunnels may be cut in several places. Please "
+"active if it is an issue for you, but it will take significantly longer to "
+"compute."
+msgstr ""
+"このオプションがオフの場合、一部のトンネルが複数の場所でカットされる場合があ"
+"ります。問題がある場合は有効にしてください。ただし、計算にかなり時間がかかり"
+"ます。"
+
+msgid "Select Tunnel Triangles"
+msgstr "トンネル三角形を選択"
+
+msgid "Add found loops as triangle selection in the mesh object."
+msgstr "見つかったループをメッシュオブジェクトの三角形選択として追加します。"
+
+msgid "Remove Selected Triangles"
+msgstr "選択した三角形を削除"
+
+msgid "Removes selected triangles from mesh object."
+msgstr "メッシュオブジェクトから選択した三角形を削除します。"
+
+msgid "Fill Created Holes"
+msgstr "作成された穴を塞ぐ"
+
+msgid "Fills the holes appeared after removal."
+msgstr "削除後に現れた穴を塞ぎます。"
+
+msgid "Make mesh topologically equivalent to sphere."
+msgstr "メッシュを位相的に球と等価にします。"
+
+msgid "Positive"
+msgstr "正方向"
+
+msgid "Shallowest"
+msgstr "最小交差数"
+
+msgid "Both Sides"
+msgstr "両面"
+
+msgid ""
+"Verify that positive (normal) triangle direction has even number of "
+"intersections."
+msgstr "正方向（法線方向）の三角形が偶数の交差を持つことを確認します。"
+
+msgid ""
+"Verify that one of triangle directions (positive or negative) has correct "
+"(even or odd) number of intersections.\n"
+"The direction which has lowest number of intersection is used."
+msgstr ""
+"三角形の正または負の方向のいずれかが正しい（偶数または奇数の）交差数を持つこ"
+"とを確認します。\n"
+"最も交差数が少ない方向が使用されます。"
+
+msgid ""
+"Verify that positive (normal) and negative (-normal) triangle directions "
+"both have correct number of intersections (even  and odd)."
+msgstr ""
+"三角形の正方向（法線）と負方向（-法線）の両方が正しい交差数（偶数と奇数）を持"
+"つことを確認します。"
+
+msgid "Virtual Fill Holes"
+msgstr "仮想穴塞ぎ"
+
+msgid ""
+"If there are holes in mesh - virtually fills them to properly count "
+"intersections of rays going out through holes."
+msgstr ""
+"メッシュに穴がある場合、穴を通過するレイの交差を正しくカウントするために仮想"
+"的に塞ぎます。"
+
+msgid "Component Threshold"
+msgstr "コンポーネントしきい値"
+
+msgid ""
+"Flip orientation of components with at least this % of incorrectly oriented "
+"area."
+msgstr "誤った向きの面積がこの %以上のコンポーネントの向きを反転します。"
+
+msgid "Reorient Mesh"
+msgstr "メッシュの向きを修正"
+
+msgid "Crease Angle"
+msgstr "折り目角度"
+
+msgid "Edges with dihedral angle sharper this will be considered as creases"
+msgstr "この二面角より鋭いエッジは折り目として扱われます"
+
+msgid "Critical Tri Aspect Ratio"
+msgstr "臨界三角形アスペクト比"
+
+msgid "Planar check is skipped for faces with worse aspect ratio"
+msgstr "アスペクト比が悪い面の平面チェックはスキップされます"
+
+msgid "Fix Pockets"
+msgstr "ポケットを修正"
+
+msgid "Minimum sum angle"
+msgstr "最小合計角度"
+
+msgid "Maximum iterations"
+msgstr "最大反復回数"
+
+msgid "Select spikes"
+msgstr "スパイクを選択"
+
+msgid "Fix spikes"
+msgstr "スパイクを修正"
+
+msgid "Fix Spikes"
+msgstr "スパイク修正"
+
+msgid "Specifies the number of objects to split this mesh into"
+msgstr "このメッシュを分割するオブジェクト数を指定します"
+
+msgid "Force Components"
+msgstr "コンポーネントを強制分割"
+
+msgid "Pick Free Form Align Point"
+msgstr "フリーフォーム位置合わせポイントを選択"
+
+msgid "Please select two ObjectMesh or two ObjectPoints"
+msgstr "ObjectMeshを2つまたはObjectPointsを2つ選択してください"
+
+msgid "Floating"
+msgstr "フローティング"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Click on objects to setup points pair for adjustment"
+msgstr "オブジェクトをクリックして調整用のポイントペアを設定します"
+
+msgid "Adjustment Grid"
+msgstr "調整グリッド"
+
+msgid "Free Form Align"
+msgstr "自由形状アライメント"
+
+msgid "Delete All Points"
+msgstr "すべてのポイントを削除"
+
+msgid "Delete All Free Form Align Points"
+msgstr "自由形状アライメントのポイントをすべて削除"
+
+msgid "Update FreeForm"
+msgstr "自由変形を更新"
+
+msgid "X res"
+msgstr "X解像度"
+
+msgid "Y res"
+msgstr "Y解像度"
+
+msgid "Z res"
+msgstr "Z解像度"
+
+msgid "Reset/Start"
+msgstr "リセット/開始"
+
+msgid "Reset deformer"
+msgstr "デフォーマーをリセット"
+
+msgid ""
+"Allow user to edit points that are hidden in the current view by any objects"
+msgstr "現在のビューでオブジェクトに隠れているポイントの編集を許可します"
+
+msgid "The selected cloud has no points"
+msgstr "選択された点群にポイントがありません"
+
+msgid "The selected cloud has more than 1024 points"
+msgstr "選択された点群のポイント数が1024を超えています"
+
+msgid "Import Control Points"
+msgstr "制御点をインポート"
+
+msgid "Export Control Points"
+msgstr "制御点をエクスポート"
+
+msgid "Geodesic Line"
+msgstr "測地線"
+
+msgid "Spline"
+msgstr "スプライン"
+
+msgid "If selected, draws a spline passing via user selected control points."
+msgstr "選択した場合、ユーザーが選択した制御点を通るスプラインを描画します。"
+
+msgid "Close Path"
+msgstr "パスを閉じる"
+
+msgid ""
+"Open path can be extended by more control points. After path closing, only "
+"editing of points is permitted."
+msgstr ""
+"開いたパスはさらに制御点を追加して延長できます。パスを閉じた後はポイントの編"
+"集のみ可能です。"
+
+msgid "At least three points required to close path."
+msgstr "パスを閉じるには少なくとも3つのポイントが必要です。"
+
+msgid "Import Points"
+msgstr "ポイントをインポート"
+
+msgid "Takes control points from the currently selected point cloud."
+msgstr "現在選択されている点群から制御点を取得します。"
+
+msgid "Export Points"
+msgstr "ポイントをエクスポート"
+
+msgid "Creates new cloud object filled with the current control points."
+msgstr "現在の制御点を含む新しい点群オブジェクトを作成します。"
+
+msgid "After Cutting"
+msgstr "カット後"
+
+msgid "Delete Part of Surface"
+msgstr "サーフェスの一部を削除"
+
+msgid "Delete the surface at one side of the contour."
+msgstr "コントアの一方の側のサーフェスを削除します。"
+
+msgid "Select Part of Surface"
+msgstr "サーフェスの一部を選択"
+
+msgid "Select surface triangles at one side of the contour."
+msgstr "コントアの一方の側のサーフェス三角形を選択します。"
+
+msgid "None"
+msgstr "なし"
+
+msgid ""
+"Do not delete or select any part of the mesh, just split the edges "
+"intersected by the contour, and select the edges appeared under the contour."
+msgstr ""
+"メッシュの一部を削除または選択せず、コントアと交差するエッジを分割してコント"
+"ア下に現れたエッジを選択します。"
+
+msgid "Left Part"
+msgstr "左側"
+
+msgid "Delete/select the surface to the left of the contour."
+msgstr "コントアの左側のサーフェスを削除/選択します。"
+
+msgid "Right Part"
+msgstr "右側"
+
+msgid "Delete/select the surface to the right of the contour."
+msgstr "コントアの右側のサーフェスを削除/選択します。"
+
+msgid "Smaller Part"
+msgstr "小さい方の部分"
+
+msgid ""
+"Delete/select the surface to the left or to the right from the contour, "
+"whatever is smaller."
+msgstr "コントアの左または右のサーフェスのうち、小さい方を削除/選択します。"
+
+msgid ""
+"Introduce new selected edges along the path, dividing neighbor triangles"
+msgstr "パスに沿って隣接する三角形を分割する新しい選択エッジを追加します"
+
+msgid "At least two points required to cut mesh"
+msgstr "メッシュをカットするには少なくとも2つのポイントが必要です"
+
+msgid "Hotkeys"
+msgstr "ホットキー"
+
+msgid ""
+"No path among current points exists. The points are placed on different "
+"connected components"
+msgstr ""
+"現在のポイント間にパスが存在しません。ポイントが異なる連結コンポーネントに配"
+"置されています"
+
+msgid "Control Points"
+msgstr "制御点"
+
+msgid "Total number of user picked control points."
+msgstr "ユーザーが選択した制御点の総数。"
+
+msgid "Path Length"
+msgstr "パス長"
+
+msgid "Total length of constructed geodesic path via all points."
+msgstr "すべてのポイントを経由して構築された測地パスの総長。"
+
+msgid "Line Segments"
+msgstr "線分"
+
+msgid ""
+"Total number of triangles passed by the geodesic path, which is straight "
+"line within each triangle."
+msgstr "測地パスが通過する三角形の総数（各三角形内で直線となります）。"
+
+msgid "Spline Options"
+msgstr "スプラインオプション"
+
+msgid "Show Geodesic Path as well"
+msgstr "測地パスも表示"
+
+msgid ""
+"If selected, shows geodesic path connecting control points together with the "
+"spline."
+msgstr "選択した場合、制御点を繋ぐ測地パスをスプラインとともに表示します。"
+
+msgid "Maximum distance between geodesic path points and spline points."
+msgstr "測地パスのポイントとスプラインのポイント間の最大距離。"
+
+msgid "Line"
+msgstr "直線"
+
+msgid ""
+"If selected, shows maximum distance between path points and spline points "
+"with a line segment."
+msgstr ""
+"選択した場合、パスのポイントとスプラインのポイント間の最大距離を線分で表示し"
+"ます。"
+
+msgid "Add Control Point"
+msgstr "制御点を追加"
+
+msgid ""
+"Adds control point on the geodesic path in the place where it deviates the "
+"most from the spline."
+msgstr "測地パスがスプラインから最も大きく離れている場所に制御点を追加します。"
+
+msgid "Respect Normals"
+msgstr "法線を考慮"
+
+msgid ""
+"If selected, then the spline will be orthogonal to mesh normals at control "
+"points."
+msgstr "選択した場合、制御点でスプラインがメッシュの法線に直交します。"
+
+msgid "Sampling Step"
+msgstr "サンプリングステップ"
+
+msgid ""
+"Additional points will be added between each pair of control points, until "
+"the distance between neighbor points becomes less than this distance."
+msgstr ""
+"隣接ポイント間の距離がこの値より小さくなるまで、各制御点ペア間に追加ポイント"
+"が挿入されます。"
+
+msgid "Control Stability"
+msgstr "制御の安定性"
+
+msgid ""
+"A positive value, the more the value the closer resulting spline will be to "
+"given control points."
+msgstr ""
+"正の値で、値が大きいほど結果のスプラインが指定した制御点に近くなります。"
+
+msgid "Construction Iterations"
+msgstr "構築反復回数"
+
+msgid ""
+"More iterations improve the quality of spline in expense to its longer "
+"construction time."
+msgstr ""
+"反復回数を増やすとスプラインの品質が向上しますが、構築時間が長くなります。"
+
+msgid "Point Cloud"
+msgstr "点群"
+
+msgid "Polyline"
+msgstr "ポリライン"
+
+msgid "Create in scene new point cloud with normals."
+msgstr "法線付きの新しい点群をシーンに作成します。"
+
+msgid "Create in scene new lines object."
+msgstr "新しい線オブジェクトをシーンに作成します。"
+
+msgid "Export as"
+msgstr "エクスポート形式"
+
+msgid "Select the object type representing the path or spline."
+msgstr "パスまたはスプラインを表すオブジェクトの種類を選択します。"
+
+msgid "Create Spline Object"
+msgstr "スプラインオブジェクトを作成"
+
+msgid "Clone shown spline as new object of selected type"
+msgstr "表示中のスプラインを選択した種類の新しいオブジェクトとして複製します"
+
+msgid "Create Cut Line Object"
+msgstr "カットラインオブジェクトを作成"
+
+msgid "Add cut line corresponding to the current spline as new object"
+msgstr ""
+"現在のスプラインに対応するカットラインを新しいオブジェクトとして追加します"
+
+msgid "Create Geodesic Path Object"
+msgstr "測地パスオブジェクトを作成"
+
+msgid "Clone geodesic path as new object of selected type"
+msgstr "測地パスを選択した種類の新しいオブジェクトとして複製します"
+
+msgid "Geodesic Search Options"
+msgstr "測地探索オプション"
+
+msgid "Dijkstra bidir."
+msgstr "Dijkstra双方向"
+
+msgid "Dijkstra A*"
+msgstr "Dijkstra A*"
+
+msgid "Fast Marching"
+msgstr "Fast Marching"
+
+msgid ""
+"Use bidirectional modification of Dijkstra method for initial path "
+"construction. It is in general fast, but can find not the shortest geodesic "
+"unlike Fast Marching."
+msgstr ""
+"初期パス構築にDijkstra双方向法を使用します。一般的に高速ですが、Fast Marching"
+"とは異なり最短測地線を見つけられない場合があります。"
+
+msgid ""
+"Use A* modification of Dijkstra method for initial path construction. It is "
+"the fastest option for near linear paths, but can work slower if the path is "
+"very distinct from a line."
+msgstr ""
+"初期パス構築にDijkstra A*法を使用します。直線に近いパスでは最速ですが、パスが"
+"直線から大きく外れる場合は遅くなることがあります。"
+
+msgid ""
+"Use Fast Marching method for initial path construction. It is typically "
+"closer to the shortest geodesic, but takes longer to compute."
+msgstr ""
+"初期パス構築にFast Marching法を使用します。一般的に最短測地線に近い結果が得ら"
+"れますが、計算時間が長くなります。"
+
+msgid "Initial Path"
+msgstr "初期パス"
+
+msgid "The method to construct initial path approximation"
+msgstr "初期パスの近似を構築する手法"
+
+msgid "Max. Geodesic Iterations"
+msgstr "最大測地反復回数"
+
+msgid "Maximum number of iterations in making geodesic path from initial path"
+msgstr "初期パスから測地パスを作成する際の最大反復回数"
+
+msgid "Geodesic Iterations Made"
+msgstr "測地反復実行数"
+
+msgid ""
+"Actual number of iterations done in making geodesic path from initial path"
+msgstr "初期パスから測地パスを作成する際に実行された実際の反復回数"
+
+msgid "Initial Path Time"
+msgstr "初期パス時間"
+
+msgid "The time spent in initial path construction"
+msgstr "初期パス構築に費やした時間"
+
+msgid "Make Geodesic Time"
+msgstr "測地化時間"
+
+msgid "The time spent in making geodesic path from initial path"
+msgstr "初期パスから測地パスを作成するのに費やした時間"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "パスの末尾にポイントを追加します（最後のポイントは緑色）"
+
+msgid "Cannot add points to closed path"
+msgstr "閉じたパスにはポイントを追加できません"
+
+msgid "Move Point"
+msgstr "ポイントを移動"
+
+msgid "Remove Point"
+msgstr "ポイントを削除"
+
+msgid "Path is already closed"
+msgstr "パスはすでに閉じています"
+
+msgid "Add Cut Line"
+msgstr "カットラインを追加"
+
+msgid "Add Cut Points"
+msgstr "カットポイントを追加"
+
+msgid "Cannot cut empty path."
+msgstr "空のパスはカットできません。"
+
+msgid ""
+"Cannot cut path that is fully located on single triangle, please subdivide "
+"mesh first."
+msgstr ""
+"単一の三角形上にある完全なパスはカットできません。先にメッシュを細分化してく"
+"ださい。"
+
+msgid "Mesh cannot be cut because path has intersection."
+msgstr "パスに交差があるためメッシュをカットできません。"
+
+msgid "Cut along Spline"
+msgstr "スプラインに沿って切断"
+
+msgid "Cut along Geodesic Path"
+msgstr "測地パスに沿って切断"
+
+msgid "Add Spline"
+msgstr "スプラインを追加"
+
+msgid "Add Spline Points"
+msgstr "スプラインポイントを追加"
+
+msgid "Add Geodesic Line"
+msgstr "測地線を追加"
+
+msgid "Add Geodesic Points"
+msgstr "測地ポイントを追加"
+
+msgid "Expansion"
+msgstr "拡張"
+
+msgid "Edge weights scheme:"
+msgstr "エッジ重みスキーム:"
+
+msgid "Cotangent"
+msgstr "コタンジェント"
+
+msgid "Unit"
+msgstr "単位"
+
+msgid "Laplacian"
+msgstr "ラプラシアン"
+
+msgid "The number of passes over the mesh"
+msgstr "メッシュのパス数"
+
+msgid "Max Angle Change"
+msgstr "最大角度変化"
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value"
+msgstr "エッジの反転はこの値以下の二面角変化の場合に許可されます"
+
+msgid "Reduce Total Angle"
+msgstr "総角度を減少"
+
+msgid ""
+"0% here means optimizing only Delaunay criterion.\n"
+"100% means that only dihedral angles between triangles are minimized, "
+"ignoring Delaunay criterion.\n"
+"Other values mean that a mixture of both criteria will be optimized."
+msgstr ""
+"0%はデローニー基準のみの最適化を意味します。\n"
+"100%はデローニー基準を無視して三角形間の二面角のみを最小化することを意味しま"
+"す。\n"
+"その他の値は両基準の混合が最適化されます。"
+
+msgid "Intrinsic Delone"
+msgstr "内在的デローニー"
+
+msgid ""
+"In Intrinsic Delaunay mode every edge corresponds to a geodesic line between "
+"end vertices on the original mesh. Still we show all edges as straight line "
+"segments."
+msgstr ""
+"内在的デローニーモードでは、各エッジは元のメッシュの端点頂点間の測地線に対応"
+"します。ただし、すべてのエッジは直線セグメントとして表示されます。"
+
+msgid ""
+"Triangles with larger aspect ratio will be considered degenerate. And Max "
+"Angle Change will be skipped for them"
+msgstr ""
+"アスペクト比が大きい三角形は縮退とみなされます。それらに対して最大角度変化は"
+"スキップされます"
+
+msgid "Make Delone"
+msgstr "デローニー化"
+
+#, c-format
+msgid "%d edge flip on last apply"
+msgid_plural "%d edge flips on last apply"
+msgstr[0] "前回の適用で %d 個のエッジが反転しました"
+
+msgid "Method:"
+msgstr "手法:"
+
+msgid "Rays"
+msgstr "レイ"
+
+msgid "Calculate thickness using normal rays"
+msgstr "法線レイを使用して厚みを計算します"
+
+msgid "Calculate thickness using maximum inscribed spheres"
+msgstr "最大内接球を使用して厚みを計算します"
+
+msgid "Enough Thickness"
+msgstr "十分な厚み"
+
+msgid ""
+"Places with this or larger thickness will be colored green, with smaller "
+"thickness - yellow and reddish."
+msgstr ""
+"この値以上の厚みの箇所は緑色、それより薄い箇所は黄色や赤みがかった色で表示さ"
+"れます。"
+
+msgid "Maximum Curvature"
+msgstr "最大曲率"
+
+msgid ""
+"Places with zero curvature will be colored green, with large curvature - "
+"blue for positive and red for negative."
+msgstr ""
+"曲率ゼロの箇所は緑色、曲率が大きい箇所は正の場合は青色、負の場合は赤色で表示"
+"されます。"
+
+msgid "Show Min"
+msgstr "最小値を表示"
+
+msgid "Show Max"
+msgstr "最大値を表示"
+
+msgid "Show Subdivided Mesh"
+msgstr "細分化メッシュを表示"
+
+msgid "Subdivide given mesh and show thickness at it for better visualization"
+msgstr "指定したメッシュを細分化してより見やすい厚み表示を行います"
+
+msgid "Signed Curvature"
+msgstr "符号付き曲率"
+
+msgid ""
+"Present surface curvature computed as inversed radius of the maximal sphere "
+"touching the surface each point. The sign is positive if maximal inscribed "
+"sphere is smaller than the maximal sphere outside the mesh."
+msgstr ""
+"各ポイントでサーフェスに接する最大球の逆数半径として計算されたサーフェス曲"
+"率。最大内接球がメッシュ外部の最大球より小さい場合、符号は正になります。"
+
+msgid "Max Angle"
+msgstr "最大角度"
+
+msgid ""
+"Maximum angle between search direction and the direction from sphere's "
+"center to the other found touch point. The decrease of this value helps "
+"avoiding too small spheres on noisy surfaces. "
+msgstr ""
+"探索方向と球の中心から他の接点への方向の間の最大角度。この値を小さくすること"
+"でノイズが多いサーフェスで過小な球を回避できます。"
+
+msgid "Maximum Sphere Radius"
+msgstr "最大球半径"
+
+msgid ""
+"Maximum allowed radius of the sphere. Please change it only if auto-"
+"detection has failed."
+msgstr "球の最大許容半径。自動検出が失敗した場合のみ変更してください。"
+
+msgid "Recalculate"
+msgstr "再計算"
+
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+msgid "Inside A"
+msgstr "A内部"
+
+msgid "Outside A"
+msgstr "A外部"
+
+msgid "Inside B"
+msgstr "B内部"
+
+msgid "Outside B"
+msgstr "B外部"
+
+msgid "Difference B-A"
+msgstr "差分 B-A"
+
+msgid "Difference A-B"
+msgstr "差分 A-B"
+
+msgid "Mesh-based Boolean: Inside"
+msgstr "メッシュベースのブール演算: 内側"
+
+msgid "Mesh-based Boolean: Outside"
+msgstr "メッシュベースのブール演算: 外側"
+
+msgid "Mesh-based Boolean: Union"
+msgstr "メッシュベースのブール演算: 和集合"
+
+msgid "Mesh-based Boolean: Intersection"
+msgstr "メッシュベースのブール演算: 共通部分"
+
+msgid "Mesh-based Boolean: Difference"
+msgstr "メッシュベースのブール演算: 差"
+
+msgid "Boolean points: Inside"
+msgstr "ブールポイント: 内側"
+
+msgid "Boolean points: Outside"
+msgstr "ブールポイント: 外側"
+
+msgid "Boolean points: Union"
+msgstr "ブールポイント: 和集合"
+
+msgid "Boolean points: Intersection"
+msgstr "ブールポイント: 共通部分"
+
+msgid "Boolean points: Difference"
+msgstr "ブールポイント: 差"
+
+msgid "Force Mode"
+msgstr "強制モード"
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during boolean "
+"operation."
+msgstr "非推奨: 有効にすると、ブーリアン演算中にすべての穴が閉じられます。"
+
+msgid "Show intersections"
+msgstr "交差を表示"
+
+msgid "Each contour line starts white and ends black"
+msgstr "各コントアラインは白から始まり黒で終わります"
+
+msgid "Show all contours"
+msgstr "すべてのコントアを表示"
+
+msgid "Selected contour"
+msgstr "選択コントア"
+
+msgid "Show selected only"
+msgstr "選択のみ表示"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Closed"
+msgstr "閉じている"
+
+msgid "Intersection number"
+msgstr "交差番号"
+
+msgid "Each cut line starts red and ends blue"
+msgstr "各カットラインは赤から始まり青で終わります"
+
+msgid "Show object A cut"
+msgstr "オブジェクトAのカットを表示"
+
+msgid "Show object B cut"
+msgstr "オブジェクトBのカットを表示"
+
+msgid "Show faces with intersections"
+msgstr "交差のある面を表示"
+
+msgid "Add Intersection Lines"
+msgstr "交差ラインを追加"
+
+msgid "Add Intersection Contours"
+msgstr "交差コントアを追加"
+
+msgid "Select Cut Edges"
+msgstr "カットエッジを選択"
+
+msgid ""
+"Select edges that are created on result mesh in place of intersection with "
+"other mesh."
+msgstr ""
+"他のメッシュとの交差部分に結果メッシュ上に作成されたエッジを選択します。"
+
+msgid "Some contours are not closed"
+msgstr "一部のコントアが閉じていません"
+
+msgid "ObjectMesh doesn't have any selected edges"
+msgstr "ObjectMeshに選択されたエッジがありません"
+
+msgid "Operation failed while cutting new edges."
+msgstr "新しいエッジのカット中に操作が失敗しました。"
+
+msgid "Invalid configuration, input edges should have one closed loop."
+msgstr "無効な設定です。入力エッジは1つの閉ループでなければなりません。"
+
+msgid "Chamfering Edges"
+msgstr "エッジを面取り"
+
+msgid "Filleting Edges"
+msgstr "エッジをフィレット"
+
+msgid "Mirror objects"
+msgstr "オブジェクトをミラー"
+
+msgid "Mirror"
+msgstr "ミラー"
+
+msgid "Sigma"
+msgstr "シグマ"
+
+msgid "Add Noise"
+msgstr "ノイズを追加"
+
+msgid "Mesh has selected region."
+msgstr "メッシュに選択領域があります。"
+
+msgid "Partial Offset"
+msgstr "部分オフセット"
+
+msgid "Shell Region"
+msgstr "シェル領域"
+
+msgid "Offset selected part of the surface outside."
+msgstr "サーフェスの選択部分を外側にオフセットします。"
+
+msgid "Constructs a shell around selected mesh region."
+msgstr "選択したメッシュ領域の周囲にシェルを構築します。"
+
+msgid "Entire Model"
+msgstr "モデル全体"
+
+msgid "Shell"
+msgstr "シェル"
+
+msgid "Thickening"
+msgstr "肉厚化"
+
+msgid "Expand/Shrink"
+msgstr "拡張/縮小"
+
+msgid "Shrink/Expand"
+msgstr "縮小/拡張"
+
+msgid "Offset the surface outside or inside depending on sign and value."
+msgstr "符号と値に応じてサーフェスを外側または内側にオフセットします。"
+
+msgid "Offset the surface both inside and outside."
+msgstr "サーフェスを内側と外側の両方にオフセットします。"
+
+msgid ""
+"Create an object of finite width with two bounding surfaces: thickening "
+"original mesh for positive values,  and hollowing original mesh for negative "
+"values."
+msgstr ""
+"2つの境界サーフェスを持つ有限幅のオブジェクトを作成します: 正の値は元のメッ"
+"シュを肉厚化し、負の値は内部を空洞化します。"
+
+msgid "Perform positive and then negative offset."
+msgstr "正のオフセットを行った後に負のオフセットを実行します。"
+
+msgid "Perform negative and then positive offset."
+msgstr "負のオフセットを行った後に正のオフセットを実行します。"
+
+msgid "Value"
+msgstr "値"
+
+msgid "The amount of displacement measured from the original surface."
+msgstr "元のサーフェスから計測した変位量。"
+
+msgid "Anisotropy XYZ"
+msgstr "XYZ異方性"
+
+msgid ""
+"If some value here is above 1, then offset along that direction is increased "
+"appropriately. One of XYZ is always 1."
+msgstr ""
+"いずれかの値が1を超える場合、その方向のオフセットが適切に増加されます。XYZの"
+"うち1つは常に1です。"
+
+msgid "Sharpening"
+msgstr "シャープ化"
+
+msgid ""
+"Voxels are converted in mesh using Dual Marching Cubes algorithm, which "
+"produces smooth rounding of corners"
+msgstr ""
+"Dual Marching Cubesアルゴリズムを使用してボクセルをメッシュに変換します。コー"
+"ナーが滑らかに丸みを帯びます"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth mode"
+msgstr ""
+"標準のMarching Cubesアルゴリズムを使用してボクセルをメッシュに変換します。ス"
+"ムースモードよりコーナーが鋭くなります"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, with "
+"additional post-processing to highlight sharp features if they are known to "
+"be present in the result"
+msgstr ""
+"標準のMarching Cubesアルゴリズムを使用してボクセルをメッシュに変換します。結"
+"果にシャープな特徴が含まれることが分かっている場合、それを強調する追加後処理"
+"が行われます"
+
+msgid "How to convert voxels into final mesh"
+msgstr "ボクセルを最終メッシュに変換する方法"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Winding Number"
+msgstr "ワインディングナンバー"
+
+msgid "Projection Normal"
+msgstr "投影法線"
+
+msgid ""
+"Automatic selection of the fastest method among safe options for the current "
+"mesh"
+msgstr ""
+"現在のメッシュに対して安全なオプションの中から最も高速な手法を自動選択します"
+
+msgid ""
+"Detects sign from the winding number generalization with support for holes "
+"and self-intersections in mesh"
+msgstr ""
+"穴と自己交差をサポートするワインディングナンバーの一般化から符号を検出します"
+
+msgid ""
+"Detects sign from the pseudonormal in closest mesh point, which is fast but "
+"unsafe in the presence of holes and self-intersections in mesh"
+msgstr ""
+"最近接メッシュポイントの擬似法線から符号を検出します。高速ですが、穴や自己交"
+"差があると安全ではありません"
+
+msgid "Sign Detection"
+msgstr "符号検出"
+
+msgid ""
+"How to determine the sign of distance in each voxel to differentiate "
+"interior from exterior"
+msgstr "内部と外部を区別するために各ボクセルの距離の符号を決定する方法"
+
+msgid "Precision"
+msgstr "精度"
+
+msgid ""
+"Relative precision of generalized winding number computation that is used to "
+"find inner and outer parts of the body. Smaller values here speed up "
+"computations."
+msgstr ""
+"内部と外部を見つけるために使用される一般化ワインディングナンバー計算の相対精"
+"度。値を小さくすると計算が高速化されます。"
+
+msgid "Min New Vertex Deviation"
+msgstr "最小新頂点偏差"
+
+msgid ""
+"Minimal surface deviation to introduce new vertex in a voxel, measured in "
+"voxel size"
+msgstr ""
+"ボクセルに新しい頂点を導入するための最小サーフェス偏差（ボクセルサイズ単位）"
+
+msgid "Max New Rank 2 Deviation"
+msgstr "最大新ランク2偏差"
+
+msgid ""
+"Maximal surface deviation to introduce new rank 2 vertex (on intersection of "
+"2 planes), measured in voxel size"
+msgstr ""
+"新しいランク2頂点（2平面の交差上）を導入するための最大サーフェス偏差（ボクセ"
+"ルサイズ単位）"
+
+msgid "Max New Rank 3 Deviation"
+msgstr "最大新ランク3偏差"
+
+msgid ""
+"Maximal surface deviation to introduce new rank 3 vertex (on intersection of "
+"3 planes), measured in voxel size"
+msgstr ""
+"新しいランク3頂点（3平面の交差上）を導入するための最大サーフェス偏差（ボクセ"
+"ルサイズ単位）"
+
+msgid "Max Old Vertex Correction"
+msgstr "最大既存頂点補正"
+
+msgid ""
+"Correct positions of the input vertices using reference mesh by not more "
+"than this distance, measured in voxelSize. Big correction can be wrong and "
+"result from self-intersections in the reference mesh"
+msgstr ""
+"参照メッシュを使用して入力頂点の位置をこの距離以内で補正します（ボクセルサイ"
+"ズ単位）。大きな補正は参照メッシュの自己交差による誤りの可能性があります"
+
+msgid ""
+"Perform mesh decimation at the end to get rid of short edges and degenerate "
+"triangles."
+msgstr ""
+"短いエッジや縮退三角形を除去するため、最後にメッシュ間引きを実行します。"
+
+msgid ""
+"Whether to minimize summed deviation of triangle-triangle angles from plane "
+"on resulting mesh. This mode highlights sharp edges. If decimation is on, "
+"this mode is performed before and after decimation and further reduces the "
+"number of triangles."
+msgstr ""
+"結果メッシュ上の三角形-三角形の平面からの角度偏差の合計を最小化するかどうか。"
+"このモードはシャープなエッジを強調します。間引きが有効の場合、間引きの前後に"
+"実行されてさらに三角形数を削減します。"
+
+msgid "Offset"
+msgstr "オフセット"
+
+msgid "Offset (unsigned)"
+msgstr "オフセット（符号なし）"
+
+msgid "Larger voxels counts require more resources, recommended value < 1M"
+msgstr "ボクセル数が多いほど多くのリソースが必要です。推奨値は1M未満"
+
+msgid "Offset lines"
+msgstr "ラインをオフセット"
+
+msgid "Please select ObjectMesh or ObjectPoints with child Feature object"
+msgstr ""
+"子フィーチャーオブジェクトを持つObjectMeshまたはObjectPointsを選択してくださ"
+"い"
+
+msgid "Selected Feature object should have ObjectMesh or ObjectPoint parent"
+msgstr ""
+"選択されたフィーチャーオブジェクトはObjectMeshまたはObjectPointの親を持つ必要"
+"があります"
+
+msgid "Orient Object by Feature"
+msgstr "フィーチャーによるオブジェクト配向"
+
+#, c++-format
+msgid "{} orientation by features"
+msgstr "{} フィーチャーによる配向"
+
+msgid "Global Offset"
+msgstr "グローバルオフセット"
+
+msgid "Offset that is applied to whole mesh."
+msgstr "メッシュ全体に適用されるオフセット。"
+
+msgid "Two-Sided"
+msgstr "両面"
+
+msgid "If not set - builds only positive part of the shell"
+msgstr "設定しない場合、シェルの正の部分のみを構築します"
+
+msgid "Interpolation"
+msgstr "補間"
+
+msgid ""
+"Larger value leads to smoother transition among variadic region offsets."
+msgstr "値が大きいほど可変領域オフセット間の遷移が滑らかになります。"
+
+msgid "Variatic Regions"
+msgstr "可変領域"
+
+msgid "Partial Shell"
+msgstr "部分シェル"
+
+msgid "ObjectMesh doesn't have any selected triangles"
+msgstr "ObjectMeshに選択された三角形がありません"
+
+msgid "Diameter of each stone"
+msgstr "各石の直径"
+
+msgid "Distance"
+msgstr "距離"
+
+msgid "Distance between two ajacent stones"
+msgstr "隣接する2つの石の間の距離"
+
+msgid "Rotation"
+msgstr "回転"
+
+msgid "Rotates all the grid"
+msgstr "グリッド全体を回転します"
+
+msgid "Padding"
+msgstr "パディング"
+
+msgid "Minimal distance from stone to border"
+msgstr "石から境界線までの最小距離"
+
+msgid "Maximal Count"
+msgstr "最大数"
+
+msgid "Maximal number of stones"
+msgstr "石の最大数"
+
+msgid "Load Custom Stone Mesh"
+msgstr "カスタム石メッシュを読み込む"
+
+msgid "Use alternate mesh for stone, e.g. diamond model or etc."
+msgstr "石に別のメッシュ（ダイヤモンドモデルなど）を使用します。"
+
+msgid "Adjust Individual Stones"
+msgstr "個別の石を調整"
+
+msgid "Stop editing grid and continue wit adjusting of individual stones"
+msgstr "グリッドの編集を停止し、個別の石の調整を続けます"
+
+msgid "Freeze Moved Stones"
+msgstr "移動した石を固定"
+
+msgid "Unfreeze All Stones"
+msgstr "すべての石の固定を解除"
+
+msgid "Individual Settings"
+msgstr "個別設定"
+
+msgid "Adjust diameter of picked stone"
+msgstr "選択した石の直径を調整"
+
+#, c-format
+msgid ""
+"Pick a stone to adjust it individually.\n"
+"Pick with %s pressed to freeze/unfreeze a stone."
+msgstr ""
+"%s を押しながらクリックすると石を固定/固定解除できます。\n"
+"石をクリックして個別に調整します。"
+
+msgid "Number of iterations for grid refinement"
+msgstr "グリッド精緻化の反復回数"
+
+msgid ""
+"Too small number here can lead to instability, too large - to slow "
+"convergence"
+msgstr "値が小さすぎると不安定になり、大きすぎると収束が遅くなります"
+
+msgid "Show Grid Mesh"
+msgstr "グリッドメッシュを表示"
+
+msgid "ObjectMesh must have selected triangles"
+msgstr "ObjectMeshに選択された三角形が必要です"
+
+msgid "Positioning Type:"
+msgstr "配置タイプ:"
+
+msgid "Sharp Boundary"
+msgstr "シャープな境界"
+
+msgid ""
+"After repositioning the region is smooth only inside, but can have sharp "
+"turn on the boundary."
+msgstr ""
+"再配置後、領域は内部のみ滑らかになりますが、境界ではシャープな折れが生じるこ"
+"とがあります。"
+
+msgid "Pressure"
+msgstr "圧力"
+
+msgid ""
+"The amount of pressure applied to mesh region: positive pressure moves the "
+"vertices outside, negative - inside, zero constructs minimal surface."
+msgstr ""
+"メッシュ領域に加える圧力の量: 正の圧力は頂点を外側に、負は内側に移動し、ゼロ"
+"は最小サーフェスを構築します。"
+
+msgid "Smooth Everywhere"
+msgstr "すべて滑らか"
+
+msgid ""
+"After repositioning the region is smooth both inside and on the boundary."
+msgstr "再配置後、領域は内部と境界の両方で滑らかになります。"
+
+msgid ""
+"The number of algorithm's repetitions. Typically more iterations mean better "
+"result, but longer computation."
+msgstr ""
+"アルゴリズムの繰り返し回数。一般的に反復回数が多いほど良い結果が得られます"
+"が、計算時間が長くなります。"
+
+msgid "Cotangent Edge Weights"
+msgstr "コタンジェントエッジ重み"
+
+msgid ""
+"Cotangent edge weights in Laplacian equations are recommended by the theory "
+"and they work the best except for meshes with degenerations. If unselected "
+"all edges have same unit weights."
+msgstr ""
+"ラプラシアン方程式のコタンジェントエッジ重みは理論的に推奨され、縮退のない"
+"メッシュで最もよく機能します。選択しない場合、すべてのエッジに同じ単位重みが"
+"使用されます。"
+
+msgid "Neighbor Area as Vertex Mass"
+msgstr "隣接面積を頂点質量として使用"
+
+msgid ""
+"Vertex mass proportional to the area of surrounding triangles in Laplacian "
+"equations is recommended by the theory and it works the best except for "
+"meshes with degenerations. If unselected all vertices have same unit mass."
+msgstr ""
+"ラプラシアン方程式で周囲の三角形の面積に比例する頂点質量は理論的に推奨され、"
+"縮退のないメッシュで最もよく機能します。選択しない場合、すべての頂点に同じ単"
+"位質量が使用されます。"
+
+msgid "Optimize Triangulation"
+msgstr "三角形分割を最適化"
+
+msgid ""
+"If selected, triangulation will be made Delaunay prior to constructing "
+"Laplacian linear system to improve its qualities."
+msgstr ""
+"選択した場合、ラプラシアン線形システムの構築前に三角形分割をデローニー化して"
+"品質を向上させます。"
+
+msgid "Selection must not include all vertices of a mesh connected component"
+msgstr "選択にメッシュ連結コンポーネントのすべての頂点を含めることはできません"
+
+msgid "Re-position"
+msgstr "再配置"
+
+msgid "Print Direction"
+msgstr "印刷方向"
+
+msgid "Three components of print direction vector"
+msgstr "印刷方向ベクトルの3成分"
+
+msgid "To select print direction toward the user"
+msgstr "ユーザー方向への印刷方向を選択します"
+
+msgid "Direct from Holes"
+msgstr "穴からの方向"
+
+msgid ""
+"To select print direction along the smallest side of dense bounding box "
+"around the object, and away from the hole(s)"
+msgstr ""
+"オブジェクト周囲の密なバウンディングボックスの最小辺に沿った、穴から離れる方"
+"向を印刷方向として選択します"
+
+msgid "Find Undercuts"
+msgstr "アンダーカットを検出"
+
+msgid "To select triangles that are hidden if look from the tip of the arrow"
+msgstr "矢印の先端から見て隠れる三角形を選択します"
+
+msgid "Optimize Print Direction"
+msgstr "印刷方向を最適化"
+
+msgid "Projected Area"
+msgstr "投影面積"
+
+msgid "Projected Area Approx"
+msgstr "投影面積近似"
+
+msgid "Total area of undercut faces"
+msgstr "アンダーカット面の総面積"
+
+msgid ""
+"Summed absolute area of undercut faces as visible if look from direction"
+msgstr "方向から見たときのアンダーカット面の絶対面積の合計"
+
+msgid "Faster approximation of Projected Area metric"
+msgstr "投影面積メトリックの高速近似"
+
+msgid "Select what metric 'Find Better Direction' button will minimize."
+msgstr "「より良い方向を検索」ボタンが最小化するメトリックを選択します。"
+
+msgid "Max Base Angle"
+msgstr "最大ベース角度"
+
+msgid "Base Angle Step"
+msgstr "ベース角度ステップ"
+
+msgid "Polar Angle Step"
+msgstr "極角ステップ"
+
+msgid "Find Optimal Direction"
+msgstr "最適方向を検索"
+
+msgid "Benchmark"
+msgstr "ベンチマーク"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Bottom Extension"
+msgstr "底部延長"
+
+msgid "Wall Angle"
+msgstr "壁角度"
+
+msgid "Gaussian Smooth"
+msgstr "ガウシアンスムース"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Selection Only"
+msgstr "選択のみ"
+
+msgid "Fix all undercuts in the mesh."
+msgstr "メッシュ内のすべてのアンダーカットを修正します。"
+
+msgid "Fix undercuts for selected region only."
+msgstr "選択した領域のアンダーカットのみを修正します。"
+
+msgid "Fix Undercuts"
+msgstr "アンダーカットを修正"
+
+msgid "Select what undercuts will be fixed."
+msgstr "修正するアンダーカットを選択します。"
+
+msgid "Extrude Base"
+msgstr "ベースを押し出し"
+
+msgid "Target"
+msgstr "ターゲット"
+
+msgid ""
+"Ensure both 3D objects share the same global coordinates for accurate "
+"projection."
+msgstr ""
+"正確な投影のために、両方の3Dオブジェクトが同じグローバル座標を共有しているこ"
+"とを確認してください。"
+
+msgid "Project Mesh Colors"
+msgstr "メッシュカラーを投影"
+
+msgid "Three components of the milling tool direction"
+msgstr "フライス工具方向の3成分"
+
+msgid "To Camera"
+msgstr "カメラ方向"
+
+msgid "Off Camera"
+msgstr "カメラ逆方向"
+
+msgid "Tool Radius"
+msgstr "工具半径"
+
+msgid ""
+"Number of iterations performed to compensate tool radius:\n"
+"  more iterations decreases probability of self-intersections and produce "
+"smoother result in general\n"
+"  but it takes longer time."
+msgstr ""
+"工具半径を補正するための反復回数:\n"
+"  反復回数が多いほど自己交差の可能性が減り、全体的に滑らかな結果が得られま"
+"す\n"
+"  ただし計算時間が長くなります。"
+
+msgid "Relax Expansion"
+msgstr "リラックス展開"
+
+msgid ""
+"Amount of vertices layers around actually changed vertices that will be "
+"relaxed on each iteration."
+msgstr "各反復でリラックスされる、実際に変更された頂点周囲の頂点レイヤー数。"
+
+msgid "Relax Iterations"
+msgstr "リラックス反復回数"
+
+msgid "Number of relax iterations applied on each compensation step."
+msgstr "各補正ステップで適用されるリラックス反復回数。"
+
+msgid "Relax Force"
+msgstr "リラックス強度"
+
+msgid "Force of relax iterations applied on each compensation step."
+msgstr "各補正ステップで適用されるリラックス反復の強度。"
+
+msgid "Compensate Radius"
+msgstr "半径を補正"
+
+msgid "Minuend"
+msgstr "被減数"
+
+msgid "Subtrahend"
+msgstr "減数"
+
+msgid "Usage Tips"
+msgstr "使い方のヒント"
+
+msgid "Drag any of two objects to make it Subtrahend shown semi-transparent."
+msgstr "2つのオブジェクトのいずれかをドラッグすると半透明の減数になります。"
+
+msgid ""
+"The objMinuend_ object becomes Minuend and is hidden. Instead a third object "
+"with Difference is shown."
+msgstr ""
+"objMinuend_オブジェクトが被減数となり非表示になります。代わりに差分を持つ第三"
+"のオブジェクトが表示されます。"
+
+msgid "Boolean Runs"
+msgstr "ブーリアン実行回数"
+
+msgid "The number of times, Boolean was called."
+msgstr "ブーリアンが呼び出された回数。"
+
+msgid "Boolean Fails"
+msgstr "ブーリアン失敗回数"
+
+msgid "The number of Boolean runs finished with a fail."
+msgstr "失敗で終了したブーリアン実行の回数。"
+
+msgid "Average Time"
+msgstr "平均時間"
+
+msgid "The time spent on average Boolean run."
+msgstr "ブーリアン実行の平均所要時間。"
+
+msgid "Last Time"
+msgstr "最終時間"
+
+msgid "The time spent in last Boolean run."
+msgstr "最後のブーリアン実行の所要時間。"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Processor name in this computer."
+msgstr "このコンピューターのプロセッサ名。"
+
+msgid ""
+"Voxels are converted in mesh using standard Marching Cubes algorithm, which "
+"makes corners sharper compared to Smooth offsetMode"
+msgstr ""
+"標準のMarching Cubesアルゴリズムを使用してボクセルをメッシュに変換します。ス"
+"ムースoffsetModeよりコーナーが鋭くなります"
+
+msgid ""
+"This is threshold value for generalized winding number to select location of "
+"output mesh.\n"
+"\n"
+"For closed meshes with normals outside, winding number is 1 inside and 0 "
+"outside, so the ideal threshold is 0.5.\n"
+"\n"
+"For planar meshes, winding number is 0.5 inside and -0.5 outside, so the "
+"ideal threshold is 0."
+msgstr ""
+"これは出力メッシュの位置を選択するための一般化ワインディングナンバーのしきい"
+"値です。\n"
+"\n"
+"外向き法線を持つ閉じたメッシュの場合、ワインディングナンバーは内部で1、外部で"
+"0なので理想的なしきい値は0.5です。\n"
+"\n"
+"平面メッシュの場合、ワインディングナンバーは内部で0.5、外部で-0.5なので理想的"
+"なしきい値は0です。"
+
+msgid "Close Holes"
+msgstr "穴を閉じる"
+
+msgid "Whether to close all holes in generalized winding number  mode."
+msgstr "一般化ワインディングナンバーモードですべての穴を閉じるかどうか。"
+
+msgid "Pre-Subdivide"
+msgstr "事前細分化"
+
+msgid ""
+"Subdivision of large input triangles typically increases overall performance "
+"at the cost of somewhat more memory usage."
+msgstr ""
+"大きな入力三角形の細分化は一般的に全体的なパフォーマンスを向上させますが、メ"
+"モリ使用量がやや増加します。"
+
+msgid "Rebuild Meshes"
+msgstr "メッシュを再構築"
+
+msgid "Rebuild Mesh"
+msgstr "メッシュを再構築"
+
+#, c++-format
+msgid ""
+"Unable to refine. Number of selected verts ({}) less than minimal ({}) for "
+"this feature type"
+msgstr ""
+"精緻化できません。選択された頂点数 ({}) がこのフィーチャータイプの最小値 "
+"({}) より少ないです"
+
+msgid "Exactly 1 feature object must be selected"
+msgstr "フィーチャーオブジェクトをちょうど1つ選択する必要があります"
+
+msgid "Selected object must be a feature object"
+msgstr "選択されたオブジェクトはフィーチャーオブジェクトでなければなりません"
+
+msgid ""
+"Selected feature object must have appropriate parent object (mesh or point "
+"cloud)"
+msgstr ""
+"選択されたフィーチャーオブジェクトは適切な親オブジェクト（メッシュまたは点"
+"群）を持つ必要があります"
+
+msgid "Feature Object"
+msgstr "フィーチャーオブジェクト"
+
+msgid "Reference Object"
+msgstr "参照オブジェクト"
+
+msgid "Reference Obj."
+msgstr "参照オブジェ."
+
+msgid "Floating Obj."
+msgstr "フロートオブジェ."
+
+msgid "Exchange Reference and Floating objects."
+msgstr "参照オブジェクトとフローティングオブジェクトを交換します。"
+
+msgid "Auto Initial"
+msgstr "自動初期化"
+
+msgid ""
+"Automatically select initial transformation for the floating object  based "
+"on covariance matrices of both floating and reference objects."
+msgstr ""
+"フローティングと参照オブジェクトの両方の共分散行列に基づいて、フローティング"
+"オブジェクトの初期変換を自動選択します。"
+
+msgid "Visual settings"
+msgstr "表示設定"
+
+msgid "Show pair lines"
+msgstr "ペアラインを表示"
+
+msgid "Show points"
+msgstr "ポイントを表示"
+
+msgid "Show normals"
+msgstr "法線を表示"
+
+msgid "Lines always front"
+msgstr "ラインを常に前面に"
+
+msgid ""
+"Run Iterative Closest Point (ICP) algorithm starting from the current "
+"position."
+msgstr "現在の位置から反復最近傍点（ICP）アルゴリズムを実行します。"
+
+msgid ""
+"Objects are too far apart. Perform a rough initial alignment using Align "
+"Manually, Transform, or Move object."
+msgstr ""
+"オブジェクトが離れすぎています。手動アライメント、変換、またはオブジェクト移"
+"動を使用して大まかな初期位置合わせを行ってください。"
+
+msgid "Reset Objects"
+msgstr "オブジェクトをリセット"
+
+msgid "Registration reset objects"
+msgstr "レジストレーションでオブジェクトをリセット"
+
+msgid "Restore original position of both Reference and Floating objects."
+msgstr ""
+"参照オブジェクトとフローティングオブジェクトの両方の元の位置に戻します。"
+
+msgid "Mechanical Surface"
+msgstr "機械的サーフェス"
+
+msgid ""
+"This option works best for non-natural surfaces, where triangles have non-"
+"uniform shapes and sharp edges in between."
+msgstr ""
+"このオプションは非自然的なサーフェス（三角形の形状が不均一でシャープなエッジ"
+"がある）に最適です。"
+
+msgid "Organic Surface"
+msgstr "有機的サーフェス"
+
+msgid ""
+"This option works best for natural surfaces, where all triangles are close "
+"to equilateral and have similar area, and no sharp edges in between."
+msgstr ""
+"このオプションは自然的なサーフェス（すべての三角形がほぼ正三角形で面積が近"
+"く、シャープなエッジがない）に最適です。"
+
+msgid "Target Edge Length"
+msgstr "目標エッジ長"
+
+msgid ""
+"The algorithm will try to keep the length of all edges close to this value, "
+"splitting the edges longer than this value, and then eliminating the edges "
+"shorter than this value."
+msgstr ""
+"アルゴリズムはすべてのエッジ長をこの値に近づけようとし、この値より長いエッジ"
+"を分割し、短いエッジを除去します。"
+
+msgid "Preserve Sharpness"
+msgstr "シャープネスを維持"
+
+#, c++-format
+msgid "Edge flip is allowed if it changes dihedral angle no more than {}"
+msgstr "エッジの反転は二面角の変化が {} 以下の場合に許可されます"
+
+msgid "Project on Original Mesh"
+msgstr "元のメッシュに投影"
+
+msgid ""
+"If true, then every new vertex after subdivision will be projected on the "
+"original mesh (before smoothing); this does not affect the vertices moved on "
+"other stages of the processing."
+msgstr ""
+"有効の場合、細分化後のすべての新しい頂点が元のメッシュに投影されます（スムー"
+"ジング前）。処理の他の段階で移動した頂点には影響しません。"
+
+msgid "Max Boundary Shift"
+msgstr "最大境界シフト"
+
+msgid "Maximal shift of a boundary during one edge collapse."
+msgstr "1回のエッジ結合中の境界の最大シフト量。"
+
+msgid "Final Relax Iterations"
+msgstr "最終リラックス反復回数"
+
+msgid ""
+"The number of iterations of final relaxation of mesh vertices. Few "
+"iterations can give almost perfect uniformity of the vertices and edge "
+"lengths but deviate from the original surface."
+msgstr ""
+"メッシュ頂点の最終リラックスの反復回数。少ない反復でも頂点とエッジ長のほぼ完"
+"全な均一性が得られますが、元のサーフェスからの偏差が生じます。"
+
+msgid "No Shrinkage"
+msgstr "収縮なし"
+
+msgid ""
+"If checkbox is selected then the tool prevents the surface from shrinkage "
+"after many iterations."
+msgstr ""
+"チェックボックスを選択すると、多くの反復後にサーフェスが収縮するのを防ぎま"
+"す。"
+
+msgid "Remesh"
+msgstr "再メッシュ"
+
+msgid "All selected objects have only one component."
+msgstr "選択されたすべてのオブジェクトはコンポーネントが1つのみです。"
+
+msgid "Largest Component"
+msgstr "最大コンポーネント"
+
+msgid "Segment Mesh: Segment"
+msgstr "メッシュをセグメント化: セグメント"
+
+msgid ""
+"Direction should be approximately normal to next segment boundary, and "
+"oriented toward the part of the object you want to segment."
+msgstr ""
+"方向は次のセグメント境界にほぼ垂直で、セグメント化したいオブジェクトの部分に"
+"向いている必要があります。"
+
+msgid ""
+"Three components of direction vector, which should be approximately "
+"orthogonal to expected segment boundary"
+msgstr "予測されるセグメント境界にほぼ直交する方向ベクトルの3成分"
+
+msgid "Orient Direction vector to the current viewer position."
+msgstr "方向ベクトルを現在のビューアー位置に向けます。"
+
+msgid "Auto update to camera"
+msgstr "カメラに自動更新"
+
+msgid "Keep orienting Direction vector to viewer position."
+msgstr "方向ベクトルをビューアー位置に向け続けます。"
+
+msgid "Draw direction"
+msgstr "方向を描画"
+
+msgid "Show Direction vector in 3D scene using a cylinder."
+msgstr "3Dシーンでシリンダーを使用して方向ベクトルを表示します。"
+
+msgid "Show All Labels"
+msgstr "すべてのラベルを表示"
+
+msgid ""
+"Show labels for all points of all segments.\n"
+"If this option is disabled, labels will be displayed only for new and "
+"editable segments."
+msgstr ""
+"すべてのセグメントのすべてのポイントのラベルを表示します。\n"
+"このオプションが無効の場合、ラベルは新しいセグメントと編集可能なセグメントの"
+"みに表示されます。"
+
+msgid "Click nearby to move"
+msgstr "近くをクリックして移動"
+
+msgid "If activated, a selected point can be dragged if first clicked nearby."
+msgstr ""
+"有効にすると、選択したポイントを近くをクリックした後にドラッグできます。"
+
+#, c-format
+msgid "Hold %s to temporarily invert"
+msgstr "%s を押しながらで一時的に反転"
+
+msgid "Hide original object"
+msgstr "元のオブジェクトを非表示"
+
+msgid "Activate to observe other scene objects."
+msgstr "他のシーンオブジェクトを観察するには有効化してください。"
+
+msgid "Segmentation: new selection"
+msgstr "セグメンテーション: 新しい選択"
+
+msgid "Convert segments into face selection."
+msgstr "セグメントを面の選択に変換します。"
+
+msgid "Make objects"
+msgstr "オブジェクトを作成"
+
+msgid "Convert segments into scene objects."
+msgstr "セグメントをシーンオブジェクトに変換します。"
+
+msgid "Click LMB to create / move selected point"
+msgstr "左クリックで選択ポイントを作成/移動"
+
+msgid "Press and hold LMB to move selected / created point"
+msgstr "左ボタンを押したままで選択/作成したポイントを移動"
+
+msgid "Shift+Click LMB to select segment to add point at next click"
+msgstr "Shift+左クリックでセグメントを選択して次のクリックでポイントを追加"
+
+#, c-format
+msgid "%s+Click LMB on segment to remove it"
+msgstr "%s+左クリックでセグメントを削除"
+
+msgid "Segmentation: create objects"
+msgstr "セグメンテーション: オブジェクトを作成"
+
+msgid "Select Component"
+msgstr "コンポーネントを選択"
+
+msgid "Select Largest Selection"
+msgstr "最大の選択を選択"
+
+msgid "Maximum length of edges to be selected."
+msgstr "選択するエッジの最大長。"
+
+msgid "Select Short Edges"
+msgstr "短いエッジを選択"
+
+msgid "Close distance"
+msgstr "近接距離"
+
+msgid ""
+"Vertices located closer than this distance will be end-points of found twin "
+"edges"
+msgstr "この距離より近い頂点が見つかった双子エッジの端点になります"
+
+msgid "Select Twin Edges"
+msgstr "双子エッジを選択"
+
+msgid "Self-Boolean"
+msgstr "セルフブール演算"
+
+msgid "Number of tunnels"
+msgstr "トンネル数"
+
+msgid "Update tunnel contours"
+msgstr "トンネルコントアを更新"
+
+msgid "Select single tunnel"
+msgstr "単一トンネルを選択"
+
+msgid "Select loop ID"
+msgstr "ループIDを選択"
+
+msgid "Homology basis is empty"
+msgstr "ホモロジー基底が空です"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Select internal part"
+msgstr "内部を選択"
+
+msgid "Find signed distance"
+msgstr "符号付き距離を検出"
+
+msgid "Start"
+msgstr "開始"
+
+#, c-format
+msgid "Smart search time: %.3f ms"
+msgstr "スマート検索時間: %.3f ms"
+
+#, c-format
+msgid "Full search time: %.3f ms"
+msgstr "フル検索時間: %.3f ms"
+
+msgid "Simple Partial Offset"
+msgstr "シンプル部分オフセット"
+
+msgid "ObjectMesh has less than two holes"
+msgstr "ObjectMeshの穴が2つ未満です"
+
+msgid "Number of Holes: "
+msgstr "穴の数: "
+
+msgid "Select Holes by"
+msgstr "穴の選択方法"
+
+msgid ""
+"How you would like to select holes: mouse - in 3D view or by hole id in the "
+"dialog"
+msgstr "穴の選択方法: マウス（3Dビューで）またはダイアログで穴IDを指定"
+
+msgid "Triangulate only"
+msgstr "三角形分割のみ"
+
+msgid ""
+"Subdivision is stopped when all edges inside or on the boundary of the "
+"region are not longer than this value"
+msgstr ""
+"領域内または境界上のすべてのエッジがこの値以下になると細分化が停止します"
+
+msgid "Computes 1.5 of average edge length in the mesh"
+msgstr "メッシュの平均エッジ長の1.5倍を計算します"
+
+msgid ""
+"Make stitch over the holes smooth both inside and on its boundary with "
+"existed surface"
+msgstr "穴上のステッチを内部と既存サーフェスとの境界の両方で滑らかにします"
+
+msgid "Circumscribed"
+msgstr "外接"
+
+msgid ""
+"This metric minimizes the maximal dihedral angle between the faces in the "
+"triangulation and on its boundary, and it avoids creating too degenerate "
+"triangles. For planar holes it is the same as Circumscribed metric"
+msgstr ""
+"このメトリックは三角形分割内と境界上の面間の最大二面角を最小化し、過度に縮退"
+"した三角形の作成を避けます。平面的な穴では外接メトリックと同じです"
+
+msgid ""
+"This metric minimizes the sum of triangleMetric for all triangles in the "
+"triangulation plus the sum edgeMetric for all edges inside and on the "
+"boundary of the triangulation.\n"
+"Where\n"
+"  triangleMetric is proportional to weighted triangle area and triangle "
+"aspect ratio,\n"
+"  edgeMetric grows with angle between triangles as ( ( 1 - cos( x ) ) / ( 1 "
+"+ cos( x ) ) ) ^ 4"
+msgstr ""
+"このメトリックは三角形分割内のすべての三角形のtriangleMetricの合計と境界内外"
+"のすべてのエッジのedgeMetricの合計を最小化します。\n"
+"ここで\n"
+"  triangleMetricは重み付き三角形面積とアスペクト比に比例し、\n"
+"  edgeMetricは三角形間の角度とともに ( ( 1 - cos( x ) ) / ( 1 + cos( x ) ) ) "
+"^ 4 として増加します"
+
+msgid ""
+"This metric minimizes the sum of circumcircle radii for all triangles in the "
+"triangulation. It is rather fast to calculate, and it results in typically "
+"good triangulations"
+msgstr ""
+"このメトリックは三角形分割内のすべての三角形の外接円半径の合計を最小化しま"
+"す。計算が比較的速く、一般的に良好な三角形分割が得られます"
+
+msgid "Select a metric to be optimized during next hole stitching"
+msgstr "次の穴のステッチ時に最適化するメトリックを選択します"
+
+msgid "Stitch Holes"
+msgstr "穴をステッチ"
+
+msgid "Edge Weights Scheme"
+msgstr "エッジ重みスキーム"
+
+msgid ""
+"Choose if all the edges have unit weight or it depends on local geometry"
+msgstr ""
+"すべてのエッジが単位重みを持つか、ローカルジオメトリに依存するかを選択します"
+
+msgid "Stitch Two Holes failed"
+msgstr "2つの穴のステッチが失敗しました"
+
+msgid "Stitch Two Holes"
+msgstr "2つの穴をステッチ"
+
+msgid "Too few holes!"
+msgstr "穴が少なすぎます！"
+
+msgid "First Hole ID"
+msgstr "最初の穴のID"
+
+msgid "ID of the first hole to stitch"
+msgstr "ステッチする最初の穴のID"
+
+msgid "Second Hole ID"
+msgstr "2番目の穴のID"
+
+msgid "ID of the second hole to stitch"
+msgstr "ステッチする2番目の穴のID"
+
+msgid "Subdivide"
+msgstr "細分化"
+
+msgid "Max New Vertices"
+msgstr "最大新頂点数"
+
+msgid ""
+"0% - same subdivision everywhere, 100% - subdivision is much finer in the "
+"regions of high curvature compared to planar regions."
+msgstr ""
+"0%: 全体で均一な細分化、100%: 曲率の高い領域は平面的な領域と比較してより細か"
+"く細分化されます。"
+
+msgid "Smooth Mode"
+msgstr "スムースモード"
+
+msgid ""
+"Puts new vertices so that they form a smooth surface together with existing "
+"vertices. This option works best for natural surfaces without sharp edges in "
+"between triangles"
+msgstr ""
+"既存の頂点と合わせて滑らかなサーフェスを形成するように新しい頂点を配置しま"
+"す。このオプションは三角形間にシャープなエッジがない自然なサーフェスに最適で"
+"す"
+
+msgid ""
+"If selected, then every new vertex will be projected on the original mesh "
+"(before smoothing). This option works best for natural surfaces without "
+"sharp edges in between triangles"
+msgstr ""
+"選択した場合、すべての新しい頂点が元のメッシュに投影されます（スムージング"
+"前）。このオプションは三角形間にシャープなエッジがない自然なサーフェスに最適"
+"です"
+
+msgid ""
+"Edge flip is allowed if it changes dihedral angle no more than on this value "
+"in degrees"
+msgstr "エッジの反転はこの角度（度）以下の二面角変化の場合に許可されます"
+
+msgid "Min Sharp Dihedral Angle"
+msgstr "最小シャープ二面角"
+
+msgid ""
+"In case of activated Smooth Mode, the smoothness is locally deactivated at "
+"the edges having dihedral angle at least this value in degrees"
+msgstr ""
+"スムースモードが有効な場合、この角度（度）以上の二面角を持つエッジではスムー"
+"ジングが局所的に無効化されます"
+
+msgid "Max Tri Aspect Ratio"
+msgstr "最大三角形アスペクト比"
+
+msgid ""
+"The subdivision stops as soon as all triangles (in the region) have aspect "
+"ratio below or equal to this value"
+msgstr ""
+"領域内のすべての三角形のアスペクト比がこの値以下になると細分化が停止します"
+
+msgid "Selected Triangles Boundary"
+msgstr "選択三角形の境界"
+
+msgid "Selected Edges"
+msgstr "選択エッジ"
+
+msgid "Draw surface distance from user picked point."
+msgstr "ユーザーが選択したポイントからのサーフェス距離を描画します。"
+
+msgid "Draw surface distance from selected region boundary."
+msgstr "選択した領域の境界からのサーフェス距離を描画します。"
+
+msgid "Draw surface distance from selected edges."
+msgstr "選択したエッジからのサーフェス距離を描画します。"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Select the source from which surface distance will be measured."
+msgstr "サーフェス距離を計測するソースを選択します。"
+
+msgid "No"
+msgstr "なし"
+
+msgid "Do not draw any distance iso-line."
+msgstr "距離アイソラインを描画しません。"
+
+msgid "Draw exactly one distance iso-line with user defined value."
+msgstr "ユーザー定義の値で距離アイソラインを1本描画します。"
+
+msgid "Draw several distance iso-lines with fixed distance step."
+msgstr "固定距離ステップで複数の距離アイソラインを描画します。"
+
+msgid "Iso-lines"
+msgstr "アイソライン"
+
+msgid "Select whether to draw distance iso-lines."
+msgstr "距離アイソラインを描画するかどうかを選択します。"
+
+msgid "Iso-value"
+msgstr "アイソ値"
+
+msgid "Specify exact distance value to draw iso-line of that distance."
+msgstr "その距離のアイソラインを描画するための正確な距離値を指定します。"
+
+msgid "Cut & Select"
+msgstr "カットして選択"
+
+msgid "Cuts the mesh along shown iso-line and selects the region inside."
+msgstr ""
+"表示されたアイソラインに沿ってメッシュをカットし、内側の領域を選択します。"
+
+msgid "Number of Iso-lines"
+msgstr "アイソライン数"
+
+msgid "The number of distance iso-lines to draw on the surface"
+msgstr "サーフェスに描画する距離アイソラインの数"
+
+msgid "Max Vertex Updates"
+msgstr "最大頂点更新数"
+
+msgid ""
+"The maximum amount of times vertex distance can be updated. The more the "
+"better obtuse triangles are handled"
+msgstr "頂点距離を更新できる最大回数。多いほど鈍角三角形の処理が向上します"
+
+msgid "No boundary of selected triangles found"
+msgstr "選択した三角形の境界が見つかりません"
+
+msgid "No selected edges found"
+msgstr "選択されたエッジが見つかりません"
+
+msgid "Pick point on mesh..."
+msgstr "メッシュ上のポイントを選択..."
+
+msgid "Font"
+msgstr "フォント"
+
+msgid "Text Alignment"
+msgstr "テキスト配置"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Detalization"
+msgstr "詳細度"
+
+msgid "Thick modifier"
+msgstr "太さ修正量"
+
+msgid "Symbols thickness modifier (in units of base text height)"
+msgstr "記号の太さ修正量（ベーステキスト高さの単位）"
+
+msgid "Lines"
+msgstr "ライン"
+
+msgid "Result type"
+msgstr "結果の種類"
+
+msgid "Create text as ObjectMesh."
+msgstr "テキストをObjectMeshとして作成します。"
+
+msgid "Add text mesh"
+msgstr "テキストメッシュを追加"
+
+msgid "Add text lines"
+msgstr "テキストラインを追加"
+
+msgid "Click two points on the mesh surface to define the text direction."
+msgstr "メッシュサーフェス上の2点をクリックしてテキスト方向を定義します。"
+
+msgid "Drag the points to adjust direction as needed."
+msgstr "ポイントをドラッグして必要に応じて方向を調整します。"
+
+msgid "Applies only to multiline text"
+msgstr "複数行テキストにのみ適用されます"
+
+msgid "Depth (-)/Height (+) "
+msgstr "深さ (-)/高さ (+) "
+
+msgid "Spacing"
+msgstr "間隔"
+
+msgid "Real-Time Preview"
+msgstr "リアルタイムプレビュー"
+
+msgid "Font-based Size Calculation"
+msgstr "フォントベースのサイズ計算"
+
+msgid ""
+"If checked then size of each symbol will be calculated from font height, "
+"otherwise - on bounding box of the text"
+msgstr ""
+"チェックすると各記号のサイズがフォントの高さから計算されます。そうでない場合"
+"はテキストのバウンディングボックスから計算されます"
+
+msgid "Bend Text along Path"
+msgstr "パスに沿ってテキストを曲げる"
+
+msgid "Maximum movement"
+msgstr "最大移動量"
+
+msgid "Use Custom Normal"
+msgstr "カスタム法線を使用"
+
+msgid "Custom Normal"
+msgstr "カスタム法線"
+
+msgid "Add Text to Mesh"
+msgstr "メッシュにテキストを追加"
+
+msgid "Add Text to Scene"
+msgstr "シーンにテキストを追加"
+
+msgid "Regular"
+msgstr "レギュラー"
+
+msgid "Bold"
+msgstr "ボールド"
+
+msgid "Italic"
+msgstr "イタリック"
+
+msgid "BoldItalic"
+msgstr "ボールドイタリック"
+
+msgid "The current font does not support the following types: "
+msgstr "現在のフォントは次のタイプをサポートしていません: "
+
+msgid "Outside Offset"
+msgstr "外側オフセット"
+
+msgid "The amount of surface offset in the direction of normals."
+msgstr "法線方向のサーフェスオフセット量。"
+
+msgid "Inside Offset"
+msgstr "内側オフセット"
+
+msgid "The amount of surface offset in the opposite direction to normals."
+msgstr "法線の逆方向のサーフェスオフセット量。"
+
+msgid "Normals Trust"
+msgstr "法線の信頼度"
+
+msgid ""
+"This slider allows user to control over normal smoothing\n"
+"1%- more smoothing\n"
+"10% - default smoothing"
+msgstr ""
+"このスライダーで法線のスムージングを制御できます\n"
+"1%: より多くのスムージング\n"
+"10%: デフォルトのスムージング"
+
+msgid "Thicken"
+msgstr "肉厚化"
+
+msgid "Vertices located closer than this distance will be united"
+msgstr "この距離より近い頂点は統合されます"
+
+msgid "Only boundary vertices"
+msgstr "境界頂点のみ"
+
+msgid "If checked only boundary vertices can be united"
+msgstr "チェックすると境界頂点のみを統合できます"
+
+msgid "Unite Close Vertices"
+msgstr "近接頂点を統合"
+
+msgid "Selected mesh has only one component."
+msgstr "選択されたメッシュはコンポーネントが1つのみです。"
+
+msgid "Use Random Shifts"
+msgstr "ランダムシフトを使用"
+
+msgid ""
+"Apply random shift to each mesh, to prevent degenerations on coincident "
+"surfaces."
+msgstr ""
+"重なり合ったサーフェスの縮退を防ぐために各メッシュにランダムシフトを適用しま"
+"す。"
+
+msgid "Fix Degenerations"
+msgstr "縮退を修正"
+
+msgid ""
+"Try to fix degenerations after each boolean step, to prevent boolean failure "
+"due to high amount of degenerated faces."
+msgstr ""
+"縮退面が多い場合のブーリアン失敗を防ぐために、各ブーリアンステップ後に縮退を"
+"修正しようとします。"
+
+msgid ""
+"Max allowed random shifts in each direction, and max allowed deviation after "
+"degeneration fixing."
+msgstr "各方向の最大許容ランダムシフトと縮退修正後の最大許容偏差。"
+
+msgid "Merge"
+msgstr "マージ"
+
+msgid ""
+"Separate nested meshes and remove them, just like union operation should do, "
+"use this if input meshes are single component"
+msgstr ""
+"入力メッシュが単一コンポーネントの場合に使用します。ユニオン演算と同様に、ネ"
+"ストしたメッシュを分離して削除します"
+
+msgid ""
+"Merge nested meshes, useful if input meshes are components of single object"
+msgstr ""
+"ネストしたメッシュをマージします。入力メッシュが単一オブジェクトのコンポーネ"
+"ントの場合に有用です"
+
+msgid ""
+"Does not separate components and call union for all input meshes, works "
+"slower than Remove and Merge method but returns valid result if input meshes "
+"has multiple components"
+msgstr ""
+"コンポーネントを分離せずにすべての入力メッシュのユニオンを実行します。削除と"
+"マージ方法より遅いですが、入力メッシュが複数コンポーネントを持つ場合に有効な"
+"結果を返します"
+
+msgid "Nested Shells Mode"
+msgstr "ネストシェルモード"
+
+msgid "Determines how to handle nested shells."
+msgstr "ネストしたシェルの処理方法を決定します。"
+
+msgid "Merge on Fail"
+msgstr "失敗時にマージ"
+
+msgid ""
+"If boolean operation fails for some reason, merge shell instead of raising "
+"error."
+msgstr ""
+"ブーリアン演算が何らかの理由で失敗した場合、エラーを発生させる代わりにシェル"
+"をマージします。"
+
+msgid ""
+"Not recommended: if enabled - all holes will be closed during union "
+"operation."
+msgstr "非推奨: 有効にすると、ユニオン演算中にすべての穴が閉じられます。"
+
+msgid "Preserve Original Meshes"
+msgstr "元のメッシュを保持"
+
+msgid ""
+"If checked then original meshes will remain in scene in addition to united "
+"mesh."
+msgstr ""
+"チェックすると、統合されたメッシュに加えて元のメッシュがシーンに残ります。"
+
+msgid "Unite"
+msgstr "統合"
+
+msgid "Unite Many Meshes"
+msgstr "複数メッシュを統合"
+
+msgid "Mesh object does not have UV-coordinates for each vertex"
+msgstr "メッシュオブジェクトの各頂点にUV座標がありません"
+
+msgid "UV to XY"
+msgstr "UVをXYに"
+
+msgid "Initial Offset"
+msgstr "初期オフセット"
+
+msgid "Base Thickness"
+msgstr "基本肉厚"
+
+msgid "Additional Thickness"
+msgstr "追加肉厚"
+
+msgid "Offset From Mesh"
+msgstr "メッシュからのオフセット"
+
+msgid "Interpolation Distance"
+msgstr "補間距離"
+
+msgid "Generate Aligner"
+msgstr "アライナーを生成"
+
+msgid "Cannot create aligner"
+msgstr "アライナーを作成できません"
+
+msgid "Max Shift"
+msgstr "最大シフト"
+
+msgid ""
+"The shift of mesh parts orthogonal to Z-axis with normal against Z-axis. For "
+"other mesh parts the shift will be less and will depend on the angle between "
+"point pseudo-normal and Z-axis."
+msgstr ""
+"法線がZ軸に逆らうZ軸直交メッシュ部分のシフト量。他のメッシュ部分のシフトはよ"
+"り小さく、ポイントの擬似法線とZ軸の角度によって異なります。"
+
+msgid "Reduce self-intersections"
+msgstr "自己交差を減少"
+
+msgid ""
+"If selected, limits the movement of each vertex to reduce self-intersections "
+"in the mesh."
+msgstr ""
+"選択した場合、メッシュの自己交差を減らすために各頂点の移動を制限します。"
+
+msgid "Min Thickness"
+msgstr "最小厚み"
+
+msgid "Avoids moving a vertex closer than this distance to another triangle."
+msgstr "頂点を別の三角形からこの距離より近い位置に移動させないようにします。"
+
+msgid "Z-Compensate"
+msgstr "Z補正"
+
+msgid "Minimum Area"
+msgstr "最小面積"
+
+#, c-format
+msgid "%.6f sq. units"
+msgstr "%.6f 平方単位"
+
+msgid "Triangles Aspect Ratio"
+msgstr "三角形アスペクト比"
+
+msgid "Maximum Edge Length"
+msgstr "最大エッジ長"
+
+msgid "1% of tolerance"
+msgstr "許容差の1%"
+
+msgid "Subdivide mesh after fix to eliminate degeneracies that stayed."
+msgstr "修正後に残った縮退を除去するためにメッシュを細分化します。"
+
+msgid "Forced Fix"
+msgstr "強制修正"
+
+msgid ""
+"Try to fix this by removing bad triangles and their surroundings and filling "
+"resulting holes in last fix iteration.\n"
+"Only avalilable if Subdivide is enabled."
+msgstr ""
+"最後の修正反復で、不良三角形とその周囲を削除し生じた穴を塞ぐことで修正を試み"
+"ます。\n"
+"「細分化」が有効な場合のみ利用できます。"
+
+msgid "Mimic Patch"
+msgstr "パッチを模倣"
+
+msgid ""
+"In Force mode disables smoothing and makes patches closer to initial surface."
+msgstr ""
+"強制修正モードではスムージングを無効にし、パッチを初期サーフェスに近づけま"
+"す。"
+
+msgid "Minimum Perimeter"
+msgstr "最小外周"
+
+msgid "Inspect Loaded Meshes"
+msgstr "読み込んだメッシュを検査"
+
+msgid ""
+"Suggest using Mesh Healer tool if potential issues are present in loaded "
+"mesh."
+msgstr ""
+"読み込んだメッシュに潜在的な問題がある場合、Mesh Healerツールの使用を提案しま"
+"す。"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Iterations number when fixing defects by moving points"
+msgstr "ポイントを移動して欠陥を修正する際の反復回数"
+
+msgid "Max Triangles Expansion"
+msgstr "三角形の最大拡張範囲"
+
+msgid "Maximum size of affected area around self-intersecting faces"
+msgstr "自己交差面の周囲の影響を受ける領域の最大サイズ"
+
+msgid "Cut And Fill"
+msgstr "カットして塞ぐ"
+
+msgid ""
+"If set cuts selfies area and fills generated hole, otherwise just relaxes "
+"selfies area"
+msgstr ""
+"設定すると自己交差領域をカットして生じた穴を塞ぎます。設定しないと自己交差領"
+"域のみをリラックスします"
+
+msgid ""
+"In Cut And Fill mode disables smoothing and makes patches closer to initial "
+"surface."
+msgstr ""
+"「カットして塞ぐ」モードではスムージングを無効にし、パッチを初期サーフェスに"
+"近づけます。"
+
+msgid "Touches as Self-Intersections"
+msgstr "接触を自己交差として扱う"
+
+msgid "If set - detects coincident and touching faces as self-intersections"
+msgstr "設定すると、重なりまたは接触した面を自己交差として検出します"
+
+msgid "Maximum Tunnel Length"
+msgstr "最大トンネル長"
+
+msgid "Critical Thickness"
+msgstr "臨界厚み"
+
+msgid "Undercut Height"
+msgstr "アンダーカット高さ"
+
+msgid "Same as tolerance"
+msgstr "許容差と同じ"
+
+msgid "Undercut Distance"
+msgstr "アンダーカット距離"
+
+msgid "30% of tolerance"
+msgstr "許容差の30%"
+
+msgid "Axis"
+msgstr "軸"
+
+msgid "To X"
+msgstr "X方向"
+
+msgid "Set axis to X"
+msgstr "軸をXに設定"
+
+msgid "To Y"
+msgstr "Y方向"
+
+msgid "Set axis to Y"
+msgstr "軸をYに設定"
+
+msgid "To Z"
+msgstr "Z方向"
+
+msgid "Set axis to Z"
+msgstr "軸をZに設定"
+
+msgid "Set axis to camera"
+msgstr "軸をカメラに設定"
+
+msgid "To -X"
+msgstr "-X方向"
+
+msgid "Set axis to -X"
+msgstr "軸を-Xに設定"
+
+msgid "To -Y"
+msgstr "-Y方向"
+
+msgid "Set axis to -Y"
+msgstr "軸を-Yに設定"
+
+msgid "To -Z"
+msgstr "-Z方向"
+
+msgid "Set axis to -Z"
+msgstr "軸を-Zに設定"
+
+msgid "Switch Mesh Healer on the selected mesh?"
+msgstr "選択したメッシュのMesh Healerを切り替えますか？"
+
+msgid "Switch"
+msgstr "切り替え"
+
+msgid "Computation is in progress..."
+msgstr "計算中..."
+
+msgid "Object"
+msgstr "オブジェクト"
+
+msgid "Inspect and Repair"
+msgstr "検査と修復"
+
+msgid "Advanced Mode"
+msgstr "詳細モード"
+
+msgid "Repair Selected"
+msgstr "選択を修復"
+
+msgid "Selection"
+msgstr "選択"
+
+msgid "Save Selection on Exit"
+msgstr "終了時に選択を保存"
+
+msgid "Save selection after closing the tool."
+msgstr "ツールを閉じた後に選択を保存します。"
+
+msgid "Mesh Healer: Delete Selection"
+msgstr "Mesh Healer: 選択を削除"
+
+msgid ""
+"Deletes faces that are now selected in mesh, it could simplify fixing some "
+"issues.\n"
+"(Del)"
+msgstr ""
+"メッシュで現在選択されている面を削除します。一部の問題の修正を簡素化できま"
+"す。\n"
+"(Del)"
+
+msgid "Printability Checks"
+msgstr "印刷可能性チェック"
+
+msgid "Restart on Mesh Selection Change"
+msgstr "メッシュ選択変更時に再起動"
+
+msgid ""
+"The Mesh Healer tool will automatically restart when you select a different "
+"mesh from the list."
+msgstr ""
+"リストから別のメッシュを選択すると、Mesh Healerツールが自動的に再起動します。"
+
+msgid "Save Settings"
+msgstr "設定を保存"
+
+msgid "Load Settings"
+msgstr "設定を読み込む"
+
+msgid "Auto Rebuild Model"
+msgstr "モデルを自動再構築"
+
+msgid "Select Mesh Issues"
+msgstr "メッシュの問題を選択"
+
+msgid "MeshHealer: deselect"
+msgstr "MeshHealer: 選択解除"
+
+msgid "Inspect"
+msgstr "検査"
+
+msgid "Update Checked"
+msgstr "チェック済みを更新"
+
+msgid "Some mesh issues remain. Please consider using Rebuild Model"
+msgstr "メッシュの問題が残っています。「モデルを再構築」の使用をご検討ください"
+
+msgid "Repair Resolution"
+msgstr "修復解像度"
+
+msgid ""
+"Maximum distance the healed mesh may deviate from the original surface "
+"(tolerance). Choose a value that matches or is finer than your intended "
+"printing resolution."
+msgstr ""
+"修復されたメッシュが元のサーフェスから許容できる最大距離（許容差）。意図した"
+"印刷解像度と同じかそれより細かい値を選択してください。"
+
+msgid "Show Deviation Map"
+msgstr "偏差マップを表示"
+
+msgid ""
+"Visualize differences between the original and repaired mesh. Red highlights "
+"areas where the mesh has been added, while blue shows where material has "
+"been removed. This color-coded map helps you easily spot changes."
+msgstr ""
+"元のメッシュと修復されたメッシュの差異を可視化します。赤はメッシュが追加され"
+"た領域を、青は材料が削除された領域を示します。このカラーマップで変更箇所を簡"
+"単に確認できます。"
+
+msgid "Discrete Palette"
+msgstr "離散パレット"
+
+msgid ""
+"If checked, palette will have several discrete levels. Otherwise it will be "
+"smooth."
+msgstr ""
+"チェックすると、パレットは複数の離散レベルを持ちます。それ以外の場合はスムー"
+"ズになります。"
+
+msgid "Local Repair"
+msgstr "ローカル修復"
+
+msgid ""
+"Fixes mesh inconsistencies locally, without altering the entire model. You "
+"can choose to repair all or only selected types of issues."
+msgstr ""
+"モデル全体を変更せずに、メッシュの不整合をローカルに修正します。すべての問題"
+"または選択した種類の問題のみを修復するか選択できます。"
+
+msgid "Auto Repair"
+msgstr "自動修復"
+
+msgid ""
+"Rebuilds the entire model, resolving all mesh issues based on the selected "
+"printing resolution. Higher accuracy improves precision but may increase "
+"computation time."
+msgstr ""
+"選択した印刷解像度に基づいてすべてのメッシュ問題を解決し、モデル全体を再構築"
+"します。精度を高めると精度が向上しますが、計算時間が増加する場合があります。"
+
+msgid "Detection Settings"
+msgstr "検出設定"
+
+msgid "Repair Settings"
+msgstr "修復設定"
+
+msgid "How to convert intermediate voxels representation into final mesh"
+msgstr "中間ボクセル表現を最終メッシュに変換する方法"
+
+msgid "Close All Holes"
+msgstr "すべての穴を閉じる"
+
+msgid ""
+"Whether to close all holes (even larger than the threshold in settings) in "
+"generalized winding number mode."
+msgstr ""
+"一般化ワインディングナンバーモードで、すべての穴（設定のしきい値より大きいも"
+"のも含む）を閉じるかどうか。"
+
+msgid "Auto Repair Mesh"
+msgstr "メッシュを自動修復"
+
+msgid "Repair Mesh"
+msgstr "メッシュを修復"
+
+msgid "Disconnected Parts"
+msgstr "切り離された部分"
+
+msgid ""
+"When mesh components intersect, they can cause 3D printing problems. Mesh "
+"Healer fixes this by joining large intersecting parts through Boolean Union "
+"operations and removing smaller ones."
+msgstr ""
+"メッシュコンポーネントが交差すると、3D印刷の問題を引き起こす可能性がありま"
+"す。Mesh Healerはこれを修正し、大きく交差する部分はブール和演算で結合し、小さ"
+"い部分は削除します。"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small components are removed during repair operation."
+msgstr "小さなコンポーネントは修復処理中に削除されます。"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Large components are united during repair operation."
+msgstr "大きなコンポーネントは修復処理中に結合されます。"
+
+msgid ""
+"Holes can disrupt workflows. Mesh Healer fills small holes to ensure model "
+"integrity."
+msgstr ""
+"穴はワークフローを妨げる可能性があります。Mesh Healerはモデルの整合性を確保す"
+"るために小さな穴を塞ぎます。"
+
+msgid "Small holes are filled during repair operation."
+msgstr "小さな穴は修復処理中に塞がれます。"
+
+msgid "To fix large holes please go to Fill Holes plugin or rebuild model."
+msgstr ""
+"大きな穴を修正するには「穴を塞ぐ」プラグインを使うか、モデルを再構築してくだ"
+"さい。"
+
+msgid "Self-Intersections"
+msgstr "自己交差"
+
+msgid ""
+"Self-intersections create geometric irregularities that Mesh Healer resolves "
+"by optimizing the model's topology."
+msgstr ""
+"自己交差は幾何学的な不整合を生み出し、Mesh Healerはモデルのトポロジーを最適化"
+"することでこれを解消します。"
+
+msgid "Zero-Area Triangles"
+msgstr "面積ゼロの三角形"
+
+msgid ""
+"Zero-Area Triangles (degeneracies) are situations where geometric elements, "
+"such as points, lines, or faces, become less well-defined, which can lead to "
+"inaccuracies and errors. Mesh Healer address degeneracies by automatically "
+"resolving them."
+msgstr ""
+"面積ゼロの三角形(縮退)とは、点・線・面などの幾何学的要素の定義が不十分になる"
+"状態であり、不正確さやエラーの原因となり得ます。Mesh Healerは縮退を自動的に解"
+"消して対処します。"
+
+msgid "Flipped Normals"
+msgstr "反転した法線"
+
+msgid ""
+"Flipped normals can cause incorrect geometry interpretation. Mesh Healer "
+"detects and corrects flipped normals to ensure proper surface orientation."
+msgstr ""
+"反転した法線はジオメトリの誤った解釈を招くことがあります。Mesh Healerは反転し"
+"た法線を検出・修正して、正しいサーフェスの向きを確保します。"
+
+msgid "Small Tunnels"
+msgstr "小さなトンネル"
+
+msgid ""
+"Small tunnel faces can be problematic as they may lead to printing "
+"difficulties, rendering artifacts, or inaccuracies in simulations, "
+"potentially compromising the overall quality and functionality of the model. "
+"Mesh Healer address small tunnel faces to ensure a more robust and reliable "
+"representation."
+msgstr ""
+"小さなトンネル面は、印刷の困難、レンダリング上のアーティファクト、シミュレー"
+"ションの不正確さを引き起こし、モデル全体の品質と機能性を損なう可能性がありま"
+"す。Mesh Healerは小さなトンネル面に対処し、より堅牢で信頼性の高い表現を確保し"
+"ます。"
+
+msgid "Undercuts"
+msgstr "アンダーカット"
+
+msgid ""
+"Undercuts can be problematic in 3D printing and manufacturing processes "
+"because they can hinder the removal of support structures, complicate mold "
+"design for traditional manufacturing methods like injection molding, and may "
+"require additional processing steps to address the challenges posed by the "
+"geometry, potentially increasing production time and costs."
+msgstr ""
+"アンダーカットは、3D印刷や製造工程において問題となる場合があります。サポート"
+"構造の除去を妨げ、射出成形のような従来の製造方法で金型設計を複雑にし、形状由"
+"来の課題に対処するための追加工程を要するため、生産時間とコストを増加させる可"
+"能性があります。"
+
+msgid "Thin Walls"
+msgstr "薄い壁"
+
+msgid ""
+"Highlights areas with thin walls that may cause weak structures, durability "
+"issues, and printing or assembly challenges."
+msgstr ""
+"構造の脆弱化、耐久性の問題、印刷や組み立ての困難を招く可能性のある、薄い壁の"
+"領域を強調表示します。"
+
+msgid "Apply Transform"
+msgstr "変換を適用"
+
+msgid ""
+"You are about to apply transformation to a voxel object. Due to the nature "
+"of voxels representation in Mesh Inspector, voxels will be additionally "
+"moved so that no data has negative coordinate by any of dimensions"
+msgstr ""
+"ボクセルオブジェクトに変換を適用しようとしています。Mesh Inspectorにおけるボ"
+"クセル表現の性質上、どの次元でもデータが負の座標を持たないようにボクセルが追"
+"加で移動されます"
+
+msgid "To Components"
+msgstr "コンポーネントに分割"
+
+msgid "Textures have been deleted because they require too much memory"
+msgstr "テクスチャは大量のメモリを必要とするため削除されました"
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} component. You can select any of output objects and "
+"split it again."
+msgid_plural ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr[0] ""
+"初期オブジェクトに連結成分が多すぎるため、各出力オブジェクトは最大 {} 個のコ"
+"ンポーネントを持てます。出力オブジェクトを選択して再度分割できます。"
+
+msgid ""
+"There are too many connected components in initial object, so smaller "
+"components were collected in additional resulting objects."
+msgstr ""
+"初期オブジェクトに連結成分が多すぎるため、小さいコンポーネントは追加の結果オ"
+"ブジェクトにまとめられました。"
+
+msgid "At least one closed contour required."
+msgstr "閉じた輪郭が少なくとも1つ必要です。"
+
+msgid "Planar Processing"
+msgstr "平面処理"
+
+msgid ""
+"If selected all contours will be considered planar and they will be "
+"triangulated together allowing for inner holes and self-intersections among "
+"contours.\n"
+"If unselected each contour will be triangulated by its own."
+msgstr ""
+"選択すると、すべての輪郭が平面とみなされ、輪郭間の内側の穴や自己交差を許容し"
+"て一緒に三角分割されます。\n"
+"選択しない場合は、各輪郭が個別に三角分割されます。"
+
+msgid "Thick Mesh"
+msgstr "厚みのあるメッシュ"
+
+msgid ""
+"If selected the mesh will be closed and have given thickness.\n"
+"If unselected the mesh is planar with open boundary."
+msgstr ""
+"選択すると、メッシュは閉じられ指定された厚みを持ちます。\n"
+"選択しない場合、メッシュは開放境界の平面になります。"
+
+msgid ""
+"Repeat the polyline shifted at this distance to get the other end of the "
+"mesh."
+msgstr ""
+"この距離だけシフトしたポリラインを繰り返してメッシュのもう一方の端を取得しま"
+"す。"
+
+msgid "Lines to Mesh"
+msgstr "ラインをメッシュに変換"
+
+msgid "Make Convex Hull"
+msgstr "凸包を作成"
+
+msgid "At least one object with colors must be selected"
+msgstr "色を持つオブジェクトを少なくとも1つ選択する必要があります"
+
+msgid "Delete Colors"
+msgstr "色を削除"
+
+msgid "Flip normals"
+msgstr "法線を反転"
+
+msgid "Flip All"
+msgstr "すべて反転"
+
+msgid "Flip all normal on object"
+msgstr "オブジェクト上のすべての法線を反転"
+
+msgid "Flip Selected Components"
+msgstr "選択したコンポーネントを反転"
+
+msgid "Flip normals selected components"
+msgstr "選択コンポーネントの法線を反転"
+
+msgid "Flip normal on component with selected face"
+msgstr "選択した面を持つコンポーネントの法線を反転"
+
+msgid "Flip normal on picked component"
+msgstr "選択したコンポーネントの法線を反転"
+
+msgid "Click on the components to change the normals"
+msgstr "コンポーネントをクリックして法線を変更します"
+
+msgid "Flip normal picked component"
+msgstr "選択コンポーネントの法線を反転"
+
+msgid "Combine"
+msgstr "結合"
+
+msgid ""
+"Too many points in PointCloud:\n"
+"Visualization is simplified (only part of the points is drawn)"
+msgstr ""
+"ポイントクラウドのポイント数が多すぎます:\n"
+"可視化が簡略化されています（一部のポイントのみが描画されます）"
+
+msgid ""
+"Some input point have normals and some others do not, all normals are lost"
+msgstr ""
+"一部の入力ポイントには法線があり、他にはありません。すべての法線が失われます"
+
+msgid "Delete by Normal"
+msgstr "法線により削除"
+
+msgid "Move to Zero"
+msgstr "ゼロに移動"
+
+msgid "Copies"
+msgstr "コピー数"
+
+msgid "Parameters"
+msgstr "パラメーター"
+
+msgid "Translation"
+msgstr "平行移動"
+
+msgid "Rotation Pivot"
+msgstr "回転軸"
+
+msgid "Rotation Angles"
+msgstr "回転角度"
+
+msgid "Multi Clone"
+msgstr "複数クローン"
+
+msgid "Optimize"
+msgstr "最適化"
+
+msgid "All selected point clouds don't have normals"
+msgstr "選択したすべてのポイントクラウドに法線がありません"
+
+msgid "All point clouds already don't have normals"
+msgstr "すべてのポイントクラウドにはすでに法線がありません"
+
+msgid "Remove normals"
+msgstr "法線を削除"
+
+msgid "Selfy Contours"
+msgstr "自己交差輪郭"
+
+msgid "No self-intersections found"
+msgstr "自己交差は見つかりませんでした"
+
+msgid "Separate Teeth"
+msgstr "歯を分離"
+
+msgid "All selected objects do not have vertex colors."
+msgstr "選択したすべてのオブジェクトに頂点カラーがありません。"
+
+msgid "Separate Teeth Margins"
+msgstr "歯のマージンを分離"
+
+msgid "Straighten boundary"
+msgstr "境界を直線化"
+
+msgid "Selected ObjectMesh should have selected faces."
+msgstr "選択したオブジェクトメッシュには選択された面が必要です。"
+
+msgid "Smooth Region Boundary"
+msgstr "領域境界を平滑化"
+
+msgid "Only mesh objects must be selected"
+msgstr "メッシュオブジェクトのみを選択する必要があります"
+
+msgid "At least one selected mesh object must be colored using a texture"
+msgstr ""
+"選択したメッシュオブジェクトのうち少なくとも1つはテクスチャで着色されている必"
+"要があります"
+
+msgid "Texture to Vertex Colors"
+msgstr "テクスチャから頂点カラーへ"
+
+msgid ""
+"At least one selected mesh object must be colored using a faces color map"
+msgstr ""
+"選択したメッシュオブジェクトのうち少なくとも1つは面カラーマップで着色されてい"
+"る必要があります"
+
+msgid "Faces to Vertex Colors"
+msgstr "面カラーから頂点カラーへ"
+
+msgid "Cannot read Build Plate config: "
+msgstr "ビルドプレート設定を読み取れません: "
+
+msgid "Select Existing"
+msgstr "既存を選択"
+
+msgid "Name "
+msgstr "名前 "
+
+msgid "Min Interval"
+msgstr "最小間隔"
+
+msgid "Slicing Step"
+msgstr "スライスステップ"
+
+msgid "3D Plate"
+msgstr "3Dプレート"
+
+msgid "Cannot remove Build Plate config: "
+msgstr "ビルドプレート設定を削除できません: "
+
+msgid "Cannot rename Build Plate config: "
+msgstr "ビルドプレート設定の名前を変更できません: "
+
+msgid "Common Rotation"
+msgstr "共通回転"
+
+msgid "Angle XYZ"
+msgstr "XYZ角度"
+
+msgid "Apply to All"
+msgstr "すべてに適用"
+
+msgid "Apply Common Rotation"
+msgstr "共通回転を適用"
+
+msgid "Allow 3D Nesting"
+msgstr "3Dネスティングを許可"
+
+msgid "Selected Build Plate does not allow 3d nesting"
+msgstr "選択したビルドプレートは3Dネスティングに対応していません"
+
+msgid "Order Nesting by Volume"
+msgstr "体積順にネスティング"
+
+msgid ""
+"If enabled - nests objects in the order of decreasing volume, otherwise "
+"nests them in scene tree order"
+msgstr ""
+"有効にすると、体積の降順でオブジェクトをネスティングします。それ以外の場合は"
+"シーンツリー順にネスティングします"
+
+msgid "Allow XY Rotation for Auto Nesting"
+msgstr "自動ネスティングでXY回転を許可"
+
+msgid "Use Neighbours Density Metric"
+msgstr "近傍密度メトリックを使用"
+
+msgid ""
+"If enabled - prefers to nest next meshes with maximum neighborhood density"
+msgstr ""
+"有効にすると、最大近傍密度で次のメッシュをネスティングすることを優先します"
+
+msgid "Check Less Combinations"
+msgstr "チェックする組み合わせを減らす"
+
+msgid "Group Size"
+msgstr "グループサイズ"
+
+msgid "Nest each group of this size independently"
+msgstr "このサイズの各グループを独立してネスティングします"
+
+msgid "Max Groups [DEBUG]"
+msgstr "最大グループ数 [デバッグ]"
+
+msgid "Uniform Nesting"
+msgstr "均一ネスティング"
+
+msgid ""
+"If enabled - tries to find better interval for more uniform objects "
+"distribution in the nest"
+msgstr ""
+"有効にすると、ネスト内でオブジェクトをより均一に分布させるための適切な間隔を"
+"見つけようとします"
+
+msgid "Tetris based Densify"
+msgstr "テトリス方式の密度向上"
+
+msgid "If enabled - tries to densify nesting after each added group"
+msgstr ""
+"有効にすると、グループを追加するたびにネスティングを高密度化しようとします"
+
+msgid "Reset Transformations on Exit"
+msgstr "終了時に変換をリセット"
+
+msgid "Last \"Auto Nest\" status"
+msgstr "最後の「自動ネスト」ステータス"
+
+msgid "Auto Nest"
+msgstr "自動ネスト"
+
+#, c++-format
+msgid "{}/{} nested"
+msgstr "{}/{} ネスト済み"
+
+#, c++-format
+msgid "{} object was not nested"
+msgid_plural "{} objects were not nested"
+msgstr[0] "{} 個のオブジェクトがネストされませんでした"
+
+msgid "Current Group [DEBUG]"
+msgstr "現在のグループ [デバッグ]"
+
+msgid "Num Step"
+msgstr "ステップ数"
+
+msgid "Nest Next Group [DEBUG]"
+msgstr "次のグループをネスト [デバッグ]"
+
+msgid "Nest Single Group"
+msgstr "単一グループをネスト"
+
+msgid "Print Name"
+msgstr "印刷名"
+
+msgid "Export Only Nested"
+msgstr "ネスト済みのみエクスポート"
+
+msgid "Export Manifest Files"
+msgstr "マニフェストファイルをエクスポート"
+
+msgid ""
+"This feature is not available in Web version, consider using desktop "
+"application in order to export manifest files"
+msgstr ""
+"この機能はWebバージョンでは利用できません。マニフェストファイルをエクスポート"
+"するにはデスクトップアプリケーションをご利用ください"
+
+msgid "Remove Nested from Scene after Export"
+msgstr "エクスポート後にネスト済みをシーンから削除"
+
+msgid "Fixing"
+msgstr "修正中"
+
+msgid "Max Hole Perimeter"
+msgstr "最大穴周囲長"
+
+msgid "Healing will fill all holes with perimeter less or equal to this value"
+msgstr "修復により、この値以下の周囲長を持つすべての穴が埋められます"
+
+msgid "Max Component Area Ratio"
+msgstr "最大コンポーネント面積比"
+
+msgid ""
+"Healing will remove components with area less this percent of total model "
+"area"
+msgstr ""
+"修復により、総モデル面積のこのパーセント未満の面積を持つコンポーネントが削除"
+"されます"
+
+msgid "Fix All"
+msgstr "すべて修正"
+
+msgid "There is no nested models"
+msgstr "ネストされたモデルがありません"
+
+msgid "Max Slice Deviation"
+msgstr "スライスの最大偏差"
+
+msgid ""
+"Maximum deviation allowed when decimating exported 3mf slices. Set 0 to "
+"disable slice decimation."
+msgstr ""
+"エクスポートする 3mf スライスを間引く際に許容される最大偏差。0 に設定するとス"
+"ライスの間引きを無効にします。"
+
+msgid "Please specify valid slice step to export slicestack 3mf"
+msgstr ""
+"スライススタック3mfをエクスポートするために有効なスライスステップを指定してく"
+"ださい"
+
+msgid "Import Config"
+msgstr "設定をインポート"
+
+msgid "Reset Nesting"
+msgstr "ネスティングをリセット"
+
+msgid "Remove Nested Models"
+msgstr "ネストされたモデルを削除"
+
+msgid "Remove Nested Models & Reset Others"
+msgstr "ネストされたモデルを削除し、他をリセット"
+
+msgid "Move objects to nest center"
+msgstr "オブジェクトをネスト中心に移動"
+
+msgid "Orient to Plane"
+msgstr "平面に向ける"
+
+msgid "Nesting: Fix"
+msgstr "ネスティング: 修正"
+
+msgid "Click to open"
+msgstr "クリックして開く"
+
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "System Information"
+msgstr "システム情報"
+
+msgid "Operating System"
+msgstr "オペレーティングシステム"
+
+msgid "Files and Directories"
+msgstr "ファイルとディレクトリ"
+
+msgid "Resources Directory"
+msgstr "リソースディレクトリ"
+
+msgid "Config Directory"
+msgstr "設定ディレクトリ"
+
+msgid "Log File"
+msgstr "ログファイル"
+
+msgid "Model Name"
+msgstr "モデル名"
+
+msgid "Concurrent Threads"
+msgstr "同時スレッド数"
+
+msgid "Graphics"
+msgstr "グラフィックス"
+
+msgid "OpenGL Vendor"
+msgstr "OpenGLベンダー"
+
+msgid "OpenGL Renderer"
+msgstr "OpenGLレンダラー"
+
+msgid "OpenGL Version"
+msgstr "OpenGLバージョン"
+
+msgid "CUDA Versions"
+msgstr "CUDAバージョン"
+
+msgid "CUDA Compute Capability"
+msgstr "CUDA演算能力"
+
+msgid "CUDA Memory"
+msgstr "CUDAメモリ"
+
+msgid "Display"
+msgstr "ディスプレイ"
+
+msgid "Framebuffer Size"
+msgstr "フレームバッファサイズ"
+
+msgid "Window Size"
+msgstr "ウィンドウサイズ"
+
+msgid "Pixel Ratio"
+msgstr "ピクセル比"
+
+msgid "System Scaling"
+msgstr "システムスケーリング"
+
+msgid "Menu Scaling"
+msgstr "メニュースケーリング"
+
+msgid "System Memory"
+msgstr "システムメモリ"
+
+msgid "Virtual Memory Total"
+msgstr "仮想メモリ合計"
+
+msgid "Virtual Memory Available"
+msgstr "仮想メモリ空き"
+
+msgid "Physical Memory Total"
+msgstr "物理メモリ合計"
+
+msgid "Physical Memory Available"
+msgstr "物理メモリ空き"
+
+msgid "Process Memory"
+msgstr "プロセスメモリ"
+
+msgid "Peak Virtual Memory"
+msgstr "仮想メモリピーク"
+
+msgid "Current Virtual Memory"
+msgstr "現在の仮想メモリ"
+
+msgid "Peak Physical Memory"
+msgstr "物理メモリピーク"
+
+msgid "Current Physical Memory"
+msgstr "現在の物理メモリ"
+
+msgid "History Store Memory"
+msgstr "履歴保存メモリ"
+
+msgid "Currently Used"
+msgstr "現在使用中"
+
+msgid "Maximum Limit"
+msgstr "最大制限"
+
+#, c++-format
+msgid ""
+"Click to open release page\n"
+"{}+Click to open commit page"
+msgstr ""
+"クリックしてリリースページを開く\n"
+"{}+クリックしてコミットページを開く"
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgid "Blending"
+msgstr "ブレンディング"
+
+msgid "Add layer"
+msgstr "レイヤーを追加"
+
+msgid "Remove layer"
+msgstr "レイヤーを削除"
+
+msgid "Reset coloring"
+msgstr "着色をリセット"
+
+msgid "Brush size"
+msgstr "ブラシサイズ"
+
+#, c-format
+msgid "Hold %s to erase"
+msgstr "%s を押しながら消去"
+
+#, c-format
+msgid "Drag with Shift - faster, %s - slower"
+msgstr "Shiftを押しながらドラッグ - 速く、%s - 遅く"
+
+msgid "PivotPoint"
+msgstr "ピボットポイント"
+
+#, c-format
+msgid ""
+"Parameter of relative text box to text position point\n"
+"min value [0, 0] - text position point is left-down corner of text box\n"
+"max value [1, 1] - text position point is right - up corner\n"
+"Drag with Shift - faster, %s - slower"
+msgstr ""
+"テキストボックスとテキスト位置ポイントの相対パラメーター\n"
+"最小値 [0, 0] - テキスト位置ポイントはテキストボックスの左下隅\n"
+"最大値 [1, 1] - テキスト位置ポイントは右上隅\n"
+"Shiftを押しながらドラッグ - 速く、%s - 遅く"
+
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgid "Source point width"
+msgstr "始点の幅"
+
+msgid "Leader line width"
+msgstr "引出線の幅"
+
+msgid "Background padding"
+msgstr "背景パディング"
+
+msgid "Change label"
+msgstr "ラベルを変更"
+
+msgid "Scale model"
+msgstr "モデルをスケール"
+
+msgid "Reset view"
+msgstr "ビューをリセット"
+
+msgid "Image to front plane"
+msgstr "正面平面にイメージ"
+
+msgid "Force default"
+msgstr "デフォルトを強制"
+
+msgid "Image pos"
+msgstr "イメージ位置"
+
+msgid "Model pos"
+msgstr "モデル位置"
+
+msgid "Model quat"
+msgstr "モデルクォータニオン"
+
+msgid "Align position of object, image of object and camera."
+msgstr "オブジェクト、オブジェクトのイメージ、カメラの位置を整列します。"
+
+msgid "Embedded python is not available"
+msgstr "組み込みPythonは利用できません"
+
+msgid "Output:"
+msgstr "出力:"
+
+msgid "Open File"
+msgstr "ファイルを開く"
+
+msgid "Save Script"
+msgstr "スクリプトを保存"
+
+msgid "Load Example"
+msgstr "例を読み込む"
+
+msgid "Clear Output"
+msgstr "出力をクリア"
+
+msgid "Surface Point Cloud"
+msgstr "サーフェスポイントクラウド"
+
+msgid "Directions Point Cloud"
+msgstr "方向ポイントクラウド"
+
+msgid "Distances"
+msgstr "距離"
+
+msgid "Create Mesh"
+msgstr "メッシュを作成"
+
+msgid "Status: "
+msgstr "ステータス: "
+
+msgid "Common Settings"
+msgstr "共通設定"
+
+msgid "Tool Diameter"
+msgstr "ツール直径"
+
+msgid "Radius of the milling tool"
+msgstr "フライス工具の半径"
+
+msgid "Size of voxel needed to offset mesh"
+msgstr "メッシュをオフセットするために必要なボクセルサイズ"
+
+msgid "Step Over"
+msgstr "ステップオーバー"
+
+msgid "Distance between sections built along Z axis"
+msgstr "Z軸に沿って構築されるセクション間の距離"
+
+msgid "Critical Length"
+msgstr "臨界長さ"
+
+msgid ""
+"If distance to the next section is smaller than it, transition will be "
+"performed along the surface.Otherwise transition will be through the safe "
+"plane"
+msgstr ""
+"次のセクションまでの距離がこれより小さい場合、遷移はサーフェスに沿って行われ"
+"ます。それ以外の場合は安全平面を通じて遷移します"
+
+msgid "Safe Z"
+msgstr "安全Z"
+
+msgid ""
+"Z-coordinate of plane where tool can move in any direction without touching "
+"the object"
+msgstr "工具がオブジェクトに触れることなくどの方向にも移動できる平面のZ座標"
+
+msgid "Use Flat Tool"
+msgstr "フラットエンドミルを使用"
+
+msgid "Generate toolpath for the flat milling tool"
+msgstr "フラットエンドミル用の工具経路を生成します"
+
+msgid "Type of Tool Path"
+msgstr "工具経路の種類"
+
+msgid "Constant Z"
+msgstr "一定Z"
+
+msgid "Lacing"
+msgstr "ラッシング"
+
+msgid "Constant Cusp"
+msgstr "一定カスプ"
+
+msgid "Bypass Direction"
+msgstr "バイパス方向"
+
+msgid "Which direction isolines or sections should be passed in"
+msgstr "等値線またはセクションを通過する方向"
+
+msgid "Clockwise"
+msgstr "時計回り"
+
+msgid "Counterclockwise"
+msgstr "反時計回り"
+
+msgid "Lacing Direction"
+msgstr "ラッシング方向"
+
+msgid "Axis X"
+msgstr "X軸"
+
+msgid "Axis Y"
+msgstr "Y軸"
+
+msgid "Toolpath in Empty Areas"
+msgstr "空き領域の工具経路"
+
+msgid "Create toolpath to mill excess material to make empty areas."
+msgstr "空き領域を作るために余分な材料を削る工具経路を作成します。"
+
+msgid "Toolpath Expansion"
+msgstr "工具経路の拡張"
+
+msgid ""
+"Expansion of the area in which the toolpath is created.\n"
+"The area has the shape of a box."
+msgstr ""
+"工具経路が作成される領域の拡張。\n"
+"領域はボックスの形状です。"
+
+msgid "Mill From Center To Boundary"
+msgstr "中心から境界に向かってフライス加工"
+
+msgid ""
+"If checked then isolines will be processed from center point to the boundary "
+"(usually it means from up to down)"
+msgstr ""
+"チェックすると、等値線は中心点から境界に向けて処理されます（通常は上から下を"
+"意味します）"
+
+msgid "Interpolate Lines"
+msgstr "線を補間"
+
+msgid "Line Interp. Tolerance"
+msgstr "線補間許容差"
+
+msgid "Maximal deviation of line from given path"
+msgstr "指定された経路からの線の最大偏差"
+
+msgid "Maximal Line Length"
+msgstr "最大線長"
+
+msgid "Segments longer than this value will not be optimized"
+msgstr "この値より長いセグメントは最適化されません"
+
+msgid "Interpolate Arcs"
+msgstr "円弧で補間"
+
+msgid "Appropriate segments of the tool path with be interpolated with arcs"
+msgstr "工具経路の適切なセグメントは円弧で補間されます"
+
+msgid "Arc Interp. Tolerance"
+msgstr "円弧補間許容差"
+
+msgid "Maximal deviation of arc from given path"
+msgstr "指定された経路からの円弧の最大偏差"
+
+msgid "Maximal Arc Radius"
+msgstr "最大円弧半径"
+
+msgid ""
+"Segments will not be optimized if radius of the arc is bigger than tis value"
+msgstr "円弧の半径がこの値より大きい場合、セグメントは最適化されません"
+
+msgid "Feedrate Settings"
+msgstr "送り速度設定"
+
+msgid "Plunge Length"
+msgstr "切込み長さ"
+
+msgid ""
+"When the mill is moving down, it will be slowed down in this distance from "
+"mesh"
+msgstr "フライスが下方に移動する際、メッシュからのこの距離で減速します"
+
+msgid "Retract Length"
+msgstr "引き抜き長さ"
+
+msgid ""
+"When the mill is moving up, it will be slowed down in this distance from mesh"
+msgstr "フライスが上方に移動する際、メッシュからのこの距離で減速します"
+
+msgid "Plunge Feed"
+msgstr "切込み送り速度"
+
+msgid "Speed of slow movement down"
+msgstr "下方への低速移動の速度"
+
+msgid "Retract Feed"
+msgstr "引き抜き送り速度"
+
+msgid "Speed of slow movement up"
+msgstr "上方への低速移動の速度"
+
+msgid "Base Feed"
+msgstr "基本送り速度"
+
+msgid "Speed of regular milling"
+msgstr "通常フライス加工の速度"
+
+msgid "Visualization"
+msgstr "可視化"
+
+msgid "Show Offset"
+msgstr "オフセットを表示"
+
+msgid "Show Isolines"
+msgstr "等値線を表示"
+
+msgid "Show Start Contours"
+msgstr "開始輪郭を表示"
+
+msgid "Show Start Vertices"
+msgstr "開始頂点を表示"
+
+msgid "Create Tool Path"
+msgstr "工具経路を作成"
+
+msgid "Tool Path: Constant Z"
+msgstr "ツールパス: 一定Z"
+
+msgid "Tool Path: Lacing"
+msgstr "ツールパス: ジグザグ"
+
+msgid "Tool Path: Constant Cusp"
+msgstr "ツールパス: 一定カスプ"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Edit tag"
+msgstr "タグを編集"
+
+msgid "Remove tag"
+msgstr "タグを削除"
+
+msgid "Export to CSV"
+msgstr "CSVにエクスポート"
+
+msgid "Cannot save file"
+msgstr "ファイルを保存できません"
+
+msgid "File saved successfully."
+msgstr "ファイルが正常に保存されました。"
+
+msgid "Free-form Adjust"
+msgstr "フリーフォーム調整"
+
+msgid "Max Group Size"
+msgstr "最大グループサイズ"
+
+msgid "Cascade Mode:"
+msgstr "カスケードモード:"
+
+msgid "Sequential"
+msgstr "順次"
+
+msgid ""
+"Divide objects into groups by their order in scene.\n"
+"Good when each object has size comparable to whole scene."
+msgstr ""
+"シーン内の順序でオブジェクトをグループに分割します。\n"
+"各オブジェクトのサイズがシーン全体に匹敵する場合に適しています。"
+
+msgid "AABB Tree"
+msgstr "AABBツリー"
+
+msgid ""
+"Build AABB tree based on object bounding boxes then use subtrees as groups.\n"
+"Good when each object is much smaller than whole scene."
+msgstr ""
+"オブジェクトのバウンディングボックスに基づいてAABBツリーを構築し、サブツリー"
+"をグループとして使用します。\n"
+"各オブジェクトがシーン全体より非常に小さい場合に適しています。"
+
+msgid "Global Registration"
+msgstr "グローバル位置合わせ"
+
+msgid "No active pairs found, please consider changing parameters"
+msgstr "アクティブなペアが見つかりません。パラメーターの変更をご検討ください"
+
+msgid "Reset Transforms"
+msgstr "変換をリセット"
+
+msgid "Reset Global Registration"
+msgstr "グローバル位置合わせをリセット"
+
+msgid "Freeform Adjust"
+msgstr "フリーフォーム調整"
+
+msgid "Adjust"
+msgstr "調整"
+
+msgid "Object Id"
+msgstr "オブジェクトID"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Deviation Map"
+msgstr "偏差マップ"
+
+msgid "High Deviation"
+msgstr "高偏差"
+
+msgid "Orient as Existing Normals"
+msgstr "既存の法線に合わせて向きを設定"
+
+msgid ""
+"If selected then keeps orientation from original normals, only adjust their "
+"direction."
+msgstr "選択すると、元の法線の向きを維持し、方向のみ調整します。"
+
+msgid "Smart"
+msgstr "スマート"
+
+msgid "Fast"
+msgstr "高速"
+
+msgid "Toward Point"
+msgstr "ポイントに向かって"
+
+msgid ""
+"Activates smart algorithm that selects similar orientation of normals in "
+"close points."
+msgstr ""
+"近接ポイントで類似した法線の向きを選択するスマートアルゴリズムを有効にしま"
+"す。"
+
+msgid ""
+"Activates fast algorithm (about 5 times faster than Smart) that orients all "
+"normals away from the cloud's centroid."
+msgstr ""
+"すべての法線をクラウドの重心から離れる方向に向ける高速アルゴリズム（スマート"
+"の約5倍速）を有効にします。"
+
+msgid ""
+"Each normal is oriented toward the selected point (e.g. known placement of "
+"Lidar)."
+msgstr ""
+"各法線は選択したポイント（例: Lidarの既知の配置）に向かって向けられます。"
+
+msgid "Orientation"
+msgstr "向き"
+
+msgid ""
+"Select the method how to choose between two opposite normal orientations in "
+"each point."
+msgstr ""
+"各ポイントで2つの逆方向の法線の向きのどちらかを選択する方法を選択します。"
+
+msgid ""
+"X,Y,Z of the position in local coordinates of point cloud, where Lidar is "
+"located and where normals shall be oriented."
+msgstr ""
+"Lidarが配置されており、法線が向くべきポイントクラウドのローカル座標でのX,Y,Z"
+"位置。"
+
+msgid "Selects whether to fill holes after triangulation."
+msgstr "三角分割後に穴を埋めるかどうかを選択します。"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to "
+"triangulated mesh result."
+msgstr ""
+"チェックすると、三角分割メッシュの結果に加えて、元のポイントクラウドがシーン"
+"に残ります。"
+
+msgid "Reduce Noise"
+msgstr "ノイズを低減"
+
+msgid "Limit near Initial"
+msgstr "初期位置近傍に制限"
+
+msgid ""
+"If selected then maximal displacement of each point during denoising will be "
+"limited."
+msgstr "選択すると、ノイズ除去中の各ポイントの最大変位が制限されます。"
+
+msgid "Max Displacement"
+msgstr "最大変位"
+
+msgid "Maximum distance between a point and its position before relaxation."
+msgstr "緩和前のポイントとその位置の間の最大距離。"
+
+msgid "The number of algorithm repetitions for each vertex."
+msgstr "各頂点のアルゴリズム繰り返し回数。"
+
+msgid ""
+"Shift ratio toward relaxed position, 0.5 - half way to target position (more "
+"than 0.5 leads to instability)."
+msgstr ""
+"緩和位置へのシフト比率。0.5 - 目標位置の半分（0.5を超えると不安定になりま"
+"す）。"
+
+msgid "Relax Tetrahedrons"
+msgstr "四面体を緩和"
+
+msgid ""
+"Special processing of vertices having only 3 not-boundary edges, if selected "
+"such vertices will be put in the plane defined by their neighbors."
+msgstr ""
+"境界外エッジが3本だけの頂点に対する特別な処理。選択すると、そのような頂点は隣"
+"接頂点によって定義される平面に配置されます。"
+
+msgid "Fast Indicator Computation"
+msgstr "高速指標計算"
+
+msgid "Use fast but approximate variation of the algorithm."
+msgstr "高速だが近似的なアルゴリズムのバリエーションを使用します。"
+
+msgid "Normal Iterations"
+msgstr "法線反復回数"
+
+msgid ""
+"The number of iterations to smooth normals and find creases, the more the "
+"better quality, but longer computation."
+msgstr ""
+"法線をスムーズにしてクリースを見つけるための反復回数。多いほど品質が高くなり"
+"ますが計算時間が増加します。"
+
+msgid "Point Iterations"
+msgstr "ポイント反復回数"
+
+msgid ""
+"The number of iterations to update vertex coordinates from found normals, "
+"the more the better quality, but longer computation."
+msgstr ""
+"見つかった法線から頂点座標を更新するための反復回数。多いほど品質が高くなりま"
+"すが計算時間が増加します。"
+
+msgid "Beta"
+msgstr "ベータ"
+
+msgid "0.001 - sharp edges, 0.01 - moderate edges, 0.1 - smooth edges"
+msgstr ""
+"0.001 - シャープなエッジ、0.01 - 中程度のエッジ、0.1 - スムーズなエッジ"
+
+msgid "Gamma"
+msgstr "ガンマ"
+
+msgid "The amount of smoothing: 0 - no smoothing, 1 - average smoothing, ..."
+msgstr "スムーシングの量: 0 - スムーシングなし、1 - 平均スムーシング、..."
+
+msgid "Guide Weight"
+msgstr "ガイドウェイト"
+
+msgid ""
+"How much resulting points must be attracted to initial points (e.g. to avoid "
+"general shrinkage), must be > 0"
+msgstr ""
+"結果ポイントが初期ポイントに引き付けられる度合い（全体的な収縮を避けるためな"
+"ど）。0より大きい必要があります"
+
+msgid "Select creases"
+msgstr "クリースを選択"
+
+msgid "Select sharp edges detected during denoising."
+msgstr "ノイズ除去中に検出されたシャープなエッジを選択します。"
+
+msgid "Neighborhood Radius"
+msgstr "近傍半径"
+
+msgid "The radius of each local neighborhood."
+msgstr "各ローカル近傍の半径。"
+
+msgid "Uniform"
+msgstr "均一"
+
+msgid "Grid"
+msgstr "グリッド"
+
+msgid "Iterative"
+msgstr "反復"
+
+msgid ""
+"Finds sample points so that the ball of given radius around each sample does "
+"not contain other samples, and the union of all balls contain all cloud "
+"points."
+msgstr ""
+"各サンプルの周囲の指定半径のボールが他のサンプルを含まず、すべてのボールの和"
+"集合がすべてのクラウドポイントを含むようなサンプルポイントを見つけます。"
+
+msgid ""
+"Subdivides the space on 3D grid, and return one sample point per grid cell."
+msgstr ""
+"空間を3Dグリッドに分割し、グリッドセルごとに1つのサンプルポイントを返します。"
+
+msgid ""
+"Iteratively removes one point with minimal metric (describing distance to "
+"the closest point and previous nearby removals), thus allowing stopping at "
+"any given number of samples."
+msgstr ""
+"最小メトリック（最近傍点と以前の近傍削除への距離を示す）を持つポイントを反復"
+"的に削除し、任意の数のサンプルで停止できます。"
+
+msgid "Select the algorithm of point sampling."
+msgstr "ポイントサンプリングのアルゴリズムを選択します。"
+
+msgid "Voxel cell size."
+msgstr "ボクセルセルサイズ。"
+
+msgid "Minimal distance between samples in planar regions before relaxation."
+msgstr "緩和前の平面領域でのサンプル間の最小距離。"
+
+msgid "Number of Samples"
+msgstr "サンプル数"
+
+msgid "Target number of samples to be selected."
+msgstr "選択するサンプルの目標数。"
+
+msgid ""
+"0 - same spacing everywhere.\n"
+"1 - much denser spacing in curved regions."
+msgstr ""
+"0 - どこでも同じ間隔。\n"
+"1 - 曲率の大きい領域でより密な間隔。"
+
+msgid "Remove Others"
+msgstr "他を削除"
+
+msgid "Select sampled points."
+msgstr "サンプリングされたポイントを選択します。"
+
+msgid "Remove not sampled points."
+msgstr "サンプリングされていないポイントを削除します。"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "What to do with the found samples."
+msgstr "見つかったサンプルに対して何をするか。"
+
+msgid "Sort Points"
+msgstr "ポイントを並べ替え"
+
+msgid ""
+"If checked process the points in lexicographical order, which gives tighter "
+"and more uniform samples. If unchecked process the points according to their "
+"ids, which is faster."
+msgstr ""
+"チェックすると、ポイントを辞書順に処理し、より密で均一なサンプルが得られま"
+"す。チェックしない場合はIDに従ってポイントを処理し、より高速です。"
+
+msgid ""
+"The number of post-processing iterations to move each sample toward the "
+"center of its Voronoi cell. It helps avoiding selection of outliers and "
+"sometimes improving the uniformity."
+msgstr ""
+"各サンプルをそのボロノイセルの中心に向かって移動させる後処理の反復回数。外れ"
+"値の選択を避け、均一性を改善するのに役立ちます。"
+
+msgid "Min Points In Sample"
+msgstr "サンプルの最小ポイント数"
+
+msgid ""
+"If a sample represents less than this number of input points then such "
+"sample will be discarded; it can be used to remove outliers."
+msgstr ""
+"サンプルがこの数未満の入力ポイントを表す場合、そのサンプルは破棄されます。外"
+"れ値の削除に使用できます。"
+
+msgid "Average Values"
+msgstr "値を平均化"
+
+msgid ""
+"Instead of sampling existing points/normals/colors computes averaged points/"
+"normals/colors, which increases smoothness of the result."
+msgstr ""
+"既存のポイント/法線/色をサンプリングする代わりに、平均化されたポイント/法線/"
+"色を計算し、結果の滑らかさを向上させます。"
+
+msgid "Sample Points"
+msgstr "ポイントをサンプリング"
+
+msgid "Specifies the number of objects to split this point cloud into"
+msgstr "このポイントクラウドを分割するオブジェクト数を指定します"
+
+msgid "Merge scans to one mesh"
+msgstr "スキャンを1つのメッシュにマージ"
+
+msgid "If checked perform global registration of points objects"
+msgstr "チェックするとポイントオブジェクトのグローバル位置合わせを実行します"
+
+msgid "If checked perform points sampling"
+msgstr "チェックするとポイントサンプリングを実行します"
+
+msgid "Reset Normals"
+msgstr "法線をリセット"
+
+msgid "If checked perform removing and making new normals"
+msgstr "チェックすると法線の削除と新規作成を実行します"
+
+msgid "Remove Outliers"
+msgstr "外れ値を削除"
+
+msgid "If checked find and remove outliers points"
+msgstr "チェックすると外れ値ポイントを検出して削除します"
+
+msgid "If checked perform reducing noise"
+msgstr "チェックするとノイズ低減を実行します"
+
+msgid "Keep largest component"
+msgstr "最大コンポーネントを維持"
+
+msgid "If checked remove all components except largest"
+msgstr "チェックすると最大のもの以外のすべてのコンポーネントを削除します"
+
+msgid "Save Debug Objects"
+msgstr "デバッグオブジェクトを保存"
+
+msgid "If checked save objects after each step"
+msgstr "チェックすると各ステップ後にオブジェクトを保存します"
+
+msgid "Make Normals"
+msgstr "法線を作成"
+
+msgid "Outliers Points"
+msgstr "外れ値ポイント"
+
+msgid "Count of find and remove outliers iterations"
+msgstr "外れ値の検出と削除の反復回数"
+
+msgid "Points to Mesh"
+msgstr "ポイントをメッシュに変換"
+
+msgid "Merge Scans"
+msgstr "スキャンをマージ"
+
+msgid "Scans to Mesh"
+msgstr "スキャンをメッシュに変換"
+
+msgid "Save normals"
+msgstr "法線を保存"
+
+msgid "Point cover"
+msgstr "ポイントカバー"
+
+msgid "Target Point Distance"
+msgstr "目標ポイント間距離"
+
+msgid "Mesh to Points"
+msgstr "メッシュをポイントに変換"
+
+msgid "Average Points Radius"
+msgstr "平均ポイント半径"
+
+msgid ""
+"Maximum distance between a point and the nearest point of the same component "
+"so that a ball with such a radius contains on average this number of points."
+msgstr ""
+"ポイントと同じコンポーネントの最近傍ポイントの間の最大距離。その半径のボール"
+"が平均してこの数のポイントを含みます。"
+
+msgid "Components not found"
+msgstr "コンポーネントが見つかりません"
+
+#, c++-format
+msgid ""
+"There are too many connected components in initial object, so each output "
+"object can have up to {} components. You can select any of output objects "
+"and split it again."
+msgstr ""
+"初期オブジェクトに連結成分が多すぎるため、各出力オブジェクトは最大 {} 個のコ"
+"ンポーネントを持てます。出力オブジェクトを選択して再度分割できます。"
+
+msgid "Avg Influence Neighbours"
+msgstr "平均影響近傍数"
+
+msgid ""
+"Select distance of influence to have on average given number of points "
+"there. The more the value the smoother is the surface, but the processing "
+"takes longer."
+msgstr ""
+"平均でこの数のポイントを含む影響距離を選択します。値が大きいほどサーフェスは"
+"滑らかになりますが、処理時間が増加します。"
+
+msgid "Min Influence Neighbours"
+msgstr "最小影響近傍数"
+
+msgid ""
+"Minimum sum of influence weights from surrounding points for a triangle to "
+"appear, meaning that there shall be at least this number of points in close "
+"proximity."
+msgstr ""
+"三角形が現れるための周囲ポイントからの影響ウェイトの最小合計。近傍に少なくと"
+"もこの数のポイントが必要です。"
+
+msgid "Fuse All in One"
+msgstr "すべてを1つに融合"
+
+msgid ""
+"Whether Fusion should fuse multiple point clouds into one mesh (selected) or "
+"into separate meshes (unselected)."
+msgstr ""
+"融合で複数のポイントクラウドを1つのメッシュに（選択）または個別のメッシュに"
+"（未選択）融合するかどうか。"
+
+msgid "Preserve Point Clouds"
+msgstr "ポイントクラウドを保持"
+
+msgid ""
+"If checked then original point clouds will remain in scene in addition to "
+"mesh results."
+msgstr ""
+"チェックすると、メッシュ結果に加えて元のポイントクラウドがシーンに残ります。"
+
+msgid "Experimental Weights"
+msgstr "実験的ウェイト"
+
+msgid "Use experimental weights to fill voxel values"
+msgstr "ボクセル値を埋めるための実験的ウェイトを使用します"
+
+msgid "Fuse"
+msgstr "融合"
+
+msgid "Fusion"
+msgstr "フュージョン"
+
+msgid "Error merging points"
+msgstr "ポイントのマージエラー"
+
+msgid "Fusion Many in One"
+msgstr "多数を1つに融合"
+
+msgid "All selected objects must be point clouds with normals"
+msgstr ""
+"選択したすべてのオブジェクトは法線を持つポイントクラウドである必要があります"
+
+msgid "Orient Normals"
+msgstr "法線を向ける"
+
+msgid "Closed Line"
+msgstr "閉じた線"
+
+msgid "Whether to treat the points as closed or open line."
+msgstr "ポイントを閉じた線として扱うか開いた線として扱うか。"
+
+msgid "Points to Lines"
+msgstr "ポイントを線に変換"
+
+msgid "Add Offset-Lines from Points"
+msgstr "ポイントからオフセット線を追加"
+
+msgid "Point cloud must have at least 3 points"
+msgstr "ポイントクラウドには少なくとも3つのポイントが必要です"
+
+msgid "Point cloud must have at most 100'000 points"
+msgstr "ポイントクラウドは最大100,000ポイントまでです"
+
+msgid ""
+"Points will be sampled (added and removed) to reach approximately this "
+"distance between neighboring points."
+msgstr ""
+"隣接ポイント間のこの距離に近づくようにポイントがサンプリング（追加・削除）さ"
+"れます。"
+
+msgid "Create Point Cloud"
+msgstr "ポイントクラウドを作成"
+
+msgid "Clone shown spline as new scene object"
+msgstr "表示されたスプラインを新しいシーンオブジェクトとしてクローン"
+
+msgid "Add Resampled Point Cloud"
+msgstr "リサンプリングされた点群を追加"
+
+msgid "Specify the minimal radius of the neigbourhood ball"
+msgstr "近傍ボールの最小半径を指定します"
+
+msgid "Num. Neighbours"
+msgstr "近傍数"
+
+msgid "Specify the minimal number of neighbours in the neigbourhood"
+msgstr "近傍内の最小近傍数を指定します"
+
+msgid ""
+"Radius of neighborhood around each point to consider for building local "
+"triangulation."
+msgstr "ローカル三角分割を構築するために考慮する各ポイント周囲の近傍半径。"
+
+msgid "Actual Radius"
+msgstr "実際の半径"
+
+msgid "Ball radius actually used in neighbours search after increase if any."
+msgstr "増加後に近傍探索で実際に使用されるボール半径。"
+
+msgid "Points in Ball"
+msgstr "ボール内のポイント数"
+
+msgid ""
+"The number of points within the ball of given (or increased) radius around "
+"the center, excluding the center itself."
+msgstr ""
+"中心を除く、中心周囲の指定（または増加後の）半径のボール内のポイント数。"
+
+msgid "Center Point Id"
+msgstr "中心ポイントID"
+
+msgid "Local Neighbours"
+msgstr "ローカル近傍"
+
+msgid "Within Radius"
+msgstr "半径内"
+
+msgid "Do not show any point ids."
+msgstr "ポイントIDを表示しません。"
+
+msgid "Show incident point ids for all triangles around the center."
+msgstr "中心周囲のすべての三角形に接続するポイントIDを表示します。"
+
+msgid ""
+"Show all point ids within ball of given (or increased) radius around the "
+"center."
+msgstr ""
+"中心周囲の指定（または増加後の）半径のボール内のすべてのポイントIDを表示しま"
+"す。"
+
+msgid "Show Point IDs"
+msgstr "ポイントIDを表示"
+
+msgid "Alpha Shape"
+msgstr "アルファシェイプ"
+
+msgid "Show Plane"
+msgstr "平面を表示"
+
+msgid "Trust Normals"
+msgstr "法線を信頼"
+
+msgid "Automatic Radius Increase"
+msgstr "自動半径拡大"
+
+msgid "Delone steps"
+msgstr "ドロネーステップ"
+
+msgid "1 Repetition"
+msgstr "1回繰り返し"
+
+msgid "2 Repetitions"
+msgstr "2回繰り返し"
+
+msgid "3 Repetitions"
+msgstr "3回繰り返し"
+
+msgid "Best combination"
+msgstr "最良の組み合わせ"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in one local triangulation "
+"only."
+msgstr ""
+"1つのローカル三角分割にのみ現れる三角形から向きなしメッシュを作成します。"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in exactly two local "
+"triangulations."
+msgstr ""
+"正確に2つのローカル三角分割に現れる三角形から向きなしメッシュを作成します。"
+
+msgid ""
+"Create unoriented mesh from triangles that appear in three local "
+"triangulations."
+msgstr "3つのローカル三角分割に現れる三角形から向きなしメッシュを作成します。"
+
+msgid ""
+"Create oriented mesh from triangles with as many repetitions as possible."
+msgstr "できるだけ多くの繰り返しを持つ三角形から向きありメッシュを作成します。"
+
+msgid "Include Triangles"
+msgstr "三角形を含める"
+
+msgid "Triangulate"
+msgstr "三角分割"
+
+msgid "Sample"
+msgstr "サンプリング"
+
+msgid "Angle"
+msgstr "角度"
+
+msgid "Minimal angle between neighbor points to treat them as boundary."
+msgstr "境界として扱うための隣接ポイント間の最小角度。"
+
+msgid "Select Boundary Points"
+msgstr "境界ポイントを選択"
+
+msgid "Outliers Points update settings"
+msgstr "外れ値ポイント設定を更新"
+
+msgid "Max Outlier Component Size"
+msgstr "外れ値コンポーネントの最大サイズ"
+
+msgid "Maximum points in the outlier component"
+msgstr "外れ値コンポーネント内の最大ポイント数"
+
+msgid "Max Neighbors"
+msgstr "最大近傍数"
+
+msgid "Maximum number of adjacent points for an outlier point"
+msgstr "外れ値ポイントの隣接ポイントの最大数"
+
+msgid "neighbors"
+msgstr "近傍"
+
+msgid "points"
+msgstr "ポイント"
+
+msgid "Min Height Ratio"
+msgstr "最小高さ比"
+
+msgid ""
+"Minimum distance (as proportion of search radius) to the approximate surface "
+"from outliers point"
+msgstr "外れ値ポイントから近似サーフェスまでの最小距離（探索半径の割合として）"
+
+msgid "Min Angle Diff"
+msgstr "最小角度差"
+
+msgid "Minimum angle of difference of normal at outlier points"
+msgstr "外れ値ポイントでの法線差の最小角度"
+
+msgid "Select Outliers"
+msgstr "外れ値を選択"
+
+msgid "Empty Point Cloud."
+msgstr "空のポイントクラウド。"
+
+msgid "Remove Outliers Points"
+msgstr "外れ値ポイントを削除"
+
+msgid "MeshInspector Logo"
+msgstr "MeshInspectorロゴ"
+
+msgid "Company Logo"
+msgstr "会社ロゴ"
+
+msgid "Set Logo"
+msgstr "ロゴを設定"
+
+msgid "Prepared for:"
+msgstr "作成対象:"
+
+msgid "Select Photo"
+msgstr "写真を選択"
+
+msgid "Remove Photo"
+msgstr "写真を削除"
+
+msgid "Path to photo"
+msgstr "写真のパス"
+
+msgid "Notes"
+msgstr "メモ"
+
+msgid "Need any Point Measurement Object"
+msgstr "ポイント測定オブジェクトが必要です"
+
+msgid "Need any Distance Measurement Object"
+msgstr "距離測定オブジェクトが必要です"
+
+msgid "Comparisons"
+msgstr "比較"
+
+msgid "Available only when the \"Surface Deviation\" tool is active."
+msgstr "「サーフェス偏差」ツールがアクティブな場合のみ利用できます。"
+
+msgid "Screenshots"
+msgstr "スクリーンショット"
+
+msgid "Save to File"
+msgstr "ファイルに保存"
+
+msgid "Set Test Values"
+msgstr "テスト値を設定"
+
+msgid "Full area: "
+msgstr "全面積: "
+
+msgid "Scalar type:"
+msgstr "スカラー種類:"
+
+msgid "Absolute"
+msgstr "絶対値"
+
+msgid "Compare type:"
+msgstr "比較種類:"
+
+msgid "Less"
+msgstr "より小さい"
+
+msgid "Greater"
+msgstr "より大きい"
+
+msgid "Select by Area"
+msgstr "面積で選択"
+
+msgid "Camera Facing Selection: add selection"
+msgstr "カメラ向き選択: 選択に追加"
+
+msgid "Camera Facing Selection: reduce selection"
+msgstr "カメラ向き選択: 選択を減らす"
+
+msgid "Delete Selection"
+msgstr "選択を削除"
+
+msgid "Dilate selection regions"
+msgstr "選択領域を膨張"
+
+msgid "Erode selection regions"
+msgstr "選択領域を縮小"
+
+msgid "Dilate & Erode selection regions"
+msgstr "選択領域を膨張して縮小"
+
+msgid "Erode & Dilate selection regions"
+msgstr "選択領域を縮小して膨張"
+
+msgid "Dilation distance "
+msgstr "膨張距離 "
+
+msgid "Erosion distance"
+msgstr "収縮距離"
+
+msgid "Dilate"
+msgstr "膨張"
+
+msgid "Erode"
+msgstr "収縮"
+
+msgid "Dilate & Erode"
+msgstr "膨張・収縮"
+
+msgid "Erode & Dilate"
+msgstr "収縮・膨張"
+
+msgid ""
+"Unable to erode or dilate if all the triangles of ObjectMesh are already "
+"selected"
+msgstr ""
+"ObjectMeshのすべての三角形が既に選択されている場合、収縮または膨張できません"
+
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPointsに選択されたポイントがありません"
+
+msgid ""
+"Unable to erode or dilate if all the points of ObjectPoints are already "
+"selected"
+msgstr ""
+"ObjectPointsのすべてのポイントが既に選択されている場合、収縮または膨張できま"
+"せん"
+
+msgid "Dilate selection edges"
+msgstr "選択エッジを膨張"
+
+msgid "Erode selection edges"
+msgstr "選択エッジを縮小"
+
+msgid ""
+"Unable to erode or dilate if all the edges of ObjectMesh are already selected"
+msgstr ""
+"ObjectMeshのすべてのエッジが既に選択されている場合、収縮または膨張できません"
+
+msgid "Include backfaces"
+msgstr "背面を含める"
+
+msgid "Include only visible"
+msgstr "表示されているもののみ含める"
+
+msgid "Include boundaries"
+msgstr "境界を含める"
+
+msgid "Include mesh boundaries incident with selected edges."
+msgstr "選択したエッジと接続するメッシュ境界を含めます。"
+
+#, c-format
+msgid ""
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"なし - 前の選択を解除\n"
+"%s - 前の選択に追加\n"
+"Shift - 前の選択から除外\n"
+"%s+Shift - 選択を反転"
+
+#, c-format
+msgid ""
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"なし - 前の選択に追加\n"
+"%s - 前の選択を解除\n"
+"Shift - 前の選択から除外\n"
+"%s+Shift - 選択を反転"
+
+msgid "Press Enter or Select button to make selection"
+msgstr "Enterキーまたは「選択」ボタンを押して選択を確定します"
+
+msgid "Pick polyline on surface first."
+msgstr "最初にサーフェス上のポリラインを選択してください。"
+
+msgid "Edge Selector: new selection"
+msgstr "エッジセレクター: 新しい選択"
+
+msgid "Edge Selector: add selection"
+msgstr "エッジセレクター: 選択に追加"
+
+msgid "Edge Selector: reduce selection"
+msgstr "エッジセレクター: 選択を減らす"
+
+msgid "Edge Selector: mirror selection"
+msgstr "エッジセレクター: 選択をミラー"
+
+msgid "Edge Selector: Polyline"
+msgstr "エッジセレクタ: ポリライン"
+
+msgid ""
+"Unable to expand if all the triangles of ObjectMesh are already selected"
+msgstr "ObjectMeshのすべての三角形が既に選択されている場合、拡張できません"
+
+msgid "Expand to Components"
+msgstr "コンポーネントに拡張"
+
+msgid "Expand selected edges"
+msgstr "選択したエッジを拡張"
+
+msgid "Unable to expand if all the edges of ObjectMesh are already selected"
+msgstr "ObjectMeshのすべてのエッジが既に選択されている場合、拡張できません"
+
+msgid "Expand Selection"
+msgstr "選択を拡張"
+
+msgid "Single face"
+msgstr "単一面"
+
+msgid "Polygon Model"
+msgstr "ポリゴンモデル"
+
+msgid "Loop Model"
+msgstr "ループモデル"
+
+msgid "Loop Screen"
+msgstr "ループスクリーン"
+
+msgid "Brush Screen"
+msgstr "ブラシスクリーン"
+
+msgid "Select one triangle under the mouse cursor."
+msgstr "マウスカーソルの下の三角形を1つ選択します。"
+
+msgid ""
+"Define selected region boundary on the surface by mouse clicking of "
+"intermediate points."
+msgstr ""
+"中間ポイントをマウスクリックすることでサーフェス上の選択領域の境界を定義しま"
+"す。"
+
+msgid ""
+"Define selected region boundary on the surface by holding mouse button and "
+"moving."
+msgstr ""
+"マウスボタンを押したまま移動することでサーフェス上の選択領域の境界を定義しま"
+"す。"
+
+msgid ""
+"Define selected region boundary on the screen by holding mouse button and "
+"moving."
+msgstr ""
+"マウスボタンを押したまま移動することでスクリーン上の選択領域の境界を定義しま"
+"す。"
+
+msgid ""
+"Define selected region on the screen by holding mouse button and moving."
+msgstr ""
+"マウスボタンを押したまま移動することでスクリーン上の選択領域を定義します。"
+
+msgid "Choose the method of selection."
+msgstr "選択方法を選んでください。"
+
+msgid "The width of region boundary drawn on surface."
+msgstr "サーフェスに描かれる領域境界の幅。"
+
+msgid "Select Back Triangles"
+msgstr "背面の三角形を選択"
+
+msgid "Whether to select triangles oriented away from the camera."
+msgstr "カメラから離れる方向を向いた三角形を選択するかどうか。"
+
+msgid "Select Only Visible"
+msgstr "表示されているもののみ選択"
+
+msgid ""
+"Whether to select only visible triangles or also the triangles occluded by "
+"others."
+msgstr ""
+"表示されている三角形のみを選択するか、他の三角形に遮られた三角形も選択するか"
+"どうか。"
+
+msgid "Brush radius"
+msgstr "ブラシ半径"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - unselect previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"押しながら:\n"
+"なし - 前の選択を解除\n"
+"%s - 前の選択に追加\n"
+"Shift - 前の選択から除外\n"
+"%s+Shift - 選択を反転"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - add to previous\n"
+"%s - unselect previous\n"
+"Shift - unselect in previous\n"
+"%s+Shift - reverse selection"
+msgstr ""
+"押しながら:\n"
+"なし - 前の選択に追加\n"
+"%s - 前の選択を解除\n"
+"Shift - 前の選択から除外\n"
+"%s+Shift - 選択を反転"
+
+msgid "Click LMB on first point or press ENTER to make selection"
+msgstr "最初のポイントで左クリックするかEnterキーを押して選択を確定します"
+
+msgid "Select Triangles"
+msgstr "三角形を選択"
+
+msgid "Select More Triangles"
+msgstr "三角形をさらに選択"
+
+msgid "Select Less Triangles"
+msgstr "三角形の選択を減らす"
+
+msgid "Select Other Triangles"
+msgstr "他の三角形を選択"
+
+msgid "Triangle Selector: Polyline"
+msgstr "三角形セレクタ: ポリライン"
+
+msgid ""
+"How much to expand triangle selection: 0% - no expansion, 100% - maximal "
+"expansion."
+msgstr "三角形選択の拡張量: 0% - 拡張なし、100% - 最大拡張。"
+
+msgid "Smart Expand"
+msgstr "スマート拡張"
+
+msgid "Select Region Part"
+msgstr "領域部分を選択"
+
+msgid "Select not Region Part"
+msgstr "非領域部分を選択"
+
+msgid "Converts selected triangles in region seeds."
+msgstr "選択した三角形を領域シードに変換します。"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "back region selection"
+msgstr "領域選択を戻す"
+
+msgid "Converts region seeds in selected triangles."
+msgstr "領域シードを選択した三角形に変換します。"
+
+msgid "Manually Select not Region Part"
+msgstr "非領域部分を手動選択"
+
+msgid ""
+"If unselected, determine not-region part automatically based on manually "
+"selected region part."
+msgstr ""
+"選択しない場合、手動で選択した領域部分に基づいて非領域部分を自動的に決定しま"
+"す。"
+
+msgid "Select not Region"
+msgstr "非領域を選択"
+
+msgid "Converts selected triangles in not-region seeds."
+msgstr "選択した三角形を非領域シードに変換します。"
+
+msgid "back not region selection"
+msgstr "非領域選択を戻す"
+
+msgid "Converts not-region seeds in selected triangles."
+msgstr "非領域シードを選択した三角形に変換します。"
+
+msgid "Uncertainty Distance"
+msgstr "不確定距離"
+
+msgid ""
+"The distance between user-selected region part and automatically selected "
+"not-region part."
+msgstr "ユーザーが選択した領域部分と自動的に選択された非領域部分の間の距離。"
+
+msgid ""
+"1. Select with Face Selector:\n"
+" a. Region triangles (shown in green)\n"
+" b. Not-region triangles (shown in gray)\n"
+"2. Click \"Select\""
+msgstr ""
+"1. 面セレクターで選択:\n"
+" a. 領域三角形（緑で表示）\n"
+" b. 非領域三角形（グレーで表示）\n"
+"2. 「選択」をクリック"
+
+msgid "Select Region"
+msgstr "領域を選択"
+
+msgid "Inverse selection"
+msgstr "選択を反転"
+
+msgid "Partition Mesh"
+msgstr "メッシュを分割"
+
+msgid "Partitioner"
+msgstr "パーティショナー"
+
+msgid "Color Segments"
+msgstr "セグメントに色を付ける"
+
+msgid "Uncolor Segments"
+msgstr "セグメントの色を解除"
+
+msgid "Any Curved"
+msgstr "任意の曲線"
+
+msgid ""
+"Segment boundaries tend to pass along concave or convex edges (but not edges "
+"inside planar regions)."
+msgstr ""
+"セグメント境界は凹状または凸状のエッジに沿って通る傾向があります（ただし平面"
+"領域内のエッジには沿いません）。"
+
+msgid "Concave"
+msgstr "凹状"
+
+msgid "Segment boundaries tend to pass along concave edges."
+msgstr "セグメント境界は凹状のエッジに沿って通る傾向があります。"
+
+msgid "Convex"
+msgstr "凸状"
+
+msgid "Segment boundaries tend to pass along convex edges."
+msgstr "セグメント境界は凸状のエッジに沿って通る傾向があります。"
+
+msgid "Num Segments"
+msgstr "セグメント数"
+
+msgid "Select the number of segments to partition your mesh into."
+msgstr "メッシュを分割するセグメント数を選択します。"
+
+msgid "Color the Segments"
+msgstr "セグメントに色付け"
+
+msgid ""
+"If selected then all triangles of one segment will receive same distinctive "
+"color, otherwise only segment boundaries will be shown with selected edges."
+msgstr ""
+"選択すると、1つのセグメントのすべての三角形が同じ識別色を受け取ります。それ以"
+"外の場合はセグメント境界のみが選択エッジで表示されます。"
+
+msgid "Select boundary edges: add selection"
+msgstr "境界エッジを選択: 選択に追加"
+
+msgid "Select boundary faces: add selection"
+msgstr "境界面を選択: 選択に追加"
+
+msgid "Deviation from plane at edge:"
+msgstr "エッジでの平面からの偏差:"
+
+msgid "Degrees"
+msgstr "度"
+
+msgid ""
+"If deviation form common plane for two faces is greater than this value - "
+"shared edge is marked as crease (or selected)."
+msgstr ""
+"2つの面の共通平面からの偏差がこの値より大きい場合、共有エッジがクリースとして"
+"マークされます（または選択されます）。"
+
+msgid "Show as:"
+msgstr "表示方法:"
+
+msgid "Crease edges"
+msgstr "クリースエッジ"
+
+msgid ""
+"Light and shades are not interpolated among sharp edges (only visible if "
+"flat shading is disabled)."
+msgstr ""
+"光と影はシャープなエッジ間で補間されません（フラットシェーディングが無効な場"
+"合のみ表示）。"
+
+msgid "Selected edges"
+msgstr "選択されたエッジ"
+
+msgid "Select sharp edges on mesh but does not affect light and shades."
+msgstr "メッシュ上のシャープなエッジを選択しますが、光と影には影響しません。"
+
+msgid ""
+"Connected components of the crease (or selected ) edges with summary length "
+"less than critical value will be excluded"
+msgstr ""
+"クリース（または選択された）エッジの連結成分で、合計長さが臨界値未満のものは"
+"除外されます"
+
+msgid "How many times filtering is applied"
+msgstr "フィルタリングを適用する回数"
+
+msgid "Filter components"
+msgstr "コンポーネントをフィルタリング"
+
+msgid ""
+"If checked then connected components with summary length of their edges less "
+"than Critical Length will be excluded"
+msgstr "チェックすると、エッジの合計長さが臨界長さ未満の連結成分は除外されます"
+
+msgid "Filter branches"
+msgstr "ブランチをフィルタリング"
+
+msgid "If checked then branches shorter than Critical Length will be excluded"
+msgstr "チェックすると、臨界長さより短いブランチは除外されます"
+
+msgid "Update Creases"
+msgstr "クリースを更新"
+
+msgid "Recompute crease edges using current settings"
+msgstr "現在の設定を使用してクリースエッジを再計算します"
+
+msgid "Select Edges by Angle"
+msgstr "角度でエッジを選択"
+
+msgid "Select Creases by Angle"
+msgstr "角度で折り目を選択"
+
+msgid "Min Aspect Ratio"
+msgstr "最小アスペクト比"
+
+msgid "Minimum aspect ration of the triangle to be selected."
+msgstr "選択される三角形の最小アスペクト比。"
+
+msgid "Boundary Only"
+msgstr "境界のみ"
+
+msgid "Select only triangles with at least one boundary edge."
+msgstr "少なくとも1つの境界エッジを持つ三角形のみを選択します。"
+
+msgid "Select Degeneracies"
+msgstr "縮退を選択"
+
+msgid "Append to Selection"
+msgstr "選択に追加"
+
+msgid ""
+"If set - adds new selection to existing, otherwise overwrite existing "
+"selection."
+msgstr ""
+"設定すると、新しい選択を既存の選択に追加します。それ以外の場合は既存の選択を"
+"上書きします。"
+
+msgid ""
+"Expands disorientations to whole components if disoriented area are larger "
+"of following threshold."
+msgstr ""
+"方向の乱れた領域が次のしきい値より大きい場合、コンポーネント全体に方向の乱れ"
+"を拡張します。"
+
+msgid "Select Disorientations"
+msgstr "方向の乱れを選択"
+
+msgid "Multiple Edges Selection: select"
+msgstr "複数エッジ選択: 選択"
+
+msgid "Min Angle"
+msgstr "最小角度"
+
+msgid ""
+"Minimal excess of triangle's summed angles with 3 neighbor triangles. The "
+"larger minimal angle the less number of triangles will be found."
+msgstr ""
+"3つの隣接三角形との三角形の角度合計の最小超過量。最小角度が大きいほど、見つか"
+"る三角形の数が少なくなります。"
+
+msgid "Select Not Smooth Triangles"
+msgstr "滑らかでない三角形を選択"
+
+msgid "Select Outer Layer"
+msgstr "外側レイヤーを選択"
+
+msgid "Three components of direction vector"
+msgstr "方向ベクトルの3成分"
+
+msgid "Layer Step"
+msgstr "レイヤーステップ"
+
+msgid "Distance between layers"
+msgstr "レイヤー間の距離"
+
+msgid "Max Overhang Distance"
+msgstr "最大オーバーハング距離"
+
+msgid "Maximum overhang distance within a layer"
+msgstr "レイヤー内の最大オーバーハング距離"
+
+msgid "Smooth Out Overhangs"
+msgstr "オーバーハングをスムーズ化"
+
+msgid "Remove small overhang artifacts"
+msgstr "小さなオーバーハングのアーティファクトを削除"
+
+msgid "Overhang Selection: faces"
+msgstr "オーバーハング選択: 面"
+
+msgid "Lasso"
+msgstr "ラッソ"
+
+msgid "Rect"
+msgstr "矩形"
+
+msgid "Polygon"
+msgstr "ポリゴン"
+
+msgid "Brush"
+msgstr "ブラシ"
+
+msgid "Pick"
+msgstr "ピック"
+
+msgid "Select triangles/points within a shape bounded by a drawn curve"
+msgstr "描いた曲線で囲まれた形状内の三角形/ポイントを選択します"
+
+msgid "Select triangles/points within a rectangle defined by a mouse drag"
+msgstr "マウスドラッグで定義された矩形内の三角形/ポイントを選択します"
+
+msgid "Select triangles/points within polygon drawn by its vertices"
+msgstr "頂点で描いたポリゴン内の三角形/ポイントを選択します"
+
+msgid "Select triangles/points under a drawn curve"
+msgstr "描いた曲線の下の三角形/ポイントを選択します"
+
+msgid "Select a single triangle/point by a mouse click"
+msgstr "マウスクリックで単一の三角形/ポイントを選択します"
+
+msgid "Select All Primitives"
+msgstr "すべてのプリミティブを選択"
+
+msgid "Change brush radius in scene"
+msgstr "シーン内のブラシ半径を変更"
+
+msgid "Close Polyline"
+msgstr "ポリラインを閉じる"
+
+#, c++-format
+msgid "Select Primitives by {}"
+msgstr "{}でプリミティブを選択"
+
+msgid "Select Only Visible Triangles"
+msgstr "表示されている三角形のみを選択"
+
+msgid "Brush Radius"
+msgstr "ブラシ半径"
+
+msgid "Self-intersections"
+msgstr "自己交差"
+
+msgid "Select triangles intersecting with other triangles"
+msgstr "他の三角形と交差する三角形を選択します"
+
+msgid "Inside part"
+msgstr "内側部分"
+
+msgid "Select triangles located inside (not on the boundary) of the surface"
+msgstr "サーフェスの内側（境界上でなく）に位置する三角形を選択します"
+
+msgid "Overlaps"
+msgstr "重なり"
+
+msgid "Select triangles having oppositely oriented triangles close by"
+msgstr "近くに逆方向を向いた三角形を持つ三角形を選択します"
+
+msgid "Add to existing selection"
+msgstr "既存の選択に追加"
+
+msgid "Whether to add triangles to existing selection or replace it"
+msgstr "三角形を既存の選択に追加するか置き換えるかどうか"
+
+msgid "Touch is Intersection"
+msgstr "接触も交差とみなす"
+
+msgid ""
+"Select not only intersecting triangles, but the triangles that only touch "
+"one another."
+msgstr "交差する三角形だけでなく、互いに接触するだけの三角形も選択します。"
+
+msgid "Select Self Intersections"
+msgstr "自己交差を選択"
+
+msgid "Select incident faces"
+msgstr "隣接面を選択"
+
+msgid "ObjectMesh doesn't have unique selected edges or creases"
+msgstr "ObjectMeshには一意の選択エッジまたはクリースがありません"
+
+msgid "Swap creases with selected edges"
+msgstr "クリースと選択エッジを入れ替え"
+
+msgid "Update selection"
+msgstr "選択を更新"
+
+msgid "Append selection"
+msgstr "選択に追加"
+
+msgid "Update selection by default, append selection while holding "
+msgstr "デフォルトでは選択を更新、押しながらで選択に追加 "
+
+msgid "Append selection by default, update selection while holding "
+msgstr "デフォルトでは選択に追加、押しながらで選択を更新 "
+
+msgid "Default Selection Behavior"
+msgstr "デフォルトの選択動作"
+
+msgid "NONE"
+msgstr "なし"
+
+msgid "Unselect in Previous"
+msgstr "前の選択から除外"
+
+msgid "Reverse Selection"
+msgstr "選択を反転"
+
+msgid "Mesh should have selected triangles."
+msgstr "メッシュには選択された三角形が必要です。"
+
+msgid "Point cloud should have selected points."
+msgstr "ポイントクラウドには選択されたポイントが必要です。"
+
+msgid "Shrink selected edges"
+msgstr "選択したエッジを縮小"
+
+msgid "Unable to shrink if all the edges of ObjectMesh are already selected"
+msgstr "ObjectMeshのすべてのエッジが既に選択されている場合、縮小できません"
+
+msgid "Shrink Selection"
+msgstr "選択を縮小"
+
+msgid "ObjectMesh doesn't have any selected faces"
+msgstr "ObjectMeshには選択された面がありません"
+
+msgid "Unable to shrink if all the faces of ObjectMesh are already selected"
+msgstr "ObjectMeshのすべての面が既に選択されている場合、縮小できません"
+
+msgid "Clear selected edges"
+msgstr "選択されたエッジをクリア"
+
+msgid "Clear selected primitives"
+msgstr "選択されたプリミティブをクリア"
+
+msgid "Add fillers"
+msgstr "フィラーを追加"
+
+msgid "Overheal Mesh"
+msgstr "メッシュを強力に修復"
+
+msgid "Place Meshes"
+msgstr "メッシュを配置"
+
+msgid "Unite Connectors"
+msgstr "コネクタを統合"
+
+msgid "Subtract Connectors"
+msgstr "コネクタを減算"
+
+msgid "Place Mesh: Remove Mesh"
+msgstr "メッシュを配置: メッシュを削除"
+
+msgid "Place Mesh: Add Mesh"
+msgstr "メッシュを配置: メッシュを追加"
+
+msgid "Place Mesh: Modify Mesh"
+msgstr "メッシュを配置: メッシュを変更"
+
+msgid "Cloud Point's XYZ"
+msgstr "クラウドポイントのXYZ"
+
+msgid "Cloud Point's Normal"
+msgstr "クラウドポイントの法線"
+
+msgid "SolarRadiation"
+msgstr "太陽放射"
+
+msgid "Apply Stamp"
+msgstr "スタンプを適用"
+
+msgid "Terrain to Mesh"
+msgstr "地形をメッシュに変換"
+
+msgid "Open ZIP file"
+msgstr "ZIPファイルを開く"
+
+msgid "Create test volume"
+msgstr "テストボリュームを作成"
+
+msgid "Test volume resampling by interpolation"
+msgstr "補間によるボリューム再サンプリングのテスト"
+
+msgid "Test volume interpolation"
+msgstr "ボリューム補間のテスト"
+
+msgid "Test small volumes resampling"
+msgstr "小さいボリュームの再サンプリングのテスト"
+
+msgid "Authorization is disabled."
+msgstr "認証は無効になっています。"
+
+msgid "Use arrow keys on keyboard to move camera in space"
+msgstr "キーボードの矢印キーを使用してカメラを空間内で移動します"
+
+msgid "Speed Modifier"
+msgstr "速度修飾子"
+
+msgid "In orthographic mode moving up/down instead of moving forward/backward"
+msgstr "正投影モードでは前進/後退の代わりに上下に移動します"
+
+msgid "In perspective mode moving forward/backward instead of moving up/down"
+msgstr "透視投影モードでは上下の代わりに前進/後退に移動します"
+
+msgid "Current viewport"
+msgstr "現在のビューポート"
+
+msgid "Orthographic"
+msgstr "正投影"
+
+msgid "Perspective"
+msgstr "透視投影"
+
+msgid "Projection Mode"
+msgstr "投影モード"
+
+msgid "Dual Marching Cubes"
+msgstr "デュアルマーチングキューブ"
+
+msgid ""
+"Check to construct iso-surface using Dual Marching Cubes algorithm, and "
+"remove check to construct iso-surface using Standard Marching Cubes algorithm"
+msgstr ""
+"チェックしてデュアルマーチングキューブアルゴリズムを使用して等値面を構築しま"
+"す。チェックを外すと標準マーチングキューブアルゴリズムを使用します"
+
+msgid ""
+"The surface representing current voxel object will pass via this value in "
+"voxels"
+msgstr ""
+"現在のボクセルオブジェクトを表すサーフェスはボクセル内でこの値を通過します"
+
+msgid "Ratio scale"
+msgstr "比率スケール"
+
+msgid "Scale not depending on total voxels count"
+msgstr "ボクセル総数に依存しないスケール"
+
+msgid "Volume rendering should be disabled."
+msgstr "ボリュームレンダリングを無効にする必要があります。"
+
+msgid "Change Iso-Surface"
+msgstr "等値面を変更"
+
+msgid "Create Voxels"
+msgstr "ボクセルを作成"
+
+msgid "Set number of repetitions"
+msgstr "繰り返し回数を設定"
+
+msgid "Toggle preview."
+msgstr "プレビューを切り替えます。"
+
+msgid "Result object has incorrect type"
+msgstr "結果オブジェクトの種類が正しくありません"
+
+msgid "Generate Lattices"
+msgstr "格子を生成"
+
+msgid "Please reset the transform of the object"
+msgstr "オブジェクトの変換をリセットしてください"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Selected mesh"
+msgstr "選択されたメッシュ"
+
+msgid "Cut By Rect"
+msgstr "矩形で切り取り"
+
+msgid "Add Mask"
+msgstr "マスクを追加"
+
+msgid "Subtract Rect"
+msgstr "矩形で差し引き"
+
+msgid "Cubical voxels"
+msgstr "立方体ボクセル"
+
+msgid "Whether each voxel has same width, height and depth"
+msgstr "各ボクセルが同じ幅、高さ、深さを持つかどうか"
+
+msgid "Width, height and depth of each voxel in new object"
+msgstr "新しいオブジェクト内の各ボクセルの幅、高さ、深さ"
+
+msgid "Type:"
+msgstr "種類:"
+
+msgid "Signed"
+msgstr "符号付き"
+
+msgid ""
+"Voxels will be filled with signed distances to input mesh: negative - inside "
+"and positive - outside"
+msgstr ""
+"ボクセルは入力メッシュへの符号付き距離で埋められます: 負 - 内側、正 - 外側"
+
+msgid "Unsigned"
+msgstr "符号なし"
+
+msgid "Voxels will be filled with absolute distances to input mesh"
+msgstr "ボクセルは入力メッシュへの絶対距離で埋められます"
+
+msgid "Sign by Winding Rule"
+msgstr "ワインディングルールによる符号付け"
+
+msgid ""
+"Whether the sign of distance is determined by generalized winding rule. It "
+"is forcedly On if the mesh has holes."
+msgstr ""
+"距離の符号が一般化ワインディングルールで決定されるかどうか。メッシュに穴があ"
+"る場合は強制的にオンになります。"
+
+msgid "Mesh to Voxels"
+msgstr "メッシュをボクセルに変換"
+
+msgid "Lattice Filling"
+msgstr "ラティス充填"
+
+msgid "Filling Mode"
+msgstr "充填モード"
+
+msgid "Inner"
+msgstr "内側"
+
+msgid "Inside"
+msgstr "内部"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Filling"
+msgstr "充填"
+
+msgid "Result"
+msgstr "結果"
+
+msgid ""
+"The requested parameters require too much memory. Consider lowering the "
+"quality, increasing the interval or density."
+msgstr ""
+"要求されたパラメーターには大量のメモリが必要です。品質を下げるか、間隔または"
+"密度を増やすことをご検討ください。"
+
+msgid ""
+"Requires either single component or two nested components of different "
+"orientation."
+msgstr ""
+"単一コンポーネント、または異なる向きを持つ2つのネストされたコンポーネントが必"
+"要です。"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Create Instances"
+msgstr "インスタンスを作成"
+
+msgid "Smooth Instances"
+msgstr "インスタンスをスムーズ化"
+
+msgid "CBCT Teeth Segmentation"
+msgstr "CBCT歯セグメンテーション"
+
+msgid "Min corner:"
+msgstr "最小角:"
+
+msgid "Dims:"
+msgstr "寸法:"
+
+msgid "Create New Object"
+msgstr "新しいオブジェクトを作成"
+
+msgid "Save to .json"
+msgstr ".jsonに保存"
+
+msgid "Update active voxels box"
+msgstr "アクティブボクセルボックスを更新"
+
+msgid "Add cropped volume"
+msgstr "クロップされたボリュームを追加"
+
+msgid ""
+"One ObjectVoxels and optionally one ObjectMesh with valid models must be "
+"selected"
+msgstr ""
+"有効なモデルを持つ1つのObjectVoxelsと、オプションで1つのObjectMeshを選択する"
+"必要があります"
+
+msgid "Voxels"
+msgstr "ボクセル"
+
+msgid "Auto Switch to Selected Objects"
+msgstr "選択したオブジェクトに自動切り替え"
+
+msgid "Automatically switch to other objects when they are selected"
+msgstr "他のオブジェクトが選択されたときに自動的に切り替えます"
+
+msgid "Click on the object to see how voxels density behaves near the surface"
+msgstr ""
+"オブジェクトをクリックしてサーフェス近くでボクセル密度がどのように変化するか"
+"を確認します"
+
+msgid "Correction"
+msgstr "補正"
+
+msgid "Show Volume Values on Mesh"
+msgstr "メッシュにボリューム値を表示"
+
+msgid "Measure voxel volume values on mesh vertices and show as color scale"
+msgstr "メッシュ頂点のボクセルボリューム値を測定してカラースケールで表示します"
+
+msgid "Show Derivatives on Mesh"
+msgstr "メッシュに導関数を表示"
+
+msgid ""
+"Measure voxel volume value derivatives on mesh vertices (along mesh normals) "
+"and show as color scale"
+msgstr ""
+"メッシュ頂点のボクセルボリューム値の導関数（メッシュ法線に沿って）を測定して"
+"カラースケールで表示します"
+
+msgid "Use Approximation"
+msgstr "近似を使用"
+
+msgid ""
+"If selected, derivatives are approximated from the neighborhood of the "
+"point. Otherwise, it is simply a difference of values by the sides of the "
+"surface"
+msgstr ""
+"選択すると、導関数はポイントの近傍から近似されます。それ以外の場合は、サー"
+"フェスの両側での値の差です"
+
+msgid "Highlight Uncorrected Points"
+msgstr "未補正ポイントをハイライト"
+
+msgid "Highlight uncorrected points"
+msgstr "未補正ポイントをハイライトします"
+
+msgid "Values range"
+msgstr "値の範囲"
+
+msgid "Values Range:"
+msgstr "値の範囲:"
+
+msgid "Minimum"
+msgstr "最小値"
+
+msgid "Average"
+msgstr "平均値"
+
+msgid "Maximum"
+msgstr "最大値"
+
+msgid "Display Range:"
+msgstr "表示範囲:"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Update color map according to the range of values"
+msgstr "値の範囲に応じてカラーマップを更新します"
+
+msgid "Adjust mesh to voxels volume"
+msgstr "メッシュをボクセル体積に調整"
+
+msgid "Change ISO should not be active."
+msgstr "ISOの変更はアクティブにしないでください。"
+
+msgid "Object Section should not be active."
+msgstr "オブジェクトセクションはアクティブにしないでください。"
+
+#, c++-format
+msgid ""
+"\n"
+"({}+LMB to set value by keyboard)"
+msgstr ""
+"\n"
+"({}+左クリックでキーボードから値を設定)"
+
+msgid "Voxels with value lower than minimum are transparent."
+msgstr "最小値より低い値のボクセルは透明になります。"
+
+msgid "Voxels with value higher than maximum are transparent."
+msgstr "最大値より高い値のボクセルは透明になります。"
+
+msgid "Opacity limit"
+msgstr "不透明度制限"
+
+msgid "Opacity limit of voxels in range."
+msgstr "範囲内のボクセルの不透明度制限。"
+
+msgid "Gray shades"
+msgstr "グレースケール"
+
+msgid "Rainbow"
+msgstr "レインボー"
+
+msgid "One color"
+msgstr "単色"
+
+msgid "Color look up table"
+msgstr "カラールックアップテーブル"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Constant"
+msgstr "一定"
+
+msgid "Linear increasing"
+msgstr "線形増加"
+
+msgid "Linear decreasing"
+msgstr "線形減少"
+
+msgid "Opacity mode"
+msgstr "不透明度モード"
+
+msgid "Linear"
+msgstr "線形"
+
+msgid "Discrete"
+msgstr "離散"
+
+msgid "Filter type"
+msgstr "フィルタータイプ"
+
+msgid "Value Gradient"
+msgstr "値グラジエント"
+
+msgid "Alpha Gradient"
+msgstr "アルファグラジエント"
+
+msgid "Shading type"
+msgstr "シェーディングタイプ"
+
+msgid "Clip Plane"
+msgstr "クリップ平面"
+
+msgid "Active Voxels"
+msgstr "アクティブボクセル"
+
+msgid "Voxels Cut Mode"
+msgstr "ボクセルカットモード"
+
+msgid "Clip volume"
+msgstr "ボリュームをクリップ"
+
+msgid "Hold mouse over section plane to see voxel value in the section point."
+msgstr ""
+"セクション平面上にマウスをかざしてセクションポイントのボクセル値を確認しま"
+"す。"
+
+#, c-format
+msgid "%s+LMB on section plane to pick volume ISO value."
+msgstr "%s+セクション平面上で左クリックしてボリュームISO値を選択します。"
+
+msgid "Press and hold LMB to make screen lasso to select active voxels."
+msgstr ""
+"左クリックを押し続けてスクリーンラッソを作成し、アクティブボクセルを選択しま"
+"す。"
+
+#, c-format
+msgid ""
+"Hold:\n"
+"NONE - select from previous\n"
+"%s - add to previous\n"
+"Shift - unselect in previous"
+msgstr ""
+"押しながら:\n"
+"なし - 前の選択から選択\n"
+"%s - 前の選択に追加\n"
+"Shift - 前の選択から除外"
+
+msgid "Reset Active Voxels"
+msgstr "アクティブボクセルをリセット"
+
+msgid "Change ISO"
+msgstr "ISOを変更"
+
+msgid "Voxels Derivative"
+msgstr "ボクセル導関数"
+
+msgid "Slice YZ"
+msgstr "YZスライス"
+
+msgid "Slice ZX"
+msgstr "ZXスライス"
+
+msgid "Slice XY"
+msgstr "XYスライス"
+
+msgid "Modifier"
+msgstr "修飾子"
+
+msgid "IO scan picking mode"
+msgstr "IOスキャンピッキングモード"
+
+msgid "Show tooltip"
+msgstr "ツールチップを表示"
+
+msgid "Pen"
+msgstr "ペン"
+
+msgid "Paths"
+msgstr "パス"
+
+msgid "Seeds opacity"
+msgstr "シードの不透明度"
+
+msgid "Clear seeds"
+msgstr "シードをクリア"
+
+msgid "LMB IO crown to add inside seeds"
+msgstr "左クリックでIOクラウンをクリックして内側シードを追加"
+
+#, c-format
+msgid "%s+LMB IO crown to add outside seeds"
+msgstr "%s+左クリックでIOクラウンをクリックして外側シードを追加"
+
+msgid "LMB to select slice"
+msgstr "左クリックでスライスを選択"
+
+#, c-format
+msgid "%s+LMB to pick path start"
+msgstr "%s+左クリックでパスの開始点を選択"
+
+#, c-format
+msgid "%s+LMB to pick path finish"
+msgstr "%s+左クリックでパスの終点を選択"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "RMB to draw tooth seed"
+msgstr "右クリックで歯のシードを描く"
+
+#, c-format
+msgid "%s+RMB to draw non tooth seed"
+msgstr "%s+右クリックで非歯シードを描く"
+
+msgid "RMB to pick path start"
+msgstr "右クリックでパスの開始点を選択"
+
+msgid "RMB to pick path finish"
+msgstr "右クリックでパスの終点を選択"
+
+msgid "Enter to segment, Shift + Enter to accept segmentation and clear seeds"
+msgstr "Enterでセグメント化、Shift+Enterでセグメント化を確定してシードをクリア"
+
+msgid "Mouse Wheel to control segmentation modifier"
+msgstr "マウスホイールでセグメント化の修飾子を制御"
+
+msgid "Axis Z"
+msgstr "Z軸"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Median"
+msgstr "中央値"
+
+msgid "Window size"
+msgstr "ウィンドウサイズ"
+
+msgid "Size of the window used to filter the volume"
+msgstr "ボリュームをフィルタリングするために使用するウィンドウのサイズ"
+
+msgid "Voxels Filtering"
+msgstr "ボクセルフィルタリング"
+
+msgid "Minimum voxel value after normalization"
+msgstr "正規化後の最小ボクセル値"
+
+msgid "Maximum voxel value after normalization"
+msgstr "正規化後の最大ボクセル値"
+
+msgid "Normalize"
+msgstr "正規化"
+
+msgid "Normalize Voxels"
+msgstr "ボクセルを正規化"
+
+msgid "Voxel 1"
+msgstr "ボクセル 1"
+
+msgid "Voxel 2"
+msgstr "ボクセル 2"
+
+msgid "Metric Type:"
+msgstr "メトリック種類:"
+
+msgid "Exponent"
+msgstr "指数"
+
+msgid "Exponent modifier"
+msgstr "指数修飾子"
+
+msgid "Rebuild"
+msgstr "再構築"
+
+msgid "Build four"
+msgstr "4つ構築"
+
+msgid "Show optimal path between two voxels."
+msgstr "2つのボクセル間の最適パスを表示します。"
+
+msgid "Voxel Size XYZ"
+msgstr "ボクセルサイズXYZ"
+
+msgid "Old"
+msgstr "旧"
+
+msgid "New"
+msgstr "新規"
+
+msgid "Make cubical voxels"
+msgstr "立方体ボクセルを作成"
+
+msgid "Resample Voxels"
+msgstr "ボクセルを再サンプリング"
+
+msgid "New voxel size is same as old one."
+msgstr "新しいボクセルサイズは古いものと同じです。"
+
+msgid "Show Inactive Voxels "
+msgstr "非アクティブボクセルを表示 "
+
+msgid "Highlight inactive voxels with red color"
+msgstr "非アクティブボクセルを赤色でハイライト"
+
+msgid "Highlight Current Voxel"
+msgstr "現在のボクセルをハイライト"
+
+msgid "Highlight selected voxel on the slice and in the scene"
+msgstr "スライスとシーンで選択したボクセルをハイライトします"
+
+msgid "Marker radius"
+msgstr "マーカー半径"
+
+msgid "Radius of the 3d marker, measured in number of voxels"
+msgstr "3Dマーカーの半径（ボクセル数で測定）"
+
+msgid "Save current slice"
+msgstr "現在のスライスを保存"
+
+msgid "Save all slices"
+msgstr "すべてのスライスを保存"
+
+msgid "Applies gaussian filter for volume"
+msgstr "ボリュームにガウスフィルターを適用します"
+
+msgid "Smooth Voxels"
+msgstr "ボクセルをスムーズ化"
+
+msgid "Simple Conversion"
+msgstr "シンプル変換"
+
+msgid "Smart Conversion"
+msgstr "スマート変換"
+
+msgid ""
+"Improve voxel-to-mesh conversion with subvoxel correction, which boosts mesh "
+"precision but requires more computing power. Best used with CT and MRI scans."
+msgstr ""
+"サブボクセル補正でボクセル-メッシュ変換を改善し、メッシュ精度を向上させます"
+"が、より多くの計算能力が必要です。CTおよびMRIスキャンに最適です。"
+
+msgid "Preserve Voxel Object"
+msgstr "ボクセルオブジェクトを保持"
+
+msgid ""
+"If checked then original voxel object will remain in scene in addition to "
+"converted mesh object."
+msgstr ""
+"チェックすると、変換されたメッシュオブジェクトに加えて、元のボクセルオブジェ"
+"クトがシーンに残ります。"
+
+msgid "Voxels to Mesh"
+msgstr "ボクセルをメッシュに変換"
+
+msgid "Clip Scan by Plane"
+msgstr "スキャンを平面でクリップ"
+
+msgid "Clip scans by plane"
+msgstr "平面でスキャンをクリップ"
+
+msgid "Import scan"
+msgstr "スキャンをインポート"
+
+msgid "Rotate scan"
+msgstr "スキャンを回転"
+
+msgid "Register scan"
+msgstr "スキャンをレジストレーション"
+
+#~ msgid "Patch"
+#~ msgstr "パッチ"
+
+#~ msgid ""
+#~ "In Patch mode disables smoothing and makes patches closer to initial "
+#~ "surface."
+#~ msgstr ""
+#~ "パッチモードでスムージングを無効にし、パッチを初期サーフェスに近くします。"
+
+#~ msgid "Decimate Slices"
+#~ msgstr "スライスを間引き"
+
+#~ msgid "Approved Guard Start"
+#~ msgstr "承認済みガード開始"
+
+#~ msgid "Select Faces"
+#~ msgstr "面を選択"
+
+#~ msgid "Select Edges"
+#~ msgstr "エッジを選択"
+
+#~ msgid "Add component"
+#~ msgstr "コンポーネントを追加"
+
+#~ msgid "Relax iterations"
+#~ msgstr "リラックス反復回数"
+
+#~ msgid "Max faces expand"
+#~ msgstr "最大面拡張"
+
+#~ msgid "Boundary Edges"
+#~ msgstr "境界エッジ"
+
+#~ msgid "Selects what type of segment boundaries to prefer."
+#~ msgstr "優先するセグメント境界の種類を選択します。"

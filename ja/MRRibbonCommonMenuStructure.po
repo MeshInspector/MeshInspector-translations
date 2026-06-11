@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "Undo the last action."
+msgstr "最後の操作を元に戻します。"
+
+msgid "Redo"
+msgstr "やり直し"
+
+msgid "Redo last undone action."
+msgstr "最後に元に戻した操作をやり直します。"
+
+msgid "New"
+msgstr "新規"
+
+msgid "Remove all objects from the scene."
+msgstr "シーン内のすべてのオブジェクトを削除します。"
+
+msgid "Open Files"
+msgstr "ファイルを開く"
+
+msgid "Select files from the dialog and open them in the viewer window."
+msgstr "ダイアログからファイルを選択してビューアウィンドウで開きます。"
+
+msgid "Open Directory"
+msgstr "フォルダを開く"
+
+msgid "Load all supported files from given directory and subdirectories."
+msgstr ""
+"指定したフォルダとサブフォルダ内のサポートされているすべてのファイルを読み込"
+"みます。"
+
+msgid "Open DICOMs"
+msgstr "DICOMを開く"
+
+msgid "Load all DICOM volumes from a given directory and its subdirectories."
+msgstr ""
+"指定したフォルダとそのサブフォルダ内のすべてのDICOMボリュームを読み込みます。"
+
+msgid "Open RAW Voxels"
+msgstr "RAWボクセルを開く"
+
+msgid "Load *.raw file with user-specified parameters."
+msgstr "ユーザー指定のパラメーターで *.raw ファイルを読み込みます。"
+
+msgid "Binary Operations"
+msgstr "二値演算"
+
+msgid ""
+"Various bivariate functions on individual voxel pairs: Union, Intersection, "
+"Difference, Max, Min, Sum, Multiply, Divide, Replace."
+msgstr ""
+"個々のボクセルペアに対する各種二変数関数: 和、交差、差分、最大値、最小値、合"
+"計、乗算、除算、置換。"
+
+msgid "Open Voxels From TIFF"
+msgstr "TIFFからボクセルを開く"
+
+msgid "Load voxels from a set of TIFF images"
+msgstr "TIFFイメージのセットからボクセルを読み込みます"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Save selected objects to files."
+msgstr "選択したオブジェクトをファイルに保存します。"
+
+msgid "Save Selected"
+msgstr "選択を保存"
+
+msgid "Save scene tree branches with selected objects to MRU format."
+msgstr "選択したオブジェクトを含むシーンツリーブランチをMRU形式で保存します。"
+
+msgid "Save Scene"
+msgstr "シーンを保存"
+
+msgid "Save MRU scene to the file from which it was opened."
+msgstr "MRUシーンを開いたファイルに上書き保存します。"
+
+msgid "Save Scene As"
+msgstr "シーンを名前を付けて保存"
+
+msgid "Saves scene in a file."
+msgstr "シーンをファイルに保存します。"
+
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+msgid "Saves screenshot of the scene to file."
+msgstr "シーンのスクリーンショットをファイルに保存します。"
+
+msgid "Save Screenshot"
+msgstr "スクリーンショットを保存"
+
+msgid "Saves a screenshot of the current view to file."
+msgstr "現在のビューのスクリーンショットをファイルに保存します。"
+
+msgid "Screenshot to Clipboard"
+msgstr "スクリーンショットをクリップボードにコピー"
+
+msgid "Copies screenshot of the scene to clipboard"
+msgstr "シーンのスクリーンショットをクリップボードにコピーします"
+
+msgid "Fit Data"
+msgstr "データに合わせる"
+
+msgid ""
+"Changes current viewport settings to fit all visible objects in the scene."
+msgstr ""
+"シーン内の表示されているすべてのオブジェクトに合わせてビューポートを調整しま"
+"す。"
+
+msgid "Fit Selected Objects"
+msgstr "選択オブジェクトに合わせる"
+
+msgid ""
+"Changes current viewport settings to fit selected visible objects in scene."
+msgstr ""
+"シーン内の選択された表示オブジェクトに合わせてビューポートを調整します。"
+
+msgid "Fit Selected Primitives"
+msgstr "選択プリミティブに合わせる"
+
+msgid "Changes current viewport settings to fit selection."
+msgstr "選択範囲に合わせてビューポートを調整します。"
+
+msgid "Camera"
+msgstr "カメラ"
+
+msgid "Manually set camera."
+msgstr "カメラを手動で設定します。"
+
+msgid "Front View"
+msgstr "正面ビュー"
+
+msgid "A view of XZ plane with camera looking along Y."
+msgstr "Y軸方向にカメラを向けたXZ平面のビュー。"
+
+msgid "Top View"
+msgstr "上面ビュー"
+
+msgid "A view of XY plane with Z axis looking in camera."
+msgstr "Z軸がカメラを向くXY平面のビュー。"
+
+msgid "Bottom View"
+msgstr "下面ビュー"
+
+msgid "A view of XY plane with camera looking along Z."
+msgstr "Z軸方向にカメラを向けたXY平面のビュー。"
+
+msgid "Left View"
+msgstr "左面ビュー"
+
+msgid "A view of YZ plane with camera looking along X."
+msgstr "X軸方向にカメラを向けたYZ平面のビュー。"
+
+msgid "Back View"
+msgstr "背面ビュー"
+
+msgid "A view of XZ plane with Y axis looking in camera."
+msgstr "Y軸がカメラを向くXZ平面のビュー。"
+
+msgid "Right View"
+msgstr "右面ビュー"
+
+msgid "A view of YZ plane with X axis looking in camera."
+msgstr "X軸がカメラを向くYZ平面のビュー。"
+
+msgid "Isometric View"
+msgstr "アイソメトリックビュー"
+
+msgid ""
+"Look at the object so the axes X,Y,Z form 120 degree angles on the view."
+msgstr "X、Y、Z軸がビュー上で120度の角度を成すようにオブジェクトを表示します。"
+
+msgid "Invert View"
+msgstr "ビューを反転"
+
+msgid "Rotates the camera 180 degrees around the current vertical axis."
+msgstr "現在の垂直軸を中心にカメラを180度回転させます。"
+
+msgid "Single Viewport"
+msgstr "シングルビューポート"
+
+msgid "Setup single viewport for the whole window."
+msgstr "ウィンドウ全体に単一のビューポートを設定します。"
+
+msgid "Horizontal Viewports"
+msgstr "水平分割ビューポート"
+
+msgid "Setup two horizontal viewports for the whole window."
+msgstr "ウィンドウ全体に2つの水平ビューポートを設定します。"
+
+msgid "Vertical Viewports"
+msgstr "垂直分割ビューポート"
+
+msgid "Setup two vertical viewports for the whole window."
+msgstr "ウィンドウ全体に2つの垂直ビューポートを設定します。"
+
+msgid "Quad Viewports"
+msgstr "4分割ビューポート"
+
+msgid "Setup four equal viewports for the whole window."
+msgstr "ウィンドウ全体に4つの均等なビューポートを設定します。"
+
+msgid "Add Custom Theme"
+msgstr "カスタムテーマを追加"
+
+msgid "Customize and save the color theme."
+msgstr "カラーテーマをカスタマイズして保存します。"
+
+msgid "Toggle Global Basis"
+msgstr "グローバル基準を切り替え"
+
+msgid "Show or hide global 0 and X,Y,Z axes, also allows showing 3d grid."
+msgstr ""
+"グローバル原点とX、Y、Z軸の表示/非表示を切り替えます。3Dグリッドの表示も設定"
+"できます。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Show application settings window."
+msgstr "アプリケーション設定ウィンドウを表示します。"
+
+msgid "Select Objects"
+msgstr "オブジェクトを選択"
+
+msgid "Selects objects by clicking them in the scene"
+msgstr "シーン内のオブジェクトをクリックして選択します"
+
+msgid "Move Object"
+msgstr "オブジェクトを移動"
+
+msgid "Move an object in a scene using a mouse"
+msgstr "マウスを使用してシーン内のオブジェクトを移動します"
+
+msgid "Sort by Name"
+msgstr "名前で並べ替え"
+
+msgid "Sort all objects in the scene by name"
+msgstr "シーン内のすべてのオブジェクトを名前で並べ替えます"
+
+msgid "Show All"
+msgstr "すべて表示"
+
+msgid "Show all objects in the scene"
+msgstr "シーン内のすべてのオブジェクトを表示します"
+
+msgid "Hide All"
+msgstr "すべて非表示"
+
+msgid "Hide all objects in the scene"
+msgstr "シーン内のすべてのオブジェクトを非表示にします"
+
+msgid "Select All"
+msgstr "すべて選択"
+
+msgid "Select all objects in the scene"
+msgstr "シーン内のすべてのオブジェクトを選択します"
+
+msgid "Unselect All"
+msgstr "すべての選択を解除"
+
+msgid "Unselect all objects in the scene"
+msgstr "シーン内のすべてのオブジェクトの選択を解除します"
+
+msgid "Show Only Previous"
+msgstr "前のオブジェクトのみ表示"
+
+msgid "Select and show only previous"
+msgstr "前のオブジェクトを選択して表示します"
+
+msgid "Show Only Next"
+msgstr "次のオブジェクトのみ表示"
+
+msgid "Select and show only next"
+msgstr "次のオブジェクトを選択して表示します"
+
+msgid "Rename"
+msgstr "名前を変更"
+
+msgid "Rename object"
+msgstr "オブジェクトの名前を変更します"
+
+msgid "Remove Selected"
+msgstr "選択を削除"
+
+msgid "Remove selected objects"
+msgstr "選択したオブジェクトを削除します"
+
+msgid "Active List"
+msgstr "アクティブリスト"
+
+msgid "Show list of active tools"
+msgstr "アクティブなツールの一覧を表示します"
+
+msgid "Rotator"
+msgstr "ローテーター"
+
+msgid "Permanently rotates the scene around vertical axis."
+msgstr "シーンを垂直軸の周りに継続的に回転させます。"
+
+msgid "Object Info"
+msgstr "オブジェクト情報"
+
+msgid "Show information about currently selected object."
+msgstr "現在選択されているオブジェクトの情報を表示します。"
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "ホーム"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "ビュー"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "選択"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "テスト"

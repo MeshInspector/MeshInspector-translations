@@ -1,0 +1,2851 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"PO-Revision-Date: 2026-04-15 10:20+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:26
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:477
+msgid "Current viewport"
+msgstr "現在のビューポート"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:28
+msgid "Position"
+msgstr "位置"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:29
+msgid ""
+"Location of camera focal point in world space. In case of Autofit, this "
+"location is automatically re-calculated."
+msgstr ""
+"ワールド空間におけるカメラ焦点の位置です。オートフィット時は自動的に再計算さ"
+"れます。"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:31
+#: source/MRViewer/ImGuiHelpers.cpp:1549
+msgid "Direction"
+msgstr "方向"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:32
+msgid "Forward direction of the camera in world space."
+msgstr "ワールド空間におけるカメラの前方向です。"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:34
+msgid "Up"
+msgstr "上"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:35
+msgid "Up direction of the camera in world space."
+msgstr "ワールド空間におけるカメラの上方向です。"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:37
+msgid "Orthonormalize"
+msgstr "正規直交化"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:39
+msgid ""
+"Recalculate vector to orthonormal\n"
+"saving plane (direction, up)"
+msgstr ""
+"平面（方向、上）を保持しながら\n"
+"ベクトルを正規直交化します"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:44
+msgid "Get camera"
+msgstr "カメラを取得"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:47
+msgid "Set camera"
+msgstr "カメラを設定"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:58
+msgid "Autofit"
+msgstr "オートフィット"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:60
+msgid ""
+"If enabled, it automatically selects best camera location to see whole scene "
+"in the viewport."
+msgstr ""
+"有効にすると、シーン全体がビューポートに収まる最適なカメラ位置を自動的に選択"
+"します。"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:65
+msgid "Camera FOV"
+msgstr "カメラFOV"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:70
+msgid "Orthographic view"
+msgstr "平行投影ビュー"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:95
+msgid "Camera Presets"
+msgstr "カメラプリセット"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:110
+msgid "Top"
+msgstr "上面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:113
+msgid "Left"
+msgstr "左面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:116
+msgid "Front"
+msgstr "正面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:119
+msgid "Right"
+msgstr "右面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:122
+msgid "Back"
+msgstr "背面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:126
+msgid "Bottom"
+msgstr "下面"
+
+#: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:131
+msgid "Isometric"
+msgstr "アイソメトリック"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:61
+msgid ""
+"Drag object with LMB to uniform scale\n"
+"RMB - non-uniform"
+msgstr ""
+"左ボタンでドラッグして均一スケール\n"
+"右ボタン - 非均一"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:65
+msgid "Drag object with LMB to rotate\n"
+msgstr "左ボタンでドラッグしてオブジェクトを回転\n"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:69
+msgid "Drag object with LMB to move\n"
+msgstr "左ボタンでドラッグしてオブジェクトを移動\n"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:74
+msgid "Mode:"
+msgstr "モード:"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:75
+msgid "Move"
+msgstr "移動"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:77
+msgid "Rotate"
+msgstr "回転"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:79
+msgid "Scale"
+msgstr "スケール"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:81
+msgid "Target:"
+msgstr "対象:"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:82
+msgid "Picked object"
+msgstr "選択したオブジェクト"
+
+#: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:84
+msgid "Selected object(s)"
+msgstr "選択中のオブジェクト"
+
+#: source/MRCommonPlugins/Basic/MRObjectInfo.cpp:35
+msgid "Selected object"
+msgstr "選択オブジェクト"
+
+#: source/MRCommonPlugins/Basic/MRObjectInfo.cpp:41
+msgid "No object selected"
+msgstr "オブジェクトが選択されていません"
+
+#: source/MRCommonPlugins/Basic/MRShowGlobalBasis.cpp:113
+msgid "Basis: hide basis and grid"
+msgstr "基準: 基準とグリッドを非表示"
+
+#: source/MRCommonPlugins/Basic/MRShowGlobalBasis.cpp:116
+msgid "Basis: show basis"
+msgstr "基準: 基準を表示"
+
+#: source/MRCommonPlugins/Basic/MRShowGlobalBasis.cpp:119
+msgid "Basis: show both basis and grid"
+msgstr "基準: 基準とグリッドを表示"
+
+#: source/MRCommonPlugins/Basic/MRToggleProjectionMode.cpp:37
+msgid "Projection: switch to perspective"
+msgstr "投影: 透視投影に切り替え"
+
+#: source/MRCommonPlugins/Basic/MRToggleProjectionMode.cpp:37
+msgid "Projection: switch to orthographic"
+msgstr "投影: 平行投影に切り替え"
+
+#: source/MRCommonPlugins/ViewerButtons/MRActiveListPlugin.cpp:21
+msgid "No menu present"
+msgstr "メニューがありません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRActiveListPlugin.cpp:23
+msgid "No active tools."
+msgstr "アクティブなツールがありません。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:50
+msgid "Ribbon theme preset"
+msgstr "リボンテーマプリセット"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:55
+msgid "Scene colors:"
+msgstr "シーンカラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:60
+msgid "UI colors:"
+msgstr "UIカラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:65
+msgid "Viewport colors:"
+msgstr "ビューポートカラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:75
+msgid "ImGui preset:"
+msgstr "ImGuiプリセット:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:76
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:136
+msgid "Dark"
+msgstr "ダーク"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:78
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:137
+msgid "Light"
+msgstr "ライト"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:81
+msgid "Apply to new objects only"
+msgstr "新しいオブジェクトにのみ適用"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:83
+msgid "Theme name"
+msgstr "テーマ名"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:85
+msgid "Apply & Save"
+msgstr "適用して保存"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:104
+msgid "Cannot save theme with empty name"
+msgstr "名前が空のテーマは保存できません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:106
+msgid "Please do not use any of these symbols"
+msgstr "これらの記号は使用しないでください"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:110
+msgid "File already exists"
+msgstr "ファイルが既に存在します"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:111
+#, c++-format
+msgid "Theme with name {} already exists, override it?"
+msgstr "{}という名前のテーマが既に存在します。上書きしますか?"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
+#: source/MRViewer/ImGuiMenu.cpp:994
+#: source/MRViewer/MRUISaveChangesPopup.cpp:47
+msgid "Save"
+msgstr "保存"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
+#: source/MRViewer/ImGuiMenu.cpp:951 source/MRViewer/ImGuiMenu.cpp:1050
+#: source/MRViewer/MRProgressBar.cpp:227
+#: source/MRViewer/MRUISaveChangesPopup.cpp:91
+#: source/MRViewer/MRUISaveChangesPopup.h:24
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1036
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:147
+msgid "Color theme is not initialized"
+msgstr "カラーテーマが初期化されていません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:277
+msgid "Cannot save theme with name"
+msgstr "この名前ではテーマを保存できません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:292
+msgid "Another operation in progress."
+msgstr "別の操作が進行中です。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:299
+#, c++-format
+msgid "Drop {}"
+msgstr "{}をドロップ"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:356
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:358
+msgid "Load as Scene"
+msgstr "シーンとして読み込む"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:368
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:370
+msgid "Add Files"
+msgstr "ファイルを追加"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:457
+msgid "Open DICOMs"
+msgstr "DICOMを開く"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:484
+msgid "This web browser doesn't support directory selection"
+msgstr "このウェブブラウザはフォルダ選択に対応していません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:509
+#: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
+msgid "Open Directory"
+msgstr "フォルダを開く"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:600
+msgid ""
+"Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
+"Volume)"
+msgstr ""
+"エクスポート可能な種類のオブジェクトを1つだけ選択してください（例: メッシュ、"
+"点群、ボリューム）"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:603
+msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
+msgstr ""
+"同じ種類のオブジェクトを選択してください（例: メッシュ、点群、ボリューム）"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:668
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:810
+msgid "File name is not set"
+msgstr "ファイル名が設定されていません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:774
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:793
+msgid "Error saving selected:"
+msgstr "選択の保存エラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:823
+msgid "Error saving scene:"
+msgstr "シーンの保存エラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:858
+msgid "Scene is empty - nothing to save"
+msgstr "シーンが空です - 保存するものがありません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:892
+msgid "Width"
+msgstr "幅"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+msgid "Height"
+msgstr "高さ"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+msgid "Transparent Background"
+msgstr "背景を透明にする"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+msgid "Hide scene overlays"
+msgstr "シーンのオーバーレイを非表示にする"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+msgid "Capture"
+msgstr "キャプチャ"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:987
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1014
+msgid "Error saving screenshot:"
+msgstr "スクリーンショットの保存エラー:"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1028
+msgid "This function is not currently supported in web edition"
+msgstr "この機能は現在ウェブ版では対応していません"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:26
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:55
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:89
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:110
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:132
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:155
+msgid "At least one objects should be in scene"
+msgstr "シーンに少なくとも1つのオブジェクトが必要です"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:32
+msgid "Sort scene"
+msgstr "シーンを並べ替え"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:194
+msgid "Deleting objects is blocked"
+msgstr "オブジェクトの削除がブロックされています"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:206
+msgid "Remove Objects"
+msgstr "オブジェクトを削除"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRotatorPlugin.cpp:51
+msgid "Speed"
+msgstr "速度"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRotatorPlugin.cpp:52
+msgid ""
+"The speed of camera rotation in degrees per second. The sign of this value "
+"specifies the direction of rotation."
+msgstr "カメラの回転速度（度/秒）です。この値の符号が回転方向を指定します。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRotatorPlugin.cpp:54
+msgid "Rotate Camera"
+msgstr "カメラを回転"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRotatorPlugin.cpp:55
+msgid ""
+"If selected then camera is rotated around scene's center. Otherwise selected "
+"objects are rotated, each around its center."
+msgstr ""
+"選択すると、カメラがシーンの中心を軸に回転します。それ以外の場合は、選択した"
+"オブジェクトがそれぞれの中心を軸に回転します。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRRotatorPlugin.cpp:115
+msgid "Rotator"
+msgstr "ローテーター"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:98
+msgid "New Scene"
+msgstr "新規シーン"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:99
+msgid "New"
+msgstr "新規"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:100
+msgid "Save current scene and then remove all objects"
+msgstr "現在のシーンを保存してからすべてのオブジェクトを削除します"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:101
+msgid "Remove all objects without saving and ability to restore them"
+msgstr "保存せずにすべてのオブジェクトを削除します（復元不可）"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:102
+msgid "Do not remove any objects, return back"
+msgstr "オブジェクトを削除せずに戻る"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:136
+msgid "There are no visible objects."
+msgstr "表示されているオブジェクトがありません。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:157
+msgid "There are no visible selected objects."
+msgstr "表示されている選択オブジェクトがありません。"
+
+#: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:178
+msgid "There are no visible selected primitives."
+msgstr "表示されている選択プリミティブがありません。"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:29
+msgid "Union"
+msgstr "和集合"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:30
+msgid "Intersection"
+msgstr "交差"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:31
+msgid "Difference"
+msgstr "差分"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:32
+msgid "Max"
+msgstr "最大"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:33
+msgid "Min"
+msgstr "最小"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:34
+msgid "Sum"
+msgstr "合計"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:35
+msgid "Multiply"
+msgstr "乗算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:36
+msgid "Divide"
+msgstr "除算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:40
+msgid "Union A + B"
+msgstr "和集合 A + B"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:41
+msgid "Intersection A * B"
+msgstr "交差 A * B"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:42
+msgid "Difference A - B"
+msgstr "差分 A - B"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:43
+msgid "Compute max(a, b) per voxel"
+msgstr "ボクセルごとに max(a, b) を計算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:44
+msgid "Compute min(a, b) per voxel"
+msgstr "ボクセルごとに min(a, b) を計算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:45
+msgid "Compute a + b per voxel"
+msgstr "ボクセルごとに a + b を計算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:46
+msgid "Compute a * b per voxel"
+msgstr "ボクセルごとに a * b を計算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:47
+msgid "Compute a / b per voxel"
+msgstr "ボクセルごとに a / b を計算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:57
+msgid "Reference object"
+msgstr "参照オブジェクト"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:58
+msgid "Object A"
+msgstr "オブジェクト A"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:59
+msgid "Object B"
+msgstr "オブジェクト B"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:61
+msgid "Swap"
+msgstr "入れ替え"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:69
+msgid "Operations"
+msgstr "演算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:71
+msgid "Enable preview"
+msgstr "プレビューを有効にする"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:96
+msgid "Operation"
+msgstr "演算"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:102
+#: source/MRViewer/MRRibbonMenu.cpp:2115
+msgid "Apply"
+msgstr "適用"
+
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:120
+msgid "Objects must have the same grid class (e.g. level set or unknown)"
+msgstr ""
+"オブジェクトは同じグリッドクラス（レベルセットまたは不明）でなければなりませ"
+"ん"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:56
+msgid "Auto parameters"
+msgstr "自動パラメーター"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:58
+msgid "Use this flag to parse RAW parameters from filename."
+msgstr "このフラグを使用してファイル名からRAWパラメーターを解析します。"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:65
+msgid "Dimensions"
+msgstr "寸法"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:66
+msgid "Voxel size"
+msgstr "ボクセルサイズ"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:70
+msgid "Scalar Type"
+msgstr "スカラー型"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:72
+msgid "Open file"
+msgstr "ファイルを開く"
+
+#: source/MRCommonPlugins/Voxels/MROpenRawVoxelsPlugin.cpp:134
+msgid "Open Voxels"
+msgstr "ボクセルを開く"
+
+#: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:57
+#: source/MRViewer/ImGuiMenu.cpp:1749
+msgid "Voxel Size"
+msgstr "ボクセルサイズ"
+
+#: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:59
+msgid "Invert Surface Orientation"
+msgstr "サーフェスの向きを反転"
+
+#: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:60
+msgid ""
+"By default result voxels has iso-surfaces oriented from bigger value to "
+"smaller which represents dense volume,invert to have iso-surface oriented "
+"from smaller value to bigger to represent distances volume"
+msgstr ""
+"デフォルトでは、結果ボクセルの等値面は密なボリュームを表す大きい値から小さい"
+"値の方向に向いています。小さい値から大きい値の方向（距離ボリューム）に反転す"
+"るにはこれを使用します"
+
+#: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
+msgid "Open Voxels From TIFF"
+msgstr "TIFFからボクセルを開く"
+
+#: source/MRMesh/MRUnitInfo.cpp:22
+msgid "Microns"
+msgstr "マイクロメートル"
+
+#: source/MRMesh/MRUnitInfo.cpp:22 source/MRMesh/MRUnitInfo.cpp:75
+#: source/MRMesh/MRUnitInfo.cpp:90 source/MRMesh/MRUnitInfo.cpp:106
+#: source/MRMesh/MRUnitInfo.cpp:122
+msgid " "
+msgstr " "
+
+#: source/MRMesh/MRUnitInfo.cpp:23
+msgid "Millimeters"
+msgstr "ミリメートル"
+
+#: source/MRMesh/MRUnitInfo.cpp:23
+msgid " mm"
+msgstr " mm"
+
+#: source/MRMesh/MRUnitInfo.cpp:24
+msgid "Centimeters"
+msgstr "センチメートル"
+
+#: source/MRMesh/MRUnitInfo.cpp:24
+msgid " cm"
+msgstr " cm"
+
+#: source/MRMesh/MRUnitInfo.cpp:25
+msgid "Meters"
+msgstr "メートル"
+
+#: source/MRMesh/MRUnitInfo.cpp:25
+msgid " m"
+msgstr " m"
+
+#: source/MRMesh/MRUnitInfo.cpp:26
+msgid "Inches"
+msgstr "インチ"
+
+#: source/MRMesh/MRUnitInfo.cpp:26
+msgid " in"
+msgstr " in"
+
+#: source/MRMesh/MRUnitInfo.cpp:27
+msgid "Feet"
+msgstr "フィート"
+
+#: source/MRMesh/MRUnitInfo.cpp:27
+msgid " ft"
+msgstr " ft"
+
+#: source/MRMesh/MRUnitInfo.cpp:36
+msgid "Radians"
+msgstr "ラジアン"
+
+#: source/MRMesh/MRUnitInfo.cpp:36
+msgid " radians"
+msgstr " rad"
+
+#: source/MRMesh/MRUnitInfo.cpp:37 source/MRViewer/MRUnits.cpp:225
+msgid "Degrees"
+msgstr "度"
+
+#: source/MRMesh/MRUnitInfo.cpp:37
+msgid "°"
+msgstr "°"
+
+#: source/MRMesh/MRUnitInfo.cpp:46
+msgid "Pixels"
+msgstr "ピクセル"
+
+#: source/MRMesh/MRUnitInfo.cpp:46
+msgid " px"
+msgstr " px"
+
+#: source/MRMesh/MRUnitInfo.cpp:55
+msgid "Factor"
+msgstr "倍率"
+
+#: source/MRMesh/MRUnitInfo.cpp:55
+msgid " x"
+msgstr " x"
+
+#: source/MRMesh/MRUnitInfo.cpp:56
+msgid "Percents"
+msgstr "パーセント"
+
+#: source/MRMesh/MRUnitInfo.cpp:56
+msgid " %"
+msgstr " %"
+
+#: source/MRMesh/MRUnitInfo.cpp:65
+msgid "Seconds"
+msgstr "秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:65
+msgid " s"
+msgstr " s"
+
+#: source/MRMesh/MRUnitInfo.cpp:66
+msgid "Milliseconds"
+msgstr "ミリ秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:66
+msgid " ms"
+msgstr " ms"
+
+#: source/MRMesh/MRUnitInfo.cpp:75
+msgid "Microns per second"
+msgstr "マイクロメートル/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:76
+msgid "Millimeters per second"
+msgstr "ミリメートル/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:76
+msgid " mm/s"
+msgstr " mm/s"
+
+#: source/MRMesh/MRUnitInfo.cpp:77
+msgid "Centimeters per second"
+msgstr "センチメートル/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:77
+msgid " cm/s"
+msgstr " cm/s"
+
+#: source/MRMesh/MRUnitInfo.cpp:78
+msgid "Meters per second"
+msgstr "メートル/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:78
+msgid " m/s"
+msgstr " m/s"
+
+#: source/MRMesh/MRUnitInfo.cpp:79
+msgid "Inches per second"
+msgstr "インチ/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:79
+msgid " in/s"
+msgstr " in/s"
+
+#: source/MRMesh/MRUnitInfo.cpp:80
+msgid "Feet per second"
+msgstr "フィート/秒"
+
+#: source/MRMesh/MRUnitInfo.cpp:80
+msgid " ft/s"
+msgstr " ft/s"
+
+#: source/MRMesh/MRUnitInfo.cpp:90
+msgid "Microns²"
+msgstr "マイクロメートル²"
+
+#: source/MRMesh/MRUnitInfo.cpp:91
+msgid "Millimeters²"
+msgstr "ミリメートル²"
+
+#: source/MRMesh/MRUnitInfo.cpp:91
+msgid " mm²"
+msgstr " mm²"
+
+#: source/MRMesh/MRUnitInfo.cpp:92
+msgid "Centimeters²"
+msgstr "センチメートル²"
+
+#: source/MRMesh/MRUnitInfo.cpp:92
+msgid " cm²"
+msgstr " cm²"
+
+#: source/MRMesh/MRUnitInfo.cpp:93
+msgid "Meters²"
+msgstr "メートル²"
+
+#: source/MRMesh/MRUnitInfo.cpp:93
+msgid " m²"
+msgstr " m²"
+
+#: source/MRMesh/MRUnitInfo.cpp:94
+msgid "Inches²"
+msgstr "インチ²"
+
+#: source/MRMesh/MRUnitInfo.cpp:94
+msgid " in²"
+msgstr " in²"
+
+#: source/MRMesh/MRUnitInfo.cpp:95
+msgid "Feet²"
+msgstr "フィート²"
+
+#: source/MRMesh/MRUnitInfo.cpp:95
+msgid " ft²"
+msgstr " ft²"
+
+#: source/MRMesh/MRUnitInfo.cpp:106
+msgid "Microns³"
+msgstr "マイクロメートル³"
+
+#: source/MRMesh/MRUnitInfo.cpp:107
+msgid "Millimeters³"
+msgstr "ミリメートル³"
+
+#: source/MRMesh/MRUnitInfo.cpp:107
+msgid " mm³"
+msgstr " mm³"
+
+#: source/MRMesh/MRUnitInfo.cpp:108
+msgid "Centimeters³"
+msgstr "センチメートル³"
+
+#: source/MRMesh/MRUnitInfo.cpp:108
+msgid " cm³"
+msgstr " cm³"
+
+#: source/MRMesh/MRUnitInfo.cpp:109
+msgid "Meters³"
+msgstr "メートル³"
+
+#: source/MRMesh/MRUnitInfo.cpp:109
+msgid " m³"
+msgstr " m³"
+
+#: source/MRMesh/MRUnitInfo.cpp:110
+msgid "Inches³"
+msgstr "インチ³"
+
+#: source/MRMesh/MRUnitInfo.cpp:110
+msgid " in³"
+msgstr " in³"
+
+#: source/MRMesh/MRUnitInfo.cpp:111
+msgid "Feet³"
+msgstr "フィート³"
+
+#: source/MRMesh/MRUnitInfo.cpp:111
+msgid " ft³"
+msgstr " ft³"
+
+#: source/MRMesh/MRUnitInfo.cpp:122
+msgid "Microns⁻¹"
+msgstr "マイクロメートル⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:123
+msgid "Millimeters⁻¹"
+msgstr "ミリメートル⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:123
+msgid " mm⁻¹"
+msgstr " mm⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:124
+msgid "Centimeters⁻¹"
+msgstr "センチメートル⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:124
+msgid " cm⁻¹"
+msgstr " cm⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:125
+msgid "Meters⁻¹"
+msgstr "メートル⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:125
+msgid " m⁻¹"
+msgstr " m⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:126
+msgid "Inches⁻¹"
+msgstr "インチ⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:126
+msgid " in⁻¹"
+msgstr " in⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:127
+msgid "Feet⁻¹"
+msgstr "フィート⁻¹"
+
+#: source/MRMesh/MRUnitInfo.cpp:127
+msgid " ft⁻¹"
+msgstr " ft⁻¹"
+
+#: source/MRViewer/ImGuiHelpers.cpp:98
+#, c-format
+msgid "Drag with Shift - faster, %s - slower"
+msgstr "Shiftを押しながらドラッグ - 高速、%s - 低速"
+
+#: source/MRViewer/ImGuiHelpers.cpp:401
+msgid "Line width cannot be changed with current renderer."
+msgstr "現在のレンダラーでは線幅を変更できません。"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1195
+msgid "Load preset"
+msgstr "プリセットを読み込む"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1195
+msgid "Select Palette Preset"
+msgstr "パレットプリセットを選択"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1202
+msgid "Cannot load preset with name"
+msgstr "この名前のプリセットを読み込めません"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1211
+msgid "Load one of custom presets"
+msgstr "カスタムプリセットを読み込む"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1218
+msgid "Set Zero to Green"
+msgstr "ゼロを緑に設定"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1219
+msgid "If checked, zero value always will be green"
+msgstr "チェックすると、ゼロ値は常に緑色になります"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1225
+msgid "Discrete Palette"
+msgstr "離散パレット"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1231
+msgid ""
+"If checked, palette will have several discrete levels. Otherwise it will be "
+"smooth."
+msgstr ""
+"チェックすると、パレットは複数の離散レベルになります。チェックを外すとなめら"
+"かになります。"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1247
+msgid "Number of discrete levels"
+msgstr "離散レベル数"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1258
+msgid "Palette Type"
+msgstr "パレットタイプ"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1258
+msgid "Even Space"
+msgstr "均等分布"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1258
+msgid "Central Zone"
+msgstr "中央ゾーン"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1259
+msgid ""
+"If \"Central zone\" selected you can separately fit values which are higher "
+"or lower then central one. Otherwise only the whole scale can be fit"
+msgstr ""
+"「中央ゾーン」を選択すると、中央値より高い値と低い値を個別に調整できます。そ"
+"れ以外の場合はスケール全体のみ調整できます"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1296
+msgid "Min/Max"
+msgstr "最小/最大"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1302
+msgid "Max (red)"
+msgstr "最大（赤）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1304
+msgid "Min (blue)"
+msgstr "最小（青）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1315
+msgid "Max positive / Min negative"
+msgstr "最大正値 / 最小負値"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1322
+msgid "Min positive / Max negative"
+msgstr "最小正値 / 最大負値"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1328
+msgid "Max positive (red)"
+msgstr "最大正値（赤）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1329
+msgid "Min positive (green)"
+msgstr "最小正値（緑）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1330
+msgid "Max negative (green)"
+msgstr "最大負値（緑）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1332
+msgid "Min negative (blue)"
+msgstr "最小負値（青）"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1356
+msgid "Invalid values order"
+msgstr "値の順序が無効です"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1390 source/MRViewer/ImGuiHelpers.cpp:1408
+msgid "Reset Palette"
+msgstr "パレットをリセット"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1399
+msgid "Save Palette as"
+msgstr "パレットを名前を付けて保存"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1401
+msgid ""
+"Save the current palette settings to file. You can load it later as a preset."
+msgstr ""
+"現在のパレット設定をファイルに保存します。後でプリセットとして読み込めます。"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1424
+msgid "Returns the palette to its default values"
+msgstr "パレットをデフォルト値に戻します"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1449
+msgid "Plane YZ"
+msgstr "平面 YZ"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1452
+msgid "Plane XZ"
+msgstr "平面 XZ"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1455
+msgid "Plane XY"
+msgstr "平面 XY"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1463
+msgid "Import Plane"
+msgstr "平面をインポート"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1475
+msgid "Click on the plane object in scene to import its parameters"
+msgstr "シーン内の平面オブジェクトをクリックしてパラメーターをインポートします"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1490
+msgid "Normal"
+msgstr "法線"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1514
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:919
+msgid "Shift"
+msgstr "シフト"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1517
+msgid "Flip"
+msgstr "反転"
+
+#: source/MRViewer/ImGuiHelpers.cpp:1529
+msgid "Show Plane"
+msgstr "平面を表示"
+
+#: source/MRViewer/ImGuiMenu.cpp:142
+msgid "Point Array Size"
+msgstr "ポイント配列サイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:143
+msgid "Line Array Size"
+msgstr "ライン配列サイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:144
+msgid "Triangle Array Size"
+msgstr "三角形配列サイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:145
+msgid "Point Elements Number"
+msgstr "ポイント要素数"
+
+#: source/MRViewer/ImGuiMenu.cpp:146
+msgid "Line Elements Number"
+msgstr "ライン要素数"
+
+#: source/MRViewer/ImGuiMenu.cpp:147
+msgid "Triangle Elements Number"
+msgstr "三角形要素数"
+
+#: source/MRViewer/ImGuiMenu.cpp:152
+msgid "Mouse Down"
+msgstr "マウスボタン押下"
+
+#: source/MRViewer/ImGuiMenu.cpp:153
+msgid "Mouse Up"
+msgstr "マウスボタン解放"
+
+#: source/MRViewer/ImGuiMenu.cpp:154
+msgid "Mouse Move"
+msgstr "マウス移動"
+
+#: source/MRViewer/ImGuiMenu.cpp:155
+msgid "Mouse Scroll"
+msgstr "マウススクロール"
+
+#: source/MRViewer/ImGuiMenu.cpp:156
+msgid "Key Down"
+msgstr "キー押下"
+
+#: source/MRViewer/ImGuiMenu.cpp:157
+msgid "Key Up"
+msgstr "キー解放"
+
+#: source/MRViewer/ImGuiMenu.cpp:158
+msgid "Key Repeat"
+msgstr "キーリピート"
+
+#: source/MRViewer/ImGuiMenu.cpp:159
+msgid "Char Pressed"
+msgstr "文字入力"
+
+#: source/MRViewer/ImGuiMenu.cpp:892
+msgid "GL memory buffer"
+msgstr "GLメモリバッファ"
+
+#: source/MRViewer/ImGuiMenu.cpp:895 source/MRViewer/ImGuiMenu.cpp:897
+msgid "Previous frame time"
+msgstr "前フレーム時間"
+
+#: source/MRViewer/ImGuiMenu.cpp:898
+msgid "Total frames"
+msgstr "総フレーム数"
+
+#: source/MRViewer/ImGuiMenu.cpp:899
+msgid "Swapped frames"
+msgstr "スワップフレーム数"
+
+#: source/MRViewer/ImGuiMenu.cpp:900
+msgid "FPS"
+msgstr "FPS"
+
+#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1030
+msgid "Reset"
+msgstr "リセット"
+
+#: source/MRViewer/ImGuiMenu.cpp:906
+msgid "Print Time to Log"
+msgstr "時間をログに出力"
+
+#: source/MRViewer/ImGuiMenu.cpp:922
+msgid "Rename Object"
+msgstr "オブジェクト名を変更"
+
+#: source/MRViewer/ImGuiMenu.cpp:937 source/MRViewer/ImGuiMenu.cpp:938
+#: source/MRViewer/ImGuiMenu.cpp:978 source/MRViewer/ImGuiMenu.cpp:979
+#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:132
+msgid "Name"
+msgstr "名前"
+
+#: source/MRViewer/ImGuiMenu.cpp:943
+msgid "Ok"
+msgstr "OK"
+
+#: source/MRViewer/ImGuiMenu.cpp:945
+msgid "Rename object from modal dialog"
+msgstr "オブジェクトの名前を変更 (ダイアログ)"
+
+#: source/MRViewer/ImGuiMenu.cpp:967
+msgid "Edit Tag"
+msgstr "タグを編集"
+
+#: source/MRViewer/ImGuiMenu.cpp:983
+msgid "Assign Color"
+msgstr "色を割り当て"
+
+#: source/MRViewer/ImGuiMenu.cpp:988
+msgid "Selected Color"
+msgstr "選択時の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:989
+msgid "Unselected Color"
+msgstr "未選択時の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:1125 source/MRViewer/MRMouseController.cpp:104
+msgid "Error"
+msgstr "エラー"
+
+#: source/MRViewer/ImGuiMenu.cpp:1130
+msgid "Warning"
+msgstr "警告"
+
+#: source/MRViewer/ImGuiMenu.cpp:1135
+msgid "Info"
+msgstr "情報"
+
+#: source/MRViewer/ImGuiMenu.cpp:1156
+msgid "Okay"
+msgstr "OK"
+
+#: source/MRViewer/ImGuiMenu.cpp:1233
+msgid "Selection Properties"
+msgstr "選択プロパティ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1265
+msgid "Draw Options"
+msgstr "描画オプション"
+
+#: source/MRViewer/ImGuiMenu.cpp:1293
+msgid "Information"
+msgstr "情報"
+
+#: source/MRViewer/ImGuiMenu.cpp:1306
+msgid "WORLD"
+msgstr "ワールド"
+
+#: source/MRViewer/ImGuiMenu.cpp:1307
+msgid "LOCAL"
+msgstr "ローカル"
+
+#: source/MRViewer/ImGuiMenu.cpp:1528
+msgid "Object Name"
+msgstr "オブジェクト名"
+
+#: source/MRViewer/ImGuiMenu.cpp:1538
+msgid "Rename object from information"
+msgstr "オブジェクトの名前を変更 (情報パネル)"
+
+#: source/MRViewer/ImGuiMenu.cpp:1556
+msgid "Label"
+msgstr "ラベル"
+
+#: source/MRViewer/ImGuiMenu.cpp:1561
+msgid "Change label"
+msgstr "ラベルを変更"
+
+#: source/MRViewer/ImGuiMenu.cpp:1625
+msgid "Selected / Total"
+msgstr "選択済み / 全体"
+
+#: source/MRViewer/ImGuiMenu.cpp:1643
+msgid "Object Type"
+msgstr "オブジェクトタイプ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1647
+msgid "Objects"
+msgstr "オブジェクト"
+
+#: source/MRViewer/ImGuiMenu.cpp:1664
+msgid "Local Box Size"
+msgstr "ローカルボックスサイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1666
+msgid ""
+"The edges of the tight axis-aligned bounding box in the local object space."
+msgstr ""
+"ローカルオブジェクト空間における軸平行バウンディングボックスの辺の長さ。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1668
+msgid "Local Box Min"
+msgstr "ローカルボックス最小値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1669
+msgid ""
+"Lower left corner of the tight axis-aligned bounding box in the local object "
+"space."
+msgstr "ローカルオブジェクト空間における軸平行バウンディングボックスの左下隅。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1671
+msgid "Local Box Max"
+msgstr "ローカルボックス最大値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1672
+msgid ""
+"Upper right corner of the tight axis-aligned bounding box in the local "
+"object space."
+msgstr "ローカルオブジェクト空間における軸平行バウンディングボックスの右上隅。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1678
+msgid "World Box Size"
+msgstr "ワールドボックスサイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1680
+msgid "The edges of the tight axis-aligned bounding box in the world space."
+msgstr "ワールド空間における軸平行バウンディングボックスの辺の長さ。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1682
+msgid "World Box Min"
+msgstr "ワールドボックス最小値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1683
+msgid ""
+"Lower left corner of the tight axis-aligned bounding box in the world space."
+msgstr "ワールド空間における軸平行バウンディングボックスの左下隅。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1685
+msgid "World Box Max"
+msgstr "ワールドボックス最大値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1686
+msgid ""
+"Upper right corner of the tight axis-aligned bounding box in the world space."
+msgstr "ワールド空間における軸平行バウンディングボックスの右上隅。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1697 source/MRViewer/ImGuiMenu.cpp:2174
+msgid "Triangles"
+msgstr "三角形"
+
+#: source/MRViewer/ImGuiMenu.cpp:1698
+msgid "Vertices"
+msgstr "頂点"
+
+#: source/MRViewer/ImGuiMenu.cpp:1699 source/MRViewer/ImGuiMenu.cpp:2169
+msgid "Edges"
+msgstr "エッジ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1700 source/MRViewer/ImGuiMenu.cpp:2170
+#: source/MRViewer/ImGuiMenu.cpp:2191
+msgid "Points"
+msgstr "ポイント"
+
+#: source/MRViewer/ImGuiMenu.cpp:1704
+msgid "Point Normals"
+msgstr "ポイント法線"
+
+#: source/MRViewer/ImGuiMenu.cpp:1704
+msgid "Yes"
+msgstr "あり"
+
+#: source/MRViewer/ImGuiMenu.cpp:1704
+msgid "No"
+msgstr "なし"
+
+#: source/MRViewer/ImGuiMenu.cpp:1708
+msgid "Volume"
+msgstr "ボリューム"
+
+#: source/MRViewer/ImGuiMenu.cpp:1709
+msgid "The volume surrounded by the mesh(es) in the world space."
+msgstr "ワールド空間においてメッシュで囲まれたボリューム。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1714 source/MRViewer/ImGuiMenu.cpp:1720
+msgid "Area"
+msgstr "面積"
+
+#: source/MRViewer/ImGuiMenu.cpp:1716
+msgid "Selected / Total surface area in the world space."
+msgstr "ワールド空間における選択済み / 全体の表面積。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1721
+msgid "Total surface area in the world space."
+msgstr "ワールド空間における全体の表面積。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:147
+msgid "Length"
+msgstr "長さ"
+
+#: source/MRViewer/ImGuiMenu.cpp:1728
+msgid "The length of the lines in the world space."
+msgstr "ワールド空間における直線の長さ。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1733
+msgid "Avg Edge Length"
+msgstr "平均エッジ長"
+
+#: source/MRViewer/ImGuiMenu.cpp:1734
+msgid "Average edge length of the object(s) in the world space."
+msgstr "ワールド空間におけるオブジェクトの平均エッジ長。"
+
+#: source/MRViewer/ImGuiMenu.cpp:1737
+msgid "Holes"
+msgstr "穴"
+
+#: source/MRViewer/ImGuiMenu.cpp:1738
+msgid "Components"
+msgstr "コンポーネント"
+
+#: source/MRViewer/ImGuiMenu.cpp:1747
+msgid "Voxels Dims"
+msgstr "ボクセル寸法"
+
+#: source/MRViewer/ImGuiMenu.cpp:1754
+msgid "Active Box Min"
+msgstr "アクティブボックス最小値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1755
+msgid "Active Box Max"
+msgstr "アクティブボックス最大値"
+
+#: source/MRViewer/ImGuiMenu.cpp:1760
+msgid "Min,Iso,Max"
+msgstr "最小,等値,最大"
+
+#: source/MRViewer/ImGuiMenu.cpp:1777
+msgid "X/Y/Z Distance"
+msgstr "X/Y/Z 距離"
+
+#: source/MRViewer/ImGuiMenu.cpp:1780
+msgid "Angle"
+msgstr "角度"
+
+#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:148
+msgid "Diameter"
+msgstr "直径"
+
+#: source/MRViewer/ImGuiMenu.cpp:1782
+msgid "Radius"
+msgstr "半径"
+
+#: source/MRViewer/ImGuiMenu.cpp:1872
+msgid "Change Feature Transform"
+msgstr "フィーチャー変換を変更"
+
+#: source/MRViewer/ImGuiMenu.cpp:1921
+msgid "Tolerance"
+msgstr "許容差"
+
+#: source/MRViewer/ImGuiMenu.cpp:1923
+msgid "tolerance"
+msgstr "許容差"
+
+#: source/MRViewer/ImGuiMenu.cpp:1948
+msgid "Visibility"
+msgstr "可視性"
+
+#: source/MRViewer/ImGuiMenu.cpp:1968
+msgid "Lock Transform"
+msgstr "変換をロック"
+
+#: source/MRViewer/ImGuiMenu.cpp:1983
+msgid "Advanced"
+msgstr "詳細"
+
+#: source/MRViewer/ImGuiMenu.cpp:2003
+msgid "Polygon Offset"
+msgstr "ポリゴンオフセット"
+
+#: source/MRViewer/ImGuiMenu.cpp:2004 source/MRViewer/ImGuiMenu.cpp:2075
+#: source/MRViewer/ImGuiMenu.cpp:2201 source/MRViewer/ImGuiMenu.cpp:2212
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:786
+msgid "Point size"
+msgstr "ポイントサイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2016
+msgid "Dash"
+msgstr "破線"
+
+#: source/MRViewer/ImGuiMenu.cpp:2025
+msgid "Shininess"
+msgstr "光沢"
+
+#: source/MRViewer/ImGuiMenu.cpp:2033
+msgid "Ambient Strength"
+msgstr "環境光強度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2041
+msgid "Specular Strength"
+msgstr "鏡面反射強度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2053
+msgid "Visual Sampling"
+msgstr "ビジュアルサンプリング"
+
+#: source/MRViewer/ImGuiMenu.cpp:2078 source/MRViewer/ImGuiMenu.cpp:2194
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:794
+msgid "Line width"
+msgstr "線幅"
+
+#: source/MRViewer/ImGuiMenu.cpp:2082
+msgid "Point subfeatures size"
+msgstr "ポイントサブフィーチャーサイズ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2085
+msgid "Line subfeatures width"
+msgstr "ラインサブフィーチャー幅"
+
+#: source/MRViewer/ImGuiMenu.cpp:2089
+msgid "Main component alpha"
+msgstr "メインコンポーネントの不透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2092
+msgid "Point subfeatures alpha"
+msgstr "ポイントサブフィーチャーの不透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2095
+msgid "Line subfeatures alpha"
+msgstr "ラインサブフィーチャーの不透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2098
+msgid "Mesh subfeatures alpha"
+msgstr "メッシュサブフィーチャーの不透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2121 source/MRViewer/ImGuiMenu.cpp:2122
+#: source/MRViewer/MRToolsLibrary.cpp:103
+#: source/MRViewer/MRToolsLibrary.cpp:108
+msgid "Remove"
+msgstr "削除"
+
+#: source/MRViewer/ImGuiMenu.cpp:2128
+msgid "Remove Objects (context)"
+msgstr "オブジェクトを削除（コンテキスト）"
+
+#: source/MRViewer/ImGuiMenu.cpp:2167
+msgid "Shading"
+msgstr "シェーディング"
+
+#: source/MRViewer/ImGuiMenu.cpp:2168
+msgid "Flat Shading"
+msgstr "フラットシェーディング"
+
+#: source/MRViewer/ImGuiMenu.cpp:2171
+msgid "Selected Edges"
+msgstr "選択エッジ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2172
+msgid "Selected Tri-s"
+msgstr "選択三角形"
+
+#: source/MRViewer/ImGuiMenu.cpp:2173
+msgid "Borders"
+msgstr "境界"
+
+#: source/MRViewer/ImGuiMenu.cpp:2175
+msgid "Transparency"
+msgstr "透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2187
+msgid "Texture"
+msgstr "テクスチャ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2192
+msgid "Smooth corners"
+msgstr "角を滑らかにする"
+
+#: source/MRViewer/ImGuiMenu.cpp:2193
+msgid "Dashed"
+msgstr "破線"
+
+#: source/MRViewer/ImGuiMenu.cpp:2211
+msgid "Selected Points"
+msgstr "選択ポイント"
+
+#: source/MRViewer/ImGuiMenu.cpp:2222
+msgid "Always on top"
+msgstr "常に最前面"
+
+#: source/MRViewer/ImGuiMenu.cpp:2223
+msgid "Source point"
+msgstr "基点"
+
+#: source/MRViewer/ImGuiMenu.cpp:2224
+msgid "Background"
+msgstr "背景"
+
+#: source/MRViewer/ImGuiMenu.cpp:2225
+msgid "Contour"
+msgstr "輪郭"
+
+#: source/MRViewer/ImGuiMenu.cpp:2226
+msgid "Leader line"
+msgstr "引き出し線"
+
+#: source/MRViewer/ImGuiMenu.cpp:2230
+msgid "Subfeatures"
+msgstr "サブフィーチャー"
+
+#: source/MRViewer/ImGuiMenu.cpp:2234
+msgid "Extra information next to name"
+msgstr "名前の横に追加情報を表示"
+
+#: source/MRViewer/ImGuiMenu.cpp:2236
+msgid "Clipping"
+msgstr "クリッピング"
+
+#: source/MRViewer/ImGuiMenu.cpp:2293
+msgid "Viewport Id"
+msgstr "ビューポートID"
+
+#: source/MRViewer/ImGuiMenu.cpp:2294 source/MRViewer/ImGuiMenu.cpp:2297
+msgid "Default"
+msgstr "デフォルト"
+
+#: source/MRViewer/ImGuiMenu.cpp:2310
+msgid "Selected color"
+msgstr "選択時の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2317
+msgid "Unselected color"
+msgstr "未選択時の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2324
+msgid "Back Triangles color"
+msgstr "背面三角形の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2334
+msgid "Edges color"
+msgstr "エッジの色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2341
+msgid "Points color"
+msgstr "ポイントの色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2348
+msgid "Selected Tri-s color"
+msgstr "選択三角形の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2355
+msgid "Selected Edges color"
+msgstr "選択エッジの色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2362
+msgid "Borders color"
+msgstr "境界の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2372
+msgid "Selected Points color"
+msgstr "選択ポイントの色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2382
+msgid "Source point color"
+msgstr "基点の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2389
+msgid "Leader line color"
+msgstr "引き出し線の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2396
+msgid "Contour color"
+msgstr "輪郭の色"
+
+#: source/MRViewer/ImGuiMenu.cpp:2407
+msgid "Decorations color (selected)"
+msgstr "装飾の色（選択時）"
+
+#: source/MRViewer/ImGuiMenu.cpp:2415
+msgid "Decorations color (unselected)"
+msgstr "装飾の色（未選択時）"
+
+#: source/MRViewer/ImGuiMenu.cpp:2426
+msgid "Opacity"
+msgstr "不透明度"
+
+#: source/MRViewer/ImGuiMenu.cpp:2493
+#, c++-format
+msgid "{} uncommon tag"
+msgid_plural "{} uncommon tags"
+msgstr[0] "{} 個の珍しいタグ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2515
+msgid "Tags"
+msgstr "タグ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2683
+msgid "Type to add new tag..."
+msgstr "新しいタグを入力..."
+
+#: source/MRViewer/ImGuiMenu.cpp:2840
+msgid "Uni-scale"
+msgstr "均一スケール"
+
+#: source/MRViewer/ImGuiMenu.cpp:2842
+msgid "Selects between uniform scaling or separate scaling along each axis"
+msgstr "均一スケールまたは各軸に沿った個別スケールを選択します"
+
+#: source/MRViewer/ImGuiMenu.cpp:2847 source/MRViewer/ImGuiMenu.cpp:2852
+msgid "Rotation XYZ"
+msgstr "回転 XYZ"
+
+#: source/MRViewer/ImGuiMenu.cpp:2854
+msgid "Rotation round [X, Y, Z] axes respectively."
+msgstr "[X、Y、Z]軸それぞれを中心とした回転。"
+
+#: source/MRViewer/ImGuiMenu.cpp:2860
+msgid "Sequential intrinsic rotations around Oz, Oy and Ox axes."
+msgstr "Oz、Oy、Ox軸の順の固有回転。"
+
+#: source/MRViewer/ImGuiMenu.cpp:2887 source/MRViewer/ImGuiMenu.cpp:2899
+#: source/MRViewer/MRMouse.h:34
+msgid "Translation"
+msgstr "平行移動"
+
+#: source/MRViewer/ImGuiMenu.cpp:2912
+msgid "Manual Change Transform"
+msgstr "変換を手動で変更"
+
+#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1902
+msgid "Transform"
+msgstr "変換"
+
+#: source/MRViewer/ImGuiMenu.cpp:3156
+msgid "Hot Key List"
+msgstr "ホットキー一覧"
+
+#: source/MRViewer/MRFileLoadOptions.h:13
+#, c++-format
+msgid "Open {}"
+msgstr "{}を開く"
+
+#: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:127
+msgid "Select Mesh Boundary"
+msgstr "メッシュ境界を選択"
+
+#: source/MRViewer/MRModalDialog.cpp:77
+msgid "Do not show this message again"
+msgstr "このメッセージを再表示しない"
+
+#: source/MRViewer/MRMouse.h:32 source/MRViewer/MRViewerSettingsPlugin.cpp:636
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1129
+msgid "None"
+msgstr "なし"
+
+#: source/MRViewer/MRMouse.h:33
+msgid "Rotation"
+msgstr "回転"
+
+#: source/MRViewer/MRMouse.h:35
+msgid "Roll"
+msgstr "ロール"
+
+#: source/MRViewer/MRMouseController.cpp:95
+msgid "LMB"
+msgstr "左ボタン"
+
+#: source/MRViewer/MRMouseController.cpp:98
+msgid "RMB"
+msgstr "右ボタン"
+
+#: source/MRViewer/MRMouseController.cpp:101
+msgid "MMB"
+msgstr "中ボタン"
+
+#: source/MRViewer/MRMoveObjectByMouseImpl.cpp:367
+msgid "Move Object"
+msgstr "オブジェクトを移動"
+
+#: source/MRViewer/MRProgressBar.cpp:236
+msgid "Canceling..."
+msgstr "キャンセル中..."
+
+#: source/MRViewer/MRProgressBar.cpp:240 source/MRViewer/MRProgressBar.cpp:242
+msgid "Operation is in progress, please wait..."
+msgstr "処理中です。お待ちください..."
+
+#: source/MRViewer/MRRibbonMenu.cpp:319
+msgid "Unpin"
+msgstr "固定解除"
+
+#: source/MRViewer/MRRibbonMenu.cpp:332
+msgid "Pin"
+msgstr "固定"
+
+#: source/MRViewer/MRRibbonMenu.cpp:389
+msgid "Open help page"
+msgstr "ヘルプページを開く"
+
+#: source/MRViewer/MRRibbonMenu.cpp:414
+msgid "Change the language"
+msgstr "言語を変更"
+
+#: source/MRViewer/MRRibbonMenu.cpp:959
+msgid "Focus"
+msgstr "フォーカス"
+
+#: source/MRViewer/MRRibbonMenu.cpp:980
+#: source/MRViewer/MRUISaveChangesPopup.h:18
+msgid "Close"
+msgstr "閉じる"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1041 source/MRViewer/MRRibbonMenu.cpp:1048
+msgid "Group"
+msgstr "グループ"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1075 source/MRViewer/MRRibbonMenu.cpp:1083
+msgid "Ungroup"
+msgstr "グループ解除"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1113 source/MRViewer/MRRibbonMenu.cpp:1182
+msgid "Clone"
+msgstr "クローン"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1148 source/MRViewer/MRRibbonMenu.cpp:1240
+msgid "Clone Selection"
+msgstr "選択をクローン"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1202
+msgid "Select Subtree"
+msgstr "サブツリーを選択"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1270 source/MRViewer/MRRibbonMenu.cpp:1273
+msgid "Combine Subtree"
+msgstr "サブツリーを統合"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1549
+msgid "Unable to close this plugin"
+msgstr "このプラグインを閉じることができません"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1572 source/MRViewer/MRRibbonMenu.cpp:1594
+msgid "Open Settings"
+msgstr "設定を開く"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1573
+msgid ""
+"Unable to activate this tool because another blocking tool is already "
+"active.\n"
+"It can be changed in the Settings."
+msgstr ""
+"別のブロッキングツールがすでにアクティブなため、このツールをアクティブにでき"
+"ません。\n"
+"設定で変更できます。"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1595
+msgid ""
+"That tool was closed due to other tool start.\n"
+"It can be changed in the Settings."
+msgstr ""
+"別のツールが起動したため、そのツールは閉じられました。\n"
+"設定で変更できます。"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1619
+msgid ""
+"Camera operations that are controlled by left mouse button may not work "
+"while this tool is active"
+msgstr ""
+"このツールがアクティブな間、左マウスボタンで制御するカメラ操作が機能しない場"
+"合があります"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1621
+#, c++-format
+msgid "Hold {} additionally to control camera"
+msgstr "カメラを操作するには {} も押しておいてください"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1927
+msgid "Open Transform Data context menu."
+msgstr "変換データのコンテキストメニューを開きます。"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1943
+msgid "Reset Transform"
+msgstr "変換をリセット"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1947 source/MRViewer/MRRibbonMenu.cpp:2127
+msgid "Resets transform value to identity."
+msgstr "変換値を単位行列にリセットします。"
+
+#: source/MRViewer/MRRibbonMenu.cpp:1963 source/MRViewer/MRRibbonMenu.cpp:2120
+msgid "Transforms object and resets transform value to identity."
+msgstr "オブジェクトに変換を適用し、変換値を単位行列にリセットします。"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2023
+msgid "Transform Data"
+msgstr "変換データ"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2027
+msgid "Copy"
+msgstr "コピー"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2051
+msgid "Paste"
+msgstr "貼り付け"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2053
+msgid "Paste Transform"
+msgstr "変換を貼り付け"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2061
+msgid "Save to file"
+msgstr "ファイルに保存"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2082
+msgid "Load from file"
+msgstr "ファイルから読み込む"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2092
+msgid "Load Transform from File"
+msgstr "ファイルから変換を読み込む"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2097 source/MRViewer/MRRibbonMenu.cpp:2102
+msgid "Cannot parse transform"
+msgstr "変換を解析できません"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2124
+msgid "Reset Transform (context menu)"
+msgstr "変換をリセット（コンテキストメニュー）"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2166
+msgid "Toggle selected objects visibility"
+msgstr "選択オブジェクトの表示/非表示を切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2183
+msgid "Show this help with hot keys"
+msgstr "ホットキーのヘルプを表示"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2187
+msgid "Toggle statistics window"
+msgstr "統計ウィンドウの表示/非表示を切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2191
+msgid "Toggle shading of selected objects"
+msgstr "選択オブジェクトのシェーディングを切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2199
+msgid "Search plugin by name or description"
+msgstr "名前または説明でプラグインを検索"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2204
+msgid "Toggle edges on selected meshes"
+msgstr "選択メッシュのエッジ表示を切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2212
+msgid "Toggle Orthographic/Perspective View"
+msgstr "平行投影/透視投影を切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2217
+msgid "Toggle faces on selected meshes"
+msgstr "選択メッシュの面表示を切り替え"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2227
+msgid "Select next object"
+msgstr "次のオブジェクトを選択"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2231
+msgid "Add next object to selection"
+msgstr "次のオブジェクトを選択に追加"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2235
+msgid "Select previous object"
+msgstr "前のオブジェクトを選択"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2239
+msgid "Add previous object to selection"
+msgstr "前のオブジェクトを選択に追加"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2243
+msgid "Ribbon Scene Select all"
+msgstr "リボンシーンですべて選択"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2247
+msgid "Ribbon Scene Show only previous"
+msgstr "リボンシーンで前のみ表示"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2251
+msgid "Ribbon Scene Show only next"
+msgstr "リボンシーンで次のみ表示"
+
+#: source/MRViewer/MRRibbonMenu.cpp:2339
+msgid "Hotkeys"
+msgstr "ホットキー"
+
+#: source/MRViewer/MRSaveOnClose.cpp:33 source/MRViewer/MRSaveOnClose.cpp:70
+msgid "Application Close"
+msgstr "アプリケーションを閉じる"
+
+#: source/MRViewer/MRSaveOnClose.cpp:71
+msgid "Save the current scene and close the application"
+msgstr "現在のシーンを保存してアプリケーションを閉じます"
+
+#: source/MRViewer/MRSaveOnClose.cpp:72
+msgid "Close the application without saving"
+msgstr "保存せずにアプリケーションを閉じます"
+
+#: source/MRViewer/MRSaveOnClose.cpp:73
+msgid "Do not close the application"
+msgstr "アプリケーションを閉じない"
+
+#: source/MRViewer/MRSceneMcp.cpp:241
+msgid "MCP setObjectState"
+msgstr "MCP: オブジェクト状態を設定"
+
+#: source/MRViewer/MRSceneMcp.cpp:351
+msgid "MCP removeObject"
+msgstr "MCP: オブジェクトを削除"
+
+#: source/MRViewer/MRSceneMcp.cpp:485
+msgid "MCP addObject"
+msgstr "MCP: オブジェクトを追加"
+
+#: source/MRViewer/MRSceneObjectsListDrawer.cpp:615
+msgid "Cannot perform such reorder"
+msgstr "この並び替えは実行できません"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Curvature Preference"
+msgstr "曲率の優先設定"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Geodesic"
+msgstr "測地線"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Convex"
+msgstr "凸部"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Concave"
+msgstr "凹部"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Select the shortest boundary"
+msgstr "最短の境界を選択"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Select longer boundary but going in convex regions"
+msgstr "凸部を通るより長い境界を選択"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:15
+msgid "Select longer path but going in concave regions"
+msgstr "凹部を通るより長いパスを選択"
+
+#: source/MRViewer/MRSelectCurvaturePreference.cpp:16
+msgid "Select to prefer in selection convex/concave angles or neither"
+msgstr "選択で凸/凹の角度を優先するかどうかを設定"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:304
+msgid "Brush: Add"
+msgstr "ブラシ: 追加"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:306
+msgid "Brush: Remove"
+msgstr "ブラシ: 削除"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
+msgid "Brush: Smooth"
+msgstr "ブラシ: 平滑化"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:352
+msgid "Subdivide Ridges/Grooves"
+msgstr "稜線/溝を細分化"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:395
+msgid "Brush: Fix"
+msgstr "ブラシ: 修復"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:857
+msgid "Brush: Deform"
+msgstr "ブラシ: 変形"
+
+#: source/MRViewer/MRToolbar.cpp:241
+msgid "Customize Viewport Toolbar"
+msgstr "ビューポートツールバーをカスタマイズ"
+
+#: source/MRViewer/MRToolbar.cpp:252
+msgid "Select icons to show in Toolbar"
+msgstr "ツールバーに表示するアイコンを選択"
+
+#: source/MRViewer/MRToolbar.cpp:256 source/MRViewer/MRToolbar.cpp:259
+msgid "Icons in Toolbar"
+msgstr "ツールバーのアイコン"
+
+#: source/MRViewer/MRToolbar.cpp:391 source/MRViewer/MRToolbar.cpp:411
+msgid "Reset to default"
+msgstr "デフォルトにリセット"
+
+#: source/MRViewer/MRToolsLibrary.cpp:43
+msgid "Tool Mesh"
+msgstr "ツールメッシュ"
+
+#: source/MRViewer/MRToolsLibrary.cpp:123
+msgid "Create Tool"
+msgstr "ツールを作成"
+
+#: source/MRViewer/MRToolsLibrary.cpp:135
+msgid "Flat End Mill"
+msgstr "フラットエンドミル"
+
+#: source/MRViewer/MRToolsLibrary.cpp:136
+msgid "Ball End Mill"
+msgstr "ボールエンドミル"
+
+#: source/MRViewer/MRToolsLibrary.cpp:137
+msgid "Bull Nose End Mill"
+msgstr "ブルノーズエンドミル"
+
+#: source/MRViewer/MRToolsLibrary.cpp:138
+msgid "Chamfer End Mill"
+msgstr "チャンファーエンドミル"
+
+#: source/MRViewer/MRToolsLibrary.cpp:142
+msgid "Type"
+msgstr "種類"
+
+#: source/MRViewer/MRToolsLibrary.cpp:144
+msgid "Specifications"
+msgstr "仕様"
+
+#: source/MRViewer/MRToolsLibrary.cpp:152
+#: source/MRViewer/MRToolsLibrary.cpp:157
+msgid "Cutter Radius"
+msgstr "カッター半径"
+
+#: source/MRViewer/MRToolsLibrary.cpp:161
+msgid "Cutting Angle"
+msgstr "切削角度"
+
+#: source/MRViewer/MRToolsLibrary.cpp:162
+msgid "End Diameter"
+msgstr "先端径"
+
+#: source/MRViewer/MRToolsLibrary.cpp:169
+msgid "Create"
+msgstr "作成"
+
+#: source/MRViewer/MRUISaveChangesPopup.cpp:34
+msgid "Save your changes?"
+msgstr "変更を保存しますか?"
+
+#: source/MRViewer/MRUISaveChangesPopup.cpp:72
+msgid "Error saving scene: "
+msgstr "シーンの保存エラー: "
+
+#: source/MRViewer/MRUISaveChangesPopup.h:20
+msgid "Don't Save"
+msgstr "保存しない"
+
+#: source/MRViewer/MRUISaveChangesPopup.h:22
+msgid "Save current scene"
+msgstr "現在のシーンを保存"
+
+#: source/MRViewer/MRUISaveChangesPopup.h:23
+msgid "Don't save current scene"
+msgstr "現在のシーンを保存しない"
+
+#: source/MRViewer/MRUnits.cpp:227
+msgid "Degrees, minutes"
+msgstr "度、分"
+
+#: source/MRViewer/MRUnits.cpp:229
+msgid "Degrees, minutes, seconds"
+msgstr "度、分、秒"
+
+#. TRANSLATORS: example string: Open .SVG as Polyline
+#: source/MRViewer/MRViewer.cpp:1289
+#, c++-format
+msgid "{} as {}"
+msgstr "{}（{}として）"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:54
+msgid "Quick"
+msgstr "クイック"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:55
+msgid "Application"
+msgstr "アプリケーション"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:56
+msgid "Control"
+msgstr "コントロール"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:57
+msgid "3D View"
+msgstr "3Dビュー"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:58
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:721
+msgid "Units"
+msgstr "単位"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:59
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1303
+msgid "MCP"
+msgstr "MCP"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:60
+msgid "Features"
+msgstr "フィーチャー"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:122
+msgid "Tools"
+msgstr "ツール"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:257
+msgid "General"
+msgstr "一般"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:272
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:330
+msgid "Toolbar Customize"
+msgstr "ツールバーのカスタマイズ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:275
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:460
+msgid "Show Hotkeys"
+msgstr "ホットキーを表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:283
+msgid "Global"
+msgstr "グローバル"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:285
+msgid "Reset Settings"
+msgstr "設定をリセット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:296
+msgid "Interface"
+msgstr "インターフェース"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:305
+msgid "UI Scale"
+msgstr "UIスケール"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:314
+msgid "Save Tool Window Positions"
+msgstr "ツールウィンドウの位置を保存"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:315
+msgid ""
+"If checked then enables using of saved positions of tool windows in the "
+"config file"
+msgstr ""
+"チェックすると、設定ファイルに保存されたツールウィンドウの位置を使用できるよ"
+"うになります"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:325
+msgid "Enable multi-windows"
+msgstr "マルチウィンドウを有効にする"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:327
+msgid ""
+"Allow tool windows to be moved outside the main window. To apply the "
+"changes, need to restart the application."
+msgstr ""
+"ツールウィンドウをメインウィンドウの外に移動できるようにします。変更を反映す"
+"るにはアプリケーションの再起動が必要です。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:333
+msgid "Behavior"
+msgstr "動作"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:341
+msgid "Make Visible on Select"
+msgstr "選択時に表示する"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:344
+msgid "Deselect on Hide"
+msgstr "非表示時に選択解除"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:350
+msgid "Close Context Menu on Click"
+msgstr "クリック時にコンテキストメニューを閉じる"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:353
+msgid "Close scene context menu on any change or click outside"
+msgstr "変更時または外部クリック時にシーンのコンテキストメニューを閉じる"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:357
+msgid "Auto Close Previous Tool"
+msgstr "前のツールを自動的に閉じる"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:360
+msgid ""
+"Automatically close blocking tool when another blocking tool is activated"
+msgstr ""
+"別のブロッキングツールがアクティブになると、現在のブロッキングツールを自動的"
+"に閉じます"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:362
+msgid "Sort Dropped Files"
+msgstr "ドロップしたファイルを並べ替える"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:365
+msgid ""
+"Whether to sort the filenames received from Drag&Drop in lexicographical "
+"order before adding them in scene"
+msgstr ""
+"ドラッグ&ドロップで受け取ったファイル名をシーンに追加する前に辞書順で並べ替え"
+"るかどうか"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:367
+msgid "Show Experimental Features"
+msgstr "試験的機能を表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:368
+msgid "Show experimental or diagnostic tools and controls"
+msgstr "試験的または診断用のツールとコントロールを表示します"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:375
+msgid "Notifications"
+msgstr "通知"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:377
+msgid "Time Reports"
+msgstr "時間レポート"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:387
+msgid "Show duration of last operation of the application."
+msgstr "アプリケーションの最後の操作の所要時間を表示します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:389
+msgid "Recommendations"
+msgstr "推奨事項"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:399
+msgid "Show notifications with recommended actions."
+msgstr "推奨アクションの通知を表示します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:401
+msgid "Implicit Changes"
+msgstr "暗黙的な変更"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:411
+msgid ""
+"Notify when some changes were made implicitly by the application. (mostly "
+"appear on import of non-manifold models)"
+msgstr ""
+"アプリケーションによって暗黙的に変更が行われた場合に通知します（主に非多様体"
+"モデルのインポート時に発生）"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:413
+msgid "Important"
+msgstr "重要"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:423
+msgid "Show important messages about errors or warnings that could happen."
+msgstr "発生する可能性のあるエラーや警告に関する重要なメッセージを表示します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:430
+msgid "Files and Folders"
+msgstr "ファイルとフォルダ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:436
+msgid "Logs folder"
+msgstr "ログフォルダ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:456
+msgid "Keyboard"
+msgstr "キーボード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:474
+msgid "Viewport"
+msgstr "ビューポート"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
+msgid "Rotation Mode"
+msgstr "回転モード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
+msgid "Scene Center"
+msgstr "シーンの中心"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
+msgid "Pick / Scene Center"
+msgstr "ピック / シーンの中心"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
+msgid "Pick"
+msgstr "ピック"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:492
+msgid "Show Axes"
+msgstr "軸を表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:498
+msgid "Show Global Basis"
+msgstr "グローバル基準を表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:503
+msgid "Grid"
+msgstr "グリッド"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:511
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:516
+msgid "Global Basis Scale"
+msgstr "グローバル基準スケール"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:522
+msgid "Auto"
+msgstr "自動"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:532
+msgid "Show Rotation Center"
+msgstr "回転中心を表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:547
+msgid "Selected Highlight Modifier"
+msgstr "選択時ハイライト調整"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:552
+msgid "Ambient light brightness multiplication factor for selected objects"
+msgstr "選択オブジェクトの環境光輝度の乗数"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:556
+msgid "Clipping Plane"
+msgstr "クリッピング平面"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:573
+msgid "Show"
+msgstr "表示"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:579
+msgid "Options"
+msgstr "オプション"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:584
+msgid "Picker Radius"
+msgstr "ピッカー半径"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:587
+msgid "Radius of area under cursor to pick objects in scene."
+msgstr "シーン内のオブジェクトを選択するためのカーソル下の領域半径。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:589
+msgid "Defaults"
+msgstr "デフォルト"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:594
+msgid "Render"
+msgstr "レンダリング"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:607
+msgid "Common"
+msgstr "共通"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:613
+msgid "Leading zero"
+msgstr "先頭ゼロ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:615
+msgid "If disabled, remove the lone zeroes before the decimal point."
+msgstr "無効にすると、小数点の前の単独のゼロを削除します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:627
+msgid "Thousands Separator"
+msgstr "桁区切り文字"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:629
+msgid ""
+"A symbol used to separate groups of thousands in large numbers to make them "
+"easier to read."
+msgstr "大きな数値の読みやすさのために千の位を区切る記号。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:638
+msgid "Space"
+msgstr "スペース"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:651
+msgid "Linear"
+msgstr "線形"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:671
+msgid "No Units"
+msgstr "単位なし"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:672
+msgid "UI Units"
+msgstr "UI単位"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:680
+msgid ""
+"It selects length units to be show in the user interface. If model units are "
+"different, then stored values will be automatically converted when shown in "
+"UI."
+msgstr ""
+"ユーザーインターフェースで表示する長さの単位を選択します。モデルの単位が異な"
+"る場合、UIで表示する際に自動的に変換されます。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:683
+msgid "Same as UI Units"
+msgstr "UI単位と同じ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:684
+msgid "Model Units"
+msgstr "モデル単位"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:692
+msgid ""
+"It selects length units of model's actual values (e.g. coordinates of points "
+"stored in memory). And it affects on importing and exporting of data."
+msgstr ""
+"モデルの実際の値（メモリに保存されたポイントの座標など）の長さ単位を選択しま"
+"す。データのインポートとエクスポートにも影響します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:696
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:733
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:751
+msgid "Precision"
+msgstr "精度"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:698
+msgid ""
+"The number of digits to be shown after decimal point for length measurements."
+msgstr "長さの計測値で小数点以下に表示する桁数。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:706
+msgid "Angular"
+msgstr "角度"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:724
+msgid "It selects angular units to be show in the user interface."
+msgstr "ユーザーインターフェースで表示する角度の単位を選択します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:735
+msgid ""
+"The number of digits to be shown after decimal point for angular "
+"measurements."
+msgstr "角度の計測値で小数点以下に表示する桁数。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:744
+msgid "Scale and Ratios"
+msgstr "スケールと比率"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:753
+msgid ""
+"The number of digits to be shown after decimal point for dimensionless "
+"measurements."
+msgstr "無次元の計測値で小数点以下に表示する桁数。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:763
+msgid "Reset Unit Settings"
+msgstr "単位設定をリセット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:765
+msgid "Set all settings here to their default values."
+msgstr "ここのすべての設定をデフォルト値にリセットします。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:779
+msgid "Visuals"
+msgstr "ビジュアル"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:782
+msgid "Surface opacity"
+msgstr "サーフェスの不透明度"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:790
+msgid "Point size (subfeatures)"
+msgstr "ポイントサイズ（サブフィーチャー）"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:798
+msgid "Line width (subfeatures)"
+msgstr "線幅（サブフィーチャー）"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:823
+msgid "Alpha Sort"
+msgstr "アルファソート"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:831
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:836
+msgid "Depth Peeling Passes"
+msgstr "デプスピーリングパス数"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:847
+msgid "Multisample anti-aliasing (MSAA):"
+msgstr "マルチサンプルアンチエイリアシング (MSAA):"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:848
+msgid ""
+"The number of samples per pixel: more samples - better render quality but "
+"worse performance."
+msgstr ""
+"ピクセルあたりのサンプル数: サンプルが多いほどレンダリング品質が向上します"
+"が、パフォーマンスは低下します。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:858
+msgid "Off"
+msgstr "オフ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:877
+msgid "GPU multisampling settings override application value."
+msgstr "GPUのマルチサンプリング設定がアプリケーションの値より優先されます。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:879
+msgid "Application requires restart to apply this change"
+msgstr "この変更を反映するにはアプリケーションの再起動が必要です"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:891
+msgid "Shadows"
+msgstr "シャドウ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:899
+msgid "Enabled"
+msgstr "有効"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:909
+msgid "Shadow Color"
+msgstr "シャドウの色"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:920
+msgid "X = shift to the left, Y = shift upwards"
+msgstr "X = 左にシフト、Y = 上にシフト"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:921
+msgid "Blur Radius"
+msgstr "ぼかし半径"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:922
+msgid "Quality"
+msgstr "品質"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:925
+msgid "Blur texture downscaling coefficient"
+msgstr "ぼかしテクスチャの縮小係数"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:956
+msgid "Language"
+msgstr "言語"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:976
+msgid "Color Theme"
+msgstr "カラーテーマ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:996
+msgid "This theme is not valid."
+msgstr "このテーマは有効ではありません。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1004
+msgid "Add"
+msgstr "追加"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1016
+msgid "Settings reset"
+msgstr "設定のリセット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1020
+msgid "Reset all application settings?"
+msgstr "すべてのアプリケーション設定をリセットしますか?"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
+msgid "Auto Detect"
+msgstr "自動検出"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
+msgid "Smooth"
+msgstr "スムーズ"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
+msgid "Flat"
+msgstr "フラット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1052
+msgid "Shading Mode"
+msgstr "シェーディングモード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1052
+msgid "Default Shading Mode"
+msgstr "デフォルトのシェーディングモード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1054
+msgid ""
+"Shading mode for mesh objects imported from files\n"
+"Detection depends on source format and mesh shape\n"
+"This setting also affects some tools"
+msgstr ""
+"ファイルからインポートしたメッシュオブジェクトのシェーディングモード\n"
+"検出はソース形式とメッシュの形状に依存します\n"
+"この設定は一部のツールにも影響します"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1066
+msgid "Orthographic"
+msgstr "平行投影"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1066
+msgid "Perspective"
+msgstr "透視投影"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1069
+msgid "Projection Mode"
+msgstr "投影モード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1097
+msgid "Background Color"
+msgstr "背景色"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1113
+msgid "Mouse"
+msgstr "マウス"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1117
+msgid "Zoom Gain"
+msgstr "ズームゲイン"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1119
+msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
+msgstr "ズーム速度に影響するマウスホイール回転の感度。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1178
+msgid "Set other"
+msgstr "その他を設定"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1183
+msgid ""
+"Click here with preferred mouse button \n"
+"with/without modifier"
+msgstr ""
+"ここを使用したいマウスボタンでクリックしてください \n"
+"修飾キーあり/なしで"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1220
+#, c-format
+msgid "Camera controls can also be used with %s"
+msgstr "カメラ操作は %s でも使用できます"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1227
+msgid "Spacemouse"
+msgstr "スペースマウス"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1239
+msgid "Inverse"
+msgstr "反転"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1247
+msgid "Translation Sensitivity"
+msgstr "平行移動感度"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1259
+msgid "Rotation Sensitivity"
+msgstr "回転感度"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1268
+msgid "Suppress Zoom by Mouse Scroll"
+msgstr "マウススクロールによるズームを無効にする"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1269
+msgid ""
+"This mode is recommended if you have 3Dconnexion driver installed, which "
+"sends fake mouse scroll events resulting in double reaction on SpaceMouse "
+"movement and camera tremble."
+msgstr ""
+"3Dconnexionドライバーがインストールされている場合にこのモードを推奨します。ド"
+"ライバーが偽のマウススクロールイベントを送信し、スペースマウスの動きに対して"
+"二重反応やカメラの揺れが発生する場合があります。"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1279
+msgid "Touchpad"
+msgstr "タッチパッド"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1281
+msgid "Swipe Rotates Camera"
+msgstr "スワイプでカメラを回転"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1281
+msgid "Swipe Moves Camera"
+msgstr "スワイプでカメラを移動"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1286
+msgid "Ignore Kinetic Movements"
+msgstr "慣性移動を無視する"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1288
+msgid "Allow System to Interrupt Gestures"
+msgstr "システムによるジェスチャーの中断を許可する"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1293
+msgid "Swipe Mode"
+msgstr "スワイプモード"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1308
+msgid "Enable in This Session"
+msgstr "このセッションで有効化"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1312
+msgid "Enable by Default"
+msgstr "デフォルトで有効化"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1318
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1324
+msgid "Port"
+msgstr "ポート"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1319
+msgid "Port forced by -mcpPort command-line flag"
+msgstr "-mcpPort コマンドラインフラグで指定されたポート"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1334
+msgid "MRU Inner Formats"
+msgstr "MRU内部フォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1340
+msgid ""
+"Slowest, high memory consumption, but best compression (typically) format"
+msgstr "最も遅く、メモリ消費が多いが、最高の圧縮率（通常）のフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1341
+msgid "Fast and still relatively small format"
+msgstr "高速でサイズも比較的小さいフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1342
+msgid "Largest by size, but fastest to load / save and without any losses"
+msgstr "サイズが最大ですが、読み込み/保存が最速で損失がないフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1344
+msgid "Fast and efficient format for sparse data"
+msgstr "スパースデータに高速で効率的なフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1345
+msgid "Simplest but high disk space consumption format"
+msgstr "最も単純ですがディスク使用量が多いフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1370
+msgid "Mesh Format"
+msgstr "メッシュフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1388
+msgid "Points Format"
+msgstr "ポイントフォーマット"
+
+#: source/MRViewer/MRViewerSettingsPlugin.cpp:1403
+msgid "Voxels Format"
+msgstr "ボクセルフォーマット"
+
+#: source/MRViewer/MRViewportCornerController.cpp:95
+msgid "RIGHT"
+msgstr "右面"
+
+#: source/MRViewer/MRViewportCornerController.cpp:95
+msgid "LEFT"
+msgstr "左面"
+
+#: source/MRViewer/MRViewportCornerController.cpp:96
+msgid "TOP"
+msgstr "上面"
+
+#: source/MRViewer/MRViewportCornerController.cpp:96
+msgid "BOTTOM"
+msgstr "下面"
+
+#: source/MRViewer/MRViewportCornerController.cpp:97
+msgid "FRONT"
+msgstr "正面"
+
+#: source/MRViewer/MRViewportCornerController.cpp:97
+msgid "BACK"
+msgstr "背面"
+
+#~ msgid "Brush: Patch"
+#~ msgstr "ブラシ: パッチ"
+
+#~ msgid "Change Boundary Selection"
+#~ msgstr "境界選択を変更"
+
+#~ msgid "rename"
+#~ msgstr "名前変更"
+
+#~ msgid "visibility"
+#~ msgstr "可視性"
+
+#~ msgid "selection"
+#~ msgstr "選択"
+
+#~ msgid "transform"
+#~ msgstr "変換"
+
+#~ msgid "selected color"
+#~ msgstr "選択時の色"
+
+#~ msgid "unselected color"
+#~ msgstr "未選択時の色"
+
+#~ msgid "flat shading"
+#~ msgstr "フラットシェーディング"
+
+#~ msgid "show edges"
+#~ msgstr "エッジを表示"
+
+#~ msgid "add"
+#~ msgstr "追加"
+
+#~ msgid "Add Object"
+#~ msgstr "オブジェクトを追加"
+
+#~ msgid "Remove Object"
+#~ msgstr "オブジェクトを削除"

@@ -1,0 +1,1912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Feedback"
+msgstr "Retour"
+
+msgid ""
+"Contact with developers, report a bug, ask a question, suggest an "
+"enhancement."
+msgstr ""
+"Contacter les développeurs, signaler un bogue, poser une question, suggérer "
+"une amélioration."
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Read about this app"
+msgstr "Lire la présentation de cette application"
+
+msgid "Open Log"
+msgstr "Ouvrir le journal"
+
+msgid "Open application log"
+msgstr "Ouvrir le journal de l'application"
+
+msgid "Show Local Basis"
+msgstr "Afficher la base locale"
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr "Afficher l'origine et les axes X, Y, Z du repère de l'objet."
+
+msgid "Transform Object"
+msgstr "Transformer l'objet"
+
+msgid "Graphics mode for changing object position in space."
+msgstr ""
+"Mode graphique permettant de modifier la position de l'objet dans l'espace."
+
+msgid "Move to Zero"
+msgstr "Déplacer à l'origine"
+
+msgid ""
+"If a visual object is selected, then moves the center of its bounding box in "
+"parent's zero point.\n"
+"If a features is selected, then moves its parent so that the feature comes "
+"in grandparent's zero point."
+msgstr ""
+"Si un objet visuel est sélectionné, déplace le centre de son volume "
+"englobant à l'origine de son parent.\n"
+"Si une fonctionnalité est sélectionnée, déplace son parent pour que la "
+"fonctionnalité se trouve à l'origine du grand-parent."
+
+msgid "Camera Navigation"
+msgstr "Navigation de caméra"
+
+msgid "Allows user to freely navigate camera in world space using arrow keys."
+msgstr ""
+"Permet de naviguer librement la caméra dans l'espace monde à l'aide des "
+"touches fléchées."
+
+msgid "Apply Transform"
+msgstr "Appliquer la transformation"
+
+msgid ""
+"Transforms object points and resets object transform, visually object will "
+"remain the same."
+msgstr ""
+"Transforme les points de l'objet et réinitialise la transformation ; "
+"visuellement, l'objet reste identique."
+
+msgid "Mirror"
+msgstr "Miroir"
+
+msgid "Reflects object points"
+msgstr "Reflète les points de l'objet"
+
+msgid "Add Noise"
+msgstr "Ajouter du bruit"
+
+msgid "Adds noise to each point of the object"
+msgstr "Ajoute du bruit à chaque point de l'objet"
+
+msgid "Align Manually"
+msgstr "Aligner manuellement"
+
+msgid ""
+"Move target object to combine given points on origin object with points on "
+"target object."
+msgstr ""
+"Déplace l'objet cible pour faire coïncider les points indiqués sur l'objet "
+"d'origine avec ceux de l'objet cible."
+
+msgid "Freeform Align"
+msgstr "Alignement libre"
+
+msgid ""
+"Deform target object to combine given points on origin object with points on "
+"target object."
+msgstr ""
+"Déforme l'objet cible pour faire coïncider les points indiqués sur l'objet "
+"d'origine avec ceux de l'objet cible."
+
+msgid "Registration"
+msgstr "Recalage"
+
+msgid ""
+"Find transformation for target object to minimize difference between "
+"original and target objects using iterative closest point (ICP) algorithm."
+msgstr ""
+"Trouve une transformation pour l'objet cible afin de minimiser la différence "
+"entre l'objet d'origine et l'objet cible à l'aide de l'algorithme du point "
+"le plus proche itératif (ICP)."
+
+msgid "Global Registration"
+msgstr "Recalage global"
+
+msgid "Find transformation for all object to align them all simultaneously."
+msgstr ""
+"Trouve une transformation pour tous les objets afin de les aligner "
+"simultanément."
+
+msgid "Scale"
+msgstr "Échelle"
+
+msgid "Rescale selected object"
+msgstr "Redimensionne l'objet sélectionné"
+
+msgid "Lattice Modifier"
+msgstr "Modificateur de treillis"
+
+msgid "Modify mesh according to transformations of reference grid."
+msgstr ""
+"Modifie le maillage en fonction des transformations d'une grille de "
+"référence."
+
+msgid "Create Simple Objects"
+msgstr "Créer des objets simples"
+
+msgid ""
+"Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
+"torus and arrow."
+msgstr ""
+"Crée un maillage de primitive géométrique : cube, parallélépipède, cylindre, "
+"sphère, tore et flèche."
+
+msgid "Create Primitive (Interactive)"
+msgstr "Créer une primitive (interactif)"
+
+msgid "Clone"
+msgstr "Cloner"
+
+msgid "Clones all selected objects."
+msgstr "Clone tous les objets sélectionnés."
+
+msgid "Create Text"
+msgstr "Créer du texte"
+
+msgid "Create text as mesh or lines object"
+msgstr "Crée du texte sous forme de maillage ou d'objet lignes"
+
+msgid "Text on Mesh"
+msgstr "Texte sur maillage"
+
+msgid "Create text as ObjectMesh on the object surface."
+msgstr "Crée du texte sous forme d'ObjectMesh à la surface de l'objet."
+
+msgid "Combine"
+msgstr "Combiner"
+
+msgid ""
+"Merge selected geometry into one object while keeping topology, materials, "
+"and internal primitives unchanged. No welding or boolean operations."
+msgstr ""
+"Fusionne la géométrie sélectionnée en un seul objet en conservant topologie, "
+"matériaux et primitives internes inchangés. Pas de soudure ni d'opération "
+"booléenne."
+
+msgid "To Components"
+msgstr "Vers composants"
+
+msgid "Create mesh object from each connected component of selected mesh."
+msgstr ""
+"Crée un objet maillage à partir de chaque composante connexe du maillage "
+"sélectionné."
+
+msgid "Keep Largest Component"
+msgstr "Conserver la plus grande composante"
+
+msgid "Remove all connected components of selected mesh except the largest one"
+msgstr ""
+"Supprime toutes les composantes connexes du maillage sélectionné sauf la "
+"plus grande"
+
+msgid "Force Components"
+msgstr "Forcer les composants"
+
+msgid "Split mesh object on defined number of components"
+msgstr "Divise l'objet maillage en un nombre défini de composants"
+
+msgid "Convex Hull"
+msgstr "Enveloppe convexe"
+
+msgid "Create convex hull mesh for each selected mesh or points."
+msgstr ""
+"Crée un maillage d'enveloppe convexe pour chaque maillage ou ensemble de "
+"points sélectionné."
+
+msgid "Delete Colors"
+msgstr "Supprimer les couleurs"
+
+msgid "Convert objects with colored parts or textures into solid colored ones."
+msgstr ""
+"Convertit les objets comportant des parties colorées ou des textures en "
+"objets de couleur unie."
+
+msgid "Texture to Vertex Colors"
+msgstr "Texture vers couleurs de sommets"
+
+msgid ""
+"Convert mesh coloring by means of a texture into a colors stored in vertices."
+msgstr ""
+"Convertit la coloration du maillage par texture en couleurs stockées sur les "
+"sommets."
+
+msgid "Triangle to Vertex Colors"
+msgstr "Triangle vers couleurs de sommets"
+
+msgid ""
+"Convert mesh coloring by means of a triangle color map into a colors stored "
+"in vertices."
+msgstr ""
+"Convertit la coloration du maillage par carte de couleurs de triangles en "
+"couleurs stockées sur les sommets."
+
+msgid "Selection to Object"
+msgstr "Sélection vers objet"
+
+msgid ""
+"Create a new object of the same type from the selection on the active object."
+msgstr ""
+"Crée un nouvel objet du même type à partir de la sélection sur l'objet actif."
+
+msgid "Voxels Segmentation"
+msgstr "Segmentation des voxels"
+
+msgid "Show and create volumes segments from voxel image."
+msgstr "Affiche et crée des segments de volume à partir d'une image voxel."
+
+msgid "Regular Map Meshing"
+msgstr "Maillage de carte régulière"
+
+msgid "Convert a regular map from a file into a mesh object."
+msgstr ""
+"Convertit une carte régulière à partir d'un fichier en un objet maillage."
+
+msgid "Terrain to Mesh"
+msgstr "Terrain vers maillage"
+
+msgid ""
+"Makes mesh object (performs triangulation) out of points object with regular "
+"terrain structure."
+msgstr ""
+"Crée un objet maillage (par triangulation) à partir d'un objet points "
+"présentant une structure de terrain régulière."
+
+msgid "Mesh to Distance Map"
+msgstr "Maillage vers carte de distances"
+
+msgid "Create depth map of selected object."
+msgstr "Crée la carte de profondeur de l'objet sélectionné."
+
+msgid "Lines to Distance Map"
+msgstr "Lignes vers carte de distances"
+
+msgid "Create distance map in some area for selected lines."
+msgstr ""
+"Crée une carte de distances dans une zone pour les lignes sélectionnées."
+
+msgid "Offset"
+msgstr "Décalage"
+
+msgid "Create mesh from object lines by offsetting it."
+msgstr "Crée un maillage à partir des lignes d'un objet en les décalant."
+
+msgid "Lines to Voxels"
+msgstr "Lignes vers voxels"
+
+msgid "Create object voxels from object lines."
+msgstr "Crée des voxels d'objet à partir des lignes de l'objet."
+
+msgid "Extrusion Body"
+msgstr "Corps d'extrusion"
+
+msgid "Create mesh by extruding one object lines along another one."
+msgstr ""
+"Crée un maillage en extrudant les lignes d'un objet le long de celles d'un "
+"autre."
+
+msgid "Distance Map to IsoLines"
+msgstr "Carte de distances vers iso-lignes"
+
+msgid "Create object lines that are iso-lines of selected distance map."
+msgstr ""
+"Crée des lignes d'objet qui sont les iso-lignes de la carte de distances "
+"sélectionnée."
+
+msgid "Distance Map to Image"
+msgstr "Carte de distances vers image"
+
+msgid "Create image from distance map"
+msgstr "Crée une image à partir d'une carte de distances"
+
+msgid "Distance Map to Image Advanced"
+msgstr "Carte de distances vers image (avancé)"
+
+msgid "Create image from distance map with advanced parameters"
+msgstr ""
+"Crée une image à partir d'une carte de distances avec des paramètres avancés"
+
+msgid "Image to Distance Map"
+msgstr "Image vers carte de distances"
+
+msgid "Load image and create distance map from it with advanced parameters"
+msgstr ""
+"Charge une image et crée une carte de distances à partir de celle-ci avec "
+"des paramètres avancés"
+
+msgid "Distance Map to Mesh"
+msgstr "Carte de distances vers maillage"
+
+msgid "Convert Distance Map to Mesh"
+msgstr "Convertit une carte de distances en maillage"
+
+msgid "Mesh to Points"
+msgstr "Maillage vers points"
+
+msgid ""
+"Create object points (object of points cloud) from selected object mesh."
+msgstr ""
+"Crée un objet points (nuage de points) à partir de l'objet maillage "
+"sélectionné."
+
+msgid "Project Color"
+msgstr "Projeter la couleur"
+
+msgid ""
+"Projects Vertex Colors, Texture, or Face colors (all attributes) from one "
+"mesh to another."
+msgstr ""
+"Projette les couleurs de sommets, la texture ou les couleurs de faces (tous "
+"attributs) d'un maillage sur un autre."
+
+msgid "Mesh to Voxels"
+msgstr "Maillage vers voxels"
+
+msgid "Create object voxels from selected object mesh."
+msgstr "Crée des voxels d'objet à partir de l'objet maillage sélectionné."
+
+msgid "Voxels to Mesh"
+msgstr "Voxels vers maillage"
+
+msgid "Create object mesh from selected object voxels iso-surface."
+msgstr ""
+"Crée un objet maillage à partir de l'iso-surface des voxels d'objet "
+"sélectionnés."
+
+msgid "Lines to Mesh"
+msgstr "Lignes vers maillage"
+
+msgid "Create mesh from a set of closed lines"
+msgstr "Crée un maillage à partir d'un ensemble de lignes fermées"
+
+msgid "Lines to Points"
+msgstr "Lignes vers points"
+
+msgid ""
+"Create object points (object of points cloud) from selected object lines."
+msgstr ""
+"Crée un objet points (nuage de points) à partir des lignes d'objet "
+"sélectionnées."
+
+msgid "Measure Distance"
+msgstr "Mesurer la distance"
+
+msgid "Show distance between selected points on selected objects."
+msgstr ""
+"Affiche la distance entre les points sélectionnés sur les objets "
+"sélectionnés."
+
+msgid "Measure Angle"
+msgstr "Mesurer l'angle"
+
+msgid "Show angle between selected edges on selected objects."
+msgstr ""
+"Affiche l'angle entre les arêtes sélectionnées sur les objets sélectionnés."
+
+msgid "Signed Distance"
+msgstr "Distance signée"
+
+msgid ""
+"Show minimal distance between two objects. For intersecting objects will "
+"show maximum distance with a negative sign."
+msgstr ""
+"Affiche la distance minimale entre deux objets. Pour les objets qui "
+"s'intersectent, affiche la distance maximale avec un signe négatif."
+
+msgid "Collision Detection"
+msgstr "Détection de collision"
+
+msgid "Selects collision triangles of two meshes."
+msgstr "Sélectionne les triangles en collision de deux maillages."
+
+msgid "Surface Deviation"
+msgstr "Écart de surface"
+
+msgid ""
+"Show colorized distance map from origin object on the surface of target "
+"object."
+msgstr ""
+"Affiche, à la surface de l'objet cible, une carte de distances colorée "
+"depuis l'objet d'origine."
+
+msgid "Visualize Curvature"
+msgstr "Visualiser la courbure"
+
+msgid "Show colorized curvature of selected mesh."
+msgstr "Affiche la courbure colorée du maillage sélectionné."
+
+msgid "Surface Distance"
+msgstr "Distance sur surface"
+
+msgid "Draw colorized distance map on object surface from selected point."
+msgstr ""
+"Dessine une carte de distances colorée sur la surface de l'objet à partir du "
+"point sélectionné."
+
+msgid "Measure Thickness"
+msgstr "Mesurer l'épaisseur"
+
+msgid "Visualize with colors the thickness of the object at every point."
+msgstr "Visualise par couleurs l'épaisseur de l'objet en chaque point."
+
+msgid "Mesh Cut & Measure"
+msgstr "Couper & mesurer un maillage"
+
+msgid ""
+"Slice your mesh along a geodesic or spline path and read the precise path "
+"length."
+msgstr ""
+"Tranche votre maillage le long d'un chemin géodésique ou spline et lit la "
+"longueur précise du chemin."
+
+msgid "Cut By Polyline"
+msgstr "Couper par polyligne"
+
+msgid "Cuts mesh into two parts by the polyline"
+msgstr "Coupe le maillage en deux parties à l'aide de la polyligne"
+
+msgid "Partial Shell"
+msgstr "Coque partielle"
+
+msgid "Applies shell-offset with non-uniform offset distance"
+msgstr "Applique un décalage de coque avec une distance non uniforme"
+
+msgid "Fast Offset"
+msgstr "Décalage rapide"
+
+msgid ""
+"Applies offset with non-uniform offset distance. Correctness of resulting "
+"geometry is not guaranteed."
+msgstr ""
+"Applique un décalage avec une distance non uniforme. La correction de la "
+"géométrie résultante n'est pas garantie."
+
+msgid "Solar Radiation"
+msgstr "Rayonnement solaire"
+
+msgid "Computes intensity of solar light on a terrain and a bunch of samples"
+msgstr ""
+"Calcule l'intensité de la lumière solaire sur un terrain et un ensemble "
+"d'échantillons"
+
+msgid "Voxels Path"
+msgstr "Chemin de voxels"
+
+msgid "Show optimal path between two voxels."
+msgstr "Affiche le chemin optimal entre deux voxels."
+
+msgid "Best Fit"
+msgstr "Meilleur ajustement"
+
+msgid ""
+"Creates a feature objcts with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée des objets de fonctionnalité présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Point"
+msgstr "Point"
+
+msgid ""
+"Create a point feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité point présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid ""
+"Create a line feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité ligne présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Plane"
+msgstr "Plan"
+
+msgid ""
+"Create a plane feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité plan présentant l'écart-type le plus faible à partir "
+"des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Circle"
+msgstr "Cercle"
+
+msgid ""
+"Create a circle feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité cercle présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Sphere"
+msgstr "Sphère"
+
+msgid ""
+"Create a sphere feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité sphère présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Cylinder"
+msgstr "Cylindre"
+
+msgid ""
+"Create a cylinder feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité cylindre présentant l'écart-type le plus faible à "
+"partir des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Cone"
+msgstr "Cône"
+
+msgid ""
+"Create a cone feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr ""
+"Crée une fonctionnalité cône présentant l'écart-type le plus faible à partir "
+"des objets sélectionnés (qui possèdent un maillage)."
+
+msgid "Make Z"
+msgstr "Définir Z"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the XY plane, "
+"the Z axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"Oriente instantanément le modèle de sorte que la fonctionnalité soit dans le "
+"plan XY et que l'axe Z devienne la normale.\n"
+"(maintenir SHIFT pour orienter dans le sens opposé)"
+
+msgid "Make X"
+msgstr "Définir X"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the YZ plane, "
+"the X axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"Oriente instantanément le modèle de sorte que la fonctionnalité soit dans le "
+"plan YZ et que l'axe X devienne la normale.\n"
+"(maintenir SHIFT pour orienter dans le sens opposé)"
+
+msgid "Make Y"
+msgstr "Définir Y"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the ZX plane, "
+"the Y axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"Oriente instantanément le modèle de sorte que la fonctionnalité soit dans le "
+"plan ZX et que l'axe Y devienne la normale.\n"
+"(maintenir SHIFT pour orienter dans le sens opposé)"
+
+msgid "3-2-1 Align"
+msgstr "Alignement 3-2-1"
+
+msgid "Orient selected object tree by XY plane, XZ plane and zero point."
+msgstr ""
+"Oriente l'arborescence d'objets sélectionnée par les plans XY et XZ et "
+"l'origine."
+
+msgid "Align to Plane"
+msgstr "Aligner sur un plan"
+
+msgid "Orient object by one of global basis planes based on user pick."
+msgstr ""
+"Oriente l'objet selon l'un des plans de base globaux choisi par "
+"l'utilisateur."
+
+msgid "Nesting"
+msgstr "Imbrication"
+
+msgid "Reposition selected objects on top of build plate to fit into it."
+msgstr ""
+"Repositionne les objets sélectionnés sur le plateau de fabrication pour "
+"qu'ils s'y intègrent."
+
+msgid "Show Dense BBox"
+msgstr "Afficher la BBox serrée"
+
+msgid "Show minimal box that bounds selected object."
+msgstr "Affiche la boîte minimale qui englobe l'objet sélectionné."
+
+msgid "Sample Points"
+msgstr "Échantillonner des points"
+
+msgid "Show a set of sparse vertices."
+msgstr "Affiche un ensemble de sommets épars."
+
+msgid "Lines Derivative"
+msgstr "Dérivée des lignes"
+
+msgid "Show critical points on distance map of selected lines."
+msgstr ""
+"Affiche les points critiques sur la carte de distances des lignes "
+"sélectionnées."
+
+msgid "UV to XY"
+msgstr "UV vers XY"
+
+msgid ""
+"Writes UV texture coorindates of each vertex in its XY space coordinates and "
+"sets Z=0."
+msgstr ""
+"Écrit les coordonnées de texture UV de chaque sommet dans ses coordonnées "
+"d'espace XY et définit Z=0."
+
+msgid "Mesh Derivative"
+msgstr "Dérivée du maillage"
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr ""
+"Affiche les points critiques sur la carte de distances du maillage de "
+"l'objet sélectionné."
+
+msgid "Pave Area"
+msgstr "Paver une zone"
+
+msgid "Pave selected area on mesh with hexagonal pattern."
+msgstr "Pave la zone sélectionnée du maillage avec un motif hexagonal."
+
+msgid "Stamp Brush"
+msgstr "Pinceau tampon"
+
+msgid "Apply selected area as stamp to picked parts of mesh."
+msgstr ""
+"Applique la zone sélectionnée comme tampon sur les parties choisies du "
+"maillage."
+
+msgid "Homology Basis"
+msgstr "Base d'homologie"
+
+msgid ""
+"Find representative not-contractible loops of the surface, which are not "
+"equivalent one to another."
+msgstr ""
+"Trouve des boucles représentatives non contractiles de la surface, non "
+"équivalentes les unes aux autres."
+
+msgid "Bounding Box"
+msgstr "Boîte englobante"
+
+msgid ""
+"Show box that bounds selected object, and having edges parallel to axes."
+msgstr ""
+"Affiche une boîte englobant l'objet sélectionné, dont les arêtes sont "
+"parallèles aux axes."
+
+msgid "Mesh Info"
+msgstr "Info maillage"
+
+msgid "Show detailed information about mesh and its primitives."
+msgstr "Affiche des informations détaillées sur le maillage et ses primitives."
+
+msgid "Lines Info"
+msgstr "Info lignes"
+
+msgid "Show detailed information about lines and it's primitives."
+msgstr ""
+"Affiche des informations détaillées sur les lignes et leurs primitives."
+
+msgid "Show Normals"
+msgstr "Afficher les normales"
+
+msgid "Show different kinds of normals."
+msgstr "Affiche différents types de normales."
+
+msgid "Section"
+msgstr "Section"
+
+msgid ""
+"Show cross-section of objects by user selected plane. Create object lines "
+"from that cross-section."
+msgstr ""
+"Affiche une coupe transversale des objets par un plan choisi par "
+"l'utilisateur et crée des lignes d'objet à partir de cette coupe."
+
+msgid "Points Info"
+msgstr "Info points"
+
+msgid "Tool for point cloud analysis"
+msgstr "Outil d'analyse de nuage de points"
+
+msgid "Voxels Slice"
+msgstr "Tranche de voxels"
+
+msgid "Show volume slice as image."
+msgstr "Affiche une tranche de volume sous forme d'image."
+
+msgid "Voxels Normalize"
+msgstr "Normaliser les voxels"
+
+msgid "Linearly normalize all the selected voxel object to the given range."
+msgstr ""
+"Normalise linéairement l'ensemble de l'objet voxel sélectionné dans la plage "
+"donnée."
+
+msgid "Voxels Derivative"
+msgstr "Dérivée des voxels"
+
+msgid ""
+"Calculate voxels derivative (the length of the gradient vector in every "
+"point)."
+msgstr ""
+"Calcule la dérivée des voxels (la longueur du vecteur gradient en chaque "
+"point)."
+
+msgid "Voxels Median Filter"
+msgstr "Filtre médian de voxels"
+
+msgid ""
+"Apply a median filter to the voxel object, suppressing high-frequency noises"
+msgstr ""
+"Applique un filtre médian à l'objet voxel pour supprimer les bruits haute "
+"fréquence"
+
+msgid "Edit Voxel Mask"
+msgstr "Modifier le masque de voxels"
+
+msgid "Edit (clear, extend) voxel mask."
+msgstr "Modifie (efface, étend) le masque de voxels."
+
+msgid "Lattice Structures"
+msgstr "Structures en treillis"
+
+msgid "Fill surface with porous structure to prepare it for 3D printing"
+msgstr ""
+"Remplit la surface d'une structure poreuse pour la préparer à l'impression 3D"
+
+msgid "Generate Lattices"
+msgstr "Générer les treillis"
+
+msgid "Create filling of a porous structure"
+msgstr "Crée le remplissage d'une structure poreuse"
+
+msgid "Segment Teeth CBCT"
+msgstr "Segmenter les dents CBCT"
+
+msgid ""
+"Teeth segmentation for CBCT scans. Takes a CBCT scan and creates a volume "
+"representing the mask of teeth in the scan."
+msgstr ""
+"Segmentation des dents pour les scans CBCT. Prend un scan CBCT et crée un "
+"volume représentant le masque des dents dans le scan."
+
+msgid "Aligner Generator"
+msgstr "Générateur d'aligneur"
+
+msgid "Volume Rendering"
+msgstr "Rendu volumique"
+
+msgid "Voxels Resampling"
+msgstr "Rééchantillonnage de voxels"
+
+msgid "Resample voxels to fit the given scale."
+msgstr "Rééchantillonne les voxels pour correspondre à l'échelle donnée."
+
+msgid "Voxels Smooth"
+msgstr "Lissage des voxels"
+
+msgid "Applies gaussian filter to smooth voxel values."
+msgstr "Applique un filtre gaussien pour lisser les valeurs des voxels."
+
+msgid "Voxels Line Graph"
+msgstr "Graphe linéaire de voxels"
+
+msgid "Show graph of voxels values along user-selected line."
+msgstr ""
+"Affiche le graphe des valeurs des voxels le long d'une ligne choisie par "
+"l'utilisateur."
+
+msgid "Voxels Inspector"
+msgstr "Inspecteur de voxels"
+
+msgid "Adjust mesh by the voxels gradient at sub-voxel precision"
+msgstr ""
+"Ajuste le maillage selon le gradient des voxels avec une précision sous-voxel"
+
+msgid "Optimize"
+msgstr "Optimiser"
+
+msgid ""
+"Remove any empty spaces in the memory representation of the object, and "
+"reorder elements to put close in space elements in close memory locations."
+msgstr ""
+"Supprime les espaces vides dans la représentation mémoire de l'objet et "
+"réorganise les éléments afin que ceux proches dans l'espace soient placés à "
+"des emplacements mémoire proches."
+
+msgid ""
+"Subdivide selected point cloud on given number of components grouping points "
+"by their indices."
+msgstr ""
+"Subdivise le nuage de points sélectionné en un nombre donné de composants en "
+"groupant les points par leurs indices."
+
+msgid "Change ISO"
+msgstr "Modifier l'ISO"
+
+msgid ""
+"Select what iso-surface will represent the voxel object on the screen, and "
+"choose the method to construct the iso-surface."
+msgstr ""
+"Sélectionne quelle iso-surface représentera l'objet voxel à l'écran et "
+"choisit la méthode de construction de l'iso-surface."
+
+msgid "Set Active Voxel Box"
+msgstr "Définir la boîte de voxels active"
+
+msgid "Set area (box) for work on voxels."
+msgstr "Définit la zone (boîte) de travail sur les voxels."
+
+msgid "Make Normals"
+msgstr "Générer les normales"
+
+msgid ""
+"Produce normal for each point in the cloud, in particular improving point "
+"cloud shading during visualization."
+msgstr ""
+"Produit une normale pour chaque point du nuage, améliorant notamment "
+"l'ombrage du nuage de points lors de la visualisation."
+
+msgid "Orient Point Normals"
+msgstr "Orienter les normales des points"
+
+msgid "Select similar orientation of normals in close points."
+msgstr "Aligne l'orientation des normales pour des points voisins."
+
+msgid "Remove Normals"
+msgstr "Supprimer les normales"
+
+msgid "Remove normals from point clouds."
+msgstr "Supprime les normales des nuages de points."
+
+msgid "Select Boundary Points"
+msgstr "Sélectionner les points de bord"
+
+msgid "Select points on boundaries of point clouds."
+msgstr "Sélectionne les points situés aux frontières des nuages de points."
+
+msgid "Flip Normals"
+msgstr "Inverser les normales"
+
+msgid ""
+"Flip orientation of active mesh objects. Can flip orientation of individual "
+"components if just one mesh object is active."
+msgstr ""
+"Inverse l'orientation des objets maillage actifs. Peut inverser "
+"l'orientation de composants individuels si un seul objet maillage est actif."
+
+msgid "Flip orientation of active point clouds."
+msgstr "Inverse l'orientation des nuages de points actifs."
+
+msgid "Flip Orientation"
+msgstr "Inverser l'orientation"
+
+msgid "Reverse direction of all active lines."
+msgstr "Inverse la direction de toutes les lignes actives."
+
+msgid "Fix Tunnels"
+msgstr "Corriger les tunnels"
+
+msgid "Make mesh topologically equivalent to a sphere."
+msgstr "Rend le maillage topologiquement équivalent à une sphère."
+
+msgid "Fix Spikes"
+msgstr "Corriger les pics"
+
+msgid ""
+"Smooth the bulge out vertices (that have a sum of adjacent angles less than "
+"given value)."
+msgstr ""
+"Lisse les sommets saillants (dont la somme des angles adjacents est "
+"inférieure à la valeur donnée)."
+
+msgid "Extrude Base"
+msgstr "Extruder la base"
+
+msgid ""
+"Create closed printable model (like in dentistry) from an arbitrary open or "
+"closed mesh, optionally fixing the undercuts."
+msgstr ""
+"Crée un modèle imprimable fermé (comme en odontologie) à partir d'un "
+"maillage ouvert ou fermé quelconque, en corrigeant éventuellement les contre-"
+"dépouilles."
+
+msgid "Radius Compensation"
+msgstr "Compensation de rayon"
+
+msgid ""
+"Compensate spherical tool radius in selected mesh area (or whole mesh) with "
+"fixed boundaries."
+msgstr ""
+"Compense le rayon de l'outil sphérique dans la zone de maillage sélectionnée "
+"(ou tout le maillage) avec des bords fixes."
+
+msgid "Fill Holes"
+msgstr "Remplir les trous"
+
+msgid ""
+"Find holes and fill them with extra triangles, or make bridges to split big "
+"holes on smaller parts."
+msgstr ""
+"Trouve les trous et les remplit avec des triangles supplémentaires, ou crée "
+"des ponts pour diviser les grands trous en parties plus petites."
+
+msgid "Fill Holes with Extra Points"
+msgstr "Remplir les trous avec des points supplémentaires"
+
+msgid ""
+"Find holes and fill them with extra triangles using points from the selected "
+"cloud as vertices of new triangles."
+msgstr ""
+"Trouve les trous et les remplit avec des triangles supplémentaires en "
+"utilisant les points du nuage sélectionné comme sommets des nouveaux "
+"triangles."
+
+msgid "Stitch Two Holes"
+msgstr "Coudre deux trous"
+
+msgid ""
+"Create mesh as tunnel between two holes (closed contour without internal "
+"mesh)."
+msgstr ""
+"Crée un maillage en tunnel entre deux trous (contour fermé sans maillage "
+"interne)."
+
+msgid "Extrude"
+msgstr "Extruder"
+
+msgid "Extrude triangles from the selected area with the mouse"
+msgstr "Extrude les triangles de la zone sélectionnée avec la souris"
+
+msgid "Make Delone"
+msgstr "Triangulation de Delaunay"
+
+msgid ""
+"Change triangulation of the mesh without moving its vertices to reach "
+"Delaunay optimality."
+msgstr ""
+"Modifie la triangulation du maillage sans déplacer ses sommets afin "
+"d'atteindre l'optimalité de Delaunay."
+
+msgid "Remesh"
+msgstr "Remailler"
+
+msgid ""
+"Change mesh of the surface to have nearly uniform edge length everywhere."
+msgstr ""
+"Modifie le maillage de la surface pour obtenir des longueurs d'arêtes quasi "
+"uniformes partout."
+
+msgid "Mesh Healer"
+msgstr "Réparateur de maillage"
+
+msgid ""
+"Detects mesh problems that may affect 3D printing, allow to rebuild mesh and "
+"make the surface watertight, or repair local problems."
+msgstr ""
+"Détecte les problèmes de maillage susceptibles d'affecter l'impression 3D, "
+"permet de reconstruire le maillage et de rendre la surface étanche, ou de "
+"réparer les problèmes locaux."
+
+msgid "Mesh Overhealer"
+msgstr "Réparateur intensif de maillage"
+
+msgid "Tool to perform extreme intrusive healing operations on mesh."
+msgstr ""
+"Outil pour effectuer des opérations de réparation extrêmement intrusives sur "
+"le maillage."
+
+msgid "Fix Pockets"
+msgstr "Corriger les poches"
+
+msgid ""
+"Finds crease edges and re-triangulates planar areas around them, useful to "
+"fix double faces"
+msgstr ""
+"Trouve les arêtes de pli et retriangulise les zones planes autour d'elles ; "
+"utile pour corriger les faces dupliquées"
+
+msgid "Subdivide"
+msgstr "Subdiviser"
+
+msgid "Split large triangles on smaller ones."
+msgstr "Divise les grands triangles en plus petits."
+
+msgid "Split large line segments on smaller ones."
+msgstr "Divise les grands segments de ligne en plus petits."
+
+msgid "Smooth Boundary"
+msgstr "Lisser le bord"
+
+msgid "Add triangles to mesh boundary to make it more straighten."
+msgstr "Ajoute des triangles au bord du maillage pour le rendre plus droit."
+
+msgid "Smooth Region Boundary"
+msgstr "Lisser le bord de la région"
+
+msgid "Moves boundary vertices of selected region to make it smoother."
+msgstr ""
+"Déplace les sommets de bord de la région sélectionnée pour la rendre plus "
+"lisse."
+
+msgid "Delete by Normal"
+msgstr "Supprimer par normale"
+
+msgid ""
+"Delete object's triangles with normals pointed to the target geometry center."
+msgstr ""
+"Supprime les triangles de l'objet dont les normales pointent vers le centre "
+"de la géométrie cible."
+
+msgid "Laplacian Brush"
+msgstr "Pinceau laplacien"
+
+msgid "Modify mesh by Laplacian brush."
+msgstr "Modifie le maillage à l'aide du pinceau laplacien."
+
+msgid "Reduce Noise"
+msgstr "Réduire le bruit"
+
+msgid "Smooth mesh, point cloud or line."
+msgstr "Lisse un maillage, un nuage de points ou une ligne."
+
+msgid "Re-position"
+msgstr "Repositionner"
+
+msgid ""
+"Position mesh vertices smoothly inside the selected region (excluding region "
+"boundary and selected edges) with the rest of the mesh."
+msgstr ""
+"Positionne les sommets du maillage de manière lisse dans la région "
+"sélectionnée (en excluant le bord et les arêtes sélectionnées) avec le reste "
+"du maillage."
+
+msgid "Voxel Boolean"
+msgstr "Booléen voxel"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, converting them into voxels before and converting the "
+"result back into mesh object."
+msgstr ""
+"Construit l'union, l'intersection ou la différence de deux objets "
+"représentés par leur maillage de surface, en les convertissant d'abord en "
+"voxels puis en reconvertissant le résultat en objet maillage."
+
+msgid "Union"
+msgstr "Union"
+
+msgid ""
+"Boolean-union the selected meshes into a single watertight surface. "
+"Overlapping geometry is fused, interior primitives are removed, and "
+"intersections are automatically resolved."
+msgstr ""
+"Réalise l'union booléenne des maillages sélectionnés en une seule surface "
+"étanche. La géométrie qui se recouvre est fusionnée, les primitives internes "
+"sont supprimées et les intersections sont automatiquement résolues."
+
+msgid "Distance Map Boolean"
+msgstr "Booléen de cartes de distances"
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr ""
+"Crée une carte de distances comme maximum, minimum ou soustraction de deux "
+"cartes de distances."
+
+msgid "Select Primitives"
+msgstr "Sélectionner les primitives"
+
+msgid "Select and deselect mesh triangles and points of point clouds."
+msgstr ""
+"Sélectionne et désélectionne les triangles du maillage et les points des "
+"nuages de points."
+
+msgid "Triangles Selector"
+msgstr "Sélecteur de triangles"
+
+msgid "Edge Selector"
+msgstr "Sélecteur d'arêtes"
+
+msgid "Expand Selection"
+msgstr "Étendre la sélection"
+
+msgid "Add one layer of triangles to the selection."
+msgstr "Ajoute une couche de triangles à la sélection."
+
+msgid "Smart Expand"
+msgstr "Extension intelligente"
+
+msgid ""
+"Allows one to easily expand triangle selection on planar or smooth regions "
+"of mesh."
+msgstr ""
+"Permet d'étendre facilement la sélection de triangles sur les régions planes "
+"ou lisses du maillage."
+
+msgid "Expand Selected Edges"
+msgstr "Étendre les arêtes sélectionnées"
+
+msgid "Add one layer of edges to the selection."
+msgstr "Ajoute une couche d'arêtes à la sélection."
+
+msgid "Select Short Edges"
+msgstr "Sélectionner les arêtes courtes"
+
+msgid "Selects all edges not longer than given value."
+msgstr ""
+"Sélectionne toutes les arêtes dont la longueur ne dépasse pas la valeur "
+"donnée."
+
+msgid "Select Twin Edges"
+msgstr "Sélectionner les arêtes jumelles"
+
+msgid ""
+"Find pairs of vertices located very close, and then select edges in between "
+"of them."
+msgstr ""
+"Trouve des paires de sommets très proches, puis sélectionne les arêtes "
+"situées entre eux."
+
+msgid "Select Incident Triangles"
+msgstr "Sélectionner les triangles incidents"
+
+msgid "Select all triangles which are connected to selected edges."
+msgstr "Sélectionne tous les triangles connectés aux arêtes sélectionnées."
+
+msgid "Swap Creases / Edges"
+msgstr "Échanger plis / arêtes"
+
+msgid "Selected edges become creases and vice verse."
+msgstr "Les arêtes sélectionnées deviennent des plis et réciproquement."
+
+msgid "Shrink Selection"
+msgstr "Réduire la sélection"
+
+msgid "Unselect one layer of triangles on the selection boundary."
+msgstr "Désélectionne une couche de triangles à la frontière de la sélection."
+
+msgid "Shrink Selected Edges"
+msgstr "Réduire les arêtes sélectionnées"
+
+msgid "Unselect one layer of edges on the selection boundary."
+msgstr "Désélectionne une couche d'arêtes à la frontière de la sélection."
+
+msgid "Grow/Shrink Selected"
+msgstr "Agrandir/Réduire la sélection"
+
+msgid "Dilate or erode selected regions by some distance."
+msgstr "Dilate ou érode les régions sélectionnées d'une certaine distance."
+
+msgid "Grow/Shrink Selected Edges"
+msgstr "Agrandir/Réduire les arêtes sélectionnées"
+
+msgid "Dilate or erode selected edges by some distance."
+msgstr "Dilate ou érode les arêtes sélectionnées d'une certaine distance."
+
+msgid "Inverse Selection"
+msgstr "Inverser la sélection"
+
+msgid ""
+"In meshes/clouds all selected triangles/points become unselected and vice "
+"versa."
+msgstr ""
+"Dans les maillages/nuages, tous les triangles/points sélectionnés sont "
+"désélectionnés et inversement."
+
+msgid "Clear Selections"
+msgstr "Effacer les sélections"
+
+msgid "Clear selected triangles for meshes and points for point clouds"
+msgstr ""
+"Efface les triangles sélectionnés des maillages et les points des nuages de "
+"points"
+
+msgid "Clear Selected Edges"
+msgstr "Effacer les arêtes sélectionnées"
+
+msgid "Clear selected edges on meshes"
+msgstr "Efface les arêtes sélectionnées sur les maillages"
+
+msgid "Delete Selected"
+msgstr "Supprimer la sélection"
+
+msgid "Delete selected area"
+msgstr "Supprime la zone sélectionnée"
+
+msgid "Select Camera-Facing"
+msgstr "Sélectionner faces caméra"
+
+msgid ""
+"Add to selection all triangles oriented toward the camera (even if other "
+"triangles occlude them)"
+msgstr ""
+"Ajoute à la sélection tous les triangles orientés vers la caméra (même si "
+"d'autres triangles les masquent)"
+
+msgid "Unselect Camera-Facing"
+msgstr "Désélectionner faces caméra"
+
+msgid ""
+"Remove from selection all triangles oriented toward the camera (even if "
+"other triangles occlude them)"
+msgstr ""
+"Retire de la sélection tous les triangles orientés vers la caméra (même si "
+"d'autres triangles les masquent)"
+
+msgid "Select by Area"
+msgstr "Sélectionner par aire"
+
+msgid "Select Creases by Angle"
+msgstr "Sélectionner les plis par angle"
+
+msgid "Select Boundary Tris"
+msgstr "Sélectionner les triangles de bord"
+
+msgid "Add to selection all triangles lying on the bounds of the mesh"
+msgstr ""
+"Ajoute à la sélection tous les triangles situés sur les bords du maillage"
+
+msgid "Select Boundary Edges"
+msgstr "Sélectionner les arêtes de bord"
+
+msgid "Add to selection all edges lying on the bounds of the mesh"
+msgstr ""
+"Ajoute à la sélection toutes les arêtes situées sur les bords du maillage"
+
+msgid "Select Outer Layer"
+msgstr "Sélectionner la couche externe"
+
+msgid ""
+"For double-layer mesh with one layer having normals outside and the other "
+"layer - inside, finds all triangles of the outer layer."
+msgstr ""
+"Pour un maillage à deux couches dont l'une a ses normales orientées vers "
+"l'extérieur et l'autre vers l'intérieur, trouve tous les triangles de la "
+"couche externe."
+
+msgid "Select Disorientations"
+msgstr "Sélectionner les désorientations"
+
+msgid ""
+"Selects triangles that look in the wrong direction, based on number of ray "
+"intersections."
+msgstr ""
+"Sélectionne les triangles qui pointent dans la mauvaise direction, en se "
+"basant sur le nombre d'intersections de rayons."
+
+msgid "Orient Mesh Normals"
+msgstr "Orienter les normales du maillage"
+
+msgid ""
+"Flips orientation of mesh components looking in the wrong direction, based "
+"on number of ray intersections."
+msgstr ""
+"Inverse l'orientation des composants du maillage qui pointent dans la "
+"mauvaise direction, en se basant sur le nombre d'intersections de rayons."
+
+msgid "Select Degeneracies"
+msgstr "Sélectionner les dégénérescences"
+
+msgid "Select all degenerate triangles based on their aspect ratio."
+msgstr "Sélectionne tous les triangles dégénérés selon leur rapport d'aspect."
+
+msgid "Select Not Smooth Triangles"
+msgstr "Sélectionner les triangles non lisses"
+
+msgid ""
+"Select inner triangles of the active mesh, where the surface is especially "
+"not smooth."
+msgstr ""
+"Sélectionne les triangles internes du maillage actif là où la surface est "
+"particulièrement non lisse."
+
+msgid "Select Multiple Edges"
+msgstr "Sélectionner les arêtes multiples"
+
+msgid "Select Self Intersections"
+msgstr "Sélectionner les auto-intersections"
+
+msgid "Select Self-Intersecting triangles of the mesh"
+msgstr "Sélectionne les triangles qui s'auto-intersectent du maillage"
+
+msgid "Expand to Components"
+msgstr "Étendre aux composants"
+
+msgid ""
+"Expand current triangle selection to whole mesh components considering "
+"selected edges as component boundaries."
+msgstr ""
+"Étend la sélection de triangles actuelle à des composants entiers du "
+"maillage en considérant les arêtes sélectionnées comme frontières de "
+"composants."
+
+msgid "Select Component"
+msgstr "Sélectionner le composant"
+
+msgid ""
+"Select the connected component of mesh or one of the selected connected "
+"components of mesh."
+msgstr ""
+"Sélectionne la composante connexe du maillage ou l'une des composantes "
+"connexes sélectionnées."
+
+msgid "Select Largest Component"
+msgstr "Sélectionner la plus grande composante"
+
+msgid "Select the largest connected component of mesh."
+msgstr "Sélectionne la plus grande composante connexe du maillage."
+
+msgid "Select Overhangs"
+msgstr "Sélectionner les surplombs"
+
+msgid "Select overhanging triangles."
+msgstr "Sélectionne les triangles en surplomb."
+
+msgid "ImGui Demo"
+msgstr "Démo ImGui"
+
+msgid "Demonstrate ImGui features."
+msgstr "Démontre les fonctionnalités d'ImGui."
+
+msgid "Picker Test"
+msgstr "Test du sélecteur"
+
+msgid "Spaces Test"
+msgstr "Test d'espaces"
+
+msgid "Http Test"
+msgstr "Test HTTP"
+
+msgid "Separate Teeth"
+msgstr "Séparer les dents"
+
+msgid "Separate Teeth Margins"
+msgstr "Séparer les marges des dents"
+
+msgid "History Explorer"
+msgstr "Explorateur d'historique"
+
+msgid "Shows detailed information about undo/redo stacks."
+msgstr ""
+"Affiche des informations détaillées sur les piles d'annulation/"
+"rétablissement."
+
+msgid "Laplacian Test"
+msgstr "Test laplacien"
+
+msgid "Gum Analyzer"
+msgstr "Analyseur de gencive"
+
+msgid "Library Distances Test"
+msgstr "Test de distances de bibliothèque"
+
+msgid "Gingiva Generation"
+msgstr "Génération de gencive"
+
+msgid "Test generating gigiva"
+msgstr "Test de la génération de gencive"
+
+msgid "Bevel Edges"
+msgstr "Chanfreiner les arêtes"
+
+msgid "Apply chamfering or filleting to selected edges."
+msgstr "Applique un chanfrein ou un congé aux arêtes sélectionnées."
+
+msgid "Lines Visualization"
+msgstr "Visualisation des lignes"
+
+msgid "Test Progress Bar"
+msgstr "Test de barre de progression"
+
+msgid "Boolean Benchmark"
+msgstr "Benchmark booléen"
+
+msgid ""
+"Run a fixed boolean A-B microbenchmark on two spheres; reports AVG/MIN/MAX "
+"timings."
+msgstr ""
+"Exécute un microbenchmark booléen A-B fixe sur deux sphères ; indique les "
+"temps AVG/MIN/MAX."
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Run embedded python-interpreter terminal."
+msgstr "Lance le terminal interpréteur Python intégré."
+
+msgid "Direction Transform"
+msgstr "Transformation de direction"
+
+msgid ""
+"Transform mesh into 3 voxel objects, representing the direction from each "
+"voxel to the closest point on the mesh."
+msgstr ""
+"Transforme le maillage en 3 objets voxel représentant la direction allant de "
+"chaque voxel au point le plus proche du maillage."
+
+msgid "Perspective Align"
+msgstr "Alignement en perspective"
+
+msgid "Align position of object, image of object and camera."
+msgstr "Aligne la position de l'objet, de son image et de la caméra."
+
+msgid "Sign out"
+msgstr "Se déconnecter"
+
+msgid "Color Map Aggregator"
+msgstr "Agrégateur de cartes de couleurs"
+
+msgid "Segment Mesh"
+msgstr "Segmenter le maillage"
+
+msgid ""
+"Segment mesh in two parts with the boundary passing via two user-given "
+"points."
+msgstr ""
+"Segmente le maillage en deux parties avec une frontière passant par deux "
+"points indiqués par l'utilisateur."
+
+msgid "Select Region"
+msgstr "Sélectionner la région"
+
+msgid ""
+"Smart region selection on mesh by defining a few seed triangles belonging to "
+"the region and other triangles not belonging to the region, by minimizing "
+"the sum of metric over the boundary."
+msgstr ""
+"Sélection intelligente de région sur le maillage en définissant quelques "
+"triangles graines appartenant à la région et d'autres n'y appartenant pas, "
+"en minimisant la somme de la métrique sur la frontière."
+
+msgid "Partitioner"
+msgstr "Partitionneur"
+
+msgid ""
+"This tool automatically splits the mesh into a specified number of segments, "
+"displaying their boundaries as selected edges."
+msgstr ""
+"Cet outil divise automatiquement le maillage en un nombre spécifié de "
+"segments, en affichant leurs frontières comme arêtes sélectionnées."
+
+msgid "Points to Mesh"
+msgstr "Points vers maillage"
+
+msgid ""
+"Create mesh objects by taking vertices from active point clouds and adding "
+"triangles (triangulation)."
+msgstr ""
+"Crée des objets maillage en prenant les sommets des nuages de points actifs "
+"et en ajoutant des triangles (triangulation)."
+
+msgid "Points to Lines"
+msgstr "Points vers lignes"
+
+msgid ""
+"Create lines objects by taking vertices from active point clouds and "
+"connecting them in signle line sequentially."
+msgstr ""
+"Crée des objets lignes en prenant les sommets des nuages de points actifs et "
+"en les reliant successivement en une seule ligne."
+
+msgid "Fusion"
+msgstr "Fusion"
+
+msgid "Create approximate object mesh from a point cloud with normals."
+msgstr ""
+"Crée un maillage d'objet approximatif à partir d'un nuage de points avec "
+"normales."
+
+msgid "Triangulation Debug"
+msgstr "Débogage de triangulation"
+
+msgid "Debugging of object mesh from selected point cloud creation."
+msgstr ""
+"Débogage de la création d'un maillage d'objet à partir du nuage de points "
+"sélectionné."
+
+msgid "Points to Spline"
+msgstr "Points vers spline"
+
+msgid "Creates a smooth line out of ordered points."
+msgstr "Crée une ligne lisse à partir de points ordonnés."
+
+msgid "Points to Offset-Lines"
+msgstr "Points vers lignes décalées"
+
+msgid "Creates a offset-lines from given points on the mesh ."
+msgstr "Crée des lignes décalées à partir de points donnés sur le maillage ."
+
+msgid "Simplify"
+msgstr "Simplifier"
+
+msgid ""
+"Decimate mesh - reduce the number of structural elements in the mesh while "
+"keeping the general shape close to the original."
+msgstr ""
+"Décimer le maillage – réduit le nombre d'éléments structurels du maillage "
+"tout en conservant une forme générale proche de l'original."
+
+msgid ""
+"Decimate polyline - reduce the number of structural elements in the polyline "
+"while keeping the general shape close to the original."
+msgstr ""
+"Décimer la polyligne – réduit le nombre d'éléments structurels de la "
+"polyligne tout en conservant une forme générale proche de l'original."
+
+msgid "Unite Close Vertices"
+msgstr "Unir les sommets proches"
+
+msgid ""
+"Find close groups of mesh vertices and replace each group with one vertex."
+msgstr ""
+"Trouve des groupes de sommets de maillage proches et remplace chaque groupe "
+"par un seul sommet."
+
+msgid "Constucts a mesh shifted relative to input one on given offset"
+msgstr ""
+"Construit un maillage décalé par rapport au maillage d'entrée d'un décalage "
+"donné"
+
+msgid "Hollow/Thicken"
+msgstr "Évider/Épaissir"
+
+msgid ""
+"Converts any mesh into closed mesh with two surfaces shifted in opposite "
+"directions relative to initial mesh."
+msgstr ""
+"Convertit n'importe quel maillage en maillage fermé avec deux surfaces "
+"décalées dans des directions opposées par rapport au maillage initial."
+
+msgid "Z-Compensate"
+msgstr "Compenser en Z"
+
+msgid ""
+"For 3D printers: shifts every vertex with normal having negative projection "
+"on Z-axis, along Z-axis."
+msgstr ""
+"Pour les imprimantes 3D : décale le long de l'axe Z chaque sommet dont la "
+"normale a une projection négative sur l'axe Z."
+
+msgid "Auto Repair Mesh"
+msgstr "Réparer le maillage automatiquement"
+
+msgid ""
+"Repair one or multiple meshes by completely rebuilding them with the "
+"specified tolerance level."
+msgstr ""
+"Répare un ou plusieurs maillages en les reconstruisant complètement avec le "
+"niveau de tolérance spécifié."
+
+msgid "Toolpath"
+msgstr "Trajectoire d'outil"
+
+msgid "Build z-constant tool path for the given mesh"
+msgstr "Construit une trajectoire d'outil à Z constant pour le maillage donné"
+
+msgid "Mesh Boolean"
+msgstr "Booléen de maillage"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, preserving input mesh pieces where possible."
+msgstr ""
+"Construit l'union, l'intersection ou la différence de deux objets "
+"représentés par leur maillage de surface, en préservant si possible les "
+"morceaux des maillages d'entrée."
+
+msgid "Real-Time Boolean"
+msgstr "Booléen en temps réel"
+
+msgid "Subtract one mesh from another in real time."
+msgstr "Soustrait un maillage d'un autre en temps réel."
+
+msgid "Real-Time Boolean Cutter"
+msgstr "Découpeur booléen en temps réel"
+
+msgid "Subtract one mesh from another in real time accumulative."
+msgstr "Soustrait un maillage d'un autre en temps réel de manière cumulative."
+
+msgid "Self-Boolean"
+msgstr "Auto-booléen"
+
+msgid ""
+"Performs mesh boolean operation on mesh with itself in order to fix self-"
+"intersections."
+msgstr ""
+"Effectue une opération booléenne de maillage entre le maillage et lui-même "
+"afin de corriger les auto-intersections."
+
+msgid "Selfy Contours"
+msgstr "Contours d'auto-intersections"
+
+msgid ""
+"Finds contours of select-intersections in active meshes and adds them in "
+"scene as line objects."
+msgstr ""
+"Trouve les contours des auto-intersections dans les maillages actifs et les "
+"ajoute à la scène en tant qu'objets ligne."
+
+msgid "Label Configurator"
+msgstr "Configurateur d'étiquettes"
+
+msgid "Edit label text, position and pivot point."
+msgstr "Modifie le texte, la position et le point de pivot de l'étiquette."
+
+msgid "Test Render"
+msgstr "Test de rendu"
+
+msgid "Testing render performance in different modes."
+msgstr "Teste les performances de rendu dans différents modes."
+
+msgid "Ribbon UI Test"
+msgstr "Test de l'UI ruban"
+
+msgid "Testing UI elements"
+msgstr "Test des éléments d'interface"
+
+msgid "G-code Visualizer"
+msgstr "Visualiseur de G-code"
+
+msgid "Visualize toolpath set by g-code commands."
+msgstr "Visualise la trajectoire d'outil définie par les commandes G-code."
+
+msgid "G-code to Lines"
+msgstr "G-code vers lignes"
+
+msgid "Create object lines from object g-code."
+msgstr "Crée des lignes d'objet à partir du G-code de l'objet."
+
+msgid "CNC Machine Settings"
+msgstr "Paramètres de machine CNC"
+
+msgid "Settings of the CNC machine simulator."
+msgstr "Paramètres du simulateur de machine CNC."
+
+msgid "Brush"
+msgstr "Pinceau"
+
+msgid "Add, remove or relax material (mesh surface)."
+msgstr "Ajoute, supprime ou détend la matière (surface du maillage)."
+
+msgid "Select Outliers"
+msgstr "Sélectionner les points aberrants"
+
+msgid "Select points that are far from others point"
+msgstr "Sélectionne les points éloignés des autres"
+
+msgid "Reset Welcome Window"
+msgstr "Réinitialiser la fenêtre d'accueil"
+
+msgid "Show the welcome window on the next application start"
+msgstr "Affiche la fenêtre d'accueil au prochain démarrage de l'application"
+
+msgid ""
+"Create point cloud objects from each connected component of selected point "
+"cloud."
+msgstr ""
+"Crée des objets nuage de points à partir de chaque composante connexe du "
+"nuage de points sélectionné."
+
+msgid "Objects List Render Test"
+msgstr "Test de rendu de la liste d'objets"
+
+msgid "Fps and frame time test in objects list rendering."
+msgstr "Test de FPS et de temps de trame dans le rendu de la liste d'objets."
+
+msgid "Open Encrypted ZIP"
+msgstr "Ouvrir un ZIP chiffré"
+
+msgid "Open an encrypted ZIP archive"
+msgstr "Ouvre une archive ZIP chiffrée"
+
+msgid "Refine Feature"
+msgstr "Affiner la fonctionnalité"
+
+msgid "Refine an existing feature object to a mesh or a point cloud"
+msgstr ""
+"Affine un objet fonctionnalité existant vers un maillage ou un nuage de "
+"points"
+
+msgid "Test Voxels Interpolation"
+msgstr "Test d'interpolation de voxels"
+
+msgid ""
+"Test certain voxels functions (creation, accessors, resampling, "
+"interpolation)"
+msgstr ""
+"Teste certaines fonctions de voxels (création, accesseurs, "
+"rééchantillonnage, interpolation)"
+
+msgid "Crash Me"
+msgstr "Faire planter"
+
+msgid ""
+"Performs some invalid operation to check program stability and correct "
+"logging"
+msgstr ""
+"Effectue une opération invalide pour vérifier la stabilité du programme et "
+"la justesse de la journalisation"
+
+msgid "Test UI Rect Allocator"
+msgstr "Test d'allocateur de rectangles d'UI"
+
+msgid "Notification Test"
+msgstr "Test de notification"
+
+msgid "Adding notifications manually"
+msgstr "Ajoute des notifications manuellement"
+
+msgid "Signals Connections"
+msgstr "Connexions de signaux"
+
+msgid "Show Viewer signals and number of connections per signal"
+msgstr ""
+"Affiche les signaux du visualiseur et le nombre de connexions par signal"
+
+msgid "Place Mesh"
+msgstr "Placer le maillage"
+
+msgid "Tool that allows to place selected mesh on any other picked object"
+msgstr ""
+"Outil permettant de placer le maillage sélectionné sur tout autre objet "
+"choisi"
+
+msgid "Fillers Test"
+msgstr "Test de remplisseurs"
+
+msgid "Swept Volume"
+msgstr "Volume balayé"
+
+msgid "Palette Test"
+msgstr "Test de palette"
+
+msgid "Scans to Mesh"
+msgstr "Scans vers maillage"
+
+msgid "Merge scans represented as points objects to one mesh object."
+msgstr ""
+"Fusionne des scans représentés sous forme d'objets points en un seul objet "
+"maillage."
+
+msgid "Object Tag Manager"
+msgstr "Gestionnaire d'étiquettes d'objets"
+
+msgid "Manage visual object tags and related colors."
+msgstr "Gère les étiquettes d'objets visuels et les couleurs associées."
+
+msgid "Set Object Tags"
+msgstr "Définir les étiquettes d'objets"
+
+msgid "Set or unset visual object tags to selected objects."
+msgstr ""
+"Applique ou retire les étiquettes d'objets visuels aux objets sélectionnés."
+
+msgid "Measure Points"
+msgstr "Mesurer les points"
+
+msgid "Show coordinates of selected points on selected objects."
+msgstr ""
+"Affiche les coordonnées des points sélectionnés sur les objets sélectionnés."
+
+msgid "Multi Clone"
+msgstr "Clones multiples"
+
+msgid "Create multiple copies of a selected object."
+msgstr "Crée plusieurs copies d'un objet sélectionné."
+
+msgid "Quality Control Report"
+msgstr "Rapport de contrôle qualité"
+
+msgid "Tool for generation quality control report pdf file."
+msgstr "Outil de génération d'un fichier PDF de rapport de contrôle qualité."
+
+msgid "Feature to Mesh"
+msgstr "Fonctionnalité vers maillage"
+
+msgid "Convert selected features to meshes."
+msgstr "Convertit les fonctionnalités sélectionnées en maillages."
+
+msgid "Feature to Line"
+msgstr "Fonctionnalité vers ligne"
+
+msgid "Convert selected features to lines."
+msgstr "Convertit les fonctionnalités sélectionnées en lignes."
+
+msgid "Build Plate"
+msgstr "Plateau de fabrication"
+
+msgid "Configure Build Plate or load it from saved presets."
+msgstr ""
+"Configure le plateau de fabrication ou le charge à partir de préréglages "
+"enregistrés."
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "Accueil"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "Vue"
+
+msgctxt "Tab name"
+msgid "Transform"
+msgstr "Transformer"
+
+msgctxt "Tab name"
+msgid "Inspect"
+msgstr "Inspecter"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "Sélection"
+
+msgctxt "Tab name"
+msgid "Mesh Edit"
+msgstr "Édition du maillage"
+
+msgctxt "Tab name"
+msgid "Mesh Repair"
+msgstr "Réparation du maillage"
+
+msgctxt "Tab name"
+msgid "Points"
+msgstr "Points"
+
+msgctxt "Tab name"
+msgid "Lines"
+msgstr "Lignes"
+
+msgctxt "Tab name"
+msgid "Distance Maps"
+msgstr "Cartes de distances"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Toolpath"
+msgstr "Trajectoire d'outil"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr "Expérimental"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "Test"

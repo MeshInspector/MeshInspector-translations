@@ -1,0 +1,1665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshInspector\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Feedback"
+msgstr "反馈"
+
+msgid ""
+"Contact with developers, report a bug, ask a question, suggest an "
+"enhancement."
+msgstr "与开发者联系,报告错误,提问或建议改进。"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Read about this app"
+msgstr "查看本应用的介绍"
+
+msgid "Open Log"
+msgstr "打开日志"
+
+msgid "Open application log"
+msgstr "打开应用程序日志"
+
+msgid "Show Local Basis"
+msgstr "显示局部基准"
+
+msgid "Show 0 and X,Y,Z axes of object reference frame."
+msgstr "显示对象参考系的原点和 X、Y、Z 轴。"
+
+msgid "Transform Object"
+msgstr "变换对象"
+
+msgid "Graphics mode for changing object position in space."
+msgstr "用于在空间中改变对象位置的图形模式。"
+
+msgid "Move to Zero"
+msgstr "移至原点"
+
+msgid ""
+"If a visual object is selected, then moves the center of its bounding box in "
+"parent's zero point.\n"
+"If a features is selected, then moves its parent so that the feature comes "
+"in grandparent's zero point."
+msgstr ""
+"如果选中了可视对象,则将其包围盒的中心移动到父对象的原点。\n"
+"如果选中了特征,则移动其父对象,使该特征位于祖父对象的原点。"
+
+msgid "Camera Navigation"
+msgstr "相机导航"
+
+msgid "Allows user to freely navigate camera in world space using arrow keys."
+msgstr "允许用户使用方向键在世界空间中自由控制相机。"
+
+msgid "Apply Transform"
+msgstr "应用变换"
+
+msgid ""
+"Transforms object points and resets object transform, visually object will "
+"remain the same."
+msgstr "变换对象的点并重置对象的变换;视觉上对象保持不变。"
+
+msgid "Mirror"
+msgstr "镜像"
+
+msgid "Reflects object points"
+msgstr "反射对象的点"
+
+msgid "Add Noise"
+msgstr "添加噪声"
+
+msgid "Adds noise to each point of the object"
+msgstr "向对象的每个点添加噪声"
+
+msgid "Align Manually"
+msgstr "手动对齐"
+
+msgid ""
+"Move target object to combine given points on origin object with points on "
+"target object."
+msgstr "移动目标对象,使源对象上的给定点与目标对象上的点重合。"
+
+msgid "Freeform Align"
+msgstr "自由对齐"
+
+msgid ""
+"Deform target object to combine given points on origin object with points on "
+"target object."
+msgstr "变形目标对象,使源对象上的给定点与目标对象上的点重合。"
+
+msgid "Registration"
+msgstr "配准"
+
+msgid ""
+"Find transformation for target object to minimize difference between "
+"original and target objects using iterative closest point (ICP) algorithm."
+msgstr ""
+"使用迭代最近点(ICP)算法,为目标对象寻找变换,以最小化原始对象与目标对象之间的差"
+"异。"
+
+msgid "Global Registration"
+msgstr "全局配准"
+
+msgid "Find transformation for all object to align them all simultaneously."
+msgstr "为所有对象寻找变换,使它们同时对齐。"
+
+msgid "Scale"
+msgstr "缩放"
+
+msgid "Rescale selected object"
+msgstr "重新缩放所选对象"
+
+msgid "Lattice Modifier"
+msgstr "晶格修改器"
+
+msgid "Modify mesh according to transformations of reference grid."
+msgstr "根据参考网格的变换修改网格。"
+
+msgid "Create Simple Objects"
+msgstr "创建简单对象"
+
+msgid ""
+"Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
+"torus and arrow."
+msgstr "创建几何基元网格:立方体、平行六面体、圆柱体、球体、圆环和箭头。"
+
+msgid "Create Primitive (Interactive)"
+msgstr "创建基元(交互)"
+
+msgid "Clone"
+msgstr "克隆"
+
+msgid "Clones all selected objects."
+msgstr "克隆所有选中的对象。"
+
+msgid "Create Text"
+msgstr "创建文本"
+
+msgid "Create text as mesh or lines object"
+msgstr "将文本创建为网格或线对象"
+
+msgid "Text on Mesh"
+msgstr "网格上的文本"
+
+msgid "Create text as ObjectMesh on the object surface."
+msgstr "在对象表面上以 ObjectMesh 形式创建文本。"
+
+msgid "Combine"
+msgstr "合并"
+
+msgid ""
+"Merge selected geometry into one object while keeping topology, materials, "
+"and internal primitives unchanged. No welding or boolean operations."
+msgstr ""
+"将选中的几何体合并为一个对象,同时保持拓扑、材质和内部基元不变。不进行焊接或布"
+"尔运算。"
+
+msgid "To Components"
+msgstr "拆分为组件"
+
+msgid "Create mesh object from each connected component of selected mesh."
+msgstr "为所选网格的每个连通组件创建网格对象。"
+
+msgid "Keep Largest Component"
+msgstr "保留最大组件"
+
+msgid "Remove all connected components of selected mesh except the largest one"
+msgstr "移除所选网格中除最大组件外的所有连通组件"
+
+msgid "Force Components"
+msgstr "强制分组件"
+
+msgid "Split mesh object on defined number of components"
+msgstr "将网格对象拆分为指定数量的组件"
+
+msgid "Convex Hull"
+msgstr "凸包"
+
+msgid "Create convex hull mesh for each selected mesh or points."
+msgstr "为每个选中的网格或点云创建凸包网格。"
+
+msgid "Delete Colors"
+msgstr "删除颜色"
+
+msgid "Convert objects with colored parts or textures into solid colored ones."
+msgstr "将带有彩色部分或纹理的对象转换为单一颜色的对象。"
+
+msgid "Texture to Vertex Colors"
+msgstr "纹理转顶点颜色"
+
+msgid ""
+"Convert mesh coloring by means of a texture into a colors stored in vertices."
+msgstr "将通过纹理实现的网格着色转换为存储在顶点中的颜色。"
+
+msgid "Triangle to Vertex Colors"
+msgstr "三角形转顶点颜色"
+
+msgid ""
+"Convert mesh coloring by means of a triangle color map into a colors stored "
+"in vertices."
+msgstr "将通过三角形颜色映射实现的网格着色转换为存储在顶点中的颜色。"
+
+msgid "Selection to Object"
+msgstr "选择转对象"
+
+msgid ""
+"Create a new object of the same type from the selection on the active object."
+msgstr "根据活动对象上的选择创建一个相同类型的新对象。"
+
+msgid "Voxels Segmentation"
+msgstr "体素分割"
+
+msgid "Show and create volumes segments from voxel image."
+msgstr "从体素图像显示并创建体积分段。"
+
+msgid "Regular Map Meshing"
+msgstr "规则贴图网格化"
+
+msgid "Convert a regular map from a file into a mesh object."
+msgstr "将文件中的规则贴图转换为网格对象。"
+
+msgid "Terrain to Mesh"
+msgstr "地形转网格"
+
+msgid ""
+"Makes mesh object (performs triangulation) out of points object with regular "
+"terrain structure."
+msgstr "由具有规则地形结构的点对象创建网格对象(执行三角化)。"
+
+msgid "Mesh to Distance Map"
+msgstr "网格转距离图"
+
+msgid "Create depth map of selected object."
+msgstr "创建所选对象的深度图。"
+
+msgid "Lines to Distance Map"
+msgstr "线转距离图"
+
+msgid "Create distance map in some area for selected lines."
+msgstr "在某一区域内为所选线创建距离图。"
+
+msgid "Offset"
+msgstr "偏移"
+
+msgid "Create mesh from object lines by offsetting it."
+msgstr "通过偏移对象线来创建网格。"
+
+msgid "Lines to Voxels"
+msgstr "线转体素"
+
+msgid "Create object voxels from object lines."
+msgstr "由对象线创建对象体素。"
+
+msgid "Extrusion Body"
+msgstr "拉伸体"
+
+msgid "Create mesh by extruding one object lines along another one."
+msgstr "通过沿另一对象线拉伸一对象的线来创建网格。"
+
+msgid "Distance Map to IsoLines"
+msgstr "距离图转等值线"
+
+msgid "Create object lines that are iso-lines of selected distance map."
+msgstr "创建作为所选距离图等值线的对象线。"
+
+msgid "Distance Map to Image"
+msgstr "距离图转图像"
+
+msgid "Create image from distance map"
+msgstr "由距离图创建图像"
+
+msgid "Distance Map to Image Advanced"
+msgstr "距离图转图像(高级)"
+
+msgid "Create image from distance map with advanced parameters"
+msgstr "使用高级参数由距离图创建图像"
+
+msgid "Image to Distance Map"
+msgstr "图像转距离图"
+
+msgid "Load image and create distance map from it with advanced parameters"
+msgstr "加载图像并使用高级参数据其创建距离图"
+
+msgid "Distance Map to Mesh"
+msgstr "距离图转网格"
+
+msgid "Convert Distance Map to Mesh"
+msgstr "将距离图转换为网格"
+
+msgid "Mesh to Points"
+msgstr "网格转点云"
+
+msgid ""
+"Create object points (object of points cloud) from selected object mesh."
+msgstr "由所选对象网格创建对象点(点云对象)。"
+
+msgid "Project Color"
+msgstr "投影颜色"
+
+msgid ""
+"Projects Vertex Colors, Texture, or Face colors (all attributes) from one "
+"mesh to another."
+msgstr "将顶点颜色、纹理或面颜色(所有属性)从一个网格投影到另一个网格上。"
+
+msgid "Mesh to Voxels"
+msgstr "网格转体素"
+
+msgid "Create object voxels from selected object mesh."
+msgstr "由所选对象网格创建对象体素。"
+
+msgid "Voxels to Mesh"
+msgstr "体素转网格"
+
+msgid "Create object mesh from selected object voxels iso-surface."
+msgstr "由所选对象体素的等值面创建对象网格。"
+
+msgid "Lines to Mesh"
+msgstr "线转网格"
+
+msgid "Create mesh from a set of closed lines"
+msgstr "由一组闭合线创建网格"
+
+msgid "Lines to Points"
+msgstr "线转点云"
+
+msgid ""
+"Create object points (object of points cloud) from selected object lines."
+msgstr "由所选对象线创建对象点(点云对象)。"
+
+msgid "Measure Distance"
+msgstr "测量距离"
+
+msgid "Show distance between selected points on selected objects."
+msgstr "显示所选对象上所选点之间的距离。"
+
+msgid "Measure Angle"
+msgstr "测量角度"
+
+msgid "Show angle between selected edges on selected objects."
+msgstr "显示所选对象上所选边之间的角度。"
+
+msgid "Signed Distance"
+msgstr "有符号距离"
+
+msgid ""
+"Show minimal distance between two objects. For intersecting objects will "
+"show maximum distance with a negative sign."
+msgstr "显示两个对象之间的最小距离。对于相交的对象,显示带负号的最大距离。"
+
+msgid "Collision Detection"
+msgstr "碰撞检测"
+
+msgid "Selects collision triangles of two meshes."
+msgstr "选择两个网格之间发生碰撞的三角形。"
+
+msgid "Surface Deviation"
+msgstr "表面偏差"
+
+msgid ""
+"Show colorized distance map from origin object on the surface of target "
+"object."
+msgstr "在目标对象表面上显示来自源对象的彩色距离图。"
+
+msgid "Visualize Curvature"
+msgstr "可视化曲率"
+
+msgid "Show colorized curvature of selected mesh."
+msgstr "显示所选网格的彩色曲率。"
+
+msgid "Surface Distance"
+msgstr "表面距离"
+
+msgid "Draw colorized distance map on object surface from selected point."
+msgstr "在对象表面绘制从所选点出发的彩色距离图。"
+
+msgid "Measure Thickness"
+msgstr "测量厚度"
+
+msgid "Visualize with colors the thickness of the object at every point."
+msgstr "用颜色可视化对象在各点的厚度。"
+
+msgid "Mesh Cut & Measure"
+msgstr "网格切割与测量"
+
+msgid ""
+"Slice your mesh along a geodesic or spline path and read the precise path "
+"length."
+msgstr "沿测地线或样条路径切割网格,并读取精确的路径长度。"
+
+msgid "Cut By Polyline"
+msgstr "按折线切割"
+
+msgid "Cuts mesh into two parts by the polyline"
+msgstr "用折线将网格切割为两部分"
+
+msgid "Partial Shell"
+msgstr "局部壳体"
+
+msgid "Applies shell-offset with non-uniform offset distance"
+msgstr "以不均匀的偏移距离应用壳体偏移"
+
+msgid "Fast Offset"
+msgstr "快速偏移"
+
+msgid ""
+"Applies offset with non-uniform offset distance. Correctness of resulting "
+"geometry is not guaranteed."
+msgstr "以不均匀的偏移距离应用偏移。不保证生成几何体的正确性。"
+
+msgid "Solar Radiation"
+msgstr "太阳辐射"
+
+msgid "Computes intensity of solar light on a terrain and a bunch of samples"
+msgstr "计算地形和一组样本上的太阳光强度"
+
+msgid "Voxels Path"
+msgstr "体素路径"
+
+msgid "Show optimal path between two voxels."
+msgstr "显示两个体素之间的最优路径。"
+
+msgid "Best Fit"
+msgstr "最佳拟合"
+
+msgid ""
+"Creates a feature objcts with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的特征对象。"
+
+msgid "Point"
+msgstr "点"
+
+msgid ""
+"Create a point feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的点特征。"
+
+msgid "Line"
+msgstr "线"
+
+msgid ""
+"Create a line feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的线特征。"
+
+msgid "Plane"
+msgstr "平面"
+
+msgid ""
+"Create a plane feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的平面特征。"
+
+msgid "Circle"
+msgstr "圆"
+
+msgid ""
+"Create a circle feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的圆特征。"
+
+msgid "Sphere"
+msgstr "球体"
+
+msgid ""
+"Create a sphere feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的球体特征。"
+
+msgid "Cylinder"
+msgstr "圆柱体"
+
+msgid ""
+"Create a cylinder feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的圆柱体特征。"
+
+msgid "Cone"
+msgstr "圆锥体"
+
+msgid ""
+"Create a cone feature with the lowest standard deviation from selected "
+"objects (that have mesh)."
+msgstr "从所选对象(具有网格)中创建标准差最小的圆锥体特征。"
+
+msgid "Make Z"
+msgstr "设为 Z 轴"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the XY plane, "
+"the Z axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"立即调整模型方向,使特征位于 XY 平面,Z 轴成为法线。\n"
+"(按住 SHIFT 以朝相反方向调整)"
+
+msgid "Make X"
+msgstr "设为 X 轴"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the YZ plane, "
+"the X axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"立即调整模型方向,使特征位于 YZ 平面,X 轴成为法线。\n"
+"(按住 SHIFT 以朝相反方向调整)"
+
+msgid "Make Y"
+msgstr "设为 Y 轴"
+
+msgid ""
+"Instantly orients the model so that the feature is oriented in the ZX plane, "
+"the Y axis becomes the normal.\n"
+"(hold SHIFT to orient to opposite direction)"
+msgstr ""
+"立即调整模型方向,使特征位于 ZX 平面,Y 轴成为法线。\n"
+"(按住 SHIFT 以朝相反方向调整)"
+
+msgid "3-2-1 Align"
+msgstr "3-2-1 对齐"
+
+msgid "Orient selected object tree by XY plane, XZ plane and zero point."
+msgstr "通过 XY 平面、XZ 平面和原点定向所选对象树。"
+
+msgid "Align to Plane"
+msgstr "对齐到平面"
+
+msgid "Orient object by one of global basis planes based on user pick."
+msgstr "根据用户选择,按某个全局基准平面定向对象。"
+
+msgid "Nesting"
+msgstr "嵌套"
+
+msgid "Reposition selected objects on top of build plate to fit into it."
+msgstr "在打印平台上重新放置所选对象,使其适合平台。"
+
+msgid "Show Dense BBox"
+msgstr "显示紧密包围盒"
+
+msgid "Show minimal box that bounds selected object."
+msgstr "显示包围所选对象的最小盒子。"
+
+msgid "Sample Points"
+msgstr "采样点"
+
+msgid "Show a set of sparse vertices."
+msgstr "显示一组稀疏的顶点。"
+
+msgid "Lines Derivative"
+msgstr "线导数"
+
+msgid "Show critical points on distance map of selected lines."
+msgstr "显示所选线的距离图上的临界点。"
+
+msgid "UV to XY"
+msgstr "UV 转 XY"
+
+msgid ""
+"Writes UV texture coorindates of each vertex in its XY space coordinates and "
+"sets Z=0."
+msgstr "将每个顶点的 UV 纹理坐标写入其 XY 空间坐标并将 Z 设为 0。"
+
+msgid "Mesh Derivative"
+msgstr "网格导数"
+
+msgid "Show critical points on distance map of selected object mesh."
+msgstr "显示所选对象网格距离图上的临界点。"
+
+msgid "Pave Area"
+msgstr "铺设区域"
+
+msgid "Pave selected area on mesh with hexagonal pattern."
+msgstr "用六边形图案铺设网格上选定的区域。"
+
+msgid "Stamp Brush"
+msgstr "图章画笔"
+
+msgid "Apply selected area as stamp to picked parts of mesh."
+msgstr "将选定区域作为图章应用到网格的选取部位。"
+
+msgid "Homology Basis"
+msgstr "同调基底"
+
+msgid ""
+"Find representative not-contractible loops of the surface, which are not "
+"equivalent one to another."
+msgstr "查找表面上互不等价的、不可收缩的代表性环路。"
+
+msgid "Bounding Box"
+msgstr "包围盒"
+
+msgid ""
+"Show box that bounds selected object, and having edges parallel to axes."
+msgstr "显示包围所选对象、其棱与坐标轴平行的盒子。"
+
+msgid "Mesh Info"
+msgstr "网格信息"
+
+msgid "Show detailed information about mesh and its primitives."
+msgstr "显示有关网格及其基元的详细信息。"
+
+msgid "Lines Info"
+msgstr "线信息"
+
+msgid "Show detailed information about lines and it's primitives."
+msgstr "显示有关线及其基元的详细信息。"
+
+msgid "Show Normals"
+msgstr "显示法线"
+
+msgid "Show different kinds of normals."
+msgstr "显示各种法线。"
+
+msgid "Section"
+msgstr "剖面"
+
+msgid ""
+"Show cross-section of objects by user selected plane. Create object lines "
+"from that cross-section."
+msgstr "按用户选择的平面显示对象的剖面,并由该剖面创建对象线。"
+
+msgid "Points Info"
+msgstr "点云信息"
+
+msgid "Tool for point cloud analysis"
+msgstr "点云分析工具"
+
+msgid "Voxels Slice"
+msgstr "体素切片"
+
+msgid "Show volume slice as image."
+msgstr "将体积切片显示为图像。"
+
+msgid "Voxels Normalize"
+msgstr "体素归一化"
+
+msgid "Linearly normalize all the selected voxel object to the given range."
+msgstr "将选中的整个体素对象线性归一化到给定范围。"
+
+msgid "Voxels Derivative"
+msgstr "体素导数"
+
+msgid ""
+"Calculate voxels derivative (the length of the gradient vector in every "
+"point)."
+msgstr "计算体素的导数(每个点处梯度向量的长度)。"
+
+msgid "Voxels Median Filter"
+msgstr "体素中值滤波"
+
+msgid ""
+"Apply a median filter to the voxel object, suppressing high-frequency noises"
+msgstr "对体素对象应用中值滤波,抑制高频噪声"
+
+msgid "Edit Voxel Mask"
+msgstr "编辑体素遮罩"
+
+msgid "Edit (clear, extend) voxel mask."
+msgstr "编辑(清除、扩展)体素遮罩。"
+
+msgid "Lattice Structures"
+msgstr "晶格结构"
+
+msgid "Fill surface with porous structure to prepare it for 3D printing"
+msgstr "用多孔结构填充表面,为 3D 打印做准备"
+
+msgid "Generate Lattices"
+msgstr "生成晶格"
+
+msgid "Create filling of a porous structure"
+msgstr "创建多孔结构的填充"
+
+msgid "Segment Teeth CBCT"
+msgstr "CBCT 牙齿分割"
+
+msgid ""
+"Teeth segmentation for CBCT scans. Takes a CBCT scan and creates a volume "
+"representing the mask of teeth in the scan."
+msgstr "CBCT 扫描的牙齿分割。读取 CBCT 扫描并创建表示扫描中牙齿遮罩的体数据。"
+
+msgid "Aligner Generator"
+msgstr "矫正器生成器"
+
+msgid "Volume Rendering"
+msgstr "体积渲染"
+
+msgid "Voxels Resampling"
+msgstr "体素重采样"
+
+msgid "Resample voxels to fit the given scale."
+msgstr "重采样体素以匹配给定的比例。"
+
+msgid "Voxels Smooth"
+msgstr "体素平滑"
+
+msgid "Applies gaussian filter to smooth voxel values."
+msgstr "应用高斯滤波以平滑体素值。"
+
+msgid "Voxels Line Graph"
+msgstr "体素折线图"
+
+msgid "Show graph of voxels values along user-selected line."
+msgstr "显示沿用户选择的线的体素值图表。"
+
+msgid "Voxels Inspector"
+msgstr "体素检查器"
+
+msgid "Adjust mesh by the voxels gradient at sub-voxel precision"
+msgstr "以亚体素精度根据体素梯度调整网格"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid ""
+"Remove any empty spaces in the memory representation of the object, and "
+"reorder elements to put close in space elements in close memory locations."
+msgstr ""
+"移除对象内存表示中的所有空闲空间,并对元素重新排序,使空间上接近的元素位于内存"
+"中相邻的位置。"
+
+msgid ""
+"Subdivide selected point cloud on given number of components grouping points "
+"by their indices."
+msgstr "按索引对点进行分组,将所选点云细分为给定数量的组件。"
+
+msgid "Change ISO"
+msgstr "更改等值面"
+
+msgid ""
+"Select what iso-surface will represent the voxel object on the screen, and "
+"choose the method to construct the iso-surface."
+msgstr "选择在屏幕上代表体素对象的等值面,并选择构建该等值面的方法。"
+
+msgid "Set Active Voxel Box"
+msgstr "设置活动体素框"
+
+msgid "Set area (box) for work on voxels."
+msgstr "设置体素操作所用的区域(盒子)。"
+
+msgid "Make Normals"
+msgstr "生成法线"
+
+msgid ""
+"Produce normal for each point in the cloud, in particular improving point "
+"cloud shading during visualization."
+msgstr "为点云中的每个点生成法线,尤其可改善可视化时的点云着色。"
+
+msgid "Orient Point Normals"
+msgstr "调整点法线方向"
+
+msgid "Select similar orientation of normals in close points."
+msgstr "在邻近点上选择方向一致的法线。"
+
+msgid "Remove Normals"
+msgstr "移除法线"
+
+msgid "Remove normals from point clouds."
+msgstr "从点云中移除法线。"
+
+msgid "Select Boundary Points"
+msgstr "选择边界点"
+
+msgid "Select points on boundaries of point clouds."
+msgstr "选择位于点云边界上的点。"
+
+msgid "Flip Normals"
+msgstr "翻转法线"
+
+msgid ""
+"Flip orientation of active mesh objects. Can flip orientation of individual "
+"components if just one mesh object is active."
+msgstr ""
+"翻转活动网格对象的方向。如果只有一个网格对象处于活动状态,可翻转单个组件的方"
+"向。"
+
+msgid "Flip orientation of active point clouds."
+msgstr "翻转活动点云的方向。"
+
+msgid "Flip Orientation"
+msgstr "翻转方向"
+
+msgid "Reverse direction of all active lines."
+msgstr "反转所有活动线的方向。"
+
+msgid "Fix Tunnels"
+msgstr "修复隧道"
+
+msgid "Make mesh topologically equivalent to a sphere."
+msgstr "使网格在拓扑上等价于球体。"
+
+msgid "Fix Spikes"
+msgstr "修复尖刺"
+
+msgid ""
+"Smooth the bulge out vertices (that have a sum of adjacent angles less than "
+"given value)."
+msgstr "平滑突出的顶点(其相邻角度之和小于给定值)。"
+
+msgid "Extrude Base"
+msgstr "拉伸底座"
+
+msgid ""
+"Create closed printable model (like in dentistry) from an arbitrary open or "
+"closed mesh, optionally fixing the undercuts."
+msgstr ""
+"由任意开放或封闭的网格创建封闭的可打印模型(如牙科应用),并可选择性地修复倒凹。"
+
+msgid "Radius Compensation"
+msgstr "半径补偿"
+
+msgid ""
+"Compensate spherical tool radius in selected mesh area (or whole mesh) with "
+"fixed boundaries."
+msgstr "在固定边界条件下,对所选网格区域(或整个网格)补偿球形刀具半径。"
+
+msgid "Fill Holes"
+msgstr "填充孔洞"
+
+msgid ""
+"Find holes and fill them with extra triangles, or make bridges to split big "
+"holes on smaller parts."
+msgstr "查找孔洞并用额外的三角形填充,或创建桥梁将大孔分割成较小的部分。"
+
+msgid "Fill Holes with Extra Points"
+msgstr "用额外点填充孔洞"
+
+msgid ""
+"Find holes and fill them with extra triangles using points from the selected "
+"cloud as vertices of new triangles."
+msgstr "查找孔洞并用额外的三角形填充,使用所选点云中的点作为新三角形的顶点。"
+
+msgid "Stitch Two Holes"
+msgstr "缝合两个孔"
+
+msgid ""
+"Create mesh as tunnel between two holes (closed contour without internal "
+"mesh)."
+msgstr "在两个孔之间以隧道形式创建网格(闭合轮廓且没有内部网格)。"
+
+msgid "Extrude"
+msgstr "拉伸"
+
+msgid "Extrude triangles from the selected area with the mouse"
+msgstr "用鼠标拉伸所选区域中的三角形"
+
+msgid "Make Delone"
+msgstr "Delaunay 优化"
+
+msgid ""
+"Change triangulation of the mesh without moving its vertices to reach "
+"Delaunay optimality."
+msgstr "在不移动顶点的情况下改变网格的三角化,以达到 Delaunay 最优。"
+
+msgid "Remesh"
+msgstr "重新网格化"
+
+msgid ""
+"Change mesh of the surface to have nearly uniform edge length everywhere."
+msgstr "改变表面的网格,使各处的边长几乎一致。"
+
+msgid "Mesh Healer"
+msgstr "网格修复器"
+
+msgid ""
+"Detects mesh problems that may affect 3D printing, allow to rebuild mesh and "
+"make the surface watertight, or repair local problems."
+msgstr "检测可能影响 3D 打印的网格问题,可重建网格使表面水密,或修复局部问题。"
+
+msgid "Mesh Overhealer"
+msgstr "网格深度修复器"
+
+msgid "Tool to perform extreme intrusive healing operations on mesh."
+msgstr "用于对网格执行极度侵入式修复操作的工具。"
+
+msgid "Fix Pockets"
+msgstr "修复凹槽"
+
+msgid ""
+"Finds crease edges and re-triangulates planar areas around them, useful to "
+"fix double faces"
+msgstr "查找折痕边并对周围的平面区域重新三角化,可用于修复双面"
+
+msgid "Subdivide"
+msgstr "细分"
+
+msgid "Split large triangles on smaller ones."
+msgstr "将大三角形拆分为较小的三角形。"
+
+msgid "Split large line segments on smaller ones."
+msgstr "将长线段拆分为较短的线段。"
+
+msgid "Smooth Boundary"
+msgstr "平滑边界"
+
+msgid "Add triangles to mesh boundary to make it more straighten."
+msgstr "在网格边界添加三角形,使其更平直。"
+
+msgid "Smooth Region Boundary"
+msgstr "平滑区域边界"
+
+msgid "Moves boundary vertices of selected region to make it smoother."
+msgstr "移动所选区域的边界顶点使其更平滑。"
+
+msgid "Delete by Normal"
+msgstr "按法线删除"
+
+msgid ""
+"Delete object's triangles with normals pointed to the target geometry center."
+msgstr "删除法线指向目标几何中心的对象三角形。"
+
+msgid "Laplacian Brush"
+msgstr "拉普拉斯画笔"
+
+msgid "Modify mesh by Laplacian brush."
+msgstr "使用拉普拉斯画笔修改网格。"
+
+msgid "Reduce Noise"
+msgstr "降低噪声"
+
+msgid "Smooth mesh, point cloud or line."
+msgstr "平滑网格、点云或线。"
+
+msgid "Re-position"
+msgstr "重新定位"
+
+msgid ""
+"Position mesh vertices smoothly inside the selected region (excluding region "
+"boundary and selected edges) with the rest of the mesh."
+msgstr ""
+"在所选区域内(不包括区域边界和所选边)平滑地放置网格顶点,使其与网格的其余部分协"
+"调。"
+
+msgid "Voxel Boolean"
+msgstr "体素布尔"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, converting them into voxels before and converting the "
+"result back into mesh object."
+msgstr ""
+"构造由表面网格表示的两个对象的并集、交集或差集,先将它们转换为体素再将结果转换"
+"回网格对象。"
+
+msgid "Union"
+msgstr "并集"
+
+msgid ""
+"Boolean-union the selected meshes into a single watertight surface. "
+"Overlapping geometry is fused, interior primitives are removed, and "
+"intersections are automatically resolved."
+msgstr ""
+"对所选网格执行布尔并集,合并为一个水密表面。重叠几何体被融合,内部基元被移除,相"
+"交部分被自动解析。"
+
+msgid "Distance Map Boolean"
+msgstr "距离图布尔"
+
+msgid ""
+"Create distance map as maximum, minimum or subtraction between two distance "
+"map."
+msgstr "将距离图创建为两个距离图之间的最大值、最小值或差值。"
+
+msgid "Select Primitives"
+msgstr "选择基元"
+
+msgid "Select and deselect mesh triangles and points of point clouds."
+msgstr "选择和取消选择网格三角形以及点云的点。"
+
+msgid "Triangles Selector"
+msgstr "三角形选择器"
+
+msgid "Edge Selector"
+msgstr "边选择器"
+
+msgid "Expand Selection"
+msgstr "扩大选择"
+
+msgid "Add one layer of triangles to the selection."
+msgstr "向选择添加一层三角形。"
+
+msgid "Smart Expand"
+msgstr "智能扩展"
+
+msgid ""
+"Allows one to easily expand triangle selection on planar or smooth regions "
+"of mesh."
+msgstr "允许在网格的平面或平滑区域轻松扩展三角形选择。"
+
+msgid "Expand Selected Edges"
+msgstr "扩大所选边"
+
+msgid "Add one layer of edges to the selection."
+msgstr "向选择添加一层边。"
+
+msgid "Select Short Edges"
+msgstr "选择短边"
+
+msgid "Selects all edges not longer than given value."
+msgstr "选择长度不超过给定值的所有边。"
+
+msgid "Select Twin Edges"
+msgstr "选择孪生边"
+
+msgid ""
+"Find pairs of vertices located very close, and then select edges in between "
+"of them."
+msgstr "查找距离非常接近的顶点对,然后选择它们之间的边。"
+
+msgid "Select Incident Triangles"
+msgstr "选择关联三角形"
+
+msgid "Select all triangles which are connected to selected edges."
+msgstr "选择所有与所选边相连的三角形。"
+
+msgid "Swap Creases / Edges"
+msgstr "互换折痕/边"
+
+msgid "Selected edges become creases and vice verse."
+msgstr "选定的边变为折痕,反之亦然。"
+
+msgid "Shrink Selection"
+msgstr "缩小选择"
+
+msgid "Unselect one layer of triangles on the selection boundary."
+msgstr "取消选择选择边界上一层三角形。"
+
+msgid "Shrink Selected Edges"
+msgstr "缩小所选边"
+
+msgid "Unselect one layer of edges on the selection boundary."
+msgstr "取消选择选择边界上一层边。"
+
+msgid "Grow/Shrink Selected"
+msgstr "扩大/缩小选择"
+
+msgid "Dilate or erode selected regions by some distance."
+msgstr "按一定距离扩张或腐蚀所选区域。"
+
+msgid "Grow/Shrink Selected Edges"
+msgstr "扩大/缩小所选边"
+
+msgid "Dilate or erode selected edges by some distance."
+msgstr "按一定距离扩张或腐蚀所选边。"
+
+msgid "Inverse Selection"
+msgstr "反选"
+
+msgid ""
+"In meshes/clouds all selected triangles/points become unselected and vice "
+"versa."
+msgstr "在网格/点云中,所有已选的三角形/点变为未选,反之亦然。"
+
+msgid "Clear Selections"
+msgstr "清除选择"
+
+msgid "Clear selected triangles for meshes and points for point clouds"
+msgstr "清除网格的已选三角形和点云的已选点"
+
+msgid "Clear Selected Edges"
+msgstr "清除所选边"
+
+msgid "Clear selected edges on meshes"
+msgstr "清除网格上的所选边"
+
+msgid "Delete Selected"
+msgstr "删除所选"
+
+msgid "Delete selected area"
+msgstr "删除所选区域"
+
+msgid "Select Camera-Facing"
+msgstr "选择朝向相机"
+
+msgid ""
+"Add to selection all triangles oriented toward the camera (even if other "
+"triangles occlude them)"
+msgstr "将所有朝向相机的三角形添加到选择中(即使其他三角形将它们遮挡)"
+
+msgid "Unselect Camera-Facing"
+msgstr "取消选择朝向相机"
+
+msgid ""
+"Remove from selection all triangles oriented toward the camera (even if "
+"other triangles occlude them)"
+msgstr "从选择中移除所有朝向相机的三角形(即使其他三角形将它们遮挡)"
+
+msgid "Select by Area"
+msgstr "按面积选择"
+
+msgid "Select Creases by Angle"
+msgstr "按角度选择折痕"
+
+msgid "Select Boundary Tris"
+msgstr "选择边界三角形"
+
+msgid "Add to selection all triangles lying on the bounds of the mesh"
+msgstr "将位于网格边界的所有三角形添加到选择中"
+
+msgid "Select Boundary Edges"
+msgstr "选择边界边"
+
+msgid "Add to selection all edges lying on the bounds of the mesh"
+msgstr "将位于网格边界的所有边添加到选择中"
+
+msgid "Select Outer Layer"
+msgstr "选择外层"
+
+msgid ""
+"For double-layer mesh with one layer having normals outside and the other "
+"layer - inside, finds all triangles of the outer layer."
+msgstr "对于双层网格(一层法线朝外,另一层法线朝内),查找外层的所有三角形。"
+
+msgid "Select Disorientations"
+msgstr "选择方向异常"
+
+msgid ""
+"Selects triangles that look in the wrong direction, based on number of ray "
+"intersections."
+msgstr "根据光线交点数量选择朝向错误方向的三角形。"
+
+msgid "Orient Mesh Normals"
+msgstr "调整网格法线方向"
+
+msgid ""
+"Flips orientation of mesh components looking in the wrong direction, based "
+"on number of ray intersections."
+msgstr "根据光线交点数量翻转朝向错误方向的网格组件的方向。"
+
+msgid "Select Degeneracies"
+msgstr "选择退化三角形"
+
+msgid "Select all degenerate triangles based on their aspect ratio."
+msgstr "根据宽高比选择所有退化三角形。"
+
+msgid "Select Not Smooth Triangles"
+msgstr "选择非平滑三角形"
+
+msgid ""
+"Select inner triangles of the active mesh, where the surface is especially "
+"not smooth."
+msgstr "选择活动网格中表面特别不平滑的内部三角形。"
+
+msgid "Select Multiple Edges"
+msgstr "选择多重边"
+
+msgid "Select Self Intersections"
+msgstr "选择自相交"
+
+msgid "Select Self-Intersecting triangles of the mesh"
+msgstr "选择网格中自相交的三角形"
+
+msgid "Expand to Components"
+msgstr "扩展到组件"
+
+msgid ""
+"Expand current triangle selection to whole mesh components considering "
+"selected edges as component boundaries."
+msgstr "将当前的三角形选择扩展到整个网格组件,以所选边作为组件边界。"
+
+msgid "Select Component"
+msgstr "选择组件"
+
+msgid ""
+"Select the connected component of mesh or one of the selected connected "
+"components of mesh."
+msgstr "选择网格的连通组件,或所选连通组件中的一个。"
+
+msgid "Select Largest Component"
+msgstr "选择最大组件"
+
+msgid "Select the largest connected component of mesh."
+msgstr "选择网格中最大的连通组件。"
+
+msgid "Select Overhangs"
+msgstr "选择悬空"
+
+msgid "Select overhanging triangles."
+msgstr "选择悬空的三角形。"
+
+msgid "ImGui Demo"
+msgstr "ImGui 演示"
+
+msgid "Demonstrate ImGui features."
+msgstr "演示 ImGui 的功能。"
+
+msgid "Picker Test"
+msgstr "拾取器测试"
+
+msgid "Spaces Test"
+msgstr "空间测试"
+
+msgid "Http Test"
+msgstr "HTTP 测试"
+
+msgid "Separate Teeth"
+msgstr "分离牙齿"
+
+msgid "Separate Teeth Margins"
+msgstr "分离牙齿边缘"
+
+msgid "History Explorer"
+msgstr "历史记录浏览器"
+
+msgid "Shows detailed information about undo/redo stacks."
+msgstr "显示撤销/重做堆栈的详细信息。"
+
+msgid "Laplacian Test"
+msgstr "拉普拉斯测试"
+
+msgid "Gum Analyzer"
+msgstr "牙龈分析器"
+
+msgid "Library Distances Test"
+msgstr "库距离测试"
+
+msgid "Gingiva Generation"
+msgstr "牙龈生成"
+
+msgid "Test generating gigiva"
+msgstr "测试牙龈生成"
+
+msgid "Bevel Edges"
+msgstr "边倒角"
+
+msgid "Apply chamfering or filleting to selected edges."
+msgstr "对所选边应用倒角或圆角。"
+
+msgid "Lines Visualization"
+msgstr "线可视化"
+
+msgid "Test Progress Bar"
+msgstr "进度条测试"
+
+msgid "Boolean Benchmark"
+msgstr "布尔基准测试"
+
+msgid ""
+"Run a fixed boolean A-B microbenchmark on two spheres; reports AVG/MIN/MAX "
+"timings."
+msgstr ""
+"在两个球体上运行固定的布尔 A-B 微基准测试;报告 AVG/MIN/MAX 计时。"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Run embedded python-interpreter terminal."
+msgstr "运行嵌入式 Python 解释器终端。"
+
+msgid "Direction Transform"
+msgstr "方向变换"
+
+msgid ""
+"Transform mesh into 3 voxel objects, representing the direction from each "
+"voxel to the closest point on the mesh."
+msgstr "将网格变换为 3 个体素对象,表示每个体素到网格上最近点的方向。"
+
+msgid "Perspective Align"
+msgstr "透视对齐"
+
+msgid "Align position of object, image of object and camera."
+msgstr "对齐对象、对象图像和相机的位置。"
+
+msgid "Sign out"
+msgstr "退出登录"
+
+msgid "Color Map Aggregator"
+msgstr "颜色图聚合器"
+
+msgid "Segment Mesh"
+msgstr "分割网格"
+
+msgid ""
+"Segment mesh in two parts with the boundary passing via two user-given "
+"points."
+msgstr "将网格分割为两部分,边界通过用户给出的两个点。"
+
+msgid "Select Region"
+msgstr "选择区域"
+
+msgid ""
+"Smart region selection on mesh by defining a few seed triangles belonging to "
+"the region and other triangles not belonging to the region, by minimizing "
+"the sum of metric over the boundary."
+msgstr ""
+"通过指定属于该区域的若干种子三角形和不属于该区域的其他三角形,使边界上的度量之"
+"和最小,实现网格上的智能区域选择。"
+
+msgid "Partitioner"
+msgstr "分区器"
+
+msgid ""
+"This tool automatically splits the mesh into a specified number of segments, "
+"displaying their boundaries as selected edges."
+msgstr "此工具将网格自动分割为指定数量的段,并将其边界显示为已选边。"
+
+msgid "Points to Mesh"
+msgstr "点云转网格"
+
+msgid ""
+"Create mesh objects by taking vertices from active point clouds and adding "
+"triangles (triangulation)."
+msgstr "从活动点云获取顶点并添加三角形(三角化),创建网格对象。"
+
+msgid "Points to Lines"
+msgstr "点云转线"
+
+msgid ""
+"Create lines objects by taking vertices from active point clouds and "
+"connecting them in signle line sequentially."
+msgstr "从活动点云获取顶点,依次连接成一条线,创建线对象。"
+
+msgid "Fusion"
+msgstr "融合"
+
+msgid "Create approximate object mesh from a point cloud with normals."
+msgstr "由带法线的点云创建近似的对象网格。"
+
+msgid "Triangulation Debug"
+msgstr "三角化调试"
+
+msgid "Debugging of object mesh from selected point cloud creation."
+msgstr "调试由所选点云创建对象网格的过程。"
+
+msgid "Points to Spline"
+msgstr "点云转样条"
+
+msgid "Creates a smooth line out of ordered points."
+msgstr "由有序点创建一条平滑曲线。"
+
+msgid "Points to Offset-Lines"
+msgstr "点云转偏移线"
+
+msgid "Creates a offset-lines from given points on the mesh ."
+msgstr "由网格上给定的点创建偏移线 。"
+
+msgid "Simplify"
+msgstr "简化"
+
+msgid ""
+"Decimate mesh - reduce the number of structural elements in the mesh while "
+"keeping the general shape close to the original."
+msgstr "对网格抽稀——在保持整体形状接近原始的同时减少网格中的结构元素数量。"
+
+msgid ""
+"Decimate polyline - reduce the number of structural elements in the polyline "
+"while keeping the general shape close to the original."
+msgstr "对折线抽稀——在保持整体形状接近原始的同时减少折线中的结构元素数量。"
+
+msgid "Unite Close Vertices"
+msgstr "合并邻近顶点"
+
+msgid ""
+"Find close groups of mesh vertices and replace each group with one vertex."
+msgstr "查找网格顶点的邻近组并用一个顶点替换每组。"
+
+msgid "Constucts a mesh shifted relative to input one on given offset"
+msgstr "构造相对于输入网格按给定偏移移动的网格"
+
+msgid "Hollow/Thicken"
+msgstr "掏空/加厚"
+
+msgid ""
+"Converts any mesh into closed mesh with two surfaces shifted in opposite "
+"directions relative to initial mesh."
+msgstr "将任意网格转换为封闭网格,具有相对于初始网格在相反方向偏移的两个表面。"
+
+msgid "Z-Compensate"
+msgstr "Z 补偿"
+
+msgid ""
+"For 3D printers: shifts every vertex with normal having negative projection "
+"on Z-axis, along Z-axis."
+msgstr "用于 3D 打印机:沿 Z 轴方向移动法线在 Z 轴上投影为负的每个顶点。"
+
+msgid "Auto Repair Mesh"
+msgstr "自动修复网格"
+
+msgid ""
+"Repair one or multiple meshes by completely rebuilding them with the "
+"specified tolerance level."
+msgstr "通过以指定的容差等级完全重建,修复一个或多个网格。"
+
+msgid "Toolpath"
+msgstr "刀具路径"
+
+msgid "Build z-constant tool path for the given mesh"
+msgstr "为给定网格构建 Z 等高刀具路径"
+
+msgid "Mesh Boolean"
+msgstr "网格布尔"
+
+msgid ""
+"Construct union, intersection or difference of two objects represented by "
+"their surface meshes, preserving input mesh pieces where possible."
+msgstr ""
+"构造由表面网格表示的两个对象的并集、交集或差集,尽可能保留输入网格的部分。"
+
+msgid "Real-Time Boolean"
+msgstr "实时布尔"
+
+msgid "Subtract one mesh from another in real time."
+msgstr "实时将一个网格从另一个网格中减去。"
+
+msgid "Real-Time Boolean Cutter"
+msgstr "实时布尔切除器"
+
+msgid "Subtract one mesh from another in real time accumulative."
+msgstr "实时累计地将一个网格从另一个网格中减去。"
+
+msgid "Self-Boolean"
+msgstr "自布尔"
+
+msgid ""
+"Performs mesh boolean operation on mesh with itself in order to fix self-"
+"intersections."
+msgstr "对网格自身执行布尔运算,以修复自相交。"
+
+msgid "Selfy Contours"
+msgstr "自相交轮廓"
+
+msgid ""
+"Finds contours of select-intersections in active meshes and adds them in "
+"scene as line objects."
+msgstr "查找活动网格中自相交的轮廓,并将其作为线对象添加到场景中。"
+
+msgid "Label Configurator"
+msgstr "标签配置器"
+
+msgid "Edit label text, position and pivot point."
+msgstr "编辑标签的文本、位置和枢轴点。"
+
+msgid "Test Render"
+msgstr "渲染测试"
+
+msgid "Testing render performance in different modes."
+msgstr "测试不同模式下的渲染性能。"
+
+msgid "Ribbon UI Test"
+msgstr "Ribbon UI 测试"
+
+msgid "Testing UI elements"
+msgstr "测试 UI 元素"
+
+msgid "G-code Visualizer"
+msgstr "G 代码可视化器"
+
+msgid "Visualize toolpath set by g-code commands."
+msgstr "可视化由 G 代码命令设置的刀具路径。"
+
+msgid "G-code to Lines"
+msgstr "G 代码转线"
+
+msgid "Create object lines from object g-code."
+msgstr "由对象 G 代码创建对象线。"
+
+msgid "CNC Machine Settings"
+msgstr "CNC 机床设置"
+
+msgid "Settings of the CNC machine simulator."
+msgstr "CNC 机床模拟器的设置。"
+
+msgid "Brush"
+msgstr "画笔"
+
+msgid "Add, remove or relax material (mesh surface)."
+msgstr "添加、移除或松弛材料(网格表面)。"
+
+msgid "Select Outliers"
+msgstr "选择离群点"
+
+msgid "Select points that are far from others point"
+msgstr "选择远离其他点的点"
+
+msgid "Reset Welcome Window"
+msgstr "重置欢迎窗口"
+
+msgid "Show the welcome window on the next application start"
+msgstr "下次启动应用程序时显示欢迎窗口"
+
+msgid ""
+"Create point cloud objects from each connected component of selected point "
+"cloud."
+msgstr "从所选点云的每个连通组件创建点云对象。"
+
+msgid "Objects List Render Test"
+msgstr "对象列表渲染测试"
+
+msgid "Fps and frame time test in objects list rendering."
+msgstr "对象列表渲染中的 FPS 和帧时间测试。"
+
+msgid "Open Encrypted ZIP"
+msgstr "打开加密 ZIP"
+
+msgid "Open an encrypted ZIP archive"
+msgstr "打开加密的 ZIP 压缩包"
+
+msgid "Refine Feature"
+msgstr "精化特征"
+
+msgid "Refine an existing feature object to a mesh or a point cloud"
+msgstr "将现有特征对象精化为网格或点云"
+
+msgid "Test Voxels Interpolation"
+msgstr "体素插值测试"
+
+msgid ""
+"Test certain voxels functions (creation, accessors, resampling, "
+"interpolation)"
+msgstr "测试某些体素功能(创建、访问器、重采样、插值)"
+
+msgid "Crash Me"
+msgstr "崩溃测试"
+
+msgid ""
+"Performs some invalid operation to check program stability and correct "
+"logging"
+msgstr "执行无效操作以检查程序稳定性和正确的日志记录"
+
+msgid "Test UI Rect Allocator"
+msgstr "UI 矩形分配器测试"
+
+msgid "Notification Test"
+msgstr "通知测试"
+
+msgid "Adding notifications manually"
+msgstr "手动添加通知"
+
+msgid "Signals Connections"
+msgstr "信号连接"
+
+msgid "Show Viewer signals and number of connections per signal"
+msgstr "显示查看器的信号以及每个信号的连接数"
+
+msgid "Place Mesh"
+msgstr "放置网格"
+
+msgid "Tool that allows to place selected mesh on any other picked object"
+msgstr "可将所选网格放置到任意其他拾取对象上的工具"
+
+msgid "Fillers Test"
+msgstr "填充器测试"
+
+msgid "Swept Volume"
+msgstr "扫掠体"
+
+msgid "Palette Test"
+msgstr "调色板测试"
+
+msgid "Scans to Mesh"
+msgstr "扫描转网格"
+
+msgid "Merge scans represented as points objects to one mesh object."
+msgstr "将以点对象形式表示的扫描合并为一个网格对象。"
+
+msgid "Object Tag Manager"
+msgstr "对象标签管理器"
+
+msgid "Manage visual object tags and related colors."
+msgstr "管理可视对象标签及其相关颜色。"
+
+msgid "Set Object Tags"
+msgstr "设置对象标签"
+
+msgid "Set or unset visual object tags to selected objects."
+msgstr "为所选对象设置或取消设置可视对象标签。"
+
+msgid "Measure Points"
+msgstr "测量点"
+
+msgid "Show coordinates of selected points on selected objects."
+msgstr "显示所选对象上所选点的坐标。"
+
+msgid "Multi Clone"
+msgstr "多重克隆"
+
+msgid "Create multiple copies of a selected object."
+msgstr "创建所选对象的多份副本。"
+
+msgid "Quality Control Report"
+msgstr "质量控制报告"
+
+msgid "Tool for generation quality control report pdf file."
+msgstr "用于生成质量控制报告 PDF 文件的工具。"
+
+msgid "Feature to Mesh"
+msgstr "特征转网格"
+
+msgid "Convert selected features to meshes."
+msgstr "将所选特征转换为网格。"
+
+msgid "Feature to Line"
+msgstr "特征转线"
+
+msgid "Convert selected features to lines."
+msgstr "将所选特征转换为线。"
+
+msgid "Build Plate"
+msgstr "打印平台"
+
+msgid "Configure Build Plate or load it from saved presets."
+msgstr "配置打印平台或从已保存的预设中加载。"
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "主页"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "视图"
+
+msgctxt "Tab name"
+msgid "Transform"
+msgstr "变换"
+
+msgctxt "Tab name"
+msgid "Inspect"
+msgstr "检查"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "选择"
+
+msgctxt "Tab name"
+msgid "Mesh Edit"
+msgstr "网格编辑"
+
+msgctxt "Tab name"
+msgid "Mesh Repair"
+msgstr "网格修复"
+
+msgctxt "Tab name"
+msgid "Points"
+msgstr "点云"
+
+msgctxt "Tab name"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "Tab name"
+msgid "Distance Maps"
+msgstr "距离图"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Toolpath"
+msgstr "刀具路径"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr "实验性"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "测试"

@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeshLib\n"
+"PO-Revision-Date: 2026-05-04 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Undo"
+msgstr "Anular"
+
+msgid "Undo the last action."
+msgstr "Anular a última ação."
+
+msgid "Redo"
+msgstr "Refazer"
+
+msgid "Redo last undone action."
+msgstr "Refazer a última ação anulada."
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Remove all objects from the scene."
+msgstr "Remover todos os objetos da cena."
+
+msgid "Open Files"
+msgstr "Abrir ficheiros"
+
+msgid "Select files from the dialog and open them in the viewer window."
+msgstr ""
+"Selecionar ficheiros na caixa de diálogo e abri-los na janela do "
+"visualizador."
+
+msgid "Open Directory"
+msgstr "Abrir pasta"
+
+msgid "Load all supported files from given directory and subdirectories."
+msgstr ""
+"Carregar todos os ficheiros suportados da pasta indicada e das suas "
+"subpastas."
+
+msgid "Open DICOMs"
+msgstr "Abrir DICOMs"
+
+msgid "Load all DICOM volumes from a given directory and its subdirectories."
+msgstr ""
+"Carregar todos os volumes DICOM da pasta indicada e das suas subpastas."
+
+msgid "Open RAW Voxels"
+msgstr "Abrir voxels RAW"
+
+msgid "Load *.raw file with user-specified parameters."
+msgstr ""
+"Carregar um ficheiro *.raw com parâmetros especificados pelo utilizador."
+
+msgid "Binary Operations"
+msgstr "Operações binárias"
+
+msgid ""
+"Various bivariate functions on individual voxel pairs: Union, Intersection, "
+"Difference, Max, Min, Sum, Multiply, Divide, Replace."
+msgstr ""
+"Várias funções bivariadas em pares individuais de voxels: União, Interseção, "
+"Diferença, Máx, Mín, Soma, Multiplicar, Dividir, Substituir."
+
+msgid "Open Voxels From TIFF"
+msgstr "Abrir voxels a partir de TIFF"
+
+msgid "Load voxels from a set of TIFF images"
+msgstr "Carregar voxels a partir de um conjunto de imagens TIFF"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Save selected objects to files."
+msgstr "Guardar os objetos selecionados em ficheiros."
+
+msgid "Save Selected"
+msgstr "Guardar selecionados"
+
+msgid "Save scene tree branches with selected objects to MRU format."
+msgstr ""
+"Guardar os ramos da árvore de cena com os objetos selecionados no formato "
+"MRU."
+
+msgid "Save Scene"
+msgstr "Guardar cena"
+
+msgid "Save MRU scene to the file from which it was opened."
+msgstr "Guardar a cena MRU no ficheiro a partir do qual foi aberta."
+
+msgid "Save Scene As"
+msgstr "Guardar cena como"
+
+msgid "Saves scene in a file."
+msgstr "Guarda a cena num ficheiro."
+
+msgid "Screenshot"
+msgstr "Captura de ecrã"
+
+msgid "Saves screenshot of the scene to file."
+msgstr "Guarda uma captura de ecrã da cena num ficheiro."
+
+msgid "Save Screenshot"
+msgstr "Guardar captura de ecrã"
+
+msgid "Saves a screenshot of the current view to file."
+msgstr "Guarda uma captura de ecrã da vista atual num ficheiro."
+
+msgid "Screenshot to Clipboard"
+msgstr "Captura de ecrã para a área de transferência"
+
+msgid "Copies screenshot of the scene to clipboard"
+msgstr "Copia uma captura de ecrã da cena para a área de transferência"
+
+msgid "Fit Data"
+msgstr "Ajustar aos dados"
+
+msgid ""
+"Changes current viewport settings to fit all visible objects in the scene."
+msgstr ""
+"Altera as definições atuais da vista para enquadrar todos os objetos "
+"visíveis da cena."
+
+msgid "Fit Selected Objects"
+msgstr "Ajustar aos objetos selecionados"
+
+msgid ""
+"Changes current viewport settings to fit selected visible objects in scene."
+msgstr ""
+"Altera as definições atuais da vista para enquadrar os objetos visíveis "
+"selecionados da cena."
+
+msgid "Fit Selected Primitives"
+msgstr "Ajustar às primitivas selecionadas"
+
+msgid "Changes current viewport settings to fit selection."
+msgstr "Altera as definições atuais da vista para enquadrar a seleção."
+
+msgid "Camera"
+msgstr "Câmara"
+
+msgid "Manually set camera."
+msgstr "Definir a câmara manualmente."
+
+msgid "Front View"
+msgstr "Vista frontal"
+
+msgid "A view of XZ plane with camera looking along Y."
+msgstr "Vista do plano XZ com a câmara orientada segundo Y."
+
+msgid "Top View"
+msgstr "Vista superior"
+
+msgid "A view of XY plane with Z axis looking in camera."
+msgstr "Vista do plano XY com o eixo Z orientado para a câmara."
+
+msgid "Bottom View"
+msgstr "Vista inferior"
+
+msgid "A view of XY plane with camera looking along Z."
+msgstr "Vista do plano XY com a câmara orientada segundo Z."
+
+msgid "Left View"
+msgstr "Vista esquerda"
+
+msgid "A view of YZ plane with camera looking along X."
+msgstr "Vista do plano YZ com a câmara orientada segundo X."
+
+msgid "Back View"
+msgstr "Vista traseira"
+
+msgid "A view of XZ plane with Y axis looking in camera."
+msgstr "Vista do plano XZ com o eixo Y orientado para a câmara."
+
+msgid "Right View"
+msgstr "Vista direita"
+
+msgid "A view of YZ plane with X axis looking in camera."
+msgstr "Vista do plano YZ com o eixo X orientado para a câmara."
+
+msgid "Isometric View"
+msgstr "Vista isométrica"
+
+msgid ""
+"Look at the object so the axes X,Y,Z form 120 degree angles on the view."
+msgstr ""
+"Olhar para o objeto de forma que os eixos X, Y, Z formem ângulos de 120 "
+"graus na vista."
+
+msgid "Invert View"
+msgstr "Inverter vista"
+
+msgid "Rotates the camera 180 degrees around the current vertical axis."
+msgstr "Roda a câmara 180 graus em torno do eixo vertical atual."
+
+msgid "Single Viewport"
+msgstr "Vista única"
+
+msgid "Setup single viewport for the whole window."
+msgstr "Configurar uma vista única para toda a janela."
+
+msgid "Horizontal Viewports"
+msgstr "Vistas horizontais"
+
+msgid "Setup two horizontal viewports for the whole window."
+msgstr "Configurar duas vistas horizontais para toda a janela."
+
+msgid "Vertical Viewports"
+msgstr "Vistas verticais"
+
+msgid "Setup two vertical viewports for the whole window."
+msgstr "Configurar duas vistas verticais para toda a janela."
+
+msgid "Quad Viewports"
+msgstr "Quatro vistas"
+
+msgid "Setup four equal viewports for the whole window."
+msgstr "Configurar quatro vistas iguais para toda a janela."
+
+msgid "Add Custom Theme"
+msgstr "Adicionar tema personalizado"
+
+msgid "Customize and save the color theme."
+msgstr "Personalizar e guardar o tema de cores."
+
+msgid "Toggle Global Basis"
+msgstr "Alternar base global"
+
+msgid "Show or hide global 0 and X,Y,Z axes, also allows showing 3d grid."
+msgstr ""
+"Mostrar ou ocultar a origem global e os eixos X, Y, Z; permite também "
+"mostrar a grelha 3D."
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "Show application settings window."
+msgstr "Mostrar a janela de definições da aplicação."
+
+msgid "Select Objects"
+msgstr "Selecionar objetos"
+
+msgid "Selects objects by clicking them in the scene"
+msgstr "Seleciona objetos clicando neles na cena"
+
+msgid "Move Object"
+msgstr "Mover objeto"
+
+msgid "Move an object in a scene using a mouse"
+msgstr "Mover um objeto na cena utilizando o rato"
+
+msgid "Sort by Name"
+msgstr "Ordenar por nome"
+
+msgid "Sort all objects in the scene by name"
+msgstr "Ordenar todos os objetos da cena por nome"
+
+msgid "Show All"
+msgstr "Mostrar tudo"
+
+msgid "Show all objects in the scene"
+msgstr "Mostrar todos os objetos da cena"
+
+msgid "Hide All"
+msgstr "Ocultar tudo"
+
+msgid "Hide all objects in the scene"
+msgstr "Ocultar todos os objetos da cena"
+
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+msgid "Select all objects in the scene"
+msgstr "Selecionar todos os objetos da cena"
+
+msgid "Unselect All"
+msgstr "Anular toda a seleção"
+
+msgid "Unselect all objects in the scene"
+msgstr "Anular a seleção de todos os objetos da cena"
+
+msgid "Show Only Previous"
+msgstr "Mostrar apenas o anterior"
+
+msgid "Select and show only previous"
+msgstr "Selecionar e mostrar apenas o anterior"
+
+msgid "Show Only Next"
+msgstr "Mostrar apenas o seguinte"
+
+msgid "Select and show only next"
+msgstr "Selecionar e mostrar apenas o seguinte"
+
+msgid "Rename"
+msgstr "Mudar o nome"
+
+msgid "Rename object"
+msgstr "Mudar o nome do objeto"
+
+msgid "Remove Selected"
+msgstr "Remover selecionados"
+
+msgid "Remove selected objects"
+msgstr "Remover os objetos selecionados"
+
+msgid "Active List"
+msgstr "Lista ativa"
+
+msgid "Show list of active tools"
+msgstr "Mostrar a lista de ferramentas ativas"
+
+msgid "Rotator"
+msgstr "Rotor"
+
+msgid "Permanently rotates the scene around vertical axis."
+msgstr "Roda a cena de forma contínua em torno do eixo vertical."
+
+msgid "Object Info"
+msgstr "Informação do objeto"
+
+msgid "Show information about currently selected object."
+msgstr "Mostrar informação sobre o objeto atualmente selecionado."
+
+msgctxt "Tab name"
+msgid "Home"
+msgstr "Início"
+
+msgctxt "Tab name"
+msgid "View"
+msgstr "Vista"
+
+msgctxt "Tab name"
+msgid "Select"
+msgstr "Seleção"
+
+msgctxt "Tab name"
+msgid "CT"
+msgstr "CT"
+
+msgctxt "Tab name"
+msgid "Test"
+msgstr "Teste"
