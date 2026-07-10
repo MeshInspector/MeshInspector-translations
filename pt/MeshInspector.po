@@ -9446,6 +9446,17 @@ msgstr "Rodar digitalização"
 msgid "Register scan"
 msgstr "Registar digitalização"
 
+msgid "Auto Connect Holes"
+msgstr "Conectar Buracos Automaticamente"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Se selecionado, «Preencher Todos os Buracos» pode conectar automaticamente "
+"vários buracos próximos entre si; caso contrário, cada buraco é preenchido "
+"separadamente."
+
 #~ msgid "Patch"
 #~ msgstr "Remendo"
 

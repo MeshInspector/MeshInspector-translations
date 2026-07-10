@@ -9483,6 +9483,16 @@ msgstr "Scan drehen"
 msgid "Register scan"
 msgstr "Scan registrieren"
 
+msgid "Auto Connect Holes"
+msgstr "Löcher automatisch verbinden"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Wenn ausgewählt, kann „Alle Löcher füllen“ mehrere nahe beieinander liegende "
+"Löcher automatisch verbinden, andernfalls wird jedes Loch einzeln gefüllt."
+
 #~ msgid "Patch"
 #~ msgstr "Patch"
 

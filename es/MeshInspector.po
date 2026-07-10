@@ -9487,6 +9487,17 @@ msgstr "Rotar escaneo"
 msgid "Register scan"
 msgstr "Registrar escaneo"
 
+msgid "Auto Connect Holes"
+msgstr "Conectar agujeros automáticamente"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Si está seleccionado, «Rellenar todos los agujeros» puede conectar "
+"automáticamente varios agujeros cercanos entre sí; de lo contrario, cada "
+"agujero se rellena por separado."
+
 #~ msgid "Patch"
 #~ msgstr "Parche"
 

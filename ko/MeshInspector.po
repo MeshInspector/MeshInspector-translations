@@ -9018,6 +9018,16 @@ msgstr "스캔 회전"
 msgid "Register scan"
 msgstr "스캔 정합"
 
+msgid "Auto Connect Holes"
+msgstr "구멍 자동 연결"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"선택하면 '모든 구멍 채우기'가 서로 가까운 여러 구멍을 자동으로 연결할 수 있습"
+"니다. 선택하지 않으면 각 구멍이 개별적으로 채워집니다."
+
 #~ msgid "Patch"
 #~ msgstr "패치"
 

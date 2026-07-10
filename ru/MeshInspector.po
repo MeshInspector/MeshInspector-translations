@@ -9393,6 +9393,17 @@ msgstr "Повернуть скан"
 msgid "Register scan"
 msgstr "Зарегистрировать скан"
 
+msgid "Auto Connect Holes"
+msgstr "Автоматически соединять отверстия"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Если включено, «Заполнить все отверстия» может автоматически соединять "
+"несколько близко расположенных отверстий, иначе каждое отверстие заполняется "
+"по отдельности."
+
 #~ msgid "Patch"
 #~ msgstr "Заплатка"
 

@@ -9076,6 +9076,16 @@ msgstr "スキャンを回転"
 msgid "Register scan"
 msgstr "スキャンをレジストレーション"
 
+msgid "Auto Connect Holes"
+msgstr "穴を自動接続"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"選択した場合、「すべての穴を充填」は近くにある複数の穴を自動的に接続できま"
+"す。選択しない場合は、各穴が個別に充填されます。"
+
 #~ msgid "Patch"
 #~ msgstr "パッチ"
 

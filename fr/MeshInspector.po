@@ -9558,6 +9558,17 @@ msgstr "Pivoter le scan"
 msgid "Register scan"
 msgstr "Recaler le scan"
 
+msgid "Auto Connect Holes"
+msgstr "Connecter automatiquement les trous"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Si sélectionné, « Boucher tous les trous » peut connecter automatiquement "
+"plusieurs trous proches les uns des autres, sinon chaque trou est bouché "
+"séparément."
+
 #~ msgid "Patch"
 #~ msgstr "Rustine"
 

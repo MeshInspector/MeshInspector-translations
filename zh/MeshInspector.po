@@ -8713,6 +8713,14 @@ msgstr "旋转扫描"
 msgid "Register scan"
 msgstr "配准扫描"
 
+msgid "Auto Connect Holes"
+msgstr "自动连接孔洞"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr "如果选中，“填充所有孔洞”可以自动连接多个相邻的孔洞，否则每个孔洞将单独填充。"
+
 #~ msgid "Patch"
 #~ msgstr "补丁"
 

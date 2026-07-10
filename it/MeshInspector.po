@@ -9487,6 +9487,16 @@ msgstr "Ruota scansione"
 msgid "Register scan"
 msgstr "Registra scansione"
 
+msgid "Auto Connect Holes"
+msgstr "Connetti automaticamente i fori"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Se selezionato, «Riempi tutti i fori» può connettere automaticamente più "
+"fori vicini tra loro, altrimenti ogni foro viene riempito singolarmente."
+
 #~ msgid "Patch"
 #~ msgstr "Toppa"
 
