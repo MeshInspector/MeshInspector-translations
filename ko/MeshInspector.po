@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -113,11 +113,8 @@ msgstr "비밀번호를 입력하세요"
 msgid "Remember me"
 msgstr "로그인 상태 유지"
 
-msgid "Forgot your"
-msgstr "비밀번호를"
-
-msgid "password?"
-msgstr "잊으셨나요?"
+msgid "Forgot your password?"
+msgstr "비밀번호를 잊으셨나요?"
 
 msgid "Need an account?"
 msgstr "계정이 필요하십니까?"
@@ -2814,7 +2811,8 @@ msgstr "수정 모방"
 
 msgid ""
 "In Fix mode disables smoothing and makes patches closer to initial surface."
-msgstr "수정 모드에서는 평활화를 비활성화하고 패치를 초기 표면에 더 가깝게 만듭니다."
+msgstr ""
+"수정 모드에서는 평활화를 비활성화하고 패치를 초기 표면에 더 가깝게 만듭니다."
 
 msgid "Collide"
 msgstr "충돌"
@@ -3155,6 +3153,16 @@ msgstr ""
 msgid "Discard"
 msgstr "버리기"
 
+msgid "Auto Connect Holes"
+msgstr "구멍 자동 연결"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"선택하면 '모든 구멍 채우기'가 서로 가까운 여러 구멍을 자동으로 연결할 수 있습"
+"니다. 선택하지 않으면 각 구멍이 개별적으로 채워집니다."
+
 msgid "Fill All Holes"
 msgstr "모든 구멍 채우기"
 
@@ -3367,6 +3375,38 @@ msgstr "어떤 종류의 터널 루프를 검색할지 선택합니다."
 
 msgid "Advanced Select Options"
 msgstr "고급 선택 옵션"
+
+msgid "Any"
+msgstr "모두"
+
+msgid "Outer"
+msgstr "외부"
+
+msgid "Inner"
+msgstr "내부"
+
+msgid "Search for all type of loops."
+msgstr "모든 유형의 루프를 검색합니다."
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr ""
+"객체를 대부분 둘러싸는 루프를 검색합니다 (루프의 기하학적 중심이 평균 루프 포"
+"인트에서 메시 내부에 위치합니다)."
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr ""
+"메시 내부의 터널을 둘러싸는 루프를 검색합니다 (루프의 기하학적 중심이 평균 루"
+"프 포인트에서 메시 외부에 위치합니다)."
+
+msgid "Loop Type"
+msgstr "루프 유형"
+
+msgid "Selects what kind of loops to search for."
+msgstr "어떤 종류의 루프를 검색할지 선택합니다."
 
 msgid "Max Tunnel Length"
 msgstr "최대 터널 길이"
@@ -3873,11 +3913,11 @@ msgstr "측지 만들기 시간"
 msgid "The time spent in making geodesic path from initial path"
 msgstr "초기 경로에서 측지 경로를 만드는 데 소요된 시간"
 
-msgid "Add point to the end of path (the last point is GREEN)"
-msgstr "경로 끝에 포인트를 추가합니다 (마지막 포인트는 녹색)"
-
 msgid "Cannot add points to closed path"
 msgstr "닫힌 경로에는 포인트를 추가할 수 없습니다"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "경로 끝에 포인트를 추가합니다 (마지막 포인트는 녹색)"
 
 msgid "Move Point"
 msgstr "포인트 이동"
@@ -6495,6 +6535,47 @@ msgstr "평면으로 향하게 하기"
 msgid "Nesting: Fix"
 msgstr "네스팅: 수정"
 
+msgid "No slicestacks found in the file"
+msgstr "파일에서 슬라이스스택을 찾을 수 없습니다"
+
+msgid "Open File..."
+msgstr "파일 열기..."
+
+msgid "Slicestack"
+msgstr "슬라이스스택"
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr "{}개 슬라이스 모두 통과"
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr "{} / {}개 슬라이스 통과, {}개 문제 있음"
+
+msgid "Intersections"
+msgstr "교차"
+
+msgid "Bad winding"
+msgstr "잘못된 감기"
+
+msgid "Slice Visualization"
+msgstr "슬라이스 시각화"
+
+msgid "Slice"
+msgstr "슬라이스"
+
+msgid "Correct"
+msgstr "정상"
+
+msgid "Reversed"
+msgstr "반전됨"
+
+msgid "Overlap"
+msgstr "겹침"
+
+msgid "Multi overlap"
+msgstr "다중 겹침"
+
 msgid "Click to open"
 msgstr "클릭하여 열기"
 
@@ -6613,6 +6694,9 @@ msgstr ""
 
 msgid "Credits"
 msgstr "크레딧"
+
+msgid "Open third-party license notices"
+msgstr "타사 라이선스 고지 열기"
 
 msgid "License"
 msgstr "라이선스"
@@ -7441,11 +7525,8 @@ msgstr "포인트를 선으로"
 msgid "Add Offset-Lines from Points"
 msgstr "포인트로부터 오프셋 선 추가"
 
-msgid "Point cloud must have at least 3 points"
-msgstr "포인트 클라우드에 최소 3개의 포인트가 있어야 합니다"
-
-msgid "Point cloud must have at most 100'000 points"
-msgstr "포인트 클라우드에 최대 100,000개의 포인트가 있어야 합니다"
+msgid "Object must have at least 3 points"
+msgstr "객체에 최소 3개의 포인트가 있어야 합니다"
 
 msgid ""
 "Points will be sampled (added and removed) to reach approximately this "
@@ -8216,6 +8297,21 @@ msgstr "작은 돌출 아티팩트 제거"
 msgid "Overhang Selection: faces"
 msgstr "돌출 선택: 면"
 
+msgid "Select Primitives by Lasso"
+msgstr "올가미로 프리미티브 선택"
+
+msgid "Select Primitives by Rect"
+msgstr "사각형으로 프리미티브 선택"
+
+msgid "Select Primitives by Polygon"
+msgstr "다각형으로 프리미티브 선택"
+
+msgid "Select Primitives by Brush"
+msgstr "브러시로 프리미티브 선택"
+
+msgid "Select Primitives by Pick"
+msgstr "선택으로 프리미티브 선택"
+
 msgid "Lasso"
 msgstr "올가미"
 
@@ -8249,15 +8345,17 @@ msgstr "마우스 클릭으로 단일 삼각형/포인트를 선택합니다"
 msgid "Select All Primitives"
 msgstr "모든 프리미티브 선택"
 
-msgid "Change brush radius in scene"
+msgid "Press"
+msgstr "누르기"
+
+msgid "Change Brush Radius in Scene"
 msgstr "장면에서 브러시 반경 변경"
+
+msgid "Scroll"
+msgstr "스크롤"
 
 msgid "Close Polyline"
 msgstr "폴리라인 닫기"
-
-#, c++-format
-msgid "Select Primitives by {}"
-msgstr "{}로 프리미티브 선택"
 
 msgid "Select Only Visible Triangles"
 msgstr "보이는 삼각형만 선택"
@@ -8324,8 +8422,8 @@ msgstr "기본적으로 선택을 추가하며, 누르고 있는 동안 선택�
 msgid "Default Selection Behavior"
 msgstr "기본 선택 동작"
 
-msgid "NONE"
-msgstr "NONE"
+msgid "Hold"
+msgstr "누르고 있기"
 
 msgid "Unselect in Previous"
 msgstr "이전에서 선택 해제"
@@ -8365,6 +8463,15 @@ msgstr "필러 추가"
 
 msgid "Overheal Mesh"
 msgstr "메시 강력 복구"
+
+msgid "Folder"
+msgstr "폴더"
+
+msgid "Browse"
+msgstr "찾아보기"
+
+msgid "Load Multiscan"
+msgstr "다중 스캔 불러오기"
 
 msgid "Place Meshes"
 msgstr "메시 배치"
@@ -8546,9 +8653,6 @@ msgstr "격자 채우기"
 
 msgid "Filling Mode"
 msgstr "채움 모드"
-
-msgid "Inner"
-msgstr "내부"
 
 msgid "Inside"
 msgstr "안쪽"
@@ -8775,25 +8879,21 @@ msgstr "볼륨 클립"
 msgid "Hold mouse over section plane to see voxel value in the section point."
 msgstr "단면 포인트에서 복셀 값을 보려면 단면 평면 위에 마우스를 올려놓으세요."
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
-msgstr "볼륨 ISO 값을 선택하려면 단면 평면에서 %s+LMB."
+msgid "Pick Volume ISO Value"
+msgstr "볼륨 ISO 값 선택"
+
+msgid "Click"
+msgstr "클릭"
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr ""
 "활성 복셀을 선택하기 위해 화면 올가미를 만들려면 LMB를 누르고 있으세요."
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
-msgstr ""
-"누르고 있기:\n"
-"NONE - 이전에서 선택\n"
-"%s - 이전에 추가\n"
-"Shift - 이전에서 선택 해제"
+msgid "Select from Previous"
+msgstr "이전에서 선택"
+
+msgid "Add to Previous"
+msgstr "이전에 추가"
 
 msgid "Reset Active Voxels"
 msgstr "활성 복셀 재설정"
@@ -9018,15 +9118,94 @@ msgstr "스캔 회전"
 msgid "Register scan"
 msgstr "스캔 정합"
 
-msgid "Auto Connect Holes"
-msgstr "구멍 자동 연결"
+msgid "Loading Zivid runtime failed"
+msgstr "Zivid 런타임 불러오기에 실패했습니다"
 
 msgid ""
-"If selected, Fill All Holes can automatically connect several closely "
-"located holes, otherwise every hole is filled by itself."
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
 msgstr ""
-"선택하면 '모든 구멍 채우기'가 서로 가까운 여러 구멍을 자동으로 연결할 수 있습"
-"니다. 선택하지 않으면 각 구멍이 개별적으로 채워집니다."
+"외부 코드가 충돌했습니다!\n"
+"호환되지 않는 Zivid 런타임 버전으로 인한 것일 수 있습니다\n"
+"응용 프로그램을 다시 시작하세요"
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+"Zivid 런타임을 불러오지 못했습니다:\n"
+"%s"
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr "Zivid SDK 바이너리 폴더를 설정하세요. 예: \"{}\""
+
+msgid "Use file (.zfc / .zdf)"
+msgstr "파일 사용 (.zfc / .zdf)"
+
+msgid "Zivid file camera (.zfc)"
+msgstr "Zivid 파일 카메라 (.zfc)"
+
+msgid "Zivid saved frame (.zdf)"
+msgstr "Zivid 저장된 프레임 (.zdf)"
+
+msgid "Build mesh"
+msgstr "메시 구축"
+
+msgid "Import colors"
+msgstr "색상 가져오기"
+
+msgid "Use capture settings (.yml)"
+msgstr "캡처 설정 사용 (.yml)"
+
+msgid "Zivid capture settings (.yml)"
+msgstr "Zivid 캡처 설정 (.yml)"
+
+msgid "Capture"
+msgstr "캡처"
+
+msgid "Import Zivid scan"
+msgstr "Zivid 스캔 가져오기"
+
+#~ msgid "Forgot your"
+#~ msgstr "비밀번호를"
+
+#~ msgid "password?"
+#~ msgstr "잊으셨나요?"
+
+#~ msgid "Point cloud must have at least 3 points"
+#~ msgstr "포인트 클라우드에 최소 3개의 포인트가 있어야 합니다"
+
+#~ msgid "Point cloud must have at most 100'000 points"
+#~ msgstr "포인트 클라우드에 최대 100,000개의 포인트가 있어야 합니다"
+
+#~ msgid "Change brush radius in scene"
+#~ msgstr "장면에서 브러시 반경 변경"
+
+#, c++-format
+#~ msgid "Select Primitives by {}"
+#~ msgstr "{}로 프리미티브 선택"
+
+#~ msgid "NONE"
+#~ msgstr "NONE"
+
+#, c-format
+#~ msgid "%s+LMB on section plane to pick volume ISO value."
+#~ msgstr "볼륨 ISO 값을 선택하려면 단면 평면에서 %s+LMB."
+
+#, c-format
+#~ msgid ""
+#~ "Hold:\n"
+#~ "NONE - select from previous\n"
+#~ "%s - add to previous\n"
+#~ "Shift - unselect in previous"
+#~ msgstr ""
+#~ "누르고 있기:\n"
+#~ "NONE - 이전에서 선택\n"
+#~ "%s - 이전에 추가\n"
+#~ "Shift - 이전에서 선택 해제"
 
 #~ msgid "Patch"
 #~ msgstr "패치"

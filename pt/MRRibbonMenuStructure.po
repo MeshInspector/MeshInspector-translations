@@ -622,6 +622,16 @@ msgstr ""
 "Reposiciona os objetos selecionados sobre a placa de construção para que "
 "caibam."
 
+msgid "Slicestack Diagnostics"
+msgstr "Diagnóstico de slicestack"
+
+msgid ""
+"Check slices of a 3MF slicestack file for open contours, intersections and "
+"inconsistent winding."
+msgstr ""
+"Verifica as fatias de um ficheiro slicestack 3MF quanto a contornos abertos, "
+"interseções e sentido de enrolamento inconsistente."
+
 msgid "Show Dense BBox"
 msgstr "Mostrar BBox densa"
 
@@ -789,6 +799,9 @@ msgstr ""
 
 msgid "Aligner Generator"
 msgstr "Gerador de alinhador"
+
+msgid "Nightguards Generator"
+msgstr "Gerador de goteiras oclusais"
 
 msgid "Volume Rendering"
 msgstr "Renderização de volume"
@@ -1408,6 +1421,14 @@ msgstr "Visualização de linhas"
 msgid "Test Progress Bar"
 msgstr "Teste de barra de progresso"
 
+msgid "Multiscan Load"
+msgstr "Carregar multivarrimento"
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr ""
+"Carrega e funde uma pasta de varrimentos posicionados numa única nuvem de "
+"pontos."
+
 msgid "Boolean Benchmark"
 msgstr "Benchmark booleano"
 
@@ -1514,8 +1535,8 @@ msgstr ""
 "Depuração da criação de uma malha de objeto a partir da nuvem de pontos "
 "selecionada."
 
-msgid "Points to Spline"
-msgstr "Pontos para spline"
+msgid "To Spline"
+msgstr "Para spline"
 
 msgid "Creates a smooth line out of ordered points."
 msgstr "Cria uma linha suave a partir de pontos ordenados."
@@ -1879,9 +1900,16 @@ msgid "Toolpath"
 msgstr "Trajetória de ferramenta"
 
 msgctxt "Tab name"
+msgid "Nesting"
+msgstr "Encaixe"
+
+msgctxt "Tab name"
 msgid "Experimental"
 msgstr "Experimental"
 
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Teste"
+
+#~ msgid "Points to Spline"
+#~ msgstr "Pontos para spline"

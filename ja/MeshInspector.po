@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -113,11 +113,8 @@ msgstr "パスワードを入力してください"
 msgid "Remember me"
 msgstr "ログイン状態を保持する"
 
-msgid "Forgot your"
-msgstr "パスワードを"
-
-msgid "password?"
-msgstr "お忘れですか?"
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか?"
 
 msgid "Need an account?"
 msgstr "アカウントが必要ですか?"
@@ -3166,6 +3163,16 @@ msgstr ""
 msgid "Discard"
 msgstr "破棄"
 
+msgid "Auto Connect Holes"
+msgstr "穴を自動接続"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"選択した場合、「すべての穴を充填」は近くにある複数の穴を自動的に接続できま"
+"す。選択しない場合は、各穴が個別に充填されます。"
+
 msgid "Fill All Holes"
 msgstr "すべての穴を充填"
 
@@ -3382,6 +3389,38 @@ msgstr "検索するトンネルループの種類を選択します。"
 
 msgid "Advanced Select Options"
 msgstr "詳細選択オプション"
+
+msgid "Any"
+msgstr "すべて"
+
+msgid "Outer"
+msgstr "外側"
+
+msgid "Inner"
+msgstr "内側"
+
+msgid "Search for all type of loops."
+msgstr "すべての種類のループを検索します。"
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr ""
+"主にオブジェクトを取り囲むループを検索します（ループの幾何学的中心がループの"
+"平均点でメッシュの内側に位置します）。"
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr ""
+"メッシュ内部のトンネルを取り囲むループを検索します（ループの幾何学的中心がル"
+"ープの平均点でメッシュの外側に位置します）。"
+
+msgid "Loop Type"
+msgstr "ループタイプ"
+
+msgid "Selects what kind of loops to search for."
+msgstr "検索するループの種類を選択します。"
 
 msgid "Max Tunnel Length"
 msgstr "最大トンネル長"
@@ -3886,11 +3925,11 @@ msgstr "測地化時間"
 msgid "The time spent in making geodesic path from initial path"
 msgstr "初期パスから測地パスを作成するのに費やした時間"
 
-msgid "Add point to the end of path (the last point is GREEN)"
-msgstr "パスの末尾にポイントを追加します（最後のポイントは緑色）"
-
 msgid "Cannot add points to closed path"
 msgstr "閉じたパスにはポイントを追加できません"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "パスの末尾にポイントを追加します（最後のポイントは緑色）"
 
 msgid "Move Point"
 msgstr "ポイントを移動"
@@ -6535,6 +6574,47 @@ msgstr "平面に向ける"
 msgid "Nesting: Fix"
 msgstr "ネスティング: 修正"
 
+msgid "No slicestacks found in the file"
+msgstr "ファイルにスライススタックが見つかりません"
+
+msgid "Open File..."
+msgstr "ファイルを開く..."
+
+msgid "Slicestack"
+msgstr "スライススタック"
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr "全 {} スライスが合格しました"
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr "{} / {} スライスが合格、{} 件に問題があります"
+
+msgid "Intersections"
+msgstr "交差"
+
+msgid "Bad winding"
+msgstr "不正なワインディング"
+
+msgid "Slice Visualization"
+msgstr "スライスの可視化"
+
+msgid "Slice"
+msgstr "スライス"
+
+msgid "Correct"
+msgstr "正常"
+
+msgid "Reversed"
+msgstr "反転"
+
+msgid "Overlap"
+msgstr "重なり"
+
+msgid "Multi overlap"
+msgstr "多重の重なり"
+
 msgid "Click to open"
 msgstr "クリックして開く"
 
@@ -6653,6 +6733,9 @@ msgstr ""
 
 msgid "Credits"
 msgstr "クレジット"
+
+msgid "Open third-party license notices"
+msgstr "サードパーティのライセンス表示を開きます"
 
 msgid "License"
 msgstr "ライセンス"
@@ -7486,11 +7569,8 @@ msgstr "ポイントを線に変換"
 msgid "Add Offset-Lines from Points"
 msgstr "ポイントからオフセット線を追加"
 
-msgid "Point cloud must have at least 3 points"
-msgstr "ポイントクラウドには少なくとも3つのポイントが必要です"
-
-msgid "Point cloud must have at most 100'000 points"
-msgstr "ポイントクラウドは最大100,000ポイントまでです"
+msgid "Object must have at least 3 points"
+msgstr "オブジェクトには少なくとも3つのポイントが必要です"
 
 msgid ""
 "Points will be sampled (added and removed) to reach approximately this "
@@ -8267,6 +8347,21 @@ msgstr "小さなオーバーハングのアーティファクトを削除"
 msgid "Overhang Selection: faces"
 msgstr "オーバーハング選択: 面"
 
+msgid "Select Primitives by Lasso"
+msgstr "ラッソでプリミティブを選択"
+
+msgid "Select Primitives by Rect"
+msgstr "矩形でプリミティブを選択"
+
+msgid "Select Primitives by Polygon"
+msgstr "ポリゴンでプリミティブを選択"
+
+msgid "Select Primitives by Brush"
+msgstr "ブラシでプリミティブを選択"
+
+msgid "Select Primitives by Pick"
+msgstr "ピックでプリミティブを選択"
+
 msgid "Lasso"
 msgstr "ラッソ"
 
@@ -8300,15 +8395,17 @@ msgstr "マウスクリックで単一の三角形/ポイントを選択しま�
 msgid "Select All Primitives"
 msgstr "すべてのプリミティブを選択"
 
-msgid "Change brush radius in scene"
+msgid "Press"
+msgstr "押す"
+
+msgid "Change Brush Radius in Scene"
 msgstr "シーン内のブラシ半径を変更"
+
+msgid "Scroll"
+msgstr "スクロール"
 
 msgid "Close Polyline"
 msgstr "ポリラインを閉じる"
-
-#, c++-format
-msgid "Select Primitives by {}"
-msgstr "{}でプリミティブを選択"
 
 msgid "Select Only Visible Triangles"
 msgstr "表示されている三角形のみを選択"
@@ -8375,8 +8472,8 @@ msgstr "デフォルトでは選択に追加、押しながらで選択を更新
 msgid "Default Selection Behavior"
 msgstr "デフォルトの選択動作"
 
-msgid "NONE"
-msgstr "なし"
+msgid "Hold"
+msgstr "押しながら"
 
 msgid "Unselect in Previous"
 msgstr "前の選択から除外"
@@ -8416,6 +8513,15 @@ msgstr "フィラーを追加"
 
 msgid "Overheal Mesh"
 msgstr "メッシュを強力に修復"
+
+msgid "Folder"
+msgstr "フォルダー"
+
+msgid "Browse"
+msgstr "参照"
+
+msgid "Load Multiscan"
+msgstr "マルチスキャンを読み込み"
 
 msgid "Place Meshes"
 msgstr "メッシュを配置"
@@ -8598,9 +8704,6 @@ msgstr "ラティス充填"
 
 msgid "Filling Mode"
 msgstr "充填モード"
-
-msgid "Inner"
-msgstr "内側"
 
 msgid "Inside"
 msgstr "内部"
@@ -8833,26 +8936,22 @@ msgstr ""
 "セクション平面上にマウスをかざしてセクションポイントのボクセル値を確認しま"
 "す。"
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
-msgstr "%s+セクション平面上で左クリックしてボリュームISO値を選択します。"
+msgid "Pick Volume ISO Value"
+msgstr "ボリュームISO値を選択"
+
+msgid "Click"
+msgstr "クリック"
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr ""
 "左クリックを押し続けてスクリーンラッソを作成し、アクティブボクセルを選択しま"
 "す。"
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
-msgstr ""
-"押しながら:\n"
-"なし - 前の選択から選択\n"
-"%s - 前の選択に追加\n"
-"Shift - 前の選択から除外"
+msgid "Select from Previous"
+msgstr "前の選択から選択"
+
+msgid "Add to Previous"
+msgstr "前の選択に追加"
 
 msgid "Reset Active Voxels"
 msgstr "アクティブボクセルをリセット"
@@ -9076,15 +9175,94 @@ msgstr "スキャンを回転"
 msgid "Register scan"
 msgstr "スキャンをレジストレーション"
 
-msgid "Auto Connect Holes"
-msgstr "穴を自動接続"
+msgid "Loading Zivid runtime failed"
+msgstr "Zividランタイムの読み込みに失敗しました"
 
 msgid ""
-"If selected, Fill All Holes can automatically connect several closely "
-"located holes, otherwise every hole is filled by itself."
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
 msgstr ""
-"選択した場合、「すべての穴を充填」は近くにある複数の穴を自動的に接続できま"
-"す。選択しない場合は、各穴が個別に充填されます。"
+"外部コードがクラッシュしました!\n"
+"互換性のないZividランタイムバージョンが原因の可能性があります\n"
+"アプリケーションを再起動してください"
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+"Zividランタイムが読み込まれていません:\n"
+"%s"
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr "Zivid SDKのバイナリフォルダーを設定します（例: \"{}\"）"
+
+msgid "Use file (.zfc / .zdf)"
+msgstr "ファイルを使用 (.zfc / .zdf)"
+
+msgid "Zivid file camera (.zfc)"
+msgstr "Zividファイルカメラ (.zfc)"
+
+msgid "Zivid saved frame (.zdf)"
+msgstr "Zivid保存フレーム (.zdf)"
+
+msgid "Build mesh"
+msgstr "メッシュを構築"
+
+msgid "Import colors"
+msgstr "色をインポート"
+
+msgid "Use capture settings (.yml)"
+msgstr "キャプチャ設定を使用 (.yml)"
+
+msgid "Zivid capture settings (.yml)"
+msgstr "Zividキャプチャ設定 (.yml)"
+
+msgid "Capture"
+msgstr "キャプチャ"
+
+msgid "Import Zivid scan"
+msgstr "Zividスキャンをインポート"
+
+#~ msgid "Forgot your"
+#~ msgstr "パスワードを"
+
+#~ msgid "password?"
+#~ msgstr "お忘れですか?"
+
+#~ msgid "Point cloud must have at least 3 points"
+#~ msgstr "ポイントクラウドには少なくとも3つのポイントが必要です"
+
+#~ msgid "Point cloud must have at most 100'000 points"
+#~ msgstr "ポイントクラウドは最大100,000ポイントまでです"
+
+#~ msgid "Change brush radius in scene"
+#~ msgstr "シーン内のブラシ半径を変更"
+
+#, c++-format
+#~ msgid "Select Primitives by {}"
+#~ msgstr "{}でプリミティブを選択"
+
+#~ msgid "NONE"
+#~ msgstr "なし"
+
+#, c-format
+#~ msgid "%s+LMB on section plane to pick volume ISO value."
+#~ msgstr "%s+セクション平面上で左クリックしてボリュームISO値を選択します。"
+
+#, c-format
+#~ msgid ""
+#~ "Hold:\n"
+#~ "NONE - select from previous\n"
+#~ "%s - add to previous\n"
+#~ "Shift - unselect in previous"
+#~ msgstr ""
+#~ "押しながら:\n"
+#~ "なし - 前の選択から選択\n"
+#~ "%s - 前の選択に追加\n"
+#~ "Shift - 前の選択から除外"
 
 #~ msgid "Patch"
 #~ msgstr "パッチ"

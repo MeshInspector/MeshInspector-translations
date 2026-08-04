@@ -542,6 +542,15 @@ msgstr "嵌套"
 msgid "Reposition selected objects on top of build plate to fit into it."
 msgstr "在打印平台上重新放置所选对象,使其适合平台。"
 
+msgid "Slicestack Diagnostics"
+msgstr "切片栈诊断"
+
+msgid ""
+"Check slices of a 3MF slicestack file for open contours, intersections and "
+"inconsistent winding."
+msgstr ""
+"检查 3MF 切片栈文件中的切片是否存在开放轮廓、相交和环绕方向不一致的问题。"
+
 msgid "Show Dense BBox"
 msgstr "显示紧密包围盒"
 
@@ -688,6 +697,9 @@ msgstr "CBCT 扫描的牙齿分割。读取 CBCT 扫描并创建表示扫描中�
 
 msgid "Aligner Generator"
 msgstr "矫正器生成器"
+
+msgid "Nightguards Generator"
+msgstr "夜磨牙垫生成器"
 
 msgid "Volume Rendering"
 msgstr "体积渲染"
@@ -1239,14 +1251,19 @@ msgstr "线可视化"
 msgid "Test Progress Bar"
 msgstr "进度条测试"
 
+msgid "Multiscan Load"
+msgstr "多扫描加载"
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr "加载一个文件夹中已定位的扫描并合并为一个点云。"
+
 msgid "Boolean Benchmark"
 msgstr "布尔基准测试"
 
 msgid ""
 "Run a fixed boolean A-B microbenchmark on two spheres; reports AVG/MIN/MAX "
 "timings."
-msgstr ""
-"在两个球体上运行固定的布尔 A-B 微基准测试;报告 AVG/MIN/MAX 计时。"
+msgstr "在两个球体上运行固定的布尔 A-B 微基准测试;报告 AVG/MIN/MAX 计时。"
 
 msgid "Python"
 msgstr "Python"
@@ -1329,8 +1346,8 @@ msgstr "三角化调试"
 msgid "Debugging of object mesh from selected point cloud creation."
 msgstr "调试由所选点云创建对象网格的过程。"
 
-msgid "Points to Spline"
-msgstr "点云转样条"
+msgid "To Spline"
+msgstr "转为样条"
 
 msgid "Creates a smooth line out of ordered points."
 msgstr "由有序点创建一条平滑曲线。"
@@ -1657,9 +1674,16 @@ msgid "Toolpath"
 msgstr "刀具路径"
 
 msgctxt "Tab name"
+msgid "Nesting"
+msgstr "嵌套"
+
+msgctxt "Tab name"
 msgid "Experimental"
 msgstr "实验性"
 
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid "Points to Spline"
+#~ msgstr "点云转样条"

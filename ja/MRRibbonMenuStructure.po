@@ -599,6 +599,16 @@ msgstr "ネスト配置"
 msgid "Reposition selected objects on top of build plate to fit into it."
 msgstr "選択したオブジェクトをビルドプレート上に再配置して収まるようにします。"
 
+msgid "Slicestack Diagnostics"
+msgstr "スライススタック診断"
+
+msgid ""
+"Check slices of a 3MF slicestack file for open contours, intersections and "
+"inconsistent winding."
+msgstr ""
+"3MFスライススタックファイルのスライスに開いたコンター、交差、巻き方向の不整合"
+"がないか確認します。"
+
 msgid "Show Dense BBox"
 msgstr "密なバウンディングボックスを表示"
 
@@ -751,6 +761,9 @@ msgstr ""
 
 msgid "Aligner Generator"
 msgstr "アライナー生成"
+
+msgid "Nightguards Generator"
+msgstr "ナイトガード生成"
 
 msgid "Volume Rendering"
 msgstr "ボリュームレンダリング"
@@ -1335,13 +1348,21 @@ msgstr "ライン可視化"
 msgid "Test Progress Bar"
 msgstr "プログレスバーテスト"
 
+msgid "Multiscan Load"
+msgstr "マルチスキャン読み込み"
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr "位置合わせ済みスキャンのフォルダを読み込んで1つの点群にマージします。"
+
 msgid "Boolean Benchmark"
 msgstr "ブールベンチマーク"
 
 msgid ""
 "Run a fixed boolean A-B microbenchmark on two spheres; reports AVG/MIN/MAX "
 "timings."
-msgstr "2つの球に対して固定のブールA-Bマイクロベンチマークを実行します。AVG/MIN/MAXのタイミングを報告します。"
+msgstr ""
+"2つの球に対して固定のブールA-Bマイクロベンチマークを実行します。AVG/MIN/MAXの"
+"タイミングを報告します。"
 
 msgid "Python"
 msgstr "Python"
@@ -1433,8 +1454,8 @@ msgstr "三角形分割デバッグ"
 msgid "Debugging of object mesh from selected point cloud creation."
 msgstr "選択した点群からのオブジェクトメッシュ作成のデバッグ。"
 
-msgid "Points to Spline"
-msgstr "ポイントをスプラインに変換"
+msgid "To Spline"
+msgstr "スプラインに変換"
 
 msgid "Creates a smooth line out of ordered points."
 msgstr "順序付きポイントから滑らかなラインを作成します。"
@@ -1778,9 +1799,16 @@ msgid "Toolpath"
 msgstr "ツールパス"
 
 msgctxt "Tab name"
+msgid "Nesting"
+msgstr "ネスト配置"
+
+msgctxt "Tab name"
 msgid "Experimental"
 msgstr "実験的"
 
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "Points to Spline"
+#~ msgstr "ポイントをスプラインに変換"

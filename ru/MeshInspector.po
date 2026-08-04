@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -114,11 +114,8 @@ msgstr "Пожалуйста, введите пароль"
 msgid "Remember me"
 msgstr "Запомнить меня"
 
-msgid "Forgot your"
-msgstr "Забыли"
-
-msgid "password?"
-msgstr "пароль?"
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
 
 msgid "Need an account?"
 msgstr "Нет учётной записи?"
@@ -3256,6 +3253,17 @@ msgstr ""
 msgid "Discard"
 msgstr "Отменить"
 
+msgid "Auto Connect Holes"
+msgstr "Автоматически соединять отверстия"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Если включено, «Заполнить все отверстия» может автоматически соединять "
+"несколько близко расположенных отверстий, иначе каждое отверстие заполняется "
+"по отдельности."
+
 msgid "Fill All Holes"
 msgstr "Заполнить все отверстия"
 
@@ -3480,6 +3488,38 @@ msgstr "Определяет, какой тип туннельных петел�
 
 msgid "Advanced Select Options"
 msgstr "Расширенные параметры выделения"
+
+msgid "Any"
+msgstr "Любой"
+
+msgid "Outer"
+msgstr "Внешний"
+
+msgid "Inner"
+msgstr "Внутренний"
+
+msgid "Search for all type of loops."
+msgstr "Поиск всех типов петель."
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr ""
+"Поиск петель, преимущественно огибающих объект (геометрический центр петли "
+"находится внутри меша в средней точке петли)."
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr ""
+"Поиск петель, охватывающих туннель внутри меша (геометрический центр петли "
+"находится вне меша в средней точке петли)."
+
+msgid "Loop Type"
+msgstr "Тип петли"
+
+msgid "Selects what kind of loops to search for."
+msgstr "Определяет, какой тип петель искать."
 
 msgid "Max Tunnel Length"
 msgstr "Максимальная длина туннеля"
@@ -4019,11 +4059,11 @@ msgid "The time spent in making geodesic path from initial path"
 msgstr ""
 "Время, затраченное на построение геодезического пути из начального пути"
 
-msgid "Add point to the end of path (the last point is GREEN)"
-msgstr "Добавить точку в конец пути (последняя точка отмечена ЗЕЛЁНЫМ)"
-
 msgid "Cannot add points to closed path"
 msgstr "Невозможно добавить точки в замкнутый путь"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "Добавить точку в конец пути (последняя точка отмечена ЗЕЛЁНЫМ)"
 
 msgid "Move Point"
 msgstr "Переместить точку"
@@ -6788,6 +6828,47 @@ msgstr "Ориентировать по плоскости"
 msgid "Nesting: Fix"
 msgstr "Нестинг: Исправить"
 
+msgid "No slicestacks found in the file"
+msgstr "В файле не найдено стеков срезов"
+
+msgid "Open File..."
+msgstr "Открыть файл..."
+
+msgid "Slicestack"
+msgstr "Стек срезов"
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr "Все срезы ({}) прошли проверку"
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr "{} / {} срезов прошли проверку, {} с проблемами"
+
+msgid "Intersections"
+msgstr "Пересечения"
+
+msgid "Bad winding"
+msgstr "Неверная намотка"
+
+msgid "Slice Visualization"
+msgstr "Визуализация среза"
+
+msgid "Slice"
+msgstr "Срез"
+
+msgid "Correct"
+msgstr "Корректно"
+
+msgid "Reversed"
+msgstr "Инвертировано"
+
+msgid "Overlap"
+msgstr "Перекрытие"
+
+msgid "Multi overlap"
+msgstr "Множественное перекрытие"
+
 msgid "Click to open"
 msgstr "Нажмите, чтобы открыть"
 
@@ -6906,6 +6987,9 @@ msgstr ""
 
 msgid "Credits"
 msgstr "Авторы"
+
+msgid "Open third-party license notices"
+msgstr "Открыть уведомления о лицензиях сторонних компонентов"
 
 msgid "License"
 msgstr "Лицензия"
@@ -7761,11 +7845,8 @@ msgstr "Точки в линии"
 msgid "Add Offset-Lines from Points"
 msgstr "Добавить линии смещения из точек"
 
-msgid "Point cloud must have at least 3 points"
-msgstr "Облако точек должно содержать не менее 3 точек"
-
-msgid "Point cloud must have at most 100'000 points"
-msgstr "Облако точек должно содержать не более 100 000 точек"
+msgid "Object must have at least 3 points"
+msgstr "Объект должен иметь не менее 3 точек"
 
 msgid ""
 "Points will be sampled (added and removed) to reach approximately this "
@@ -8567,6 +8648,21 @@ msgstr "Удалить мелкие артефакты нависания"
 msgid "Overhang Selection: faces"
 msgstr "Выделение нависающих элементов: грани"
 
+msgid "Select Primitives by Lasso"
+msgstr "Выбрать примитивы лассо"
+
+msgid "Select Primitives by Rect"
+msgstr "Выбрать примитивы прямоугольником"
+
+msgid "Select Primitives by Polygon"
+msgstr "Выбрать примитивы полигоном"
+
+msgid "Select Primitives by Brush"
+msgstr "Выбрать примитивы кистью"
+
+msgid "Select Primitives by Pick"
+msgstr "Выбрать примитивы указанием"
+
 msgid "Lasso"
 msgstr "Лассо"
 
@@ -8603,15 +8699,17 @@ msgstr "Выбрать один треугольник/точку щелчком
 msgid "Select All Primitives"
 msgstr "Выбрать все примитивы"
 
-msgid "Change brush radius in scene"
-msgstr "Изменить радиус кисти на сцене"
+msgid "Press"
+msgstr "Нажать"
+
+msgid "Change Brush Radius in Scene"
+msgstr "Изменить радиус кисти в сцене"
+
+msgid "Scroll"
+msgstr "Прокрутить"
 
 msgid "Close Polyline"
 msgstr "Закрыть ломаную"
-
-#, c++-format
-msgid "Select Primitives by {}"
-msgstr "Выбрать примитивы по {}"
 
 msgid "Select Only Visible Triangles"
 msgstr "Выбрать только видимые треугольники"
@@ -8682,8 +8780,8 @@ msgstr "По умолчанию добавляет к выделению, обн
 msgid "Default Selection Behavior"
 msgstr "Поведение выделения по умолчанию"
 
-msgid "NONE"
-msgstr "НЕТ"
+msgid "Hold"
+msgstr "Удерживать"
 
 msgid "Unselect in Previous"
 msgstr "Снять в предыдущем"
@@ -8723,6 +8821,15 @@ msgstr "Добавить заполнители"
 
 msgid "Overheal Mesh"
 msgstr "Расширенное восстановление меша"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Browse"
+msgstr "Обзор"
+
+msgid "Load Multiscan"
+msgstr "Загрузить мультискан"
 
 msgid "Place Meshes"
 msgstr "Разместить меши"
@@ -8911,9 +9018,6 @@ msgstr "Заполнение решёткой"
 
 msgid "Filling Mode"
 msgstr "Режим заполнения"
-
-msgid "Inner"
-msgstr "Внутренний"
 
 msgid "Inside"
 msgstr "Внутри"
@@ -9148,26 +9252,22 @@ msgstr ""
 "Наведите курсор мыши на плоскость сечения, чтобы увидеть значение вокселя в "
 "точке сечения."
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
-msgstr "%s+ЛКМ на плоскости сечения для выбора значения ISO объёма."
+msgid "Pick Volume ISO Value"
+msgstr "Выбрать значение ISO объёма"
+
+msgid "Click"
+msgstr "Щёлкнуть"
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr ""
 "Нажмите и удерживайте ЛКМ для рисования лассо на экране и выбора активных "
 "вокселей."
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
-msgstr ""
-"Удерживайте:\n"
-"NONE — выбрать из предыдущего\n"
-"%s — добавить к предыдущему\n"
-"Shift — снять в предыдущем"
+msgid "Select from Previous"
+msgstr "Выбрать из предыдущего"
+
+msgid "Add to Previous"
+msgstr "Добавить к предыдущему"
 
 msgid "Reset Active Voxels"
 msgstr "Сбросить активные воксели"
@@ -9393,16 +9493,94 @@ msgstr "Повернуть скан"
 msgid "Register scan"
 msgstr "Зарегистрировать скан"
 
-msgid "Auto Connect Holes"
-msgstr "Автоматически соединять отверстия"
+msgid "Loading Zivid runtime failed"
+msgstr "Не удалось загрузить среду выполнения Zivid"
 
 msgid ""
-"If selected, Fill All Holes can automatically connect several closely "
-"located holes, otherwise every hole is filled by itself."
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
 msgstr ""
-"Если включено, «Заполнить все отверстия» может автоматически соединять "
-"несколько близко расположенных отверстий, иначе каждое отверстие заполняется "
-"по отдельности."
+"Произошёл сбой во внешнем коде!\n"
+"Возможная причина — несовместимая версия среды выполнения Zivid\n"
+"Перезапустите приложение"
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+"Среда выполнения Zivid не загружена:\n"
+"%s"
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr "Укажите папку с бинарными файлами Zivid SDK, например \"{}\""
+
+msgid "Use file (.zfc / .zdf)"
+msgstr "Использовать файл (.zfc / .zdf)"
+
+msgid "Zivid file camera (.zfc)"
+msgstr "Файловая камера Zivid (.zfc)"
+
+msgid "Zivid saved frame (.zdf)"
+msgstr "Сохранённый кадр Zivid (.zdf)"
+
+msgid "Build mesh"
+msgstr "Построить меш"
+
+msgid "Import colors"
+msgstr "Импортировать цвета"
+
+msgid "Use capture settings (.yml)"
+msgstr "Использовать настройки съёмки (.yml)"
+
+msgid "Zivid capture settings (.yml)"
+msgstr "Настройки съёмки Zivid (.yml)"
+
+msgid "Capture"
+msgstr "Снимок"
+
+msgid "Import Zivid scan"
+msgstr "Импортировать скан Zivid"
+
+#~ msgid "Forgot your"
+#~ msgstr "Забыли"
+
+#~ msgid "password?"
+#~ msgstr "пароль?"
+
+#~ msgid "Point cloud must have at least 3 points"
+#~ msgstr "Облако точек должно содержать не менее 3 точек"
+
+#~ msgid "Point cloud must have at most 100'000 points"
+#~ msgstr "Облако точек должно содержать не более 100 000 точек"
+
+#~ msgid "Change brush radius in scene"
+#~ msgstr "Изменить радиус кисти на сцене"
+
+#, c++-format
+#~ msgid "Select Primitives by {}"
+#~ msgstr "Выбрать примитивы по {}"
+
+#~ msgid "NONE"
+#~ msgstr "НЕТ"
+
+#, c-format
+#~ msgid "%s+LMB on section plane to pick volume ISO value."
+#~ msgstr "%s+ЛКМ на плоскости сечения для выбора значения ISO объёма."
+
+#, c-format
+#~ msgid ""
+#~ "Hold:\n"
+#~ "NONE - select from previous\n"
+#~ "%s - add to previous\n"
+#~ "Shift - unselect in previous"
+#~ msgstr ""
+#~ "Удерживайте:\n"
+#~ "NONE — выбрать из предыдущего\n"
+#~ "%s — добавить к предыдущему\n"
+#~ "Shift — снять в предыдущем"
 
 #~ msgid "Patch"
 #~ msgstr "Заплатка"

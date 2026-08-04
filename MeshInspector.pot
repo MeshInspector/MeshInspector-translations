@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the MeshInspector package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,10 +114,7 @@ msgstr ""
 msgid "Remember me"
 msgstr ""
 
-msgid "Forgot your"
-msgstr ""
-
-msgid "password?"
+msgid "Forgot your password?"
 msgstr ""
 
 msgid "Need an account?"
@@ -2993,6 +2990,14 @@ msgstr ""
 msgid "Discard"
 msgstr ""
 
+msgid "Auto Connect Holes"
+msgstr ""
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+
 msgid "Fill All Holes"
 msgstr ""
 
@@ -3191,6 +3196,34 @@ msgid "Selects what kind of tunnel loops to search for."
 msgstr ""
 
 msgid "Advanced Select Options"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Outer"
+msgstr ""
+
+msgid "Inner"
+msgstr ""
+
+msgid "Search for all type of loops."
+msgstr ""
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr ""
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr ""
+
+msgid "Loop Type"
+msgstr ""
+
+msgid "Selects what kind of loops to search for."
 msgstr ""
 
 msgid "Max Tunnel Length"
@@ -3661,10 +3694,10 @@ msgstr ""
 msgid "The time spent in making geodesic path from initial path"
 msgstr ""
 
-msgid "Add point to the end of path (the last point is GREEN)"
+msgid "Cannot add points to closed path"
 msgstr ""
 
-msgid "Cannot add points to closed path"
+msgid "Add point to the end of path (the last point is GREEN)"
 msgstr ""
 
 msgid "Move Point"
@@ -6064,6 +6097,47 @@ msgstr ""
 msgid "Nesting: Fix"
 msgstr ""
 
+msgid "No slicestacks found in the file"
+msgstr ""
+
+msgid "Open File..."
+msgstr ""
+
+msgid "Slicestack"
+msgstr ""
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr ""
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr ""
+
+msgid "Intersections"
+msgstr ""
+
+msgid "Bad winding"
+msgstr ""
+
+msgid "Slice Visualization"
+msgstr ""
+
+msgid "Slice"
+msgstr ""
+
+msgid "Correct"
+msgstr ""
+
+msgid "Reversed"
+msgstr ""
+
+msgid "Overlap"
+msgstr ""
+
+msgid "Multi overlap"
+msgstr ""
+
 msgid "Click to open"
 msgstr ""
 
@@ -6179,6 +6253,9 @@ msgid ""
 msgstr ""
 
 msgid "Credits"
+msgstr ""
+
+msgid "Open third-party license notices"
 msgstr ""
 
 msgid "License"
@@ -6950,10 +7027,7 @@ msgstr ""
 msgid "Add Offset-Lines from Points"
 msgstr ""
 
-msgid "Point cloud must have at least 3 points"
-msgstr ""
-
-msgid "Point cloud must have at most 100'000 points"
+msgid "Object must have at least 3 points"
 msgstr ""
 
 msgid ""
@@ -7671,6 +7745,21 @@ msgstr ""
 msgid "Overhang Selection: faces"
 msgstr ""
 
+msgid "Select Primitives by Lasso"
+msgstr ""
+
+msgid "Select Primitives by Rect"
+msgstr ""
+
+msgid "Select Primitives by Polygon"
+msgstr ""
+
+msgid "Select Primitives by Brush"
+msgstr ""
+
+msgid "Select Primitives by Pick"
+msgstr ""
+
 msgid "Lasso"
 msgstr ""
 
@@ -7704,14 +7793,16 @@ msgstr ""
 msgid "Select All Primitives"
 msgstr ""
 
-msgid "Change brush radius in scene"
+msgid "Press"
+msgstr ""
+
+msgid "Change Brush Radius in Scene"
+msgstr ""
+
+msgid "Scroll"
 msgstr ""
 
 msgid "Close Polyline"
-msgstr ""
-
-#, c++-format
-msgid "Select Primitives by {}"
 msgstr ""
 
 msgid "Select Only Visible Triangles"
@@ -7779,7 +7870,7 @@ msgstr ""
 msgid "Default Selection Behavior"
 msgstr ""
 
-msgid "NONE"
+msgid "Hold"
 msgstr ""
 
 msgid "Unselect in Previous"
@@ -7819,6 +7910,15 @@ msgid "Add fillers"
 msgstr ""
 
 msgid "Overheal Mesh"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Load Multiscan"
 msgstr ""
 
 msgid "Place Meshes"
@@ -7995,9 +8095,6 @@ msgid "Lattice Filling"
 msgstr ""
 
 msgid "Filling Mode"
-msgstr ""
-
-msgid "Inner"
 msgstr ""
 
 msgid "Inside"
@@ -8215,19 +8312,19 @@ msgstr ""
 msgid "Hold mouse over section plane to see voxel value in the section point."
 msgstr ""
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
+msgid "Pick Volume ISO Value"
+msgstr ""
+
+msgid "Click"
 msgstr ""
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr ""
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
+msgid "Select from Previous"
+msgstr ""
+
+msgid "Add to Previous"
 msgstr ""
 
 msgid "Reset Active Voxels"
@@ -8446,4 +8543,50 @@ msgid "Rotate scan"
 msgstr ""
 
 msgid "Register scan"
+msgstr ""
+
+msgid "Loading Zivid runtime failed"
+msgstr ""
+
+msgid ""
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
+msgstr ""
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr ""
+
+msgid "Use file (.zfc / .zdf)"
+msgstr ""
+
+msgid "Zivid file camera (.zfc)"
+msgstr ""
+
+msgid "Zivid saved frame (.zdf)"
+msgstr ""
+
+msgid "Build mesh"
+msgstr ""
+
+msgid "Import colors"
+msgstr ""
+
+msgid "Use capture settings (.yml)"
+msgstr ""
+
+msgid "Zivid capture settings (.yml)"
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "Import Zivid scan"
 msgstr ""

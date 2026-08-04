@@ -571,6 +571,16 @@ msgid "Reposition selected objects on top of build plate to fit into it."
 msgstr ""
 "선택한 객체들을 빌드 플레이트 위에 다시 배치하여 안에 들어가도록 합니다."
 
+msgid "Slicestack Diagnostics"
+msgstr "슬라이스스택 진단"
+
+msgid ""
+"Check slices of a 3MF slicestack file for open contours, intersections and "
+"inconsistent winding."
+msgstr ""
+"3MF 슬라이스스택 파일의 슬라이스에서 열린 윤곽, 교차, 일관되지 않은 감기를 확"
+"인합니다."
+
 msgid "Show Dense BBox"
 msgstr "밀착 경계 상자 표시"
 
@@ -722,6 +732,9 @@ msgstr ""
 
 msgid "Aligner Generator"
 msgstr "얼라이너 생성기"
+
+msgid "Nightguards Generator"
+msgstr "나이트가드 생성기"
 
 msgid "Volume Rendering"
 msgstr "볼륨 렌더링"
@@ -1309,6 +1322,12 @@ msgstr "라인 시각화"
 msgid "Test Progress Bar"
 msgstr "진행률 표시줄 테스트"
 
+msgid "Multiscan Load"
+msgstr "멀티스캔 불러오기"
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr "포즈가 지정된 스캔 폴더를 불러와 하나의 포인트 클라우드로 병합합니다."
+
 msgid "Boolean Benchmark"
 msgstr "부울 벤치마크"
 
@@ -1408,8 +1427,8 @@ msgstr "삼각화 디버그"
 msgid "Debugging of object mesh from selected point cloud creation."
 msgstr "선택한 포인트 클라우드로부터 객체 메시를 생성하는 과정을 디버깅합니다."
 
-msgid "Points to Spline"
-msgstr "포인트를 스플라인으로"
+msgid "To Spline"
+msgstr "스플라인으로"
 
 msgid "Creates a smooth line out of ordered points."
 msgstr "순서가 있는 포인트로부터 매끄러운 라인을 생성합니다."
@@ -1749,9 +1768,16 @@ msgid "Toolpath"
 msgstr "공구 경로"
 
 msgctxt "Tab name"
+msgid "Nesting"
+msgstr "네스팅"
+
+msgctxt "Tab name"
 msgid "Experimental"
 msgstr "실험적"
 
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+#~ msgid "Points to Spline"
+#~ msgstr "포인트를 스플라인으로"

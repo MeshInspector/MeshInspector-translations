@@ -1,11 +1,10 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MeshInspector\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: MeshInspector\n"
 
 msgid "Feedback"
 msgstr ""
@@ -466,6 +465,12 @@ msgstr ""
 msgid "Reposition selected objects on top of build plate to fit into it."
 msgstr ""
 
+msgid "Slicestack Diagnostics"
+msgstr ""
+
+msgid "Check slices of a 3MF slicestack file for open contours, intersections and inconsistent winding."
+msgstr ""
+
 msgid "Show Dense BBox"
 msgstr ""
 
@@ -599,6 +604,9 @@ msgid "Teeth segmentation for CBCT scans. Takes a CBCT scan and creates a volume
 msgstr ""
 
 msgid "Aligner Generator"
+msgstr ""
+
+msgid "Nightguards Generator"
 msgstr ""
 
 msgid "Volume Rendering"
@@ -1078,6 +1086,12 @@ msgstr ""
 msgid "Test Progress Bar"
 msgstr ""
 
+msgid "Multiscan Load"
+msgstr ""
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr ""
+
 msgid "Boolean Benchmark"
 msgstr ""
 
@@ -1150,7 +1164,7 @@ msgstr ""
 msgid "Debugging of object mesh from selected point cloud creation."
 msgstr ""
 
-msgid "Points to Spline"
+msgid "To Spline"
 msgstr ""
 
 msgid "Creates a smooth line out of ordered points."
@@ -1451,6 +1465,10 @@ msgstr ""
 
 msgctxt "Tab name"
 msgid "Toolpath"
+msgstr ""
+
+msgctxt "Tab name"
+msgid "Nesting"
 msgstr ""
 
 msgctxt "Tab name"

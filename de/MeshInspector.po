@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -113,11 +113,8 @@ msgstr "Bitte geben Sie Ihr Passwort ein"
 msgid "Remember me"
 msgstr "Angemeldet bleiben"
 
-msgid "Forgot your"
-msgstr "Vergessen Sie Ihr"
-
-msgid "password?"
-msgstr "Passwort?"
+msgid "Forgot your password?"
+msgstr "Passwort vergessen?"
 
 msgid "Need an account?"
 msgstr "Konto benötigt?"
@@ -3286,6 +3283,16 @@ msgstr ""
 msgid "Discard"
 msgstr "Verwerfen"
 
+msgid "Auto Connect Holes"
+msgstr "Löcher automatisch verbinden"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"Wenn ausgewählt, kann „Alle Löcher füllen“ mehrere nahe beieinander liegende "
+"Löcher automatisch verbinden, andernfalls wird jedes Loch einzeln gefüllt."
+
 msgid "Fill All Holes"
 msgstr "Alle Löcher füllen"
 
@@ -3514,6 +3521,40 @@ msgstr "Wählt aus, welche Art von Tunnelschleifen gesucht werden."
 
 msgid "Advanced Select Options"
 msgstr "Erweiterte Auswahloptionen"
+
+msgid "Any"
+msgstr "Beliebiger"
+
+msgid "Outer"
+msgstr "Äußerer"
+
+msgid "Inner"
+msgstr "Innerer"
+
+msgid "Search for all type of loops."
+msgstr "Suche nach allen Arten von Schleifen."
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr ""
+"Suche nach Schleifen, die das Objekt größtenteils umschließen (der "
+"geometrische Mittelpunkt der Schleife liegt innerhalb des Meshs am "
+"durchschnittlichen Schleifenpunkt)."
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr ""
+"Suche nach Schleifen, die einen Tunnel innerhalb des Meshs umschließen (der "
+"geometrische Mittelpunkt der Schleife liegt außerhalb des Meshs am "
+"durchschnittlichen Schleifenpunkt)."
+
+msgid "Loop Type"
+msgstr "Schleifentyp"
+
+msgid "Selects what kind of loops to search for."
+msgstr "Wählt aus, welche Art von Schleifen gesucht werden."
 
 msgid "Max Tunnel Length"
 msgstr "Max. Tunnellänge"
@@ -4058,11 +4099,11 @@ msgstr ""
 "Die Zeit, die für die Erstellung des geodätischen Pfades aus dem Anfangspfad "
 "aufgewendet wurde"
 
-msgid "Add point to the end of path (the last point is GREEN)"
-msgstr "Punkt am Ende des Pfades hinzufügen (der letzte Punkt ist GRÜN)"
-
 msgid "Cannot add points to closed path"
 msgstr "Punkte können einem geschlossenen Pfad nicht hinzugefügt werden"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "Punkt am Ende des Pfades hinzufügen (der letzte Punkt ist GRÜN)"
 
 msgid "Move Point"
 msgstr "Punkt verschieben"
@@ -6842,6 +6883,47 @@ msgstr "An Ebene ausrichten"
 msgid "Nesting: Fix"
 msgstr "Verschachtelung: Reparieren"
 
+msgid "No slicestacks found in the file"
+msgstr "Keine Slicestacks in der Datei gefunden"
+
+msgid "Open File..."
+msgstr "Datei öffnen..."
+
+msgid "Slicestack"
+msgstr "Slicestack"
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr "Alle {} Schnitte bestanden"
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr "{} / {} Schnitte bestanden, {} mit Problemen"
+
+msgid "Intersections"
+msgstr "Überschneidungen"
+
+msgid "Bad winding"
+msgstr "Falscher Umlauf"
+
+msgid "Slice Visualization"
+msgstr "Schnittvisualisierung"
+
+msgid "Slice"
+msgstr "Schnitt"
+
+msgid "Correct"
+msgstr "Korrekt"
+
+msgid "Reversed"
+msgstr "Umgekehrt"
+
+msgid "Overlap"
+msgstr "Überlappung"
+
+msgid "Multi overlap"
+msgstr "Mehrfachüberlappung"
+
 msgid "Click to open"
 msgstr "Klicken zum Öffnen"
 
@@ -6960,6 +7042,9 @@ msgstr ""
 
 msgid "Credits"
 msgstr "Mitwirkende"
+
+msgid "Open third-party license notices"
+msgstr "Lizenzhinweise von Drittanbietern öffnen"
 
 msgid "License"
 msgstr "Lizenz"
@@ -7828,11 +7913,8 @@ msgstr "Punkte zu Linien"
 msgid "Add Offset-Lines from Points"
 msgstr "Versatzlinien aus Punkten hinzufügen"
 
-msgid "Point cloud must have at least 3 points"
-msgstr "Die Punktwolke muss mindestens 3 Punkte haben"
-
-msgid "Point cloud must have at most 100'000 points"
-msgstr "Die Punktwolke darf höchstens 100.000 Punkte haben"
+msgid "Object must have at least 3 points"
+msgstr "Das Objekt muss mindestens 3 Punkte haben"
 
 msgid ""
 "Points will be sampled (added and removed) to reach approximately this "
@@ -8647,6 +8729,21 @@ msgstr "Kleine Überhangartefakte entfernen"
 msgid "Overhang Selection: faces"
 msgstr "Überhangauswahl: Flächen"
 
+msgid "Select Primitives by Lasso"
+msgstr "Primitive mit Lasso auswählen"
+
+msgid "Select Primitives by Rect"
+msgstr "Primitive mit Rechteck auswählen"
+
+msgid "Select Primitives by Polygon"
+msgstr "Primitive mit Polygon auswählen"
+
+msgid "Select Primitives by Brush"
+msgstr "Primitive mit Pinsel auswählen"
+
+msgid "Select Primitives by Pick"
+msgstr "Primitive per Klick auswählen"
+
 msgid "Lasso"
 msgstr "Lasso"
 
@@ -8686,15 +8783,17 @@ msgstr "Ein einzelnes Dreieck/einen einzelnen Punkt durch Mausklick auswählen"
 msgid "Select All Primitives"
 msgstr "Alle Primitive auswählen"
 
-msgid "Change brush radius in scene"
+msgid "Press"
+msgstr "Drücken"
+
+msgid "Change Brush Radius in Scene"
 msgstr "Pinselradius in Szene ändern"
+
+msgid "Scroll"
+msgstr "Scrollen"
 
 msgid "Close Polyline"
 msgstr "Polylinie schließen"
-
-#, c++-format
-msgid "Select Primitives by {}"
-msgstr "Primitive nach {} auswählen"
 
 msgid "Select Only Visible Triangles"
 msgstr "Nur sichtbare Dreiecke auswählen"
@@ -8768,8 +8867,8 @@ msgstr "Standardmäßig Auswahl anhängen, beim Halten Auswahl aktualisieren "
 msgid "Default Selection Behavior"
 msgstr "Standard-Auswahlverhalten"
 
-msgid "NONE"
-msgstr "KEINE"
+msgid "Hold"
+msgstr "Halten"
 
 msgid "Unselect in Previous"
 msgstr "Aus vorheriger entfernen"
@@ -8813,6 +8912,15 @@ msgstr "Füller hinzufügen"
 
 msgid "Overheal Mesh"
 msgstr "Mesh aggressiv reparieren"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Browse"
+msgstr "Durchsuchen"
+
+msgid "Load Multiscan"
+msgstr "Multiscan laden"
 
 msgid "Place Meshes"
 msgstr "Meshes platzieren"
@@ -9001,9 +9109,6 @@ msgstr "Gitterfüllung"
 
 msgid "Filling Mode"
 msgstr "Füllmodus"
-
-msgid "Inner"
-msgstr "Innerer"
 
 msgid "Inside"
 msgstr "Innen"
@@ -9236,27 +9341,22 @@ msgid "Hold mouse over section plane to see voxel value in the section point."
 msgstr ""
 "Maus über die Schnittebene halten, um den Voxelwert am Schnittpunkt zu sehen."
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
-msgstr ""
-"%s+linke Maustaste auf Schnittebene, um den Volumen-ISO-Wert auszuwählen."
+msgid "Pick Volume ISO Value"
+msgstr "Volumen-ISO-Wert auswählen"
+
+msgid "Click"
+msgstr "Klicken"
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr ""
 "Linke Maustaste gedrückt halten, um per Bildschirmlasso aktive Voxel "
 "auszuwählen."
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
-msgstr ""
-"Halten:\n"
-"KEINE – aus vorheriger auswählen\n"
-"%s – zur vorherigen hinzufügen\n"
-"Umschalt – aus vorheriger entfernen"
+msgid "Select from Previous"
+msgstr "Aus vorheriger auswählen"
+
+msgid "Add to Previous"
+msgstr "Zur vorherigen hinzufügen"
 
 msgid "Reset Active Voxels"
 msgstr "Aktive Voxel zurücksetzen"
@@ -9483,15 +9583,96 @@ msgstr "Scan drehen"
 msgid "Register scan"
 msgstr "Scan registrieren"
 
-msgid "Auto Connect Holes"
-msgstr "Löcher automatisch verbinden"
+msgid "Loading Zivid runtime failed"
+msgstr "Laden der Zivid-Runtime fehlgeschlagen"
 
 msgid ""
-"If selected, Fill All Holes can automatically connect several closely "
-"located holes, otherwise every hole is filled by itself."
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
 msgstr ""
-"Wenn ausgewählt, kann „Alle Löcher füllen“ mehrere nahe beieinander liegende "
-"Löcher automatisch verbinden, andernfalls wird jedes Loch einzeln gefüllt."
+"Externer Code ist abgestürzt!\n"
+"Möglicherweise wird dies durch eine inkompatible Version der Zivid-Runtime "
+"verursacht\n"
+"Bitte starten Sie die Anwendung neu"
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+"Zivid-Runtime nicht geladen:\n"
+"%s"
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr "Legen Sie den Binärordner des Zivid SDK fest, z. B. \"{}\""
+
+msgid "Use file (.zfc / .zdf)"
+msgstr "Datei verwenden (.zfc / .zdf)"
+
+msgid "Zivid file camera (.zfc)"
+msgstr "Zivid-Dateikamera (.zfc)"
+
+msgid "Zivid saved frame (.zdf)"
+msgstr "Gespeichertes Zivid-Frame (.zdf)"
+
+msgid "Build mesh"
+msgstr "Mesh erstellen"
+
+msgid "Import colors"
+msgstr "Farben importieren"
+
+msgid "Use capture settings (.yml)"
+msgstr "Aufnahmeeinstellungen verwenden (.yml)"
+
+msgid "Zivid capture settings (.yml)"
+msgstr "Zivid-Aufnahmeeinstellungen (.yml)"
+
+msgid "Capture"
+msgstr "Aufnehmen"
+
+msgid "Import Zivid scan"
+msgstr "Zivid-Scan importieren"
+
+#~ msgid "Forgot your"
+#~ msgstr "Vergessen Sie Ihr"
+
+#~ msgid "password?"
+#~ msgstr "Passwort?"
+
+#~ msgid "Point cloud must have at least 3 points"
+#~ msgstr "Die Punktwolke muss mindestens 3 Punkte haben"
+
+#~ msgid "Point cloud must have at most 100'000 points"
+#~ msgstr "Die Punktwolke darf höchstens 100.000 Punkte haben"
+
+#~ msgid "Change brush radius in scene"
+#~ msgstr "Pinselradius in Szene ändern"
+
+#, c++-format
+#~ msgid "Select Primitives by {}"
+#~ msgstr "Primitive nach {} auswählen"
+
+#~ msgid "NONE"
+#~ msgstr "KEINE"
+
+#, c-format
+#~ msgid "%s+LMB on section plane to pick volume ISO value."
+#~ msgstr ""
+#~ "%s+linke Maustaste auf Schnittebene, um den Volumen-ISO-Wert auszuwählen."
+
+#, c-format
+#~ msgid ""
+#~ "Hold:\n"
+#~ "NONE - select from previous\n"
+#~ "%s - add to previous\n"
+#~ "Shift - unselect in previous"
+#~ msgstr ""
+#~ "Halten:\n"
+#~ "KEINE – aus vorheriger auswählen\n"
+#~ "%s – zur vorherigen hinzufügen\n"
+#~ "Umschalt – aus vorheriger entfernen"
 
 #~ msgid "Patch"
 #~ msgstr "Patch"

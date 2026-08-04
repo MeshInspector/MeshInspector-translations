@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -113,11 +113,8 @@ msgstr "请输入您的密码"
 msgid "Remember me"
 msgstr "记住我"
 
-msgid "Forgot your"
-msgstr "忘记您的"
-
-msgid "password?"
-msgstr "密码？"
+msgid "Forgot your password?"
+msgstr "忘记您的密码？"
 
 msgid "Need an account?"
 msgstr "需要账户？"
@@ -3071,6 +3068,15 @@ msgstr ""
 msgid "Discard"
 msgstr "丢弃"
 
+msgid "Auto Connect Holes"
+msgstr "自动连接孔洞"
+
+msgid ""
+"If selected, Fill All Holes can automatically connect several closely "
+"located holes, otherwise every hole is filled by itself."
+msgstr ""
+"如果选中，“填充所有孔洞”可以自动连接多个相邻的孔洞，否则每个孔洞将单独填充。"
+
 msgid "Fill All Holes"
 msgstr "填充所有孔洞"
 
@@ -3274,6 +3280,34 @@ msgstr "选择要搜索的隧道环类型。"
 
 msgid "Advanced Select Options"
 msgstr "高级选择选项"
+
+msgid "Any"
+msgstr "任意"
+
+msgid "Outer"
+msgstr "外部"
+
+msgid "Inner"
+msgstr "内部"
+
+msgid "Search for all type of loops."
+msgstr "搜索所有类型的环。"
+
+msgid ""
+"Search for the loops that mostly surround the object (loop's geometrical "
+"center is located inside of mesh at an average loop's point)."
+msgstr "搜索大部分环绕对象的环（环的几何中心在环的平均点处位于网格内部）。"
+
+msgid ""
+"Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
+"center is located outside of mesh at an average loop's point)."
+msgstr "搜索环绕网格内部隧道的环（环的几何中心在环的平均点处位于网格外部）。"
+
+msgid "Loop Type"
+msgstr "环类型"
+
+msgid "Selects what kind of loops to search for."
+msgstr "选择要搜索的环类型。"
 
 msgid "Max Tunnel Length"
 msgstr "最大隧道长度"
@@ -3757,11 +3791,11 @@ msgstr "生成测地线耗时"
 msgid "The time spent in making geodesic path from initial path"
 msgstr "从初始路径生成测地路径所用时间"
 
-msgid "Add point to the end of path (the last point is GREEN)"
-msgstr "在路径末尾添加点（最后一点是绿色）"
-
 msgid "Cannot add points to closed path"
 msgstr "无法向闭合路径添加点"
+
+msgid "Add point to the end of path (the last point is GREEN)"
+msgstr "在路径末尾添加点（最后一点是绿色）"
 
 msgid "Move Point"
 msgstr "移动点"
@@ -6260,6 +6294,47 @@ msgstr "对齐到平面"
 msgid "Nesting: Fix"
 msgstr "排版：修复"
 
+msgid "No slicestacks found in the file"
+msgstr "文件中未找到切片堆栈"
+
+msgid "Open File..."
+msgstr "打开文件..."
+
+msgid "Slicestack"
+msgstr "切片堆栈"
+
+#, c++-format
+msgid "All {} slices passed"
+msgstr "全部 {} 个切片均通过"
+
+#, c++-format
+msgid "{} / {} slices passed, {} with issues"
+msgstr "{} / {} 个切片通过，{} 个存在问题"
+
+msgid "Intersections"
+msgstr "交点"
+
+msgid "Bad winding"
+msgstr "错误环绕"
+
+msgid "Slice Visualization"
+msgstr "切片可视化"
+
+msgid "Slice"
+msgstr "切片"
+
+msgid "Correct"
+msgstr "正确"
+
+msgid "Reversed"
+msgstr "反向"
+
+msgid "Overlap"
+msgstr "重叠"
+
+msgid "Multi overlap"
+msgstr "多重重叠"
+
 msgid "Click to open"
 msgstr "单击打开"
 
@@ -6378,6 +6453,9 @@ msgstr ""
 
 msgid "Credits"
 msgstr "致谢"
+
+msgid "Open third-party license notices"
+msgstr "打开第三方许可声明"
 
 msgid "License"
 msgstr "许可证"
@@ -7180,11 +7258,8 @@ msgstr "点转线"
 msgid "Add Offset-Lines from Points"
 msgstr "从点添加偏移线"
 
-msgid "Point cloud must have at least 3 points"
-msgstr "点云必须至少有 3 个点"
-
-msgid "Point cloud must have at most 100'000 points"
-msgstr "点云最多有 100'000 个点"
+msgid "Object must have at least 3 points"
+msgstr "对象必须至少有 3 个点"
 
 msgid ""
 "Points will be sampled (added and removed) to reach approximately this "
@@ -7927,6 +8002,21 @@ msgstr "移除小的悬垂瑕疵"
 msgid "Overhang Selection: faces"
 msgstr "悬垂选择：面"
 
+msgid "Select Primitives by Lasso"
+msgstr "按套索选择图元"
+
+msgid "Select Primitives by Rect"
+msgstr "按矩形选择图元"
+
+msgid "Select Primitives by Polygon"
+msgstr "按多边形选择图元"
+
+msgid "Select Primitives by Brush"
+msgstr "按笔刷选择图元"
+
+msgid "Select Primitives by Pick"
+msgstr "按拾取选择图元"
+
 msgid "Lasso"
 msgstr "套索"
 
@@ -7960,15 +8050,17 @@ msgstr "通过鼠标单击选择单个三角形/点"
 msgid "Select All Primitives"
 msgstr "选择所有图元"
 
-msgid "Change brush radius in scene"
-msgstr "更改场景中的笔刷半径"
+msgid "Press"
+msgstr "按下"
+
+msgid "Change Brush Radius in Scene"
+msgstr "在场景中更改笔刷半径"
+
+msgid "Scroll"
+msgstr "滚动"
 
 msgid "Close Polyline"
 msgstr "闭合折线"
-
-#, c++-format
-msgid "Select Primitives by {}"
-msgstr "按 {} 选择图元"
 
 msgid "Select Only Visible Triangles"
 msgstr "仅选择可见三角形"
@@ -8035,8 +8127,8 @@ msgstr "默认追加选区，按住时更新选区 "
 msgid "Default Selection Behavior"
 msgstr "默认选择行为"
 
-msgid "NONE"
-msgstr "无"
+msgid "Hold"
+msgstr "按住"
 
 msgid "Unselect in Previous"
 msgstr "在先前的中取消选择"
@@ -8076,6 +8168,15 @@ msgstr "添加填充物"
 
 msgid "Overheal Mesh"
 msgstr "强力修复网格"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Load Multiscan"
+msgstr "加载多重扫描"
 
 msgid "Place Meshes"
 msgstr "放置网格"
@@ -8253,9 +8354,6 @@ msgstr "晶格填充"
 
 msgid "Filling Mode"
 msgstr "填充模式"
-
-msgid "Inner"
-msgstr "内部"
 
 msgid "Inside"
 msgstr "内部"
@@ -8474,24 +8572,20 @@ msgstr "剪切体"
 msgid "Hold mouse over section plane to see voxel value in the section point."
 msgstr "将鼠标悬停在截面上以查看截面点处的体素值。"
 
-#, c-format
-msgid "%s+LMB on section plane to pick volume ISO value."
-msgstr "在截面上 %s+鼠标左键 拾取体的 ISO 值。"
+msgid "Pick Volume ISO Value"
+msgstr "拾取体 ISO 值"
+
+msgid "Click"
+msgstr "单击"
 
 msgid "Press and hold LMB to make screen lasso to select active voxels."
 msgstr "按住鼠标左键以在屏幕上套索选择活动体素。"
 
-#, c-format
-msgid ""
-"Hold:\n"
-"NONE - select from previous\n"
-"%s - add to previous\n"
-"Shift - unselect in previous"
-msgstr ""
-"按住：\n"
-"无 - 从先前的中选择\n"
-"%s - 添加到先前的\n"
-"Shift - 在先前的中取消选择"
+msgid "Select from Previous"
+msgstr "从先前的选区中选择"
+
+msgid "Add to Previous"
+msgstr "添加到先前的选区"
 
 msgid "Reset Active Voxels"
 msgstr "重置活动体素"
@@ -8713,13 +8807,94 @@ msgstr "旋转扫描"
 msgid "Register scan"
 msgstr "配准扫描"
 
-msgid "Auto Connect Holes"
-msgstr "自动连接孔洞"
+msgid "Loading Zivid runtime failed"
+msgstr "加载 Zivid 运行时失败"
 
 msgid ""
-"If selected, Fill All Holes can automatically connect several closely "
-"located holes, otherwise every hole is filled by itself."
-msgstr "如果选中，“填充所有孔洞”可以自动连接多个相邻的孔洞，否则每个孔洞将单独填充。"
+"External code crashed!\n"
+"It may be caused by an incompatible Zivid runtime version\n"
+"Please restart the application"
+msgstr ""
+"外部代码崩溃！\n"
+"可能由不兼容的 Zivid 运行时版本导致\n"
+"请重新启动应用程序"
+
+#, c-format
+msgid ""
+"Zivid runtime not loaded:\n"
+"%s"
+msgstr ""
+"Zivid 运行时未加载：\n"
+"%s"
+
+#, c++-format
+msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+msgstr "设置 Zivid SDK 二进制文件夹，例如 \"{}\""
+
+msgid "Use file (.zfc / .zdf)"
+msgstr "使用文件 (.zfc / .zdf)"
+
+msgid "Zivid file camera (.zfc)"
+msgstr "Zivid 文件相机 (.zfc)"
+
+msgid "Zivid saved frame (.zdf)"
+msgstr "Zivid 保存的帧 (.zdf)"
+
+msgid "Build mesh"
+msgstr "构建网格"
+
+msgid "Import colors"
+msgstr "导入颜色"
+
+msgid "Use capture settings (.yml)"
+msgstr "使用采集设置 (.yml)"
+
+msgid "Zivid capture settings (.yml)"
+msgstr "Zivid 采集设置 (.yml)"
+
+msgid "Capture"
+msgstr "采集"
+
+msgid "Import Zivid scan"
+msgstr "导入 Zivid 扫描"
+
+#~ msgid "Forgot your"
+#~ msgstr "忘记您的"
+
+#~ msgid "password?"
+#~ msgstr "密码？"
+
+#~ msgid "Point cloud must have at least 3 points"
+#~ msgstr "点云必须至少有 3 个点"
+
+#~ msgid "Point cloud must have at most 100'000 points"
+#~ msgstr "点云最多有 100'000 个点"
+
+#~ msgid "Change brush radius in scene"
+#~ msgstr "更改场景中的笔刷半径"
+
+#, c++-format
+#~ msgid "Select Primitives by {}"
+#~ msgstr "按 {} 选择图元"
+
+#~ msgid "NONE"
+#~ msgstr "无"
+
+#, c-format
+#~ msgid "%s+LMB on section plane to pick volume ISO value."
+#~ msgstr "在截面上 %s+鼠标左键 拾取体的 ISO 值。"
+
+#, c-format
+#~ msgid ""
+#~ "Hold:\n"
+#~ "NONE - select from previous\n"
+#~ "%s - add to previous\n"
+#~ "Shift - unselect in previous"
+#~ msgstr ""
+#~ "按住：\n"
+#~ "无 - 从先前的中选择\n"
+#~ "%s - 添加到先前的\n"
+#~ "Shift - 在先前的中取消选择"
 
 #~ msgid "Patch"
 #~ msgstr "补丁"

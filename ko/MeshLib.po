@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -544,7 +544,7 @@ msgid "Operation"
 msgstr "연산"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:102
-#: source/MRViewer/MRRibbonMenu.cpp:2115
+#: source/MRViewer/MRRibbonMenu.cpp:2116
 msgid "Apply"
 msgstr "적용"
 
@@ -1126,7 +1126,7 @@ msgstr "스왑된 프레임"
 msgid "FPS"
 msgstr "FPS"
 
-#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
+#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2123
 #: source/MRViewer/MRViewerSettingsPlugin.cpp:1030
 msgid "Reset"
 msgstr "재설정"
@@ -1669,7 +1669,7 @@ msgstr "평행 이동"
 msgid "Manual Change Transform"
 msgstr "수동 변환 변경"
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1902
+#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1903
 msgid "Transform"
 msgstr "변환"
 
@@ -1727,64 +1727,64 @@ msgstr "취소 중..."
 msgid "Operation is in progress, please wait..."
 msgstr "작업이 진행 중입니다. 잠시 기다리세요..."
 
-#: source/MRViewer/MRRibbonMenu.cpp:319
+#: source/MRViewer/MRRibbonMenu.cpp:320
 msgid "Unpin"
 msgstr "고정 해제"
 
-#: source/MRViewer/MRRibbonMenu.cpp:332
+#: source/MRViewer/MRRibbonMenu.cpp:333
 msgid "Pin"
 msgstr "고정"
 
-#: source/MRViewer/MRRibbonMenu.cpp:389
+#: source/MRViewer/MRRibbonMenu.cpp:390
 msgid "Open help page"
 msgstr "도움말 페이지 열기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:414
+#: source/MRViewer/MRRibbonMenu.cpp:415
 msgid "Change the language"
 msgstr "언어 변경"
 
-#: source/MRViewer/MRRibbonMenu.cpp:959
+#: source/MRViewer/MRRibbonMenu.cpp:960
 msgid "Focus"
 msgstr "포커스"
 
-#: source/MRViewer/MRRibbonMenu.cpp:980
+#: source/MRViewer/MRRibbonMenu.cpp:981
 #: source/MRViewer/MRUISaveChangesPopup.h:18
 msgid "Close"
 msgstr "닫기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1041 source/MRViewer/MRRibbonMenu.cpp:1048
+#: source/MRViewer/MRRibbonMenu.cpp:1042 source/MRViewer/MRRibbonMenu.cpp:1049
 msgid "Group"
 msgstr "그룹화"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1075 source/MRViewer/MRRibbonMenu.cpp:1083
+#: source/MRViewer/MRRibbonMenu.cpp:1076 source/MRViewer/MRRibbonMenu.cpp:1084
 msgid "Ungroup"
 msgstr "그룹 해제"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1113 source/MRViewer/MRRibbonMenu.cpp:1182
+#: source/MRViewer/MRRibbonMenu.cpp:1114 source/MRViewer/MRRibbonMenu.cpp:1183
 msgid "Clone"
 msgstr "복제"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1148 source/MRViewer/MRRibbonMenu.cpp:1240
+#: source/MRViewer/MRRibbonMenu.cpp:1149 source/MRViewer/MRRibbonMenu.cpp:1241
 msgid "Clone Selection"
 msgstr "선택 항목 복제"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1202
+#: source/MRViewer/MRRibbonMenu.cpp:1203
 msgid "Select Subtree"
 msgstr "하위 트리 선택"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1270 source/MRViewer/MRRibbonMenu.cpp:1273
+#: source/MRViewer/MRRibbonMenu.cpp:1271 source/MRViewer/MRRibbonMenu.cpp:1274
 msgid "Combine Subtree"
 msgstr "하위 트리 결합"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1549
+#: source/MRViewer/MRRibbonMenu.cpp:1550
 msgid "Unable to close this plugin"
 msgstr "이 플러그인을 닫을 수 없습니다"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1572 source/MRViewer/MRRibbonMenu.cpp:1594
+#: source/MRViewer/MRRibbonMenu.cpp:1573 source/MRViewer/MRRibbonMenu.cpp:1595
 msgid "Open Settings"
 msgstr "설정 열기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1573
+#: source/MRViewer/MRRibbonMenu.cpp:1574
 msgid ""
 "Unable to activate this tool because another blocking tool is already "
 "active.\n"
@@ -1793,7 +1793,7 @@ msgstr ""
 "이미 다른 차단 도구가 활성화되어 있어 이 도구를 활성화할 수 없습니다.\n"
 "설정에서 변경할 수 있습니다."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1595
+#: source/MRViewer/MRRibbonMenu.cpp:1596
 msgid ""
 "That tool was closed due to other tool start.\n"
 "It can be changed in the Settings."
@@ -1801,7 +1801,7 @@ msgstr ""
 "다른 도구가 시작되어 해당 도구가 닫혔습니다.\n"
 "설정에서 변경할 수 있습니다."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1619
+#: source/MRViewer/MRRibbonMenu.cpp:1620
 msgid ""
 "Camera operations that are controlled by left mouse button may not work "
 "while this tool is active"
@@ -1809,126 +1809,130 @@ msgstr ""
 "이 도구가 활성화되어 있는 동안 마우스 왼쪽 버튼으로 제어되는 카메라 작업이 작"
 "동하지 않을 수 있습니다"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1621
+#: source/MRViewer/MRRibbonMenu.cpp:1622
 #, c++-format
 msgid "Hold {} additionally to control camera"
 msgstr "카메라를 제어하려면 추가로 {}을(를) 누르세요"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1927
+#: source/MRViewer/MRRibbonMenu.cpp:1928
 msgid "Open Transform Data context menu."
 msgstr "변환 데이터 컨텍스트 메뉴를 엽니다."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1943
+#: source/MRViewer/MRRibbonMenu.cpp:1944
 msgid "Reset Transform"
 msgstr "변환 재설정"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1947 source/MRViewer/MRRibbonMenu.cpp:2127
+#: source/MRViewer/MRRibbonMenu.cpp:1948 source/MRViewer/MRRibbonMenu.cpp:2128
 msgid "Resets transform value to identity."
 msgstr "변환 값을 단위 변환으로 재설정합니다."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1963 source/MRViewer/MRRibbonMenu.cpp:2120
+#: source/MRViewer/MRRibbonMenu.cpp:1964 source/MRViewer/MRRibbonMenu.cpp:2121
 msgid "Transforms object and resets transform value to identity."
 msgstr "객체를 변환하고 변환 값을 단위 변환으로 재설정합니다."
 
-#: source/MRViewer/MRRibbonMenu.cpp:2023
+#: source/MRViewer/MRRibbonMenu.cpp:2024
 msgid "Transform Data"
 msgstr "변환 데이터"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2027
+#: source/MRViewer/MRRibbonMenu.cpp:2028
 msgid "Copy"
 msgstr "복사"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2051
+#: source/MRViewer/MRRibbonMenu.cpp:2052
 msgid "Paste"
 msgstr "붙여넣기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2053
+#: source/MRViewer/MRRibbonMenu.cpp:2054
 msgid "Paste Transform"
 msgstr "변환 붙여넣기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2061
+#: source/MRViewer/MRRibbonMenu.cpp:2062
 msgid "Save to file"
 msgstr "파일로 저장"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2082
+#: source/MRViewer/MRRibbonMenu.cpp:2083
 msgid "Load from file"
 msgstr "파일에서 불러오기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2092
+#: source/MRViewer/MRRibbonMenu.cpp:2093
 msgid "Load Transform from File"
 msgstr "파일에서 변환 불러오기"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2097 source/MRViewer/MRRibbonMenu.cpp:2102
+#: source/MRViewer/MRRibbonMenu.cpp:2098 source/MRViewer/MRRibbonMenu.cpp:2103
 msgid "Cannot parse transform"
 msgstr "변환을 분석할 수 없습니다"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2124
+#: source/MRViewer/MRRibbonMenu.cpp:2125
 msgid "Reset Transform (context menu)"
 msgstr "변환 재설정 (컨텍스트 메뉴)"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2166
+#: source/MRViewer/MRRibbonMenu.cpp:2167
 msgid "Toggle selected objects visibility"
 msgstr "선택된 객체의 가시성 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2183
+#: source/MRViewer/MRRibbonMenu.cpp:2184
 msgid "Show this help with hot keys"
 msgstr "단축키와 함께 이 도움말 표시"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2187
+#: source/MRViewer/MRRibbonMenu.cpp:2188
 msgid "Toggle statistics window"
 msgstr "통계 창 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2191
+#: source/MRViewer/MRRibbonMenu.cpp:2192
 msgid "Toggle shading of selected objects"
 msgstr "선택된 객체의 음영 처리 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2199
+#: source/MRViewer/MRRibbonMenu.cpp:2200
 msgid "Search plugin by name or description"
 msgstr "이름 또는 설명으로 플러그인 검색"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2204
+#: source/MRViewer/MRRibbonMenu.cpp:2205
 msgid "Toggle edges on selected meshes"
 msgstr "선택된 메시의 가장자리 표시 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2212
+#: source/MRViewer/MRRibbonMenu.cpp:2213
 msgid "Toggle Orthographic/Perspective View"
 msgstr "직교/원근 뷰 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2217
+#: source/MRViewer/MRRibbonMenu.cpp:2218
 msgid "Toggle faces on selected meshes"
 msgstr "선택된 메시의 면 표시 전환"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2227
+#: source/MRViewer/MRRibbonMenu.cpp:2228
 msgid "Select next object"
 msgstr "다음 객체 선택"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2231
+#: source/MRViewer/MRRibbonMenu.cpp:2232
 msgid "Add next object to selection"
 msgstr "다음 객체를 선택에 추가"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2235
+#: source/MRViewer/MRRibbonMenu.cpp:2236
 msgid "Select previous object"
 msgstr "이전 객체 선택"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2239
+#: source/MRViewer/MRRibbonMenu.cpp:2240
 msgid "Add previous object to selection"
 msgstr "이전 객체를 선택에 추가"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2243
+#: source/MRViewer/MRRibbonMenu.cpp:2244
 msgid "Ribbon Scene Select all"
 msgstr "리본 장면 모두 선택"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2247
+#: source/MRViewer/MRRibbonMenu.cpp:2248
 msgid "Ribbon Scene Show only previous"
 msgstr "리본 장면 이전 항목만 표시"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2251
+#: source/MRViewer/MRRibbonMenu.cpp:2252
 msgid "Ribbon Scene Show only next"
 msgstr "리본 장면 다음 항목만 표시"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2339
+#: source/MRViewer/MRRibbonMenu.cpp:2340
 msgid "Hotkeys"
 msgstr "단축키"
+
+#: source/MRViewer/MRRibbonMenuSearch.cpp:160
+msgid "Extended Search"
+msgstr "확장 검색"
 
 #: source/MRViewer/MRSaveOnClose.cpp:33 source/MRViewer/MRSaveOnClose.cpp:70
 msgid "Application Close"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-11 08:36+0200\n"
+"POT-Creation-Date: 2026-08-04 21:42+0200\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -548,7 +548,7 @@ msgid "Operation"
 msgstr "Operazione"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:102
-#: source/MRViewer/MRRibbonMenu.cpp:2115
+#: source/MRViewer/MRRibbonMenu.cpp:2116
 msgid "Apply"
 msgstr "Applica"
 
@@ -1135,7 +1135,7 @@ msgstr "Frame scambiati"
 msgid "FPS"
 msgstr "FPS"
 
-#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
+#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2123
 #: source/MRViewer/MRViewerSettingsPlugin.cpp:1030
 msgid "Reset"
 msgstr "Reimposta"
@@ -1694,7 +1694,7 @@ msgstr "Traslazione"
 msgid "Manual Change Transform"
 msgstr "Modifica trasformazione manuale"
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1902
+#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1903
 msgid "Transform"
 msgstr "Trasformazione"
 
@@ -1752,64 +1752,64 @@ msgstr "Annullamento in corso..."
 msgid "Operation is in progress, please wait..."
 msgstr "Operazione in corso, attendere..."
 
-#: source/MRViewer/MRRibbonMenu.cpp:319
+#: source/MRViewer/MRRibbonMenu.cpp:320
 msgid "Unpin"
 msgstr "Sblocca"
 
-#: source/MRViewer/MRRibbonMenu.cpp:332
+#: source/MRViewer/MRRibbonMenu.cpp:333
 msgid "Pin"
 msgstr "Fissa"
 
-#: source/MRViewer/MRRibbonMenu.cpp:389
+#: source/MRViewer/MRRibbonMenu.cpp:390
 msgid "Open help page"
 msgstr "Apri pagina di aiuto"
 
-#: source/MRViewer/MRRibbonMenu.cpp:414
+#: source/MRViewer/MRRibbonMenu.cpp:415
 msgid "Change the language"
 msgstr "Cambia la lingua"
 
-#: source/MRViewer/MRRibbonMenu.cpp:959
+#: source/MRViewer/MRRibbonMenu.cpp:960
 msgid "Focus"
 msgstr "Focus"
 
-#: source/MRViewer/MRRibbonMenu.cpp:980
+#: source/MRViewer/MRRibbonMenu.cpp:981
 #: source/MRViewer/MRUISaveChangesPopup.h:18
 msgid "Close"
 msgstr "Chiudi"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1041 source/MRViewer/MRRibbonMenu.cpp:1048
+#: source/MRViewer/MRRibbonMenu.cpp:1042 source/MRViewer/MRRibbonMenu.cpp:1049
 msgid "Group"
 msgstr "Raggruppa"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1075 source/MRViewer/MRRibbonMenu.cpp:1083
+#: source/MRViewer/MRRibbonMenu.cpp:1076 source/MRViewer/MRRibbonMenu.cpp:1084
 msgid "Ungroup"
 msgstr "Separa gruppo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1113 source/MRViewer/MRRibbonMenu.cpp:1182
+#: source/MRViewer/MRRibbonMenu.cpp:1114 source/MRViewer/MRRibbonMenu.cpp:1183
 msgid "Clone"
 msgstr "Clona"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1148 source/MRViewer/MRRibbonMenu.cpp:1240
+#: source/MRViewer/MRRibbonMenu.cpp:1149 source/MRViewer/MRRibbonMenu.cpp:1241
 msgid "Clone Selection"
 msgstr "Clona selezione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1202
+#: source/MRViewer/MRRibbonMenu.cpp:1203
 msgid "Select Subtree"
 msgstr "Seleziona sottoalbero"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1270 source/MRViewer/MRRibbonMenu.cpp:1273
+#: source/MRViewer/MRRibbonMenu.cpp:1271 source/MRViewer/MRRibbonMenu.cpp:1274
 msgid "Combine Subtree"
 msgstr "Combina sottoalbero"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1549
+#: source/MRViewer/MRRibbonMenu.cpp:1550
 msgid "Unable to close this plugin"
 msgstr "Impossibile chiudere questo plugin"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1572 source/MRViewer/MRRibbonMenu.cpp:1594
+#: source/MRViewer/MRRibbonMenu.cpp:1573 source/MRViewer/MRRibbonMenu.cpp:1595
 msgid "Open Settings"
 msgstr "Apri impostazioni"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1573
+#: source/MRViewer/MRRibbonMenu.cpp:1574
 msgid ""
 "Unable to activate this tool because another blocking tool is already "
 "active.\n"
@@ -1819,7 +1819,7 @@ msgstr ""
 "già attivo.\n"
 "Può essere modificato nelle impostazioni."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1595
+#: source/MRViewer/MRRibbonMenu.cpp:1596
 msgid ""
 "That tool was closed due to other tool start.\n"
 "It can be changed in the Settings."
@@ -1827,7 +1827,7 @@ msgstr ""
 "Quello strumento è stato chiuso a causa dell'avvio di un altro strumento.\n"
 "Può essere modificato nelle impostazioni."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1619
+#: source/MRViewer/MRRibbonMenu.cpp:1620
 msgid ""
 "Camera operations that are controlled by left mouse button may not work "
 "while this tool is active"
@@ -1835,127 +1835,131 @@ msgstr ""
 "Le operazioni della camera controllate dal pulsante sinistro del mouse "
 "potrebbero non funzionare mentre questo strumento è attivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1621
+#: source/MRViewer/MRRibbonMenu.cpp:1622
 #, c++-format
 msgid "Hold {} additionally to control camera"
 msgstr "Tieni premuto {} in aggiunta per controllare la camera"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1927
+#: source/MRViewer/MRRibbonMenu.cpp:1928
 msgid "Open Transform Data context menu."
 msgstr "Apri il menu contestuale dei dati di trasformazione."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1943
+#: source/MRViewer/MRRibbonMenu.cpp:1944
 msgid "Reset Transform"
 msgstr "Reimposta trasformazione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1947 source/MRViewer/MRRibbonMenu.cpp:2127
+#: source/MRViewer/MRRibbonMenu.cpp:1948 source/MRViewer/MRRibbonMenu.cpp:2128
 msgid "Resets transform value to identity."
 msgstr "Reimposta il valore della trasformazione all'identità."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1963 source/MRViewer/MRRibbonMenu.cpp:2120
+#: source/MRViewer/MRRibbonMenu.cpp:1964 source/MRViewer/MRRibbonMenu.cpp:2121
 msgid "Transforms object and resets transform value to identity."
 msgstr ""
 "Trasforma l'oggetto e reimposta il valore della trasformazione all'identità."
 
-#: source/MRViewer/MRRibbonMenu.cpp:2023
+#: source/MRViewer/MRRibbonMenu.cpp:2024
 msgid "Transform Data"
 msgstr "Dati di trasformazione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2027
+#: source/MRViewer/MRRibbonMenu.cpp:2028
 msgid "Copy"
 msgstr "Copia"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2051
+#: source/MRViewer/MRRibbonMenu.cpp:2052
 msgid "Paste"
 msgstr "Incolla"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2053
+#: source/MRViewer/MRRibbonMenu.cpp:2054
 msgid "Paste Transform"
 msgstr "Incolla trasformazione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2061
+#: source/MRViewer/MRRibbonMenu.cpp:2062
 msgid "Save to file"
 msgstr "Salva su file"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2082
+#: source/MRViewer/MRRibbonMenu.cpp:2083
 msgid "Load from file"
 msgstr "Carica da file"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2092
+#: source/MRViewer/MRRibbonMenu.cpp:2093
 msgid "Load Transform from File"
 msgstr "Carica trasformazione da file"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2097 source/MRViewer/MRRibbonMenu.cpp:2102
+#: source/MRViewer/MRRibbonMenu.cpp:2098 source/MRViewer/MRRibbonMenu.cpp:2103
 msgid "Cannot parse transform"
 msgstr "Impossibile analizzare la trasformazione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2124
+#: source/MRViewer/MRRibbonMenu.cpp:2125
 msgid "Reset Transform (context menu)"
 msgstr "Reimposta trasformazione (menu contestuale)"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2166
+#: source/MRViewer/MRRibbonMenu.cpp:2167
 msgid "Toggle selected objects visibility"
 msgstr "Attiva/disattiva la visibilità degli oggetti selezionati"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2183
+#: source/MRViewer/MRRibbonMenu.cpp:2184
 msgid "Show this help with hot keys"
 msgstr "Mostra questo aiuto con le scorciatoie"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2187
+#: source/MRViewer/MRRibbonMenu.cpp:2188
 msgid "Toggle statistics window"
 msgstr "Attiva/disattiva finestra statistiche"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2191
+#: source/MRViewer/MRRibbonMenu.cpp:2192
 msgid "Toggle shading of selected objects"
 msgstr "Attiva/disattiva ombreggiatura degli oggetti selezionati"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2199
+#: source/MRViewer/MRRibbonMenu.cpp:2200
 msgid "Search plugin by name or description"
 msgstr "Cerca plugin per nome o descrizione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2204
+#: source/MRViewer/MRRibbonMenu.cpp:2205
 msgid "Toggle edges on selected meshes"
 msgstr "Attiva/disattiva spigoli sulle mesh selezionate"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2212
+#: source/MRViewer/MRRibbonMenu.cpp:2213
 msgid "Toggle Orthographic/Perspective View"
 msgstr "Attiva/disattiva vista ortografica/prospettica"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2217
+#: source/MRViewer/MRRibbonMenu.cpp:2218
 msgid "Toggle faces on selected meshes"
 msgstr "Attiva/disattiva facce sulle mesh selezionate"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2227
+#: source/MRViewer/MRRibbonMenu.cpp:2228
 msgid "Select next object"
 msgstr "Seleziona oggetto successivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2231
+#: source/MRViewer/MRRibbonMenu.cpp:2232
 msgid "Add next object to selection"
 msgstr "Aggiungi oggetto successivo alla selezione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2235
+#: source/MRViewer/MRRibbonMenu.cpp:2236
 msgid "Select previous object"
 msgstr "Seleziona oggetto precedente"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2239
+#: source/MRViewer/MRRibbonMenu.cpp:2240
 msgid "Add previous object to selection"
 msgstr "Aggiungi oggetto precedente alla selezione"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2243
+#: source/MRViewer/MRRibbonMenu.cpp:2244
 msgid "Ribbon Scene Select all"
 msgstr "Scena ribbon Seleziona tutto"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2247
+#: source/MRViewer/MRRibbonMenu.cpp:2248
 msgid "Ribbon Scene Show only previous"
 msgstr "Scena ribbon Mostra solo il precedente"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2251
+#: source/MRViewer/MRRibbonMenu.cpp:2252
 msgid "Ribbon Scene Show only next"
 msgstr "Scena ribbon Mostra solo il successivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2339
+#: source/MRViewer/MRRibbonMenu.cpp:2340
 msgid "Hotkeys"
 msgstr "Scorciatoie"
+
+#: source/MRViewer/MRRibbonMenuSearch.cpp:160
+msgid "Extended Search"
+msgstr "Ricerca estesa"
 
 #: source/MRViewer/MRSaveOnClose.cpp:33 source/MRViewer/MRSaveOnClose.cpp:70
 msgid "Application Close"

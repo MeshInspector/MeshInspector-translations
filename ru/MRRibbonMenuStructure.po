@@ -604,6 +604,16 @@ msgstr ""
 "Переупорядочивает выбранные объекты на платформе для печати, чтобы они "
 "уместились на ней."
 
+msgid "Slicestack Diagnostics"
+msgstr "Диагностика стека срезов"
+
+msgid ""
+"Check slices of a 3MF slicestack file for open contours, intersections and "
+"inconsistent winding."
+msgstr ""
+"Проверяет срезы в стеке срезов файла 3MF на наличие открытых контуров, "
+"пересечений и несогласованного направления обхода."
+
 msgid "Show Dense BBox"
 msgstr "Показать плотный ограничивающий прямоугольник"
 
@@ -766,6 +776,9 @@ msgstr ""
 
 msgid "Aligner Generator"
 msgstr "Генератор элайнеров"
+
+msgid "Nightguards Generator"
+msgstr "Генератор ночных капп"
 
 msgid "Volume Rendering"
 msgstr "Объёмный рендеринг"
@@ -1369,6 +1382,13 @@ msgstr "Визуализация линий"
 msgid "Test Progress Bar"
 msgstr "Тест индикатора прогресса"
 
+msgid "Multiscan Load"
+msgstr "Загрузка мультискана"
+
+msgid "Load and merge a folder of posed scans into one point cloud."
+msgstr ""
+"Загружает и объединяет папку позиционированных сканов в одно облако точек."
+
 msgid "Boolean Benchmark"
 msgstr "Тест булевых операций"
 
@@ -1470,8 +1490,8 @@ msgstr "Отладка триангуляции"
 msgid "Debugging of object mesh from selected point cloud creation."
 msgstr "Отладка создания меша объекта из выбранного облака точек."
 
-msgid "Points to Spline"
-msgstr "Точки в сплайн"
+msgid "To Spline"
+msgstr "В сплайн"
 
 msgid "Creates a smooth line out of ordered points."
 msgstr "Создаёт гладкую линию из упорядоченных точек."
@@ -1826,12 +1846,19 @@ msgid "Toolpath"
 msgstr "Траектория"
 
 msgctxt "Tab name"
+msgid "Nesting"
+msgstr "Раскладка"
+
+msgctxt "Tab name"
 msgid "Experimental"
 msgstr "Эксперименты"
 
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid "Points to Spline"
+#~ msgstr "Точки в сплайн"
 
 #~ msgid "Movement Body"
 #~ msgstr "Тело движения"
