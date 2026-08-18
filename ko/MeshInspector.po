@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-18 21:50+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3517,6 +3517,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr "구성요소 임계값"
 
+#, fuzzy, c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -5321,6 +5322,7 @@ msgstr "분할"
 msgid "Max New Vertices"
 msgstr "최대 새 정점 수"
 
+#, fuzzy, c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5559,6 +5561,7 @@ msgstr "법선 반대 방향으로의 표면 오프셋 양입니다."
 msgid "Normals Trust"
 msgstr "법선 신뢰도"
 
+#, fuzzy, c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -5738,6 +5741,7 @@ msgstr "삼각형 종횡비"
 msgid "Maximum Edge Length"
 msgstr "최대 가장자리 길이"
 
+#, fuzzy, c-format
 msgid "1% of tolerance"
 msgstr "공차의 1%"
 
@@ -5827,6 +5831,7 @@ msgstr "공차와 동일"
 msgid "Undercut Distance"
 msgstr "언더컷 거리"
 
+#, fuzzy, c-format
 msgid "30% of tolerance"
 msgstr "공차의 30%"
 
@@ -8021,6 +8026,7 @@ msgstr "다른 삼각형 선택"
 msgid "Triangle Selector: Polyline"
 msgstr "삼각형 선택기: 폴리라인"
 
+#, fuzzy, c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."
