@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-18 22:27+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3413,8 +3413,8 @@ msgid ""
 "Search for the loops that surrounds a tunnel inside mesh (loop's geometrical "
 "center is located outside of mesh at an average loop's point)."
 msgstr ""
-"メッシュ内部のトンネルを取り囲むループを検索します（ループの幾何学的中心がル"
-"ープの平均点でメッシュの外側に位置します）。"
+"メッシュ内部のトンネルを取り囲むループを検索します（ループの幾何学的中心が"
+"ループの平均点でメッシュの外側に位置します）。"
 
 msgid "Loop Type"
 msgstr "ループタイプ"
@@ -3533,6 +3533,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr "コンポーネントしきい値"
 
+#, fuzzy, c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -5342,6 +5343,7 @@ msgstr "細分化"
 msgid "Max New Vertices"
 msgstr "最大新頂点数"
 
+#, fuzzy, c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5581,6 +5583,7 @@ msgstr "法線の逆方向のサーフェスオフセット量。"
 msgid "Normals Trust"
 msgstr "法線の信頼度"
 
+#, fuzzy, c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -5763,6 +5766,7 @@ msgstr "三角形アスペクト比"
 msgid "Maximum Edge Length"
 msgstr "最大エッジ長"
 
+#, fuzzy, c-format
 msgid "1% of tolerance"
 msgstr "許容差の1%"
 
@@ -5853,6 +5857,7 @@ msgstr "許容差と同じ"
 msgid "Undercut Distance"
 msgstr "アンダーカット距離"
 
+#, fuzzy, c-format
 msgid "30% of tolerance"
 msgstr "許容差の30%"
 
@@ -8072,6 +8077,7 @@ msgstr "他の三角形を選択"
 msgid "Triangle Selector: Polyline"
 msgstr "三角形セレクタ: ポリライン"
 
+#, fuzzy, c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."

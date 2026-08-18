@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-18 22:27+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2117,7 +2117,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "도, 분, 초"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1289
+#: source/MRViewer/MRViewer.cpp:1292
 #, c++-format
 msgid "{} as {}"
 msgstr "{} ({})"
@@ -2780,27 +2780,27 @@ msgstr "포인트 형식"
 msgid "Voxels Format"
 msgstr "복셀 형식"
 
-#: source/MRViewer/MRViewportCornerController.cpp:95
+#: source/MRViewer/MRViewportCornerController.cpp:99
 msgid "RIGHT"
 msgstr "오른쪽"
 
-#: source/MRViewer/MRViewportCornerController.cpp:95
+#: source/MRViewer/MRViewportCornerController.cpp:99
 msgid "LEFT"
 msgstr "왼쪽"
 
-#: source/MRViewer/MRViewportCornerController.cpp:96
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "TOP"
 msgstr "상단"
 
-#: source/MRViewer/MRViewportCornerController.cpp:96
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "BOTTOM"
 msgstr "하단"
 
-#: source/MRViewer/MRViewportCornerController.cpp:97
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "FRONT"
 msgstr "정면"
 
-#: source/MRViewer/MRViewportCornerController.cpp:97
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "BACK"
 msgstr "후면"
 
