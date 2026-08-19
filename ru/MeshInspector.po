@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-19 14:46+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3636,6 +3636,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr "Порог компонента"
 
+#, fuzzy, c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -5550,6 +5551,7 @@ msgstr "Подразделить"
 msgid "Max New Vertices"
 msgstr "Макс. количество новых вершин"
 
+#, fuzzy, c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5796,6 +5798,7 @@ msgstr "Величина смещения поверхности в направ
 msgid "Normals Trust"
 msgstr "Доверие нормалям"
 
+#, fuzzy, c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -5986,6 +5989,7 @@ msgstr "Соотношение сторон треугольников"
 msgid "Maximum Edge Length"
 msgstr "Макс. длина ребра"
 
+#, fuzzy, c-format
 msgid "1% of tolerance"
 msgstr "1% от допуска"
 
@@ -6081,6 +6085,7 @@ msgstr "Равно допуску"
 msgid "Undercut Distance"
 msgstr "Расстояние поднутрения"
 
+#, fuzzy, c-format
 msgid "30% of tolerance"
 msgstr "30% от допуска"
 
@@ -8365,6 +8370,7 @@ msgstr "Выбрать другие треугольники"
 msgid "Triangle Selector: Polyline"
 msgstr "Селектор треугольников: Полилиния"
 
+#, fuzzy, c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."
@@ -8854,6 +8860,9 @@ msgstr "XYZ точки облака"
 
 msgid "Cloud Point's Normal"
 msgstr "Нормаль точки облака"
+
+msgid "Testing windows with changing title"
+msgstr ""
 
 msgid "SolarRadiation"
 msgstr "Солнечная радиация"

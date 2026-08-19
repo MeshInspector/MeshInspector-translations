@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-19 14:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3321,6 +3321,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr ""
 
+#, c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -4984,6 +4985,7 @@ msgstr ""
 msgid "Max New Vertices"
 msgstr ""
 
+#, c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5209,6 +5211,7 @@ msgstr ""
 msgid "Normals Trust"
 msgstr ""
 
+#, c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -5371,6 +5374,7 @@ msgstr ""
 msgid "Maximum Edge Length"
 msgstr ""
 
+#, c-format
 msgid "1% of tolerance"
 msgstr ""
 
@@ -5450,6 +5454,7 @@ msgstr ""
 msgid "Undercut Distance"
 msgstr ""
 
+#, c-format
 msgid "30% of tolerance"
 msgstr ""
 
@@ -7492,6 +7497,7 @@ msgstr ""
 msgid "Triangle Selector: Polyline"
 msgstr ""
 
+#, c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."
@@ -7943,6 +7949,9 @@ msgid "Cloud Point's XYZ"
 msgstr ""
 
 msgid "Cloud Point's Normal"
+msgstr ""
+
+msgid "Testing windows with changing title"
 msgstr ""
 
 msgid "SolarRadiation"

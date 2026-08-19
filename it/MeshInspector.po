@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-19 14:46+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3673,6 +3673,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr "Soglia componente"
 
+#, fuzzy, c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -5606,6 +5607,7 @@ msgstr "Suddividi"
 msgid "Max New Vertices"
 msgstr "Vertici massimi nuovi"
 
+#, fuzzy, c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5864,6 +5866,7 @@ msgstr ""
 msgid "Normals Trust"
 msgstr "Affidabilità normali"
 
+#, fuzzy, c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -6057,6 +6060,7 @@ msgstr "Rapporto d'aspetto triangoli"
 msgid "Maximum Edge Length"
 msgstr "Lunghezza massima spigolo"
 
+#, fuzzy, c-format
 msgid "1% of tolerance"
 msgstr "1% della tolleranza"
 
@@ -6151,6 +6155,7 @@ msgstr "Uguale alla tolleranza"
 msgid "Undercut Distance"
 msgstr "Distanza sottosquadro"
 
+#, fuzzy, c-format
 msgid "30% of tolerance"
 msgstr "30% della tolleranza"
 
@@ -8446,12 +8451,13 @@ msgstr "Seleziona altri triangoli"
 msgid "Triangle Selector: Polyline"
 msgstr "Selettore triangoli: Polilinea"
 
+#, fuzzy, c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."
 msgstr ""
-"Quanto espandere la selezione dei triangoli: 0% - nessuna espansione, 100% - "
-"espansione massima."
+"Quanto espandere la selezione dei triangoli: 0% - nessuna espansione, "
+"100% - espansione massima."
 
 msgid "Smart Expand"
 msgstr "Espandi intelligente"
@@ -8947,6 +8953,9 @@ msgstr "XYZ del punto della nuvola"
 
 msgid "Cloud Point's Normal"
 msgstr "Normale del punto della nuvola"
+
+msgid "Testing windows with changing title"
+msgstr ""
 
 msgid "SolarRadiation"
 msgstr "RadiazioneSolare"
