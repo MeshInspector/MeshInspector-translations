@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 21:42+0200\n"
+"POT-Creation-Date: 2026-08-20 10:56+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3672,6 +3672,7 @@ msgstr ""
 msgid "Component Threshold"
 msgstr "Komponentenschwelle"
 
+#, no-c-format
 msgid ""
 "Flip orientation of components with at least this % of incorrectly oriented "
 "area."
@@ -5599,6 +5600,7 @@ msgstr "Unterteilen"
 msgid "Max New Vertices"
 msgstr "Max. neue Vertices"
 
+#, no-c-format
 msgid ""
 "0% - same subdivision everywhere, 100% - subdivision is much finer in the "
 "regions of high curvature compared to planar regions."
@@ -5847,6 +5849,7 @@ msgstr "Versatzbetrag der Oberfläche entgegen der Richtung der Normalen."
 msgid "Normals Trust"
 msgstr "Vertrauen in Normalen"
 
+#, no-c-format
 msgid ""
 "This slider allows user to control over normal smoothing\n"
 "1%- more smoothing\n"
@@ -6039,6 +6042,7 @@ msgstr "Dreiecks-Seitenverhältnis"
 msgid "Maximum Edge Length"
 msgstr "Maximale Kantenlänge"
 
+#, no-c-format
 msgid "1% of tolerance"
 msgstr "1% der Toleranz"
 
@@ -6136,6 +6140,7 @@ msgstr "Wie die Toleranz"
 msgid "Undercut Distance"
 msgstr "Hinterschnitt-Distanz"
 
+#, no-c-format
 msgid "30% of tolerance"
 msgstr "30% der Toleranz"
 
@@ -8440,6 +8445,7 @@ msgstr "Andere Dreiecke auswählen"
 msgid "Triangle Selector: Polyline"
 msgstr "Dreieckselektor: Polylinie"
 
+#, no-c-format
 msgid ""
 "How much to expand triangle selection: 0% - no expansion, 100% - maximal "
 "expansion."
@@ -8945,6 +8951,9 @@ msgstr "XYZ des Wolkenpunkts"
 
 msgid "Cloud Point's Normal"
 msgstr "Normale des Wolkenpunkts"
+
+msgid "Testing windows with changing title"
+msgstr ""
 
 msgid "SolarRadiation"
 msgstr "Solarstrahlung"
