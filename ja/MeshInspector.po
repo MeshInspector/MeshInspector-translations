@@ -8554,7 +8554,7 @@ msgid "Cloud Point's Normal"
 msgstr "クラウドポイントの法線"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "タイトルが変化するウィンドウのテスト"
 
 msgid "SolarRadiation"
 msgstr "太陽放射"

@@ -8953,7 +8953,7 @@ msgid "Cloud Point's Normal"
 msgstr "Normale des Wolkenpunkts"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "Test von Fenstern mit wechselndem Titel"
 
 msgid "SolarRadiation"
 msgstr "Solarstrahlung"
