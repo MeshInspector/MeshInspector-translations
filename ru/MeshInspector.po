@@ -8862,7 +8862,7 @@ msgid "Cloud Point's Normal"
 msgstr "Нормаль точки облака"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "Тест окон с изменяющимся заголовком"
 
 msgid "SolarRadiation"
 msgstr "Солнечная радиация"
