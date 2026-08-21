@@ -9022,7 +9022,7 @@ msgid "Cloud Point's Normal"
 msgstr "Normale du point du nuage"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "Tester les fenêtres avec un titre changeant"
 
 msgid "SolarRadiation"
 msgstr "RadiationSolaire"

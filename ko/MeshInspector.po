@@ -8504,7 +8504,7 @@ msgid "Cloud Point's Normal"
 msgstr "클라우드 포인트의 법선"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "제목이 변경되는 창 테스트"
 
 msgid "SolarRadiation"
 msgstr "태양 복사"

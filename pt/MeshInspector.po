@@ -8914,7 +8914,7 @@ msgid "Cloud Point's Normal"
 msgstr "Normal do Ponto da Nuvem"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "Testar janelas com título variável"
 
 msgid "SolarRadiation"
 msgstr "RadiaçãoSolar"

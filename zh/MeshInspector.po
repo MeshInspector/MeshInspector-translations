@@ -8209,7 +8209,7 @@ msgid "Cloud Point's Normal"
 msgstr "点云点的法线"
 
 msgid "Testing windows with changing title"
-msgstr ""
+msgstr "测试标题变化的窗口"
 
 msgid "SolarRadiation"
 msgstr "太阳辐射"

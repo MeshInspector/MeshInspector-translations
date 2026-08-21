@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 10:56+0000\n"
+"POT-Creation-Date: 2026-08-21 04:46+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:26
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:477
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:477
 msgid "Current viewport"
 msgstr "현재 뷰포트"
 
@@ -219,12 +219,12 @@ msgid "ImGui preset:"
 msgstr "ImGui 사전 설정:"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:76
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:136
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:136
 msgid "Dark"
 msgstr "어두움"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:78
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:137
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:137
 msgid "Light"
 msgstr "밝음"
 
@@ -264,11 +264,11 @@ msgid "Save"
 msgstr "저장"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1036
 #: source/MRViewer/ImGuiMenu.cpp:951 source/MRViewer/ImGuiMenu.cpp:1050
 #: source/MRViewer/MRProgressBar.cpp:227
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
 #: source/MRViewer/MRUISaveChangesPopup.h:24
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1036
 msgid "Cancel"
 msgstr "취소"
 
@@ -450,6 +450,691 @@ msgstr "보이는 선택된 객체가 없습니다."
 #: source/MRCommonPlugins/ViewerButtons/MRSceneControlMenuItems.cpp:178
 msgid "There are no visible selected primitives."
 msgstr "보이는 선택된 기본 형상이 없습니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:54
+msgid "Quick"
+msgstr "빠름"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:55
+msgid "Application"
+msgstr "애플리케이션"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
+msgid "Control"
+msgstr "제어"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
+msgid "3D View"
+msgstr "3D 뷰"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:721
+msgid "Units"
+msgstr "단위"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:59
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1303
+msgid "MCP"
+msgstr "MCP"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:60
+msgid "Features"
+msgstr "피처"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:122
+msgid "Tools"
+msgstr "도구"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:257
+msgid "General"
+msgstr "일반"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:272
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:330
+msgid "Toolbar Customize"
+msgstr "도구 모음 사용자 지정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:275
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:460
+msgid "Show Hotkeys"
+msgstr "단축키 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:283
+msgid "Global"
+msgstr "전역"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:285
+msgid "Reset Settings"
+msgstr "설정 재설정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:296
+msgid "Interface"
+msgstr "인터페이스"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:305
+msgid "UI Scale"
+msgstr "UI 스케일"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
+msgid "Save Tool Window Positions"
+msgstr "도구 창 위치 저장"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:315
+msgid ""
+"If checked then enables using of saved positions of tool windows in the "
+"config file"
+msgstr "선택하면 구성 파일에 저장된 도구 창 위치를 사용할 수 있습니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:325
+msgid "Enable multi-windows"
+msgstr "다중 창 활성화"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:327
+msgid ""
+"Allow tool windows to be moved outside the main window. To apply the "
+"changes, need to restart the application."
+msgstr ""
+"도구 창을 주 창 외부로 이동할 수 있습니다. 변경 사항을 적용하려면 애플리케이"
+"션을 다시 시작해야 합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:333
+msgid "Behavior"
+msgstr "동작"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:341
+msgid "Make Visible on Select"
+msgstr "선택 시 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:344
+msgid "Deselect on Hide"
+msgstr "숨길 때 선택 해제"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:350
+msgid "Close Context Menu on Click"
+msgstr "클릭 시 컨텍스트 메뉴 닫기"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:353
+msgid "Close scene context menu on any change or click outside"
+msgstr "변경이 있거나 외부를 클릭하면 장면 컨텍스트 메뉴 닫기"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:357
+msgid "Auto Close Previous Tool"
+msgstr "이전 도구 자동 닫기"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:360
+msgid ""
+"Automatically close blocking tool when another blocking tool is activated"
+msgstr "다른 차단 도구가 활성화될 때 차단 도구를 자동으로 닫습니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:362
+msgid "Sort Dropped Files"
+msgstr "끌어다 놓은 파일 정렬"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:365
+msgid ""
+"Whether to sort the filenames received from Drag&Drop in lexicographical "
+"order before adding them in scene"
+msgstr ""
+"끌어다 놓기로 받은 파일명을 장면에 추가하기 전에 사전식 순서로 정렬할지 여부"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:367
+msgid "Show Experimental Features"
+msgstr "실험적 기능 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:368
+msgid "Show experimental or diagnostic tools and controls"
+msgstr "실험적 또는 진단 도구와 컨트롤 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:375
+msgid "Notifications"
+msgstr "알림"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:377
+msgid "Time Reports"
+msgstr "시간 보고서"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
+msgid "Show duration of last operation of the application."
+msgstr "애플리케이션의 마지막 작업 소요 시간을 표시합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:389
+msgid "Recommendations"
+msgstr "권장 사항"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:399
+msgid "Show notifications with recommended actions."
+msgstr "권장 작업이 포함된 알림을 표시합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:401
+msgid "Implicit Changes"
+msgstr "암시적 변경"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:411
+msgid ""
+"Notify when some changes were made implicitly by the application. (mostly "
+"appear on import of non-manifold models)"
+msgstr ""
+"애플리케이션이 일부 변경을 암시적으로 수행한 경우 알립니다. (주로 비매니폴드 "
+"모델을 가져올 때 나타납니다)"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:413
+msgid "Important"
+msgstr "중요"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:423
+msgid "Show important messages about errors or warnings that could happen."
+msgstr "발생할 수 있는 오류나 경고에 대한 중요한 메시지를 표시합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:430
+msgid "Files and Folders"
+msgstr "파일 및 폴더"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:436
+msgid "Logs folder"
+msgstr "로그 폴더"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:456
+msgid "Keyboard"
+msgstr "키보드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:474
+msgid "Viewport"
+msgstr "뷰포트"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:485
+msgid "Rotation Mode"
+msgstr "회전 모드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:485
+msgid "Scene Center"
+msgstr "장면 중심"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:485
+msgid "Pick / Scene Center"
+msgstr "선택 / 장면 중심"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:485
+msgid "Pick"
+msgstr "선택"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:492
+msgid "Show Axes"
+msgstr "축 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:498
+msgid "Show Global Basis"
+msgstr "전역 기준 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:503
+msgid "Grid"
+msgstr "그리드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:511
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:516
+msgid "Global Basis Scale"
+msgstr "전역 기준 스케일"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:522
+msgid "Auto"
+msgstr "자동"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:532
+msgid "Show Rotation Center"
+msgstr "회전 중심 표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:547
+msgid "Selected Highlight Modifier"
+msgstr "선택 강조 수정자"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:552
+msgid "Ambient light brightness multiplication factor for selected objects"
+msgstr "선택된 객체의 주변광 밝기 곱셈 계수"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:556
+msgid "Clipping Plane"
+msgstr "클리핑 평면"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:573
+msgid "Show"
+msgstr "표시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:579
+msgid "Options"
+msgstr "옵션"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
+msgid "Picker Radius"
+msgstr "선택기 반지름"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:587
+msgid "Radius of area under cursor to pick objects in scene."
+msgstr "장면에서 객체를 선택하기 위한 커서 아래 영역의 반지름입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:589
+msgid "Defaults"
+msgstr "기본값"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:594
+msgid "Render"
+msgstr "렌더링"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:607
+msgid "Common"
+msgstr "공통"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:613
+msgid "Leading zero"
+msgstr "선행 0"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:615
+msgid "If disabled, remove the lone zeroes before the decimal point."
+msgstr "비활성화하면 소수점 앞의 단독 0을 제거합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:627
+msgid "Thousands Separator"
+msgstr "천 단위 구분 기호"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:629
+msgid ""
+"A symbol used to separate groups of thousands in large numbers to make them "
+"easier to read."
+msgstr ""
+"큰 숫자에서 천 단위 묶음을 구분하여 읽기 쉽게 하는 데 사용되는 기호입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:636
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1129
+#: source/MRViewer/MRMouse.h:32
+msgid "None"
+msgstr "없음"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:638
+msgid "Space"
+msgstr "공백"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:651
+msgid "Linear"
+msgstr "선형"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:671
+msgid "No Units"
+msgstr "단위 없음"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:672
+msgid "UI Units"
+msgstr "UI 단위"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:680
+msgid ""
+"It selects length units to be show in the user interface. If model units are "
+"different, then stored values will be automatically converted when shown in "
+"UI."
+msgstr ""
+"사용자 인터페이스에 표시할 길이 단위를 선택합니다. 모델 단위가 다른 경우 저장"
+"된 값이 UI에 표시될 때 자동으로 변환됩니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:683
+msgid "Same as UI Units"
+msgstr "UI 단위와 동일"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:684
+msgid "Model Units"
+msgstr "모델 단위"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:692
+msgid ""
+"It selects length units of model's actual values (e.g. coordinates of points "
+"stored in memory). And it affects on importing and exporting of data."
+msgstr ""
+"모델의 실제 값(예: 메모리에 저장된 점 좌표)의 길이 단위를 선택합니다. 데이터 "
+"가져오기와 내보내기에 영향을 줍니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:696
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:733
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:751
+msgid "Precision"
+msgstr "정밀도"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:698
+msgid ""
+"The number of digits to be shown after decimal point for length measurements."
+msgstr "길이 측정에서 소수점 이하에 표시할 자릿수입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:706
+msgid "Angular"
+msgstr "각도"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:724
+msgid "It selects angular units to be show in the user interface."
+msgstr "사용자 인터페이스에 표시할 각도 단위를 선택합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:735
+msgid ""
+"The number of digits to be shown after decimal point for angular "
+"measurements."
+msgstr "각도 측정에서 소수점 이하에 표시할 자릿수입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:744
+msgid "Scale and Ratios"
+msgstr "스케일 및 비율"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:753
+msgid ""
+"The number of digits to be shown after decimal point for dimensionless "
+"measurements."
+msgstr "무차원 측정에서 소수점 이하에 표시할 자릿수입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:763
+msgid "Reset Unit Settings"
+msgstr "단위 설정 재설정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:765
+msgid "Set all settings here to their default values."
+msgstr "여기 있는 모든 설정을 기본값으로 설정합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:779
+msgid "Visuals"
+msgstr "시각 요소"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:782
+msgid "Surface opacity"
+msgstr "표면 불투명도"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:786
+#: source/MRViewer/ImGuiMenu.cpp:2004 source/MRViewer/ImGuiMenu.cpp:2075
+#: source/MRViewer/ImGuiMenu.cpp:2201 source/MRViewer/ImGuiMenu.cpp:2212
+msgid "Point size"
+msgstr "포인트 크기"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:790
+msgid "Point size (subfeatures)"
+msgstr "포인트 크기 (서브 피처)"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:794
+#: source/MRViewer/ImGuiMenu.cpp:2078 source/MRViewer/ImGuiMenu.cpp:2194
+msgid "Line width"
+msgstr "선 두께"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:798
+msgid "Line width (subfeatures)"
+msgstr "선 두께 (서브 피처)"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:823
+msgid "Alpha Sort"
+msgstr "알파 정렬"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:831
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:836
+msgid "Depth Peeling Passes"
+msgstr "깊이 박리 패스 수"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:847
+msgid "Multisample anti-aliasing (MSAA):"
+msgstr "다중 샘플 안티앨리어싱(MSAA):"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:848
+msgid ""
+"The number of samples per pixel: more samples - better render quality but "
+"worse performance."
+msgstr ""
+"픽셀당 샘플 수: 샘플이 많을수록 - 렌더링 품질이 좋지만 성능은 떨어집니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:858
+msgid "Off"
+msgstr "꺼짐"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:877
+msgid "GPU multisampling settings override application value."
+msgstr "GPU 다중 샘플링 설정이 애플리케이션 값을 무시합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:879
+msgid "Application requires restart to apply this change"
+msgstr "이 변경 사항을 적용하려면 애플리케이션을 다시 시작해야 합니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:891
+msgid "Shadows"
+msgstr "그림자"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:899
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:909
+msgid "Shadow Color"
+msgstr "그림자 색상"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:919
+#: source/MRViewer/ImGuiHelpers.cpp:1514
+msgid "Shift"
+msgstr "이동"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:920
+msgid "X = shift to the left, Y = shift upwards"
+msgstr "X = 왼쪽 이동, Y = 위쪽 이동"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:921
+msgid "Blur Radius"
+msgstr "블러 반지름"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:922
+msgid "Quality"
+msgstr "품질"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:925
+msgid "Blur texture downscaling coefficient"
+msgstr "블러 텍스처 축소 계수"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:956
+msgid "Language"
+msgstr "언어"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:976
+msgid "Color Theme"
+msgstr "색상 테마"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:996
+msgid "This theme is not valid."
+msgstr "이 테마는 유효하지 않습니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1004
+msgid "Add"
+msgstr "추가"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1016
+msgid "Settings reset"
+msgstr "설정 재설정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1020
+msgid "Reset all application settings?"
+msgstr "모든 애플리케이션 설정을 재설정할까요?"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1030
+#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2123
+msgid "Reset"
+msgstr "재설정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+msgid "Auto Detect"
+msgstr "자동 감지"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+msgid "Smooth"
+msgstr "부드러움"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+msgid "Flat"
+msgstr "평면"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1052
+msgid "Shading Mode"
+msgstr "음영 모드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1052
+msgid "Default Shading Mode"
+msgstr "기본 음영 모드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1054
+msgid ""
+"Shading mode for mesh objects imported from files\n"
+"Detection depends on source format and mesh shape\n"
+"This setting also affects some tools"
+msgstr ""
+"파일에서 가져온 메시 객체의 음영 모드\n"
+"감지는 원본 형식과 메시 형태에 따라 다릅니다\n"
+"이 설정은 일부 도구에도 영향을 미칩니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1066
+msgid "Orthographic"
+msgstr "직교"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1066
+msgid "Perspective"
+msgstr "원근"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1069
+msgid "Projection Mode"
+msgstr "투영 모드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1097
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1113
+msgid "Mouse"
+msgstr "마우스"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1117
+msgid "Zoom Gain"
+msgstr "확대 배수"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1119
+msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
+msgstr "확대/축소 속도에 영향을 미치는 마우스 휠 회전의 감도입니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1178
+msgid "Set other"
+msgstr "기타 설정"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1183
+msgid ""
+"Click here with preferred mouse button \n"
+"with/without modifier"
+msgstr ""
+"원하는 마우스 버튼으로 여기를 클릭하세요 \n"
+"수정자 키 사용 여부에 관계없이"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1220
+#, c-format
+msgid "Camera controls can also be used with %s"
+msgstr "%s 와(과) 함께 카메라 컨트롤도 사용할 수 있습니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1227
+msgid "Spacemouse"
+msgstr "Spacemouse"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1239
+msgid "Inverse"
+msgstr "반전"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1247
+msgid "Translation Sensitivity"
+msgstr "이동 감도"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1259
+msgid "Rotation Sensitivity"
+msgstr "회전 감도"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1268
+msgid "Suppress Zoom by Mouse Scroll"
+msgstr "마우스 스크롤에 의한 확대/축소 억제"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1269
+msgid ""
+"This mode is recommended if you have 3Dconnexion driver installed, which "
+"sends fake mouse scroll events resulting in double reaction on SpaceMouse "
+"movement and camera tremble."
+msgstr ""
+"3Dconnexion 드라이버가 설치되어 있으면 가짜 마우스 스크롤 이벤트가 발생하여 "
+"SpaceMouse 동작에 이중 반응이 일어나고 카메라가 흔들릴 수 있으므로 이 모드를 "
+"권장합니다."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1279
+msgid "Touchpad"
+msgstr "터치패드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1281
+msgid "Swipe Rotates Camera"
+msgstr "스와이프로 카메라 회전"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1281
+msgid "Swipe Moves Camera"
+msgstr "스와이프로 카메라 이동"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
+msgid "Ignore Kinetic Movements"
+msgstr "관성 동작 무시"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1288
+msgid "Allow System to Interrupt Gestures"
+msgstr "시스템이 제스처를 중단하도록 허용"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1293
+msgid "Swipe Mode"
+msgstr "스와이프 모드"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1308
+msgid "Enable in This Session"
+msgstr "이 세션에서 활성화"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1312
+msgid "Enable by Default"
+msgstr "기본적으로 활성화"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1318
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1324
+msgid "Port"
+msgstr "포트"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
+msgid "Port forced by -mcpPort command-line flag"
+msgstr "-mcpPort 명령줄 플래그로 강제된 포트"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1334
+msgid "MRU Inner Formats"
+msgstr "MRU 내부 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1340
+msgid ""
+"Slowest, high memory consumption, but best compression (typically) format"
+msgstr ""
+"가장 느리고 메모리를 많이 사용하지만 (일반적으로) 압축률이 가장 좋은 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1341
+msgid "Fast and still relatively small format"
+msgstr "빠르면서도 비교적 작은 크기의 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1342
+msgid "Largest by size, but fastest to load / save and without any losses"
+msgstr "크기가 가장 크지만 불러오기/저장이 가장 빠르고 손실이 없습니다"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1344
+msgid "Fast and efficient format for sparse data"
+msgstr "희소 데이터에 빠르고 효율적인 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1345
+msgid "Simplest but high disk space consumption format"
+msgstr "가장 간단하지만 디스크 공간을 많이 사용하는 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1370
+msgid "Mesh Format"
+msgstr "메시 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1388
+msgid "Points Format"
+msgstr "포인트 형식"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
+msgid "Voxels Format"
+msgstr "복셀 형식"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:29
 msgid "Union"
@@ -1037,11 +1722,6 @@ msgstr "장면의 평면 객체를 클릭하여 매개변수를 가져옵니다"
 msgid "Normal"
 msgstr "법선"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1514
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:919
-msgid "Shift"
-msgstr "이동"
-
 #: source/MRViewer/ImGuiHelpers.cpp:1517
 msgid "Flip"
 msgstr "뒤집기"
@@ -1125,11 +1805,6 @@ msgstr "스왑된 프레임"
 #: source/MRViewer/ImGuiMenu.cpp:900
 msgid "FPS"
 msgstr "FPS"
-
-#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2123
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1030
-msgid "Reset"
-msgstr "재설정"
 
 #: source/MRViewer/ImGuiMenu.cpp:906
 msgid "Print Time to Log"
@@ -1421,12 +2096,6 @@ msgstr "고급"
 msgid "Polygon Offset"
 msgstr "다각형 오프셋"
 
-#: source/MRViewer/ImGuiMenu.cpp:2004 source/MRViewer/ImGuiMenu.cpp:2075
-#: source/MRViewer/ImGuiMenu.cpp:2201 source/MRViewer/ImGuiMenu.cpp:2212
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:786
-msgid "Point size"
-msgstr "포인트 크기"
-
 #: source/MRViewer/ImGuiMenu.cpp:2016
 msgid "Dash"
 msgstr "대시"
@@ -1446,11 +2115,6 @@ msgstr "반사광 세기"
 #: source/MRViewer/ImGuiMenu.cpp:2053
 msgid "Visual Sampling"
 msgstr "시각 샘플링"
-
-#: source/MRViewer/ImGuiMenu.cpp:2078 source/MRViewer/ImGuiMenu.cpp:2194
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:794
-msgid "Line width"
-msgstr "선 두께"
 
 #: source/MRViewer/ImGuiMenu.cpp:2082
 msgid "Point subfeatures size"
@@ -1690,11 +2354,6 @@ msgstr "메시 경계 선택"
 msgid "Do not show this message again"
 msgstr "이 메시지를 다시 표시하지 않기"
 
-#: source/MRViewer/MRMouse.h:32 source/MRViewer/MRViewerSettingsPlugin.cpp:636
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1129
-msgid "None"
-msgstr "없음"
-
 #: source/MRViewer/MRMouse.h:33
 msgid "Rotation"
 msgstr "회전"
@@ -1926,7 +2585,7 @@ msgstr "리본 장면 이전 항목만 표시"
 msgid "Ribbon Scene Show only next"
 msgstr "리본 장면 다음 항목만 표시"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2340
+#: source/MRViewer/MRRibbonMenu.cpp:2322
 msgid "Hotkeys"
 msgstr "단축키"
 
@@ -2121,664 +2780,6 @@ msgstr "도, 분, 초"
 #, c++-format
 msgid "{} as {}"
 msgstr "{} ({})"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:54
-msgid "Quick"
-msgstr "빠름"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:55
-msgid "Application"
-msgstr "애플리케이션"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:56
-msgid "Control"
-msgstr "제어"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:57
-msgid "3D View"
-msgstr "3D 뷰"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:58
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:721
-msgid "Units"
-msgstr "단위"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:59
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1303
-msgid "MCP"
-msgstr "MCP"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:60
-msgid "Features"
-msgstr "피처"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:122
-msgid "Tools"
-msgstr "도구"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:257
-msgid "General"
-msgstr "일반"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:272
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:330
-msgid "Toolbar Customize"
-msgstr "도구 모음 사용자 지정"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:275
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:460
-msgid "Show Hotkeys"
-msgstr "단축키 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:283
-msgid "Global"
-msgstr "전역"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:285
-msgid "Reset Settings"
-msgstr "설정 재설정"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:296
-msgid "Interface"
-msgstr "인터페이스"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:305
-msgid "UI Scale"
-msgstr "UI 스케일"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:314
-msgid "Save Tool Window Positions"
-msgstr "도구 창 위치 저장"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:315
-msgid ""
-"If checked then enables using of saved positions of tool windows in the "
-"config file"
-msgstr "선택하면 구성 파일에 저장된 도구 창 위치를 사용할 수 있습니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:325
-msgid "Enable multi-windows"
-msgstr "다중 창 활성화"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:327
-msgid ""
-"Allow tool windows to be moved outside the main window. To apply the "
-"changes, need to restart the application."
-msgstr ""
-"도구 창을 주 창 외부로 이동할 수 있습니다. 변경 사항을 적용하려면 애플리케이"
-"션을 다시 시작해야 합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:333
-msgid "Behavior"
-msgstr "동작"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:341
-msgid "Make Visible on Select"
-msgstr "선택 시 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:344
-msgid "Deselect on Hide"
-msgstr "숨길 때 선택 해제"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:350
-msgid "Close Context Menu on Click"
-msgstr "클릭 시 컨텍스트 메뉴 닫기"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:353
-msgid "Close scene context menu on any change or click outside"
-msgstr "변경이 있거나 외부를 클릭하면 장면 컨텍스트 메뉴 닫기"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:357
-msgid "Auto Close Previous Tool"
-msgstr "이전 도구 자동 닫기"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:360
-msgid ""
-"Automatically close blocking tool when another blocking tool is activated"
-msgstr "다른 차단 도구가 활성화될 때 차단 도구를 자동으로 닫습니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:362
-msgid "Sort Dropped Files"
-msgstr "끌어다 놓은 파일 정렬"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:365
-msgid ""
-"Whether to sort the filenames received from Drag&Drop in lexicographical "
-"order before adding them in scene"
-msgstr ""
-"끌어다 놓기로 받은 파일명을 장면에 추가하기 전에 사전식 순서로 정렬할지 여부"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:367
-msgid "Show Experimental Features"
-msgstr "실험적 기능 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:368
-msgid "Show experimental or diagnostic tools and controls"
-msgstr "실험적 또는 진단 도구와 컨트롤 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:375
-msgid "Notifications"
-msgstr "알림"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:377
-msgid "Time Reports"
-msgstr "시간 보고서"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:387
-msgid "Show duration of last operation of the application."
-msgstr "애플리케이션의 마지막 작업 소요 시간을 표시합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:389
-msgid "Recommendations"
-msgstr "권장 사항"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:399
-msgid "Show notifications with recommended actions."
-msgstr "권장 작업이 포함된 알림을 표시합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:401
-msgid "Implicit Changes"
-msgstr "암시적 변경"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:411
-msgid ""
-"Notify when some changes were made implicitly by the application. (mostly "
-"appear on import of non-manifold models)"
-msgstr ""
-"애플리케이션이 일부 변경을 암시적으로 수행한 경우 알립니다. (주로 비매니폴드 "
-"모델을 가져올 때 나타납니다)"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:413
-msgid "Important"
-msgstr "중요"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:423
-msgid "Show important messages about errors or warnings that could happen."
-msgstr "발생할 수 있는 오류나 경고에 대한 중요한 메시지를 표시합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:430
-msgid "Files and Folders"
-msgstr "파일 및 폴더"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:436
-msgid "Logs folder"
-msgstr "로그 폴더"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:456
-msgid "Keyboard"
-msgstr "키보드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:474
-msgid "Viewport"
-msgstr "뷰포트"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
-msgid "Rotation Mode"
-msgstr "회전 모드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
-msgid "Scene Center"
-msgstr "장면 중심"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
-msgid "Pick / Scene Center"
-msgstr "선택 / 장면 중심"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:485
-msgid "Pick"
-msgstr "선택"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:492
-msgid "Show Axes"
-msgstr "축 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:498
-msgid "Show Global Basis"
-msgstr "전역 기준 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:503
-msgid "Grid"
-msgstr "그리드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:511
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:516
-msgid "Global Basis Scale"
-msgstr "전역 기준 스케일"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:522
-msgid "Auto"
-msgstr "자동"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:532
-msgid "Show Rotation Center"
-msgstr "회전 중심 표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:547
-msgid "Selected Highlight Modifier"
-msgstr "선택 강조 수정자"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:552
-msgid "Ambient light brightness multiplication factor for selected objects"
-msgstr "선택된 객체의 주변광 밝기 곱셈 계수"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:556
-msgid "Clipping Plane"
-msgstr "클리핑 평면"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:573
-msgid "Show"
-msgstr "표시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:579
-msgid "Options"
-msgstr "옵션"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:584
-msgid "Picker Radius"
-msgstr "선택기 반지름"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:587
-msgid "Radius of area under cursor to pick objects in scene."
-msgstr "장면에서 객체를 선택하기 위한 커서 아래 영역의 반지름입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:589
-msgid "Defaults"
-msgstr "기본값"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:594
-msgid "Render"
-msgstr "렌더링"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:607
-msgid "Common"
-msgstr "공통"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:613
-msgid "Leading zero"
-msgstr "선행 0"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:615
-msgid "If disabled, remove the lone zeroes before the decimal point."
-msgstr "비활성화하면 소수점 앞의 단독 0을 제거합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:627
-msgid "Thousands Separator"
-msgstr "천 단위 구분 기호"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:629
-msgid ""
-"A symbol used to separate groups of thousands in large numbers to make them "
-"easier to read."
-msgstr ""
-"큰 숫자에서 천 단위 묶음을 구분하여 읽기 쉽게 하는 데 사용되는 기호입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:638
-msgid "Space"
-msgstr "공백"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:651
-msgid "Linear"
-msgstr "선형"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:671
-msgid "No Units"
-msgstr "단위 없음"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:672
-msgid "UI Units"
-msgstr "UI 단위"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:680
-msgid ""
-"It selects length units to be show in the user interface. If model units are "
-"different, then stored values will be automatically converted when shown in "
-"UI."
-msgstr ""
-"사용자 인터페이스에 표시할 길이 단위를 선택합니다. 모델 단위가 다른 경우 저장"
-"된 값이 UI에 표시될 때 자동으로 변환됩니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:683
-msgid "Same as UI Units"
-msgstr "UI 단위와 동일"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:684
-msgid "Model Units"
-msgstr "모델 단위"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:692
-msgid ""
-"It selects length units of model's actual values (e.g. coordinates of points "
-"stored in memory). And it affects on importing and exporting of data."
-msgstr ""
-"모델의 실제 값(예: 메모리에 저장된 점 좌표)의 길이 단위를 선택합니다. 데이터 "
-"가져오기와 내보내기에 영향을 줍니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:696
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:733
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:751
-msgid "Precision"
-msgstr "정밀도"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:698
-msgid ""
-"The number of digits to be shown after decimal point for length measurements."
-msgstr "길이 측정에서 소수점 이하에 표시할 자릿수입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:706
-msgid "Angular"
-msgstr "각도"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:724
-msgid "It selects angular units to be show in the user interface."
-msgstr "사용자 인터페이스에 표시할 각도 단위를 선택합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:735
-msgid ""
-"The number of digits to be shown after decimal point for angular "
-"measurements."
-msgstr "각도 측정에서 소수점 이하에 표시할 자릿수입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:744
-msgid "Scale and Ratios"
-msgstr "스케일 및 비율"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:753
-msgid ""
-"The number of digits to be shown after decimal point for dimensionless "
-"measurements."
-msgstr "무차원 측정에서 소수점 이하에 표시할 자릿수입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:763
-msgid "Reset Unit Settings"
-msgstr "단위 설정 재설정"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:765
-msgid "Set all settings here to their default values."
-msgstr "여기 있는 모든 설정을 기본값으로 설정합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:779
-msgid "Visuals"
-msgstr "시각 요소"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:782
-msgid "Surface opacity"
-msgstr "표면 불투명도"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:790
-msgid "Point size (subfeatures)"
-msgstr "포인트 크기 (서브 피처)"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:798
-msgid "Line width (subfeatures)"
-msgstr "선 두께 (서브 피처)"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:823
-msgid "Alpha Sort"
-msgstr "알파 정렬"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:831
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:836
-msgid "Depth Peeling Passes"
-msgstr "깊이 박리 패스 수"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:847
-msgid "Multisample anti-aliasing (MSAA):"
-msgstr "다중 샘플 안티앨리어싱(MSAA):"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:848
-msgid ""
-"The number of samples per pixel: more samples - better render quality but "
-"worse performance."
-msgstr ""
-"픽셀당 샘플 수: 샘플이 많을수록 - 렌더링 품질이 좋지만 성능은 떨어집니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:858
-msgid "Off"
-msgstr "꺼짐"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:877
-msgid "GPU multisampling settings override application value."
-msgstr "GPU 다중 샘플링 설정이 애플리케이션 값을 무시합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:879
-msgid "Application requires restart to apply this change"
-msgstr "이 변경 사항을 적용하려면 애플리케이션을 다시 시작해야 합니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:891
-msgid "Shadows"
-msgstr "그림자"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:899
-msgid "Enabled"
-msgstr "활성화됨"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:909
-msgid "Shadow Color"
-msgstr "그림자 색상"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:920
-msgid "X = shift to the left, Y = shift upwards"
-msgstr "X = 왼쪽 이동, Y = 위쪽 이동"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:921
-msgid "Blur Radius"
-msgstr "블러 반지름"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:922
-msgid "Quality"
-msgstr "품질"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:925
-msgid "Blur texture downscaling coefficient"
-msgstr "블러 텍스처 축소 계수"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:956
-msgid "Language"
-msgstr "언어"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:976
-msgid "Color Theme"
-msgstr "색상 테마"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:996
-msgid "This theme is not valid."
-msgstr "이 테마는 유효하지 않습니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1004
-msgid "Add"
-msgstr "추가"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1016
-msgid "Settings reset"
-msgstr "설정 재설정"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1020
-msgid "Reset all application settings?"
-msgstr "모든 애플리케이션 설정을 재설정할까요?"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
-msgid "Auto Detect"
-msgstr "자동 감지"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
-msgid "Smooth"
-msgstr "부드러움"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1048
-msgid "Flat"
-msgstr "평면"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1052
-msgid "Shading Mode"
-msgstr "음영 모드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1052
-msgid "Default Shading Mode"
-msgstr "기본 음영 모드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1054
-msgid ""
-"Shading mode for mesh objects imported from files\n"
-"Detection depends on source format and mesh shape\n"
-"This setting also affects some tools"
-msgstr ""
-"파일에서 가져온 메시 객체의 음영 모드\n"
-"감지는 원본 형식과 메시 형태에 따라 다릅니다\n"
-"이 설정은 일부 도구에도 영향을 미칩니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1066
-msgid "Orthographic"
-msgstr "직교"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1066
-msgid "Perspective"
-msgstr "원근"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1069
-msgid "Projection Mode"
-msgstr "투영 모드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1097
-msgid "Background Color"
-msgstr "배경 색상"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1113
-msgid "Mouse"
-msgstr "마우스"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1117
-msgid "Zoom Gain"
-msgstr "확대 배수"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1119
-msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
-msgstr "확대/축소 속도에 영향을 미치는 마우스 휠 회전의 감도입니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1178
-msgid "Set other"
-msgstr "기타 설정"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1183
-msgid ""
-"Click here with preferred mouse button \n"
-"with/without modifier"
-msgstr ""
-"원하는 마우스 버튼으로 여기를 클릭하세요 \n"
-"수정자 키 사용 여부에 관계없이"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1220
-#, c-format
-msgid "Camera controls can also be used with %s"
-msgstr "%s 와(과) 함께 카메라 컨트롤도 사용할 수 있습니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1227
-msgid "Spacemouse"
-msgstr "Spacemouse"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1239
-msgid "Inverse"
-msgstr "반전"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1247
-msgid "Translation Sensitivity"
-msgstr "이동 감도"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1259
-msgid "Rotation Sensitivity"
-msgstr "회전 감도"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1268
-msgid "Suppress Zoom by Mouse Scroll"
-msgstr "마우스 스크롤에 의한 확대/축소 억제"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1269
-msgid ""
-"This mode is recommended if you have 3Dconnexion driver installed, which "
-"sends fake mouse scroll events resulting in double reaction on SpaceMouse "
-"movement and camera tremble."
-msgstr ""
-"3Dconnexion 드라이버가 설치되어 있으면 가짜 마우스 스크롤 이벤트가 발생하여 "
-"SpaceMouse 동작에 이중 반응이 일어나고 카메라가 흔들릴 수 있으므로 이 모드를 "
-"권장합니다."
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1279
-msgid "Touchpad"
-msgstr "터치패드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1281
-msgid "Swipe Rotates Camera"
-msgstr "스와이프로 카메라 회전"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1281
-msgid "Swipe Moves Camera"
-msgstr "스와이프로 카메라 이동"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1286
-msgid "Ignore Kinetic Movements"
-msgstr "관성 동작 무시"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1288
-msgid "Allow System to Interrupt Gestures"
-msgstr "시스템이 제스처를 중단하도록 허용"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1293
-msgid "Swipe Mode"
-msgstr "스와이프 모드"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1308
-msgid "Enable in This Session"
-msgstr "이 세션에서 활성화"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1312
-msgid "Enable by Default"
-msgstr "기본적으로 활성화"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1318
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1324
-msgid "Port"
-msgstr "포트"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1319
-msgid "Port forced by -mcpPort command-line flag"
-msgstr "-mcpPort 명령줄 플래그로 강제된 포트"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1334
-msgid "MRU Inner Formats"
-msgstr "MRU 내부 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1340
-msgid ""
-"Slowest, high memory consumption, but best compression (typically) format"
-msgstr ""
-"가장 느리고 메모리를 많이 사용하지만 (일반적으로) 압축률이 가장 좋은 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1341
-msgid "Fast and still relatively small format"
-msgstr "빠르면서도 비교적 작은 크기의 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1342
-msgid "Largest by size, but fastest to load / save and without any losses"
-msgstr "크기가 가장 크지만 불러오기/저장이 가장 빠르고 손실이 없습니다"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1344
-msgid "Fast and efficient format for sparse data"
-msgstr "희소 데이터에 빠르고 효율적인 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1345
-msgid "Simplest but high disk space consumption format"
-msgstr "가장 간단하지만 디스크 공간을 많이 사용하는 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1370
-msgid "Mesh Format"
-msgstr "메시 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1388
-msgid "Points Format"
-msgstr "포인트 형식"
-
-#: source/MRViewer/MRViewerSettingsPlugin.cpp:1403
-msgid "Voxels Format"
-msgstr "복셀 형식"
 
 #: source/MRViewer/MRViewportCornerController.cpp:99
 msgid "RIGHT"
