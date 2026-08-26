@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 10:56+0000\n"
+"POT-Creation-Date: 2026-08-26 04:45+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -92,6 +92,12 @@ msgstr "并尝试使用其他账户。"
 msgid "Try with another account?"
 msgstr "尝试使用其他账户？"
 
+msgid "Please enter valid email"
+msgstr "请输入有效的邮箱"
+
+msgid "Please enter your password"
+msgstr "请输入您的密码"
+
 msgid "Sign in"
 msgstr "登录"
 
@@ -103,12 +109,6 @@ msgstr "密码"
 
 msgid "Sign In"
 msgstr "登录"
-
-msgid "Please enter valid email"
-msgstr "请输入有效的邮箱"
-
-msgid "Please enter your password"
-msgstr "请输入您的密码"
 
 msgid "Remember me"
 msgstr "记住我"
