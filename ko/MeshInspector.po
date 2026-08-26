@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 10:56+0000\n"
+"POT-Creation-Date: 2026-08-26 04:45+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -92,6 +92,12 @@ msgstr "다른 계정으로 시도해 보세요."
 msgid "Try with another account?"
 msgstr "다른 계정으로 시도하시겠습니까?"
 
+msgid "Please enter valid email"
+msgstr "유효한 이메일을 입력하세요"
+
+msgid "Please enter your password"
+msgstr "비밀번호를 입력하세요"
+
 msgid "Sign in"
 msgstr "로그인"
 
@@ -103,12 +109,6 @@ msgstr "비밀번호"
 
 msgid "Sign In"
 msgstr "로그인"
-
-msgid "Please enter valid email"
-msgstr "유효한 이메일을 입력하세요"
-
-msgid "Please enter your password"
-msgstr "비밀번호를 입력하세요"
 
 msgid "Remember me"
 msgstr "로그인 상태 유지"

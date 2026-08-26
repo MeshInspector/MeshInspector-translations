@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 10:56+0000\n"
+"POT-Creation-Date: 2026-08-26 04:45+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -92,6 +92,12 @@ msgstr "und versuchen Sie es mit einem anderen Konto."
 msgid "Try with another account?"
 msgstr "Mit einem anderen Konto versuchen?"
 
+msgid "Please enter valid email"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+
+msgid "Please enter your password"
+msgstr "Bitte geben Sie Ihr Passwort ein"
+
 msgid "Sign in"
 msgstr "Anmelden"
 
@@ -103,12 +109,6 @@ msgstr "Passwort"
 
 msgid "Sign In"
 msgstr "Anmelden"
-
-msgid "Please enter valid email"
-msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein"
-
-msgid "Please enter your password"
-msgstr "Bitte geben Sie Ihr Passwort ein"
 
 msgid "Remember me"
 msgstr "Angemeldet bleiben"
