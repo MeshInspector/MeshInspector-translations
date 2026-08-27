@@ -1375,12 +1375,14 @@ msgid ""
 msgstr "사용자가 지정한 두 점을 통과하는 경계로 메시를 두 부분으로 분할합니다."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "슈링크 랩"
 
 msgid ""
 "Move every vertex of one mesh in the closest point on another mesh, keeping "
 "a given offset from it."
 msgstr ""
+"한 메시의 모든 정점을 다른 메시 위 가장 가까운 점으로 이동시키며, 그 메시로부"
+"터 주어진 오프셋을 유지합니다."
 
 msgid "Select Region"
 msgstr "영역 선택"

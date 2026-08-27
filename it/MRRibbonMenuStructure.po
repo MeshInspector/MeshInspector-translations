@@ -1475,12 +1475,14 @@ msgstr ""
 "indicati dall'utente."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "Involucro retraibile"
 
 msgid ""
 "Move every vertex of one mesh in the closest point on another mesh, keeping "
 "a given offset from it."
 msgstr ""
+"Sposta ogni vertice di una mesh nel punto più vicino su un'altra mesh, "
+"mantenendo un offset indicato rispetto a essa."
 
 msgid "Select Region"
 msgstr "Seleziona regione"

@@ -5466,21 +5466,23 @@ msgid "Homology basis is empty"
 msgstr "La base omologica è vuota"
 
 msgid "Modified object"
-msgstr ""
+msgstr "Oggetto modificato"
 
 msgid "Exchange reference and modified objects."
-msgstr ""
+msgstr "Scambia oggetti di riferimento e modificati."
 
 msgid ""
 "Distance to keep from the reference object: positive outside it, negative "
 "inside."
 msgstr ""
+"Distanza da mantenere dall'oggetto di riferimento: positiva all'esterno, "
+"negativa all'interno."
 
 msgid "Only the selected triangles of the modified object are moved."
-msgstr ""
+msgstr "Solo i triangoli selezionati dell'oggetto modificato vengono spostati."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "Involucro retraibile"
 
 msgid "Clear"
 msgstr "Cancella"

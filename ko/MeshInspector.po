@@ -5190,21 +5190,21 @@ msgid "Homology basis is empty"
 msgstr "호몰로지 기준이 비어 있습니다"
 
 msgid "Modified object"
-msgstr ""
+msgstr "수정 객체"
 
 msgid "Exchange reference and modified objects."
-msgstr ""
+msgstr "참조 객체와 수정 객체를 교환합니다."
 
 msgid ""
 "Distance to keep from the reference object: positive outside it, negative "
 "inside."
-msgstr ""
+msgstr "참조 객체로부터 유지할 거리: 양수는 바깥쪽, 음수는 안쪽입니다."
 
 msgid "Only the selected triangles of the modified object are moved."
-msgstr ""
+msgstr "수정 객체의 선택된 삼각형만 이동됩니다."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "슈링크 랩"
 
 msgid "Clear"
 msgstr "지우기"

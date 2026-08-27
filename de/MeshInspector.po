@@ -5476,7 +5476,7 @@ msgstr ""
 "Nur die ausgewählten Dreiecke des modifizierten Objekts werden verschoben."
 
 msgid "Shrink Wrap"
-msgstr "Schrumpfhülle"
+msgstr "Aufschrumpfen"
 
 msgid "Clear"
 msgstr "Leeren"
