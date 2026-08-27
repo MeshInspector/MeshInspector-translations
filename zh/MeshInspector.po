@@ -5005,21 +5005,21 @@ msgid "Homology basis is empty"
 msgstr "同调基为空"
 
 msgid "Modified object"
-msgstr ""
+msgstr "被修改对象"
 
 msgid "Exchange reference and modified objects."
-msgstr ""
+msgstr "交换参考对象和被修改对象。"
 
 msgid ""
 "Distance to keep from the reference object: positive outside it, negative "
 "inside."
-msgstr ""
+msgstr "与参考对象保持的距离：正值在其外部，负值在其内部。"
 
 msgid "Only the selected triangles of the modified object are moved."
-msgstr ""
+msgstr "仅移动被修改对象中选中的三角形。"
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "收缩包裹"
 
 msgid "Clear"
 msgstr "清除"

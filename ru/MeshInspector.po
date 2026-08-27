@@ -5411,21 +5411,23 @@ msgid "Homology basis is empty"
 msgstr "База гомологии пуста"
 
 msgid "Modified object"
-msgstr ""
+msgstr "Изменяемый объект"
 
 msgid "Exchange reference and modified objects."
-msgstr ""
+msgstr "Поменять местами опорный и изменяемый объекты."
 
 msgid ""
 "Distance to keep from the reference object: positive outside it, negative "
 "inside."
 msgstr ""
+"Расстояние, которое нужно сохранять от опорного объекта: положительное — "
+"снаружи него, отрицательное — внутри."
 
 msgid "Only the selected triangles of the modified object are moved."
-msgstr ""
+msgstr "Перемещаются только выбранные треугольники изменяемого объекта."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "Обтягивание"
 
 msgid "Clear"
 msgstr "Очистить"

@@ -1438,12 +1438,14 @@ msgstr ""
 "пользователем точки."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "Обтягивание"
 
 msgid ""
 "Move every vertex of one mesh in the closest point on another mesh, keeping "
 "a given offset from it."
 msgstr ""
+"Перемещает каждую вершину одного меша в ближайшую точку на другом меше, "
+"сохраняя заданное смещение от него."
 
 msgid "Select Region"
 msgstr "Выделить область"
