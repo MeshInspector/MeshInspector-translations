@@ -1474,6 +1474,14 @@ msgstr ""
 "Segmenta la mesh in due parti con un confine che passa per due punti "
 "indicati dall'utente."
 
+msgid "Shrink Wrap"
+msgstr ""
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr ""
+
 msgid "Select Region"
 msgstr "Seleziona regione"
 

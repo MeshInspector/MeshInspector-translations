@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-26 04:45+0000\n"
+"POT-Creation-Date: 2026-08-27 06:46+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5409,6 +5409,23 @@ msgstr "Выбрать ID петли"
 
 msgid "Homology basis is empty"
 msgstr "База гомологии пуста"
+
+msgid "Modified object"
+msgstr ""
+
+msgid "Exchange reference and modified objects."
+msgstr ""
+
+msgid ""
+"Distance to keep from the reference object: positive outside it, negative "
+"inside."
+msgstr ""
+
+msgid "Only the selected triangles of the modified object are moved."
+msgstr ""
+
+msgid "Shrink Wrap"
+msgstr ""
 
 msgid "Clear"
 msgstr "Очистить"

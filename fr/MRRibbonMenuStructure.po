@@ -1502,6 +1502,14 @@ msgstr ""
 "Segmente le maillage en deux parties avec une frontière passant par deux "
 "points indiqués par l'utilisateur."
 
+msgid "Shrink Wrap"
+msgstr ""
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr ""
+
 msgid "Select Region"
 msgstr "Sélectionner la région"
 

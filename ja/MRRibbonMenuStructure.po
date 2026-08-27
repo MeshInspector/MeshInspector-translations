@@ -1401,6 +1401,14 @@ msgid ""
 msgstr ""
 "ユーザーが指定した2点を通る境界でメッシュを2つの部分にセグメント化します。"
 
+msgid "Shrink Wrap"
+msgstr ""
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr ""
+
 msgid "Select Region"
 msgstr "領域を選択"
 
