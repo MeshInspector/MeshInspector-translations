@@ -1299,6 +1299,14 @@ msgid ""
 "points."
 msgstr "将网格分割为两部分,边界通过用户给出的两个点。"
 
+msgid "Shrink Wrap"
+msgstr "收缩包裹"
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr "将一个网格的每个顶点移动到另一个网格上最近的点,并与其保持给定的偏移。"
+
 msgid "Select Region"
 msgstr "选择区域"
 

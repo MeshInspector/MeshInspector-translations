@@ -1437,6 +1437,16 @@ msgstr ""
 "Разделяет меш на две части, граница которых проходит через две заданные "
 "пользователем точки."
 
+msgid "Shrink Wrap"
+msgstr "Обтягивание"
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr ""
+"Перемещает каждую вершину одного меша в ближайшую точку на другом меше, "
+"сохраняя заданное смещение от него."
+
 msgid "Select Region"
 msgstr "Выделить область"
 

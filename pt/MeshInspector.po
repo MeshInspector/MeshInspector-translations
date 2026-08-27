@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-26 04:45+0000\n"
+"POT-Creation-Date: 2026-08-27 06:46+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5431,6 +5431,25 @@ msgstr "Selecionar ID do ciclo"
 
 msgid "Homology basis is empty"
 msgstr "A base de homologia está vazia"
+
+msgid "Modified object"
+msgstr "Objeto modificado"
+
+msgid "Exchange reference and modified objects."
+msgstr "Trocar objetos de referência e modificado."
+
+msgid ""
+"Distance to keep from the reference object: positive outside it, negative "
+"inside."
+msgstr ""
+"Distância a manter do objeto de referência: positiva fora dele, negativa "
+"dentro."
+
+msgid "Only the selected triangles of the modified object are moved."
+msgstr "Apenas os triângulos selecionados do objeto modificado são movidos."
+
+msgid "Shrink Wrap"
+msgstr "Invólucro Retrátil"
 
 msgid "Clear"
 msgstr "Limpar"

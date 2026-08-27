@@ -1489,6 +1489,16 @@ msgstr ""
 "Segmenta la malla en dos partes con un borde que pasa por dos puntos "
 "indicados por el usuario."
 
+msgid "Shrink Wrap"
+msgstr "Envoltura retráctil"
+
+msgid ""
+"Move every vertex of one mesh in the closest point on another mesh, keeping "
+"a given offset from it."
+msgstr ""
+"Mueve cada vértice de una malla al punto más cercano de otra malla, "
+"manteniendo un desplazamiento indicado respecto a ella."
+
 msgid "Select Region"
 msgstr "Seleccionar región"
 
