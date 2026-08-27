@@ -1503,12 +1503,14 @@ msgstr ""
 "points indiqués par l'utilisateur."
 
 msgid "Shrink Wrap"
-msgstr ""
+msgstr "Enveloppe rétractable"
 
 msgid ""
 "Move every vertex of one mesh in the closest point on another mesh, keeping "
 "a given offset from it."
 msgstr ""
+"Déplace chaque sommet d'un maillage au point le plus proche d'un autre "
+"maillage, en conservant un décalage donné par rapport à celui-ci."
 
 msgid "Select Region"
 msgstr "Sélectionner la région"
