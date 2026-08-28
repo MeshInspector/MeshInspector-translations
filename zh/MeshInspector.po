@@ -2638,7 +2638,7 @@ msgid "Add boolean result"
 msgstr "添加布尔运算结果"
 
 msgid "Bridge Fill All Holes"
-msgstr ""
+msgstr "用桥填充所有孔洞"
 
 msgid "Smooth"
 msgstr "平滑"
@@ -7125,11 +7125,12 @@ msgid ""
 "Radius of the ball rolled over the points: every triangle touchable by an "
 "empty ball of this radius is included in the mesh."
 msgstr ""
+"在点上滚动的球的半径：每个能被此半径的空球接触到的三角形都会被包含在网格中。"
 
 msgid ""
 "If checked then original point cloud will remain in scene in addition to the "
 "mesh result."
-msgstr ""
+msgstr "如果勾选，则除了网格结果之外，原始点云也将保留在场景中。"
 
 msgid "Alpha Shape"
 msgstr "Alpha 形状"
