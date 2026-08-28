@@ -898,12 +898,14 @@ msgstr ""
 "각형으로 채웁니다."
 
 msgid "Bridge Fill All Holes"
-msgstr ""
+msgstr "다리로 모든 구멍 채우기"
 
 msgid ""
 "Connect the holes of every selected mesh with bridge edges and fill all the "
 "holes at once with extra triangles."
 msgstr ""
+"선택한 모든 메시의 구멍을 다리 가장자리로 연결하고 모든 구멍을 추가 삼각형으"
+"로 한 번에 채웁니다."
 
 msgid "Stitch Two Holes"
 msgstr "두 구멍 잇기"
@@ -1424,13 +1426,16 @@ msgstr ""
 "생성합니다."
 
 msgid "Alpha Shape"
-msgstr ""
+msgstr "알파 모양"
 
 msgid ""
 "Create a mesh from a point cloud including every triangle that an empty ball "
 "of given radius can touch, so a smaller radius keeps finer details and a "
 "larger radius bridges wider gaps."
 msgstr ""
+"지정된 반지름의 빈 구가 닿을 수 있는 모든 삼각형을 포함하여 포인트 클라우드로"
+"부터 메시를 생성합니다. 따라서 반지름이 작을수록 더 세밀한 부분이 유지되고, "
+"반지름이 클수록 더 넓은 간격이 연결됩니다."
 
 msgid "Points to Lines"
 msgstr "포인트를 라인으로"

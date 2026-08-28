@@ -2694,7 +2694,7 @@ msgid "Add boolean result"
 msgstr "불리언 결과 추가"
 
 msgid "Bridge Fill All Holes"
-msgstr ""
+msgstr "브리지로 모든 구멍 채우기"
 
 msgid "Smooth"
 msgstr "평활화"
@@ -7387,11 +7387,13 @@ msgid ""
 "Radius of the ball rolled over the points: every triangle touchable by an "
 "empty ball of this radius is included in the mesh."
 msgstr ""
+"포인트 위로 굴리는 공의 반지름입니다. 이 반지름의 빈 공이 닿을 수 있는 모든 "
+"삼각형이 메시에 포함됩니다."
 
 msgid ""
 "If checked then original point cloud will remain in scene in addition to the "
 "mesh result."
-msgstr ""
+msgstr "체크하면 메시 결과와 함께 원본 포인트 클라우드도 장면에 유지됩니다."
 
 msgid "Alpha Shape"
 msgstr "알파 모양"

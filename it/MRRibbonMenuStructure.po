@@ -969,12 +969,14 @@ msgstr ""
 "nuvola selezionata come vertici dei nuovi triangoli."
 
 msgid "Bridge Fill All Holes"
-msgstr ""
+msgstr "Riempi tutti i fori con ponti"
 
 msgid ""
 "Connect the holes of every selected mesh with bridge edges and fill all the "
 "holes at once with extra triangles."
 msgstr ""
+"Collega i fori di ogni mesh selezionata con spigoli ponte e riempie tutti i "
+"fori in una sola volta con triangoli aggiuntivi."
 
 msgid "Stitch Two Holes"
 msgstr "Cuci due fori"
@@ -1525,13 +1527,16 @@ msgstr ""
 "aggiungendo triangoli (triangolazione)."
 
 msgid "Alpha Shape"
-msgstr ""
+msgstr "Forma Alpha"
 
 msgid ""
 "Create a mesh from a point cloud including every triangle that an empty ball "
 "of given radius can touch, so a smaller radius keeps finer details and a "
 "larger radius bridges wider gaps."
 msgstr ""
+"Crea una mesh da una nuvola di punti includendo ogni triangolo che una sfera "
+"vuota di raggio indicato può toccare, quindi un raggio più piccolo conserva "
+"i dettagli più fini e un raggio più grande colma spazi vuoti più ampi."
 
 msgid "Points to Lines"
 msgstr "Punti in linee"

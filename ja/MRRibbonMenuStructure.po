@@ -927,12 +927,14 @@ msgstr ""
 "ます。"
 
 msgid "Bridge Fill All Holes"
-msgstr ""
+msgstr "ブリッジですべてのホールを埋める"
 
 msgid ""
 "Connect the holes of every selected mesh with bridge edges and fill all the "
 "holes at once with extra triangles."
 msgstr ""
+"選択した各メッシュのホールをブリッジエッジで接続し、すべてのホールを追加の三"
+"角形で一度に埋めます。"
 
 msgid "Stitch Two Holes"
 msgstr "2つのホールを縫合"
@@ -1451,13 +1453,16 @@ msgstr ""
 "ジェクトを作成します。"
 
 msgid "Alpha Shape"
-msgstr ""
+msgstr "アルファシェイプ"
 
 msgid ""
 "Create a mesh from a point cloud including every triangle that an empty ball "
 "of given radius can touch, so a smaller radius keeps finer details and a "
 "larger radius bridges wider gaps."
 msgstr ""
+"指定した半径の空の球が接触できるすべての三角形を含めて点群からメッシュを作成"
+"します。半径を小さくすると細部が保持され、半径を大きくするとより広い隙間を橋"
+"渡しします。"
 
 msgid "Points to Lines"
 msgstr "ポイントをラインに変換"
