@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2584,6 +2584,9 @@ msgid "Select two closed meshes"
 msgstr ""
 
 msgid "Add boolean result"
+msgstr ""
+
+msgid "Bridge Fill All Holes"
 msgstr ""
 
 msgid "Smooth"
@@ -6892,6 +6895,19 @@ msgstr ""
 msgid "Sample Points"
 msgstr ""
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+
+msgid "Alpha Shape"
+msgstr ""
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr ""
 
@@ -7115,9 +7131,6 @@ msgid ""
 msgstr ""
 
 msgid "Show Point IDs"
-msgstr ""
-
-msgid "Alpha Shape"
 msgstr ""
 
 msgid "Show Plane"

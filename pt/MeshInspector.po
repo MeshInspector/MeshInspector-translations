@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2784,6 +2784,9 @@ msgstr "Selecionar duas malhas fechadas"
 
 msgid "Add boolean result"
 msgstr "Adicionar resultado booleano"
+
+msgid "Bridge Fill All Holes"
+msgstr ""
 
 msgid "Smooth"
 msgstr "Suave"
@@ -7731,6 +7734,19 @@ msgstr ""
 msgid "Sample Points"
 msgstr "Amostrar Pontos"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+
+msgid "Alpha Shape"
+msgstr "Forma Alfa"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "Especifica o número de objetos em que dividir esta nuvem de pontos"
 
@@ -7982,9 +7998,6 @@ msgstr ""
 
 msgid "Show Point IDs"
 msgstr "Mostrar IDs dos Pontos"
-
-msgid "Alpha Shape"
-msgstr "Forma Alfa"
 
 msgid "Show Plane"
 msgstr "Mostrar Plano"

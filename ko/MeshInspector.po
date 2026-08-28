@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2692,6 +2692,9 @@ msgstr "닫힌 메시 두 개를 선택하세요"
 
 msgid "Add boolean result"
 msgstr "불리언 결과 추가"
+
+msgid "Bridge Fill All Holes"
+msgstr ""
 
 msgid "Smooth"
 msgstr "평활화"
@@ -7380,6 +7383,19 @@ msgstr ""
 msgid "Sample Points"
 msgstr "포인트 샘플링"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+
+msgid "Alpha Shape"
+msgstr "알파 모양"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "이 포인트 클라우드를 분할할 객체 수를 지정합니다"
 
@@ -7619,9 +7635,6 @@ msgstr ""
 
 msgid "Show Point IDs"
 msgstr "포인트 ID 표시"
-
-msgid "Alpha Shape"
-msgstr "알파 모양"
 
 msgid "Show Plane"
 msgstr "평면 표시"

@@ -926,6 +926,14 @@ msgstr ""
 "ホールを見つけ、選択した点群のポイントを新しい三角形の頂点として使用して埋め"
 "ます。"
 
+msgid "Bridge Fill All Holes"
+msgstr ""
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr ""
+
 msgid "Stitch Two Holes"
 msgstr "2つのホールを縫合"
 
@@ -1441,6 +1449,15 @@ msgid ""
 msgstr ""
 "アクティブな点群から頂点を取得して三角形（三角形分割）を追加してメッシュオブ"
 "ジェクトを作成します。"
+
+msgid "Alpha Shape"
+msgstr ""
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
 
 msgid "Points to Lines"
 msgstr "ポイントをラインに変換"

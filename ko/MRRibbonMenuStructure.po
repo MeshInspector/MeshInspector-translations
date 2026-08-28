@@ -897,6 +897,14 @@ msgstr ""
 "구멍을 찾아 선택한 클라우드의 포인트를 새 삼각형의 정점으로 사용하여 추가 삼"
 "각형으로 채웁니다."
 
+msgid "Bridge Fill All Holes"
+msgstr ""
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr ""
+
 msgid "Stitch Two Holes"
 msgstr "두 구멍 잇기"
 
@@ -1414,6 +1422,15 @@ msgid ""
 msgstr ""
 "활성 포인트 클라우드에서 정점을 가져와 삼각형을 추가(삼각화)하여 메시 객체를 "
 "생성합니다."
+
+msgid "Alpha Shape"
+msgstr ""
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
 
 msgid "Points to Lines"
 msgstr "포인트를 라인으로"

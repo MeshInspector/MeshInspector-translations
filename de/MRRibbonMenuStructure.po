@@ -979,6 +979,14 @@ msgstr ""
 "Findet Löcher und füllt sie mit zusätzlichen Dreiecken, wobei Punkte aus der "
 "ausgewählten Punktwolke als Eckpunkte der neuen Dreiecke verwendet werden."
 
+msgid "Bridge Fill All Holes"
+msgstr ""
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr ""
+
 msgid "Stitch Two Holes"
 msgstr "Zwei Löcher zusammennähen"
 
@@ -1528,6 +1536,15 @@ msgid ""
 msgstr ""
 "Erstellt Mesh-Objekte, indem Eckpunkte aus aktiven Punktwolken übernommen "
 "und Dreiecke hinzugefügt werden (Triangulation)."
+
+msgid "Alpha Shape"
+msgstr ""
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
 
 msgid "Points to Lines"
 msgstr "Punkte in Linien"
