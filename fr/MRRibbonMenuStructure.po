@@ -988,6 +988,16 @@ msgstr ""
 "utilisant les points du nuage sélectionné comme sommets des nouveaux "
 "triangles."
 
+msgid "Bridge Fill All Holes"
+msgstr "Remplir tous les trous par ponts"
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr ""
+"Relie les trous de chaque maillage sélectionné avec des arêtes de pont et "
+"remplit tous les trous en une seule fois avec des triangles supplémentaires."
+
 msgid "Stitch Two Holes"
 msgstr "Coudre deux trous"
 
@@ -1543,6 +1553,19 @@ msgid ""
 msgstr ""
 "Crée des objets maillage en prenant les sommets des nuages de points actifs "
 "et en ajoutant des triangles (triangulation)."
+
+msgid "Alpha Shape"
+msgstr "Forme alpha"
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
+"Crée un maillage à partir d'un nuage de points en incluant chaque triangle "
+"qu'une boule vide d'un rayon donné peut toucher : ainsi, un rayon plus petit "
+"conserve des détails plus fins et un rayon plus grand comble des lacunes "
+"plus larges."
 
 msgid "Points to Lines"
 msgstr "Points vers lignes"

@@ -945,6 +945,16 @@ msgstr ""
 "Находит отверстия и заполняет их дополнительными треугольниками, используя "
 "точки облака как вершины новых треугольников."
 
+msgid "Bridge Fill All Holes"
+msgstr "Заполнить все отверстия мостиками"
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr ""
+"Соединяет отверстия каждого выбранного меша рёбрами-мостиками и заполняет "
+"сразу все отверстия дополнительными треугольниками."
+
 msgid "Stitch Two Holes"
 msgstr "Сшить два отверстия"
 
@@ -1477,6 +1487,18 @@ msgid ""
 msgstr ""
 "Создаёт объекты меша, беря вершины из активных облаков точек и добавляя "
 "треугольники (триангуляция)."
+
+msgid "Alpha Shape"
+msgstr "Альфа-форма"
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
+"Создаёт меш из облака точек, включая каждый треугольник, которого может "
+"коснуться пустой шар заданного радиуса, поэтому меньший радиус сохраняет "
+"более мелкие детали, а больший радиус перекрывает более широкие промежутки."
 
 msgid "Points to Lines"
 msgstr "Точки в линии"

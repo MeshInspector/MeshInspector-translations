@@ -732,6 +732,12 @@ msgstr ""
 msgid "Find holes and fill them with extra triangles using points from the selected cloud as vertices of new triangles."
 msgstr ""
 
+msgid "Bridge Fill All Holes"
+msgstr ""
+
+msgid "Connect the holes of every selected mesh with bridge edges and fill all the holes at once with extra triangles."
+msgstr ""
+
 msgid "Stitch Two Holes"
 msgstr ""
 
@@ -1150,6 +1156,12 @@ msgid "Points to Mesh"
 msgstr ""
 
 msgid "Create mesh objects by taking vertices from active point clouds and adding triangles (triangulation)."
+msgstr ""
+
+msgid "Alpha Shape"
+msgstr ""
+
+msgid "Create a mesh from a point cloud including every triangle that an empty ball of given radius can touch, so a smaller radius keeps finer details and a larger radius bridges wider gaps."
 msgstr ""
 
 msgid "Points to Lines"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2636,6 +2636,9 @@ msgstr "选择两个封闭网格"
 
 msgid "Add boolean result"
 msgstr "添加布尔运算结果"
+
+msgid "Bridge Fill All Holes"
+msgstr "用桥填充所有孔洞"
 
 msgid "Smooth"
 msgstr "平滑"
@@ -7118,6 +7121,20 @@ msgstr ""
 msgid "Sample Points"
 msgstr "采样点"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+"在点上滚动的球的半径：每个能被此半径的空球接触到的三角形都会被包含在网格中。"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr "如果勾选，则除了网格结果之外，原始点云也将保留在场景中。"
+
+msgid "Alpha Shape"
+msgstr "Alpha 形状"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "指定将此点云拆分成的对象数量"
 
@@ -7347,9 +7364,6 @@ msgstr "显示以中心为球心、给定（或增加后）半径的球内所有
 
 msgid "Show Point IDs"
 msgstr "显示点 ID"
-
-msgid "Alpha Shape"
-msgstr "Alpha 形状"
 
 msgid "Show Plane"
 msgstr "显示平面"

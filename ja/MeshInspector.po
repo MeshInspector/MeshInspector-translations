@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2699,6 +2699,9 @@ msgstr "2つの閉じたメッシュを選択"
 
 msgid "Add boolean result"
 msgstr "ブーリアン結果を追加"
+
+msgid "Bridge Fill All Holes"
+msgstr "ブリッジですべての穴を充填"
 
 msgid "Smooth"
 msgstr "スムーズ"
@@ -7422,6 +7425,23 @@ msgstr ""
 msgid "Sample Points"
 msgstr "ポイントをサンプリング"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+"ポイント上を転がすボールの半径: この半径の空のボールが接することのできるすべ"
+"ての三角形がメッシュに含まれます。"
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+"チェックすると、メッシュ結果に加えて、元のポイントクラウドがシーンに残りま"
+"す。"
+
+msgid "Alpha Shape"
+msgstr "アルファシェイプ"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "このポイントクラウドを分割するオブジェクト数を指定します"
 
@@ -7663,9 +7683,6 @@ msgstr ""
 
 msgid "Show Point IDs"
 msgstr "ポイントIDを表示"
-
-msgid "Alpha Shape"
-msgstr "アルファシェイプ"
 
 msgid "Show Plane"
 msgstr "平面を表示"

@@ -849,6 +849,14 @@ msgid ""
 "cloud as vertices of new triangles."
 msgstr "查找孔洞并用额外的三角形填充,使用所选点云中的点作为新三角形的顶点。"
 
+msgid "Bridge Fill All Holes"
+msgstr "用桥梁填充所有孔洞"
+
+msgid ""
+"Connect the holes of every selected mesh with bridge edges and fill all the "
+"holes at once with extra triangles."
+msgstr "用桥梁边连接每个所选网格的孔洞,并用额外的三角形一次性填充所有孔洞。"
+
 msgid "Stitch Two Holes"
 msgstr "缝合两个孔"
 
@@ -1333,6 +1341,17 @@ msgid ""
 "Create mesh objects by taking vertices from active point clouds and adding "
 "triangles (triangulation)."
 msgstr "从活动点云获取顶点并添加三角形(三角化),创建网格对象。"
+
+msgid "Alpha Shape"
+msgstr "Alpha 形状"
+
+msgid ""
+"Create a mesh from a point cloud including every triangle that an empty ball "
+"of given radius can touch, so a smaller radius keeps finer details and a "
+"larger radius bridges wider gaps."
+msgstr ""
+"从点云创建网格,包含给定半径的空球所能接触到的每个三角形,因此较小的半径可保留"
+"更精细的细节,而较大的半径可跨越更宽的间隙。"
 
 msgid "Points to Lines"
 msgstr "点云转线"

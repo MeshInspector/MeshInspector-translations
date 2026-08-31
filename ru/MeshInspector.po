@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2769,6 +2769,9 @@ msgstr "Выберите два замкнутых меша"
 
 msgid "Add boolean result"
 msgstr "Добавить результат булевой операции"
+
+msgid "Bridge Fill All Holes"
+msgstr "Заполнить все отверстия мостами"
 
 msgid "Smooth"
 msgstr "Сглаживание"
@@ -7697,6 +7700,23 @@ msgstr ""
 msgid "Sample Points"
 msgstr "Дискретизировать точки"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+"Радиус шара, катящегося по точкам: каждый треугольник, которого может "
+"коснуться пустой шар такого радиуса, включается в меш."
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+"Если отмечено, исходное облако точек останется в сцене вместе с "
+"результирующим мешем."
+
+msgid "Alpha Shape"
+msgstr "Альфа-форма"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "Задаёт количество объектов, на которые разбивается данное облако точек"
 
@@ -7946,9 +7966,6 @@ msgstr ""
 
 msgid "Show Point IDs"
 msgstr "Показать идентификаторы точек"
-
-msgid "Alpha Shape"
-msgstr "Альфа-форма"
 
 msgid "Show Plane"
 msgstr "Показать плоскость"

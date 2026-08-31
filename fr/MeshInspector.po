@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 06:46+0000\n"
+"POT-Creation-Date: 2026-08-28 07:00+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2811,6 +2811,9 @@ msgstr "Sélectionner deux maillages fermés"
 
 msgid "Add boolean result"
 msgstr "Ajouter le résultat booléen"
+
+msgid "Bridge Fill All Holes"
+msgstr "Boucher tous les trous avec des ponts"
 
 msgid "Smooth"
 msgstr "Lisser"
@@ -7823,6 +7826,23 @@ msgstr ""
 msgid "Sample Points"
 msgstr "Échantillonner les points"
 
+msgid ""
+"Radius of the ball rolled over the points: every triangle touchable by an "
+"empty ball of this radius is included in the mesh."
+msgstr ""
+"Rayon de la boule roulée sur les points : chaque triangle pouvant être "
+"touché par une boule vide de ce rayon est inclus dans le maillage."
+
+msgid ""
+"If checked then original point cloud will remain in scene in addition to the "
+"mesh result."
+msgstr ""
+"Si coché, le nuage de points d'origine restera dans la scène en plus du "
+"maillage résultant."
+
+msgid "Alpha Shape"
+msgstr "Forme alpha"
+
 msgid "Specifies the number of objects to split this point cloud into"
 msgstr "Spécifie le nombre d'objets en lesquels diviser ce nuage de points"
 
@@ -8077,9 +8097,6 @@ msgstr ""
 
 msgid "Show Point IDs"
 msgstr "Afficher les ID des points"
-
-msgid "Alpha Shape"
-msgstr "Forme alpha"
 
 msgid "Show Plane"
 msgstr "Afficher le plan"
