@@ -299,8 +299,9 @@ msgid "Mesh to Points"
 msgstr "网格转点云"
 
 msgid ""
-"Create object points (object of points cloud) from selected object mesh."
-msgstr "由所选对象网格创建对象点(点云对象)。"
+"Convert the selected meshes into point clouds: either their vertices, or a "
+"point cover dense enough to stop a ball of the given radius."
+msgstr ""
 
 msgid "Project Color"
 msgstr "投影颜色"
@@ -1711,6 +1712,10 @@ msgstr "实验性"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid ""
+#~ "Create object points (object of points cloud) from selected object mesh."
+#~ msgstr "由所选对象网格创建对象点(点云对象)。"
 
 #~ msgid "Points to Spline"
 #~ msgstr "点云转样条"

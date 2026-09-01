@@ -324,8 +324,9 @@ msgid "Mesh to Points"
 msgstr "Меш в точки"
 
 msgid ""
-"Create object points (object of points cloud) from selected object mesh."
-msgstr "Создаёт облако точек из выбранного меша."
+"Convert the selected meshes into point clouds: either their vertices, or a "
+"point cover dense enough to stop a ball of the given radius."
+msgstr ""
 
 msgid "Project Color"
 msgstr "Проецировать цвет"
@@ -1888,6 +1889,10 @@ msgstr "Эксперименты"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid ""
+#~ "Create object points (object of points cloud) from selected object mesh."
+#~ msgstr "Создаёт облако точек из выбранного меша."
 
 #~ msgid "Points to Spline"
 #~ msgstr "Точки в сплайн"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-01 04:38+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -7192,14 +7192,30 @@ msgstr "合并扫描"
 msgid "Scans to Mesh"
 msgstr "扫描转网格"
 
-msgid "Save normals"
-msgstr "保存法线"
+msgid "Save Normals"
+msgstr ""
 
-msgid "Point cover"
-msgstr "点覆盖"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
 
-msgid "Target Point Distance"
-msgstr "目标点距离"
+msgid "Point Cover"
+msgstr ""
+
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr ""
+
+msgid "Blocked Ball Radius"
+msgstr ""
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
 
 msgid "Mesh to Points"
 msgstr "网格转点"
@@ -8897,6 +8913,15 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "Save normals"
+#~ msgstr "保存法线"
+
+#~ msgid "Point cover"
+#~ msgstr "点覆盖"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "目标点距离"
 
 #~ msgid "Forgot your"
 #~ msgstr "忘记您的"

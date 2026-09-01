@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-01 04:38+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -7774,14 +7774,30 @@ msgstr "Объединить сканы"
 msgid "Scans to Mesh"
 msgstr "Сканы в меш"
 
-msgid "Save normals"
-msgstr "Сохранить нормали"
+msgid "Save Normals"
+msgstr ""
 
-msgid "Point cover"
-msgstr "Покрытие точек"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
 
-msgid "Target Point Distance"
-msgstr "Целевое расстояние между точками"
+msgid "Point Cover"
+msgstr ""
+
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr ""
+
+msgid "Blocked Ball Radius"
+msgstr ""
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
 
 msgid "Mesh to Points"
 msgstr "Меш в точки"
@@ -9588,6 +9604,15 @@ msgstr "Снимок"
 
 msgid "Import Zivid scan"
 msgstr "Импортировать скан Zivid"
+
+#~ msgid "Save normals"
+#~ msgstr "Сохранить нормали"
+
+#~ msgid "Point cover"
+#~ msgstr "Покрытие точек"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "Целевое расстояние между точками"
 
 #~ msgid "Forgot your"
 #~ msgstr "Забыли"

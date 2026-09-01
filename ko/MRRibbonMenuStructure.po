@@ -310,8 +310,9 @@ msgid "Mesh to Points"
 msgstr "메시를 포인트로"
 
 msgid ""
-"Create object points (object of points cloud) from selected object mesh."
-msgstr "선택한 객체 메시로부터 객체 포인트(포인트 클라우드 객체)를 생성합니다."
+"Convert the selected meshes into point clouds: either their vertices, or a "
+"point cover dense enough to stop a ball of the given radius."
+msgstr ""
 
 msgid "Project Color"
 msgstr "색상 투영"
@@ -1810,6 +1811,11 @@ msgstr "실험적"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+#~ msgid ""
+#~ "Create object points (object of points cloud) from selected object mesh."
+#~ msgstr ""
+#~ "선택한 객체 메시로부터 객체 포인트(포인트 클라우드 객체)를 생성합니다."
 
 #~ msgid "Points to Spline"
 #~ msgstr "포인트를 스플라인으로"
