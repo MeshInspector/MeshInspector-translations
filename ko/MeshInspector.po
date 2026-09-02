@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-01 04:38+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5060,6 +5060,41 @@ msgstr "리메시"
 
 msgid "All selected objects have only one component."
 msgstr "선택된 모든 객체에는 하나의 구성요소만 있습니다."
+
+msgid "Maximum Area"
+msgstr ""
+
+msgid "Maximum Absolute Volume"
+msgstr ""
+
+msgid "Maximum Positive Volume"
+msgstr ""
+
+msgid "Minimum Negative Volume"
+msgstr ""
+
+msgid "Keep the component with the largest surface area"
+msgstr ""
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr ""
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr ""
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr ""
+
+msgid "Criterion"
+msgstr ""
+
+msgid "Volume criteria are intended for closed or almost closed components"
+msgstr ""
 
 msgid "Largest Component"
 msgstr "가장 큰 구성요소"

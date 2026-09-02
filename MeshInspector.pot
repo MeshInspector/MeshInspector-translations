@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-01 04:38+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4742,6 +4742,41 @@ msgid "Remesh"
 msgstr ""
 
 msgid "All selected objects have only one component."
+msgstr ""
+
+msgid "Maximum Area"
+msgstr ""
+
+msgid "Maximum Absolute Volume"
+msgstr ""
+
+msgid "Maximum Positive Volume"
+msgstr ""
+
+msgid "Minimum Negative Volume"
+msgstr ""
+
+msgid "Keep the component with the largest surface area"
+msgstr ""
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr ""
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr ""
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr ""
+
+msgid "Criterion"
+msgstr ""
+
+msgid "Volume criteria are intended for closed or almost closed components"
 msgstr ""
 
 msgid "Largest Component"
