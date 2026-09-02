@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5084,6 +5084,41 @@ msgstr "再メッシュ"
 msgid "All selected objects have only one component."
 msgstr "選択されたすべてのオブジェクトはコンポーネントが1つのみです。"
 
+msgid "Maximum Area"
+msgstr "最大面積"
+
+msgid "Maximum Absolute Volume"
+msgstr "最大絶対体積"
+
+msgid "Maximum Positive Volume"
+msgstr "最大正体積"
+
+msgid "Minimum Negative Volume"
+msgstr "最小負体積"
+
+msgid "Keep the component with the largest surface area"
+msgstr "表面積が最大のコンポーネントを維持します"
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr "符号にかかわらず、絶対体積が最大のコンポーネントを維持します"
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr "正の体積が最大のコンポーネントを維持します（法線は外側を向いています）"
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr "負の体積が最小のコンポーネントを維持します（法線は内側を向いています）"
+
+msgid "Criterion"
+msgstr "基準"
+
+msgid "Volume criteria are intended for closed or almost closed components"
+msgstr "体積基準は、閉じた、またはほぼ閉じたコンポーネントを対象としています"
+
 msgid "Largest Component"
 msgstr "最大コンポーネント"
 
@@ -7499,14 +7534,37 @@ msgstr "スキャンをマージ"
 msgid "Scans to Mesh"
 msgstr "スキャンをメッシュに変換"
 
-msgid "Save normals"
+msgid "Save Normals"
 msgstr "法線を保存"
 
-msgid "Point cover"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
+"すべてのポイントに法線を付与します: メッシュ頂点の法線と、それらの間でサンプ"
+"リングされたポイントにおけるその補間です。"
+
+msgid "Point Cover"
 msgstr "ポイントカバー"
 
-msgid "Target Point Distance"
-msgstr "目標ポイント間距離"
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr ""
+"メッシュの頂点のみを使用する代わりに、指定した半径のボールを止められる程度に"
+"密にサーフェスをサンプリングします。"
+
+msgid "Blocked Ball Radius"
+msgstr "遮断ボール半径"
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
+"この半径のボールは、結果の点群のポイントに触れずにその中を通り抜けることはで"
+"きません。サーフェスのすべてのポイントがこの距離内に点群のポイントを持つため"
+"です。"
 
 msgid "Mesh to Points"
 msgstr "メッシュをポイントに変換"
@@ -9268,6 +9326,15 @@ msgstr "キャプチャ"
 
 msgid "Import Zivid scan"
 msgstr "Zividスキャンをインポート"
+
+#~ msgid "Save normals"
+#~ msgstr "法線を保存"
+
+#~ msgid "Point cover"
+#~ msgstr "ポイントカバー"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "目標ポイント間距離"
 
 #~ msgid "Forgot your"
 #~ msgstr "パスワードを"

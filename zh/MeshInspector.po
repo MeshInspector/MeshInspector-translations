@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4880,6 +4880,41 @@ msgstr "重新网格化"
 msgid "All selected objects have only one component."
 msgstr "所有选中对象只有一个组件。"
 
+msgid "Maximum Area"
+msgstr "最大面积"
+
+msgid "Maximum Absolute Volume"
+msgstr "最大绝对体积"
+
+msgid "Maximum Positive Volume"
+msgstr "最大正体积"
+
+msgid "Minimum Negative Volume"
+msgstr "最小负体积"
+
+msgid "Keep the component with the largest surface area"
+msgstr "保留表面积最大的组件"
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr "保留绝对体积最大的组件，无论其符号如何"
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr "保留正体积最大的组件（其法线朝外）"
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr "保留负体积最小的组件（其法线朝内）"
+
+msgid "Criterion"
+msgstr "准则"
+
+msgid "Volume criteria are intended for closed or almost closed components"
+msgstr "体积准则适用于封闭或近似封闭的组件"
+
 msgid "Largest Component"
 msgstr "最大组件"
 
@@ -7192,14 +7227,33 @@ msgstr "合并扫描"
 msgid "Scans to Mesh"
 msgstr "扫描转网格"
 
-msgid "Save normals"
+msgid "Save Normals"
 msgstr "保存法线"
 
-msgid "Point cover"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
+"为每个点赋予法线：网格顶点的法线，以及在它们之间采样的点上对这些法线的插值。"
+
+msgid "Point Cover"
 msgstr "点覆盖"
 
-msgid "Target Point Distance"
-msgstr "目标点距离"
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr "对表面进行足够密集的采样以阻挡给定半径的球，而不是仅取网格的顶点。"
+
+msgid "Blocked Ball Radius"
+msgstr "阻挡球半径"
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
+"此半径的球无法在不接触结果点云中的点的情况下穿过该点云，因为表面上的每个点在"
+"此距离内都有一个点云中的点。"
 
 msgid "Mesh to Points"
 msgstr "网格转点"
@@ -8897,6 +8951,15 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "Save normals"
+#~ msgstr "保存法线"
+
+#~ msgid "Point cover"
+#~ msgstr "点覆盖"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "目标点距离"
 
 #~ msgid "Forgot your"
 #~ msgstr "忘记您的"

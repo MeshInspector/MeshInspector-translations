@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5361,6 +5361,48 @@ msgstr "Remailler"
 msgid "All selected objects have only one component."
 msgstr "Tous les objets sélectionnés n'ont qu'un seul composant."
 
+msgid "Maximum Area"
+msgstr "Aire maximale"
+
+msgid "Maximum Absolute Volume"
+msgstr "Volume absolu maximal"
+
+msgid "Maximum Positive Volume"
+msgstr "Volume positif maximal"
+
+msgid "Minimum Negative Volume"
+msgstr "Volume négatif minimal"
+
+msgid "Keep the component with the largest surface area"
+msgstr "Conserver le composant ayant la plus grande aire de surface"
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr ""
+"Conserver le composant ayant le plus grand volume absolu, quel que soit son "
+"signe"
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr ""
+"Conserver le composant ayant le plus grand volume positif (ses normales "
+"pointent vers l'extérieur)"
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr ""
+"Conserver le composant ayant le plus petit volume négatif (ses normales "
+"pointent vers l'intérieur)"
+
+msgid "Criterion"
+msgstr "Critère"
+
+msgid "Volume criteria are intended for closed or almost closed components"
+msgstr ""
+"Les critères de volume sont destinés aux composants fermés ou presque fermés"
+
 msgid "Largest Component"
 msgstr "Plus grand composant"
 
@@ -7900,14 +7942,37 @@ msgstr "Fusionner les scans"
 msgid "Scans to Mesh"
 msgstr "Scans vers maillage"
 
-msgid "Save normals"
+msgid "Save Normals"
 msgstr "Enregistrer les normales"
 
-msgid "Point cover"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
+"Donner une normale à chaque point : les normales des sommets du maillage et "
+"leur interpolation aux points échantillonnés entre eux."
+
+msgid "Point Cover"
 msgstr "Couverture de points"
 
-msgid "Target Point Distance"
-msgstr "Distance entre points cible"
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr ""
+"Échantillonner la surface assez densément pour bloquer une boule du rayon "
+"donné, au lieu de prendre uniquement les sommets du maillage."
+
+msgid "Blocked Ball Radius"
+msgstr "Rayon de la boule bloquée"
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
+"Aucune boule de ce rayon ne peut traverser le nuage résultant sans toucher "
+"l'un de ses points, car chaque point de la surface possède un point du nuage "
+"à moins de cette distance."
 
 msgid "Mesh to Points"
 msgstr "Maillage vers points"
@@ -9754,6 +9819,15 @@ msgstr "Capturer"
 
 msgid "Import Zivid scan"
 msgstr "Importer un scan Zivid"
+
+#~ msgid "Save normals"
+#~ msgstr "Enregistrer les normales"
+
+#~ msgid "Point cover"
+#~ msgstr "Couverture de points"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "Distance entre points cible"
 
 #~ msgid "Forgot your"
 #~ msgstr "Mot de passe"

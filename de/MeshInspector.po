@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-28 07:00+0000\n"
+"POT-Creation-Date: 2026-09-02 04:39+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5320,6 +5320,49 @@ msgstr "Remesh"
 msgid "All selected objects have only one component."
 msgstr "Alle ausgewählten Objekte haben nur eine Komponente."
 
+msgid "Maximum Area"
+msgstr "Maximale Fläche"
+
+msgid "Maximum Absolute Volume"
+msgstr "Maximales absolutes Volumen"
+
+msgid "Maximum Positive Volume"
+msgstr "Maximales positives Volumen"
+
+msgid "Minimum Negative Volume"
+msgstr "Minimales negatives Volumen"
+
+msgid "Keep the component with the largest surface area"
+msgstr "Die Komponente mit der größten Oberfläche beibehalten"
+
+msgid ""
+"Keep the component with the largest absolute volume, whatever its sign is"
+msgstr ""
+"Die Komponente mit dem größten absoluten Volumen beibehalten, unabhängig von "
+"dessen Vorzeichen"
+
+msgid ""
+"Keep the component with the largest positive volume (its normals look "
+"outside)"
+msgstr ""
+"Die Komponente mit dem größten positiven Volumen beibehalten (ihre Normalen "
+"zeigen nach außen)"
+
+msgid ""
+"Keep the component with the smallest negative volume (its normals look "
+"inside)"
+msgstr ""
+"Die Komponente mit dem kleinsten negativen Volumen beibehalten (ihre "
+"Normalen zeigen nach innen)"
+
+msgid "Criterion"
+msgstr "Kriterium"
+
+msgid "Volume criteria are intended for closed or almost closed components"
+msgstr ""
+"Volumenkriterien sind für geschlossene oder nahezu geschlossene Komponenten "
+"gedacht"
+
 msgid "Largest Component"
 msgstr "Größte Komponente"
 
@@ -7778,8 +7821,8 @@ msgid ""
 "If checked then original point cloud will remain in scene in addition to the "
 "mesh result."
 msgstr ""
-"Wenn aktiviert, bleibt die ursprüngliche Punktwolke zusätzlich zum "
-"Mesh-Ergebnis in der Szene."
+"Wenn aktiviert, bleibt die ursprüngliche Punktwolke zusätzlich zum Mesh-"
+"Ergebnis in der Szene."
 
 msgid "Alpha Shape"
 msgstr "Alpha-Form"
@@ -7842,14 +7885,37 @@ msgstr "Scans zusammenführen"
 msgid "Scans to Mesh"
 msgstr "Scans zu Mesh"
 
-msgid "Save normals"
+msgid "Save Normals"
 msgstr "Normalen speichern"
 
-msgid "Point cover"
+msgid ""
+"Give every point a normal: the normals of the mesh vertices, and their "
+"interpolation in the points sampled between them."
+msgstr ""
+"Jedem Punkt eine Normale geben: die Normalen der Mesh-Vertices und deren "
+"Interpolation in den dazwischen abgetasteten Punkten."
+
+msgid "Point Cover"
 msgstr "Punktabdeckung"
 
-msgid "Target Point Distance"
-msgstr "Zielpunktabstand"
+msgid ""
+"Sample the surface densely enough to stop a ball of the given radius, "
+"instead of taking the vertices of the mesh alone."
+msgstr ""
+"Die Oberfläche dicht genug abtasten, um eine Kugel mit dem angegebenen "
+"Radius aufzuhalten, anstatt nur die Vertices des Meshes zu verwenden."
+
+msgid "Blocked Ball Radius"
+msgstr "Radius der blockierten Kugel"
+
+msgid ""
+"No ball of this radius can pass through the resulting cloud without touching "
+"a point of it, because every point of the surface has a point of the cloud "
+"within this distance."
+msgstr ""
+"Keine Kugel mit diesem Radius kann die resultierende Wolke durchdringen, "
+"ohne einen ihrer Punkte zu berühren, da jeder Punkt der Oberfläche einen "
+"Punkt der Wolke innerhalb dieses Abstands hat."
 
 msgid "Mesh to Points"
 msgstr "Mesh zu Punkten"
@@ -9681,6 +9747,15 @@ msgstr "Aufnehmen"
 
 msgid "Import Zivid scan"
 msgstr "Zivid-Scan importieren"
+
+#~ msgid "Save normals"
+#~ msgstr "Normalen speichern"
+
+#~ msgid "Point cover"
+#~ msgstr "Punktabdeckung"
+
+#~ msgid "Target Point Distance"
+#~ msgstr "Zielpunktabstand"
 
 #~ msgid "Forgot your"
 #~ msgstr "Vergessen Sie Ihr"
