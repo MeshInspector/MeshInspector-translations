@@ -5321,39 +5321,47 @@ msgid "All selected objects have only one component."
 msgstr "Alle ausgewählten Objekte haben nur eine Komponente."
 
 msgid "Maximum Area"
-msgstr ""
+msgstr "Maximale Fläche"
 
 msgid "Maximum Absolute Volume"
-msgstr ""
+msgstr "Maximales absolutes Volumen"
 
 msgid "Maximum Positive Volume"
-msgstr ""
+msgstr "Maximales positives Volumen"
 
 msgid "Minimum Negative Volume"
-msgstr ""
+msgstr "Minimales negatives Volumen"
 
 msgid "Keep the component with the largest surface area"
-msgstr ""
+msgstr "Die Komponente mit der größten Oberfläche beibehalten"
 
 msgid ""
 "Keep the component with the largest absolute volume, whatever its sign is"
 msgstr ""
+"Die Komponente mit dem größten absoluten Volumen beibehalten, unabhängig von "
+"dessen Vorzeichen"
 
 msgid ""
 "Keep the component with the largest positive volume (its normals look "
 "outside)"
 msgstr ""
+"Die Komponente mit dem größten positiven Volumen beibehalten (ihre Normalen "
+"zeigen nach außen)"
 
 msgid ""
 "Keep the component with the smallest negative volume (its normals look "
 "inside)"
 msgstr ""
+"Die Komponente mit dem kleinsten negativen Volumen beibehalten (ihre "
+"Normalen zeigen nach innen)"
 
 msgid "Criterion"
-msgstr ""
+msgstr "Kriterium"
 
 msgid "Volume criteria are intended for closed or almost closed components"
 msgstr ""
+"Volumenkriterien sind für geschlossene oder nahezu geschlossene Komponenten "
+"gedacht"
 
 msgid "Largest Component"
 msgstr "Größte Komponente"
@@ -7878,29 +7886,36 @@ msgid "Scans to Mesh"
 msgstr "Scans zu Mesh"
 
 msgid "Save Normals"
-msgstr ""
+msgstr "Normalen speichern"
 
 msgid ""
 "Give every point a normal: the normals of the mesh vertices, and their "
 "interpolation in the points sampled between them."
 msgstr ""
+"Jedem Punkt eine Normale geben: die Normalen der Mesh-Vertices und deren "
+"Interpolation in den dazwischen abgetasteten Punkten."
 
 msgid "Point Cover"
-msgstr ""
+msgstr "Punktabdeckung"
 
 msgid ""
 "Sample the surface densely enough to stop a ball of the given radius, "
 "instead of taking the vertices of the mesh alone."
 msgstr ""
+"Die Oberfläche dicht genug abtasten, um eine Kugel mit dem angegebenen "
+"Radius aufzuhalten, anstatt nur die Vertices des Meshes zu verwenden."
 
 msgid "Blocked Ball Radius"
-msgstr ""
+msgstr "Radius der blockierten Kugel"
 
 msgid ""
 "No ball of this radius can pass through the resulting cloud without touching "
 "a point of it, because every point of the surface has a point of the cloud "
 "within this distance."
 msgstr ""
+"Keine Kugel mit diesem Radius kann die resultierende Wolke durchdringen, "
+"ohne einen ihrer Punkte zu berühren, da jeder Punkt der Oberfläche einen "
+"Punkt der Wolke innerhalb dieses Abstands hat."
 
 msgid "Mesh to Points"
 msgstr "Mesh zu Punkten"
