@@ -5277,39 +5277,45 @@ msgid "All selected objects have only one component."
 msgstr "Все выбранные объекты имеют только один компонент."
 
 msgid "Maximum Area"
-msgstr ""
+msgstr "Максимальная площадь"
 
 msgid "Maximum Absolute Volume"
-msgstr ""
+msgstr "Максимальный абсолютный объём"
 
 msgid "Maximum Positive Volume"
-msgstr ""
+msgstr "Максимальный положительный объём"
 
 msgid "Minimum Negative Volume"
-msgstr ""
+msgstr "Минимальный отрицательный объём"
 
 msgid "Keep the component with the largest surface area"
-msgstr ""
+msgstr "Сохранить компонент с наибольшей площадью поверхности"
 
 msgid ""
 "Keep the component with the largest absolute volume, whatever its sign is"
 msgstr ""
+"Сохранить компонент с наибольшим абсолютным объёмом, независимо от его знака"
 
 msgid ""
 "Keep the component with the largest positive volume (its normals look "
 "outside)"
 msgstr ""
+"Сохранить компонент с наибольшим положительным объёмом (его нормали "
+"направлены наружу)"
 
 msgid ""
 "Keep the component with the smallest negative volume (its normals look "
 "inside)"
 msgstr ""
+"Сохранить компонент с наименьшим отрицательным объёмом (его нормали "
+"направлены внутрь)"
 
 msgid "Criterion"
-msgstr ""
+msgstr "Критерий"
 
 msgid "Volume criteria are intended for closed or almost closed components"
 msgstr ""
+"Объёмные критерии предназначены для замкнутых или почти замкнутых компонентов"
 
 msgid "Largest Component"
 msgstr "Наибольший компонент"
@@ -7810,29 +7816,36 @@ msgid "Scans to Mesh"
 msgstr "Сканы в меш"
 
 msgid "Save Normals"
-msgstr ""
+msgstr "Сохранить нормали"
 
 msgid ""
 "Give every point a normal: the normals of the mesh vertices, and their "
 "interpolation in the points sampled between them."
 msgstr ""
+"Задать каждой точке нормаль: нормали вершин меша и их интерполяцию в точках, "
+"выбранных между ними."
 
 msgid "Point Cover"
-msgstr ""
+msgstr "Покрытие точками"
 
 msgid ""
 "Sample the surface densely enough to stop a ball of the given radius, "
 "instead of taking the vertices of the mesh alone."
 msgstr ""
+"Дискретизировать поверхность достаточно плотно, чтобы остановить шар "
+"заданного радиуса, вместо использования только вершин меша."
 
 msgid "Blocked Ball Radius"
-msgstr ""
+msgstr "Радиус блокируемого шара"
 
 msgid ""
 "No ball of this radius can pass through the resulting cloud without touching "
 "a point of it, because every point of the surface has a point of the cloud "
 "within this distance."
 msgstr ""
+"Шар такого радиуса не может пройти сквозь полученное облако, не коснувшись "
+"его точки, поскольку для каждой точки поверхности существует точка облака в "
+"пределах этого расстояния."
 
 msgid "Mesh to Points"
 msgstr "Меш в точки"

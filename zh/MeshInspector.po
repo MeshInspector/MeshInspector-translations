@@ -4881,39 +4881,39 @@ msgid "All selected objects have only one component."
 msgstr "所有选中对象只有一个组件。"
 
 msgid "Maximum Area"
-msgstr ""
+msgstr "最大面积"
 
 msgid "Maximum Absolute Volume"
-msgstr ""
+msgstr "最大绝对体积"
 
 msgid "Maximum Positive Volume"
-msgstr ""
+msgstr "最大正体积"
 
 msgid "Minimum Negative Volume"
-msgstr ""
+msgstr "最小负体积"
 
 msgid "Keep the component with the largest surface area"
-msgstr ""
+msgstr "保留表面积最大的组件"
 
 msgid ""
 "Keep the component with the largest absolute volume, whatever its sign is"
-msgstr ""
+msgstr "保留绝对体积最大的组件，无论其符号如何"
 
 msgid ""
 "Keep the component with the largest positive volume (its normals look "
 "outside)"
-msgstr ""
+msgstr "保留正体积最大的组件（其法线朝外）"
 
 msgid ""
 "Keep the component with the smallest negative volume (its normals look "
 "inside)"
-msgstr ""
+msgstr "保留负体积最小的组件（其法线朝内）"
 
 msgid "Criterion"
-msgstr ""
+msgstr "准则"
 
 msgid "Volume criteria are intended for closed or almost closed components"
-msgstr ""
+msgstr "体积准则适用于封闭或近似封闭的组件"
 
 msgid "Largest Component"
 msgstr "最大组件"
@@ -7228,29 +7228,32 @@ msgid "Scans to Mesh"
 msgstr "扫描转网格"
 
 msgid "Save Normals"
-msgstr ""
+msgstr "保存法线"
 
 msgid ""
 "Give every point a normal: the normals of the mesh vertices, and their "
 "interpolation in the points sampled between them."
 msgstr ""
+"为每个点赋予法线：网格顶点的法线，以及在它们之间采样的点上对这些法线的插值。"
 
 msgid "Point Cover"
-msgstr ""
+msgstr "点覆盖"
 
 msgid ""
 "Sample the surface densely enough to stop a ball of the given radius, "
 "instead of taking the vertices of the mesh alone."
-msgstr ""
+msgstr "对表面进行足够密集的采样以阻挡给定半径的球，而不是仅取网格的顶点。"
 
 msgid "Blocked Ball Radius"
-msgstr ""
+msgstr "阻挡球半径"
 
 msgid ""
 "No ball of this radius can pass through the resulting cloud without touching "
 "a point of it, because every point of the surface has a point of the cloud "
 "within this distance."
 msgstr ""
+"此半径的球无法在不接触结果点云中的点的情况下穿过该点云，因为表面上的每个点在"
+"此距离内都有一个点云中的点。"
 
 msgid "Mesh to Points"
 msgstr "网格转点"

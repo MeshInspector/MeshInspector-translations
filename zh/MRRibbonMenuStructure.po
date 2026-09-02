@@ -302,6 +302,8 @@ msgid ""
 "Convert the selected meshes into point clouds: either their vertices, or a "
 "point cover dense enough to stop a ball of the given radius."
 msgstr ""
+"将所选网格转换为点云:可以是其顶点,也可以是足够密集、能够阻挡给定半径球体的点"
+"覆盖。"
 
 msgid "Project Color"
 msgstr "投影颜色"

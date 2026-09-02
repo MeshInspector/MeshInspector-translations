@@ -327,6 +327,8 @@ msgid ""
 "Convert the selected meshes into point clouds: either their vertices, or a "
 "point cover dense enough to stop a ball of the given radius."
 msgstr ""
+"Преобразует выбранные меши в облака точек: либо их вершины, либо покрытие "
+"точками, достаточно плотное, чтобы остановить шар заданного радиуса."
 
 msgid "Project Color"
 msgstr "Проецировать цвет"
