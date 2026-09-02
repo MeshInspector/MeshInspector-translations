@@ -5085,39 +5085,39 @@ msgid "All selected objects have only one component."
 msgstr "選択されたすべてのオブジェクトはコンポーネントが1つのみです。"
 
 msgid "Maximum Area"
-msgstr ""
+msgstr "最大面積"
 
 msgid "Maximum Absolute Volume"
-msgstr ""
+msgstr "最大絶対体積"
 
 msgid "Maximum Positive Volume"
-msgstr ""
+msgstr "最大正体積"
 
 msgid "Minimum Negative Volume"
-msgstr ""
+msgstr "最小負体積"
 
 msgid "Keep the component with the largest surface area"
-msgstr ""
+msgstr "表面積が最大のコンポーネントを維持します"
 
 msgid ""
 "Keep the component with the largest absolute volume, whatever its sign is"
-msgstr ""
+msgstr "符号にかかわらず、絶対体積が最大のコンポーネントを維持します"
 
 msgid ""
 "Keep the component with the largest positive volume (its normals look "
 "outside)"
-msgstr ""
+msgstr "正の体積が最大のコンポーネントを維持します（法線は外側を向いています）"
 
 msgid ""
 "Keep the component with the smallest negative volume (its normals look "
 "inside)"
-msgstr ""
+msgstr "負の体積が最小のコンポーネントを維持します（法線は内側を向いています）"
 
 msgid "Criterion"
-msgstr ""
+msgstr "基準"
 
 msgid "Volume criteria are intended for closed or almost closed components"
-msgstr ""
+msgstr "体積基準は、閉じた、またはほぼ閉じたコンポーネントを対象としています"
 
 msgid "Largest Component"
 msgstr "最大コンポーネント"
@@ -7535,29 +7535,36 @@ msgid "Scans to Mesh"
 msgstr "スキャンをメッシュに変換"
 
 msgid "Save Normals"
-msgstr ""
+msgstr "法線を保存"
 
 msgid ""
 "Give every point a normal: the normals of the mesh vertices, and their "
 "interpolation in the points sampled between them."
 msgstr ""
+"すべてのポイントに法線を付与します: メッシュ頂点の法線と、それらの間でサンプ"
+"リングされたポイントにおけるその補間です。"
 
 msgid "Point Cover"
-msgstr ""
+msgstr "ポイントカバー"
 
 msgid ""
 "Sample the surface densely enough to stop a ball of the given radius, "
 "instead of taking the vertices of the mesh alone."
 msgstr ""
+"メッシュの頂点のみを使用する代わりに、指定した半径のボールを止められる程度に"
+"密にサーフェスをサンプリングします。"
 
 msgid "Blocked Ball Radius"
-msgstr ""
+msgstr "遮断ボール半径"
 
 msgid ""
 "No ball of this radius can pass through the resulting cloud without touching "
 "a point of it, because every point of the surface has a point of the cloud "
 "within this distance."
 msgstr ""
+"この半径のボールは、結果の点群のポイントに触れずにその中を通り抜けることはで"
+"きません。サーフェスのすべてのポイントがこの距離内に点群のポイントを持つため"
+"です。"
 
 msgid "Mesh to Points"
 msgstr "メッシュをポイントに変換"

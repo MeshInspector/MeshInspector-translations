@@ -313,6 +313,8 @@ msgid ""
 "Convert the selected meshes into point clouds: either their vertices, or a "
 "point cover dense enough to stop a ball of the given radius."
 msgstr ""
+"선택한 메시들을 포인트 클라우드로 변환합니다: 메시의 정점을 사용하거나, 주어"
+"진 반지름의 공을 막을 만큼 조밀한 포인트 커버를 사용합니다."
 
 msgid "Project Color"
 msgstr "색상 투영"
