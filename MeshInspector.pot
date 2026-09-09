@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-02 04:39+0000\n"
+"POT-Creation-Date: 2026-09-09 04:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8666,10 +8666,27 @@ msgstr ""
 msgid "Build mesh"
 msgstr ""
 
+msgid "Limit edge length"
+msgstr ""
+
+msgid ""
+"Drop mesh faces that span an object edge instead of covering real surface, "
+"measured in pixel footprints at the face's own depth"
+msgstr ""
+
+msgid "Max edge, px"
+msgstr ""
+
 msgid "Import colors"
 msgstr ""
 
 msgid "Use capture settings (.yml)"
+msgstr ""
+
+msgid ""
+"Not used for a saved *.zdf frame: it is imported exactly as it was captured. "
+"Select a *.zfc file camera or connect hardware to drive a capture from a "
+"preset."
 msgstr ""
 
 msgid "Zivid capture settings (.yml)"
