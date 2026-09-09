@@ -8938,15 +8938,17 @@ msgid "Build mesh"
 msgstr "构建网格"
 
 msgid "Limit edge length"
-msgstr ""
+msgstr "限制边长"
 
 msgid ""
 "Drop mesh faces that span an object edge instead of covering real surface, "
 "measured in pixel footprints at the face's own depth"
 msgstr ""
+"丢弃跨越对象边缘而非覆盖真实表面的网格面，以该面自身深度处的像素足迹为单位测"
+"量"
 
 msgid "Max edge, px"
-msgstr ""
+msgstr "最大边长，px"
 
 msgid "Import colors"
 msgstr "导入颜色"
@@ -8959,6 +8961,8 @@ msgid ""
 "Select a *.zfc file camera or connect hardware to drive a capture from a "
 "preset."
 msgstr ""
+"不用于保存的 *.zdf 帧：它将完全按采集时的原样导入。请选择 *.zfc "
+"文件相机或连接硬件，以便根据预设执行采集。"
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Zivid 采集设置 (.yml)"
