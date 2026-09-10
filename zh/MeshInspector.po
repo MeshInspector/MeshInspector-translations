@@ -7952,21 +7952,25 @@ msgstr ""
 "界。"
 
 msgid "Break into Segments"
-msgstr ""
+msgstr "拆分为分段"
 
 msgid ""
 "Make a separate object from every segment, taking the shown segment "
 "boundaries as the borders between them. If some segments are selected then "
 "only they are kept in the output. This finishes the partitioning."
 msgstr ""
+"为每个分段创建一个单独的对象，以显示的分段边界作为它们之间的分界。若选择了部"
+"分分段，则输出中仅保留这些分段。此操作将完成分割。"
 
 msgid "Select Segments"
-msgstr ""
+msgstr "选择分段"
 
 msgid ""
 "Activate the tool selecting a whole segment by a click on it, or deactivate "
 "it if it is already active. The mesh remains one object."
 msgstr ""
+"激活该工具以通过点击选择整个分段；若其已处于激活状态，则将其停用。网格仍保持"
+"为一个对象。"
 
 msgid "Select boundary edges: add selection"
 msgstr "选择边界边：添加选择"

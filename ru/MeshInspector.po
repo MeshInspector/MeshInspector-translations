@@ -8600,21 +8600,26 @@ msgstr ""
 "рёбрами."
 
 msgid "Break into Segments"
-msgstr ""
+msgstr "Разбить на сегменты"
 
 msgid ""
 "Make a separate object from every segment, taking the shown segment "
 "boundaries as the borders between them. If some segments are selected then "
 "only they are kept in the output. This finishes the partitioning."
 msgstr ""
+"Создаёт отдельный объект из каждого сегмента, принимая показанные границы "
+"сегментов за границы между ними. Если некоторые сегменты выбраны, в "
+"результате остаются только они. Это завершает разбиение."
 
 msgid "Select Segments"
-msgstr ""
+msgstr "Выбрать сегменты"
 
 msgid ""
 "Activate the tool selecting a whole segment by a click on it, or deactivate "
 "it if it is already active. The mesh remains one object."
 msgstr ""
+"Активирует инструмент выбора целого сегмента щелчком по нему или "
+"деактивирует его, если он уже активен. Меш остаётся одним объектом."
 
 msgid "Select boundary edges: add selection"
 msgstr "Выбрать граничные рёбра: добавить к выделению"
