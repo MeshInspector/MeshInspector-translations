@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-09 04:38+0000\n"
+"POT-Creation-Date: 2026-09-10 04:37+0000\n"
 "PO-Revision-Date: 2026-06-04 12:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -265,7 +265,7 @@ msgid "Save"
 msgstr "Guardar"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1036
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1035
 #: source/MRViewer/ImGuiMenu.cpp:951 source/MRViewer/ImGuiMenu.cpp:1050
 #: source/MRViewer/MRProgressBar.cpp:227
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
@@ -277,43 +277,43 @@ msgstr "Cancelar"
 msgid "Color theme is not initialized"
 msgstr "El tema de colores no está inicializado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:277
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:276
 msgid "Cannot save theme with name"
 msgstr "No se puede guardar el tema con el nombre"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:292
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:291
 msgid "Another operation in progress."
 msgstr "Hay otra operación en curso."
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:299
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:298
 #, c++-format
 msgid "Drop {}"
 msgstr "Soltar {}"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:356
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:358
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:355
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:357
 msgid "Load as Scene"
 msgstr "Cargar como escena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:368
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:370
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:367
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:369
 msgid "Add Files"
 msgstr "Añadir archivos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:457
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:456
 msgid "Open DICOMs"
 msgstr "Abrir DICOMs"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:484
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:483
 msgid "This web browser doesn't support directory selection"
 msgstr "Este navegador web no admite la selección de carpetas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:509
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:508
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
 msgid "Open Directory"
 msgstr "Abrir carpeta"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:600
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:599
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -321,56 +321,56 @@ msgstr ""
 "Seleccione exactamente un objeto de un tipo exportable (por ejemplo, malla, "
 "nube de puntos o volumen)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:603
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:602
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr ""
 "Seleccione objetos del mismo tipo (por ejemplo, mallas, nubes de puntos o "
 "volúmenes)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:668
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:810
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:667
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:809
 msgid "File name is not set"
 msgstr "El nombre del archivo no está establecido"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:774
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:793
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:773
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:792
 msgid "Error saving selected:"
 msgstr "Error al guardar la selección:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:823
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:822
 msgid "Error saving scene:"
 msgstr "Error al guardar la escena:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:858
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:857
 msgid "Scene is empty - nothing to save"
 msgstr "La escena está vacía: nada que guardar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:892
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:891
 msgid "Width"
 msgstr "Anchura"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:892
 msgid "Height"
 msgstr "Altura"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
 msgid "Transparent Background"
 msgstr "Fondo transparente"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
 msgid "Hide scene overlays"
 msgstr "Ocultar superposiciones de la escena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
 msgid "Capture"
 msgstr "Capturar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:987
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1014
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:986
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1013
 msgid "Error saving screenshot:"
 msgstr "Error al guardar la captura de pantalla:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1028
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1027
 msgid "This function is not currently supported in web edition"
 msgstr "Esta función no es compatible actualmente con la edición web"
 
@@ -478,7 +478,7 @@ msgid "Units"
 msgstr "Unidades"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:59
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1303
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1302
 msgid "MCP"
 msgstr "MCP"
 
@@ -756,7 +756,7 @@ msgstr ""
 "para hacerlos más legibles."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:636
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1129
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1128
 #: source/MRViewer/MRMouse.h:32
 msgid "None"
 msgstr "Ninguno"
@@ -961,44 +961,44 @@ msgstr "Tema de colores"
 msgid "This theme is not valid."
 msgstr "Este tema no es válido."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1004
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1003
 msgid "Add"
 msgstr "Añadir"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1016
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1015
 msgid "Settings reset"
 msgstr "Restablecimiento de ajustes"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1020
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1019
 msgid "Reset all application settings?"
 msgstr "¿Restablecer todos los ajustes de la aplicación?"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1030
-#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2125
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1029
+#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
 msgid "Reset"
 msgstr "Restablecer"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1047
 msgid "Auto Detect"
 msgstr "Detección automática"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1047
 msgid "Smooth"
 msgstr "Suave"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1048
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1047
 msgid "Flat"
 msgstr "Plano"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1052
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1051
 msgid "Shading Mode"
 msgstr "Modo de sombreado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1052
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1051
 msgid "Default Shading Mode"
 msgstr "Modo de sombreado predeterminado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1054
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1053
 msgid ""
 "Shading mode for mesh objects imported from files\n"
 "Detection depends on source format and mesh shape\n"
@@ -1008,39 +1008,39 @@ msgstr ""
 "La detección depende del formato origen y de la forma de la malla\n"
 "Este ajuste afecta también a algunas herramientas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1066
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1065
 msgid "Orthographic"
 msgstr "Ortográfica"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1066
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1065
 msgid "Perspective"
 msgstr "Perspectiva"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1069
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1068
 msgid "Projection Mode"
 msgstr "Modo de proyección"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1097
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1096
 msgid "Background Color"
 msgstr "Color de fondo"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1113
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1112
 msgid "Mouse"
 msgstr "Ratón"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1117
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1116
 msgid "Zoom Gain"
 msgstr "Ganancia de zoom"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1119
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1118
 msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
 msgstr "Sensibilidad de la rueda del ratón que afecta a la velocidad del zoom."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1178
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1177
 msgid "Set other"
 msgstr "Establecer otros"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1183
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1182
 msgid ""
 "Click here with preferred mouse button \n"
 "with/without modifier"
@@ -1048,32 +1048,32 @@ msgstr ""
 "Haga clic aquí con el botón del ratón preferido \n"
 "con/sin modificador"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1220
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1219
 #, c-format
 msgid "Camera controls can also be used with %s"
 msgstr "Los controles de cámara también pueden usarse con %s"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1227
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1226
 msgid "Spacemouse"
 msgstr "Spacemouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1239
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1238
 msgid "Inverse"
 msgstr "Inverso"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1247
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1246
 msgid "Translation Sensitivity"
 msgstr "Sensibilidad de traslación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1259
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1258
 msgid "Rotation Sensitivity"
 msgstr "Sensibilidad de rotación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1268
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1267
 msgid "Suppress Zoom by Mouse Scroll"
 msgstr "Suprimir zoom con la rueda del ratón"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1269
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1268
 msgid ""
 "This mode is recommended if you have 3Dconnexion driver installed, which "
 "sends fake mouse scroll events resulting in double reaction on SpaceMouse "
@@ -1083,84 +1083,84 @@ msgstr ""
 "envía eventos falsos de rueda del ratón provocando una doble reacción al "
 "movimiento del SpaceMouse y tembleque de la cámara."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1279
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1278
 msgid "Touchpad"
 msgstr "Panel táctil"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1281
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1280
 msgid "Swipe Rotates Camera"
 msgstr "El deslizamiento rota la cámara"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1281
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1280
 msgid "Swipe Moves Camera"
 msgstr "El deslizamiento mueve la cámara"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1285
 msgid "Ignore Kinetic Movements"
 msgstr "Ignorar movimientos cinéticos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1288
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1287
 msgid "Allow System to Interrupt Gestures"
 msgstr "Permitir que el sistema interrumpa gestos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1293
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1292
 msgid "Swipe Mode"
 msgstr "Modo de deslizamiento"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1308
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1307
 msgid "Enable in This Session"
 msgstr "Habilitar en esta sesión"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1312
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1311
 msgid "Enable by Default"
 msgstr "Habilitar por defecto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1318
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1324
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1317
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1323
 msgid "Port"
 msgstr "Puerto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1318
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "Puerto forzado por la opción de línea de comandos -mcpPort"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1334
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1333
 msgid "MRU Inner Formats"
 msgstr "Formatos internos MRU"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1340
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1339
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "Formato más lento, con alto consumo de memoria, pero (típicamente) con la "
 "mejor compresión"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1341
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1340
 msgid "Fast and still relatively small format"
 msgstr "Formato rápido y aún relativamente compacto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1342
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1341
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr ""
 "El más grande en tamaño, pero el más rápido al cargar/guardar y sin pérdidas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1344
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1343
 msgid "Fast and efficient format for sparse data"
 msgstr "Formato rápido y eficiente para datos dispersos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1345
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1344
 msgid "Simplest but high disk space consumption format"
 msgstr "Formato más sencillo pero con alto consumo de espacio en disco"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1370
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1369
 msgid "Mesh Format"
 msgstr "Formato de malla"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1388
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1387
 msgid "Points Format"
 msgstr "Formato de puntos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1402
 msgid "Voxels Format"
 msgstr "Formato de vóxeles"
 
@@ -1257,7 +1257,7 @@ msgid "Operation"
 msgstr "Operación"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:102
-#: source/MRViewer/MRRibbonMenu.cpp:2118
+#: source/MRViewer/MRRibbonMenu.cpp:2115
 msgid "Apply"
 msgstr "Aplicar"
 
@@ -2382,7 +2382,7 @@ msgstr "Traslación"
 msgid "Manual Change Transform"
 msgstr "Cambiar transformación manualmente"
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1905
+#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1903
 msgid "Transform"
 msgstr "Transformación"
 
@@ -2395,7 +2395,7 @@ msgstr "Lista de atajos"
 msgid "Open {}"
 msgstr "Abrir {}"
 
-#: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:127
+#: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"
 msgstr "Seleccionar borde de la malla"
 
@@ -2435,64 +2435,64 @@ msgstr "Cancelando..."
 msgid "Operation is in progress, please wait..."
 msgstr "Operación en curso, por favor espere..."
 
-#: source/MRViewer/MRRibbonMenu.cpp:322
+#: source/MRViewer/MRRibbonMenu.cpp:321
 msgid "Unpin"
 msgstr "Desfijar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:335
+#: source/MRViewer/MRRibbonMenu.cpp:334
 msgid "Pin"
 msgstr "Fijar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:392
+#: source/MRViewer/MRRibbonMenu.cpp:391
 msgid "Open help page"
 msgstr "Abrir página de ayuda"
 
-#: source/MRViewer/MRRibbonMenu.cpp:417
+#: source/MRViewer/MRRibbonMenu.cpp:416
 msgid "Change the language"
 msgstr "Cambiar el idioma"
 
-#: source/MRViewer/MRRibbonMenu.cpp:962
+#: source/MRViewer/MRRibbonMenu.cpp:960
 msgid "Focus"
 msgstr "Enfoque"
 
-#: source/MRViewer/MRRibbonMenu.cpp:983
+#: source/MRViewer/MRRibbonMenu.cpp:981
 #: source/MRViewer/MRUISaveChangesPopup.h:18
 msgid "Close"
 msgstr "Cerrar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1044 source/MRViewer/MRRibbonMenu.cpp:1051
+#: source/MRViewer/MRRibbonMenu.cpp:1042 source/MRViewer/MRRibbonMenu.cpp:1049
 msgid "Group"
 msgstr "Agrupar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1078 source/MRViewer/MRRibbonMenu.cpp:1086
+#: source/MRViewer/MRRibbonMenu.cpp:1076 source/MRViewer/MRRibbonMenu.cpp:1084
 msgid "Ungroup"
 msgstr "Desagrupar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1116 source/MRViewer/MRRibbonMenu.cpp:1185
+#: source/MRViewer/MRRibbonMenu.cpp:1114 source/MRViewer/MRRibbonMenu.cpp:1183
 msgid "Clone"
 msgstr "Clonar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1151 source/MRViewer/MRRibbonMenu.cpp:1243
+#: source/MRViewer/MRRibbonMenu.cpp:1149 source/MRViewer/MRRibbonMenu.cpp:1241
 msgid "Clone Selection"
 msgstr "Clonar selección"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1205
+#: source/MRViewer/MRRibbonMenu.cpp:1203
 msgid "Select Subtree"
 msgstr "Seleccionar subárbol"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1273 source/MRViewer/MRRibbonMenu.cpp:1276
+#: source/MRViewer/MRRibbonMenu.cpp:1271 source/MRViewer/MRRibbonMenu.cpp:1274
 msgid "Combine Subtree"
 msgstr "Combinar subárbol"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1552
+#: source/MRViewer/MRRibbonMenu.cpp:1550
 msgid "Unable to close this plugin"
 msgstr "No se puede cerrar este complemento"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1575 source/MRViewer/MRRibbonMenu.cpp:1597
+#: source/MRViewer/MRRibbonMenu.cpp:1573 source/MRViewer/MRRibbonMenu.cpp:1595
 msgid "Open Settings"
 msgstr "Abrir ajustes"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1576
+#: source/MRViewer/MRRibbonMenu.cpp:1574
 msgid ""
 "Unable to activate this tool because another blocking tool is already "
 "active.\n"
@@ -2502,7 +2502,7 @@ msgstr ""
 "bloqueante activa.\n"
 "Puede cambiarse en los ajustes."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1598
+#: source/MRViewer/MRRibbonMenu.cpp:1596
 msgid ""
 "That tool was closed due to other tool start.\n"
 "It can be changed in the Settings."
@@ -2510,7 +2510,7 @@ msgstr ""
 "Esa herramienta se cerró debido al inicio de otra.\n"
 "Puede cambiarse en los ajustes."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1622
+#: source/MRViewer/MRRibbonMenu.cpp:1620
 msgid ""
 "Camera operations that are controlled by left mouse button may not work "
 "while this tool is active"
@@ -2518,125 +2518,125 @@ msgstr ""
 "Las operaciones de cámara controladas con el botón izquierdo del ratón "
 "pueden no funcionar mientras esta herramienta esté activa"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1624
+#: source/MRViewer/MRRibbonMenu.cpp:1622
 #, c++-format
 msgid "Hold {} additionally to control camera"
 msgstr "Mantenga {} adicionalmente para controlar la cámara"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1930
+#: source/MRViewer/MRRibbonMenu.cpp:1928
 msgid "Open Transform Data context menu."
 msgstr "Abrir el menú contextual de datos de transformación."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1946
+#: source/MRViewer/MRRibbonMenu.cpp:1944
 msgid "Reset Transform"
 msgstr "Restablecer transformación"
 
-#: source/MRViewer/MRRibbonMenu.cpp:1950 source/MRViewer/MRRibbonMenu.cpp:2130
+#: source/MRViewer/MRRibbonMenu.cpp:1948 source/MRViewer/MRRibbonMenu.cpp:2127
 msgid "Resets transform value to identity."
 msgstr "Restablece el valor de transformación a la identidad."
 
-#: source/MRViewer/MRRibbonMenu.cpp:1966 source/MRViewer/MRRibbonMenu.cpp:2123
+#: source/MRViewer/MRRibbonMenu.cpp:1963 source/MRViewer/MRRibbonMenu.cpp:2120
 msgid "Transforms object and resets transform value to identity."
 msgstr ""
 "Transforma el objeto y restablece el valor de transformación a la identidad."
 
-#: source/MRViewer/MRRibbonMenu.cpp:2026
+#: source/MRViewer/MRRibbonMenu.cpp:2023
 msgid "Transform Data"
 msgstr "Datos de transformación"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2030
+#: source/MRViewer/MRRibbonMenu.cpp:2027
 msgid "Copy"
 msgstr "Copiar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2054
+#: source/MRViewer/MRRibbonMenu.cpp:2051
 msgid "Paste"
 msgstr "Pegar"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2056
+#: source/MRViewer/MRRibbonMenu.cpp:2053
 msgid "Paste Transform"
 msgstr "Pegar transformación"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2064
+#: source/MRViewer/MRRibbonMenu.cpp:2061
 msgid "Save to file"
 msgstr "Guardar en archivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2085
+#: source/MRViewer/MRRibbonMenu.cpp:2082
 msgid "Load from file"
 msgstr "Cargar desde archivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2095
+#: source/MRViewer/MRRibbonMenu.cpp:2092
 msgid "Load Transform from File"
 msgstr "Cargar transformación desde archivo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2100 source/MRViewer/MRRibbonMenu.cpp:2105
+#: source/MRViewer/MRRibbonMenu.cpp:2097 source/MRViewer/MRRibbonMenu.cpp:2102
 msgid "Cannot parse transform"
 msgstr "No se puede analizar la transformación"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2127
+#: source/MRViewer/MRRibbonMenu.cpp:2124
 msgid "Reset Transform (context menu)"
 msgstr "Restablecer transformación (menú contextual)"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2169
+#: source/MRViewer/MRRibbonMenu.cpp:2166
 msgid "Toggle selected objects visibility"
 msgstr "Alternar visibilidad de los objetos seleccionados"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2186
+#: source/MRViewer/MRRibbonMenu.cpp:2183
 msgid "Show this help with hot keys"
 msgstr "Mostrar esta ayuda con atajos de teclado"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2190
+#: source/MRViewer/MRRibbonMenu.cpp:2187
 msgid "Toggle statistics window"
 msgstr "Alternar ventana de estadísticas"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2194
+#: source/MRViewer/MRRibbonMenu.cpp:2191
 msgid "Toggle shading of selected objects"
 msgstr "Alternar sombreado de los objetos seleccionados"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2202
+#: source/MRViewer/MRRibbonMenu.cpp:2199
 msgid "Search plugin by name or description"
 msgstr "Buscar complemento por nombre o descripción"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2207
+#: source/MRViewer/MRRibbonMenu.cpp:2204
 msgid "Toggle edges on selected meshes"
 msgstr "Alternar aristas en las mallas seleccionadas"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2215
+#: source/MRViewer/MRRibbonMenu.cpp:2212
 msgid "Toggle Orthographic/Perspective View"
 msgstr "Alternar vista ortográfica/perspectiva"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2220
+#: source/MRViewer/MRRibbonMenu.cpp:2217
 msgid "Toggle faces on selected meshes"
 msgstr "Alternar caras en las mallas seleccionadas"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2230
+#: source/MRViewer/MRRibbonMenu.cpp:2227
 msgid "Select next object"
 msgstr "Seleccionar el siguiente objeto"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2234
+#: source/MRViewer/MRRibbonMenu.cpp:2231
 msgid "Add next object to selection"
 msgstr "Añadir el siguiente objeto a la selección"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2238
+#: source/MRViewer/MRRibbonMenu.cpp:2235
 msgid "Select previous object"
 msgstr "Seleccionar el objeto anterior"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2242
+#: source/MRViewer/MRRibbonMenu.cpp:2239
 msgid "Add previous object to selection"
 msgstr "Añadir el objeto anterior a la selección"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2246
+#: source/MRViewer/MRRibbonMenu.cpp:2243
 msgid "Ribbon Scene Select all"
 msgstr "Escena ribbon Seleccionar todo"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2250
+#: source/MRViewer/MRRibbonMenu.cpp:2247
 msgid "Ribbon Scene Show only previous"
 msgstr "Escena ribbon Mostrar solo anterior"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2254
+#: source/MRViewer/MRRibbonMenu.cpp:2251
 msgid "Ribbon Scene Show only next"
 msgstr "Escena ribbon Mostrar solo siguiente"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2374
+#: source/MRViewer/MRRibbonMenu.cpp:2371
 msgid "Hotkeys"
 msgstr "Atajos"
 
@@ -2734,19 +2734,19 @@ msgstr "Pincel: Reparar"
 msgid "Brush: Deform"
 msgstr "Pincel: Deformar"
 
-#: source/MRViewer/MRToolbar.cpp:241
+#: source/MRViewer/MRToolbar.cpp:240
 msgid "Customize Viewport Toolbar"
 msgstr "Personalizar barra de herramientas de la vista"
 
-#: source/MRViewer/MRToolbar.cpp:252
+#: source/MRViewer/MRToolbar.cpp:251
 msgid "Select icons to show in Toolbar"
 msgstr "Seleccionar iconos para mostrar en la barra de herramientas"
 
-#: source/MRViewer/MRToolbar.cpp:256 source/MRViewer/MRToolbar.cpp:259
+#: source/MRViewer/MRToolbar.cpp:255 source/MRViewer/MRToolbar.cpp:258
 msgid "Icons in Toolbar"
 msgstr "Iconos en la barra de herramientas"
 
-#: source/MRViewer/MRToolbar.cpp:391 source/MRViewer/MRToolbar.cpp:411
+#: source/MRViewer/MRToolbar.cpp:390 source/MRViewer/MRToolbar.cpp:410
 msgid "Reset to default"
 msgstr "Restablecer a los valores predeterminados"
 
@@ -2828,7 +2828,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Grados, minutos, segundos"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1296
+#: source/MRViewer/MRViewer.cpp:1302
 #, c++-format
 msgid "{} as {}"
 msgstr "{} como {}"
