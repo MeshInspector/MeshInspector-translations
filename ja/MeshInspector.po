@@ -8294,21 +8294,26 @@ msgstr ""
 "外の場合はセグメント境界のみが選択エッジで表示されます。"
 
 msgid "Break into Segments"
-msgstr ""
+msgstr "セグメントに分割"
 
 msgid ""
 "Make a separate object from every segment, taking the shown segment "
 "boundaries as the borders between them. If some segments are selected then "
 "only they are kept in the output. This finishes the partitioning."
 msgstr ""
+"表示されているセグメント境界を区切りとして、各セグメントから個別のオブジェク"
+"トを作成します。一部のセグメントが選択されている場合は、それらのみが出力に保"
+"持されます。これで分割が完了します。"
 
 msgid "Select Segments"
-msgstr ""
+msgstr "セグメントを選択"
 
 msgid ""
 "Activate the tool selecting a whole segment by a click on it, or deactivate "
 "it if it is already active. The mesh remains one object."
 msgstr ""
+"クリックでセグメント全体を選択するツールを有効化します。すでに有効な場合は無"
+"効化します。メッシュは1つのオブジェクトのままです。"
 
 msgid "Select boundary edges: add selection"
 msgstr "境界エッジを選択: 選択に追加"

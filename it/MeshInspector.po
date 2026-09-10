@@ -8681,21 +8681,26 @@ msgstr ""
 "con spigoli selezionati."
 
 msgid "Break into Segments"
-msgstr ""
+msgstr "Suddividi in segmenti"
 
 msgid ""
 "Make a separate object from every segment, taking the shown segment "
 "boundaries as the borders between them. If some segments are selected then "
 "only they are kept in the output. This finishes the partitioning."
 msgstr ""
+"Crea un oggetto separato da ogni segmento, prendendo i bordi dei segmenti "
+"mostrati come confini tra di essi. Se alcuni segmenti sono selezionati, solo "
+"essi vengono mantenuti nel risultato. Questo conclude il partizionamento."
 
 msgid "Select Segments"
-msgstr ""
+msgstr "Seleziona segmenti"
 
 msgid ""
 "Activate the tool selecting a whole segment by a click on it, or deactivate "
 "it if it is already active. The mesh remains one object."
 msgstr ""
+"Attiva lo strumento che seleziona un intero segmento con un clic su di esso, "
+"oppure disattivalo se è già attivo. La mesh rimane un unico oggetto."
 
 msgid "Select boundary edges: add selection"
 msgstr "Seleziona spigoli di bordo: aggiungi selezione"
