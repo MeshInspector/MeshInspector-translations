@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2677,7 +2677,7 @@ msgstr "MCP : supprimer l'objet"
 msgid "MCP addObject"
 msgstr "MCP : ajouter l'objet"
 
-#: source/MRViewer/MRSceneObjectsListDrawer.cpp:615
+#: source/MRViewer/MRSceneObjectsListDrawer.cpp:639
 msgid "Cannot perform such reorder"
 msgstr "Impossible d'effectuer un tel réordonnancement"
 
@@ -2832,7 +2832,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Degrés, minutes, secondes"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1302
+#: source/MRViewer/MRViewer.cpp:1303
 #, c++-format
 msgid "{} as {}"
 msgstr "{} comme {}"

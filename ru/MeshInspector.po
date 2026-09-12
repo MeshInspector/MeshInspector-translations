@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6488,6 +6488,12 @@ msgstr ""
 "дополнительно смещены так, чтобы ни одна координата данных не была "
 "отрицательной ни по одному из измерений."
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints не содержит выбранных точек"
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr ""
+
 msgid "To Components"
 msgstr "На компоненты"
 
@@ -8257,9 +8263,6 @@ msgid ""
 msgstr ""
 "Невозможно выполнить эрозию или дилатацию, если все треугольники ObjectMesh "
 "уже выбраны"
-
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints не содержит выбранных точек"
 
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "

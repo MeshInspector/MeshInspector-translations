@@ -135,6 +135,14 @@ msgstr "创建几何基元网格:立方体、平行六面体、圆柱体、球�
 msgid "Create Primitive (Interactive)"
 msgstr "创建基元(交互)"
 
+msgid "Clone Selection"
+msgstr ""
+
+msgid ""
+"Clones selected area (triangles or points) of the object into a separate "
+"object and hides the original."
+msgstr ""
+
 msgid "Clone"
 msgstr "克隆"
 
