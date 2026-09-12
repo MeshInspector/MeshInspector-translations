@@ -6243,7 +6243,7 @@ msgid "ObjectPoints doesn't have any selected points"
 msgstr "ObjectPointsに選択されたポイントがありません"
 
 msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr ""
+msgstr "ObjectMeshまたはObjectPointsをちょうど1つ選択してください"
 
 msgid "To Components"
 msgstr "コンポーネントに分割"

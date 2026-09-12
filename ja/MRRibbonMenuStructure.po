@@ -146,12 +146,14 @@ msgid "Create Primitive (Interactive)"
 msgstr "プリミティブを作成（インタラクティブ）"
 
 msgid "Clone Selection"
-msgstr ""
+msgstr "選択を複製"
 
 msgid ""
 "Clones selected area (triangles or points) of the object into a separate "
 "object and hides the original."
 msgstr ""
+"オブジェクトの選択した領域（三角形またはポイント）を別のオブジェクトに複製"
+"し、元のオブジェクトを非表示にします。"
 
 msgid "Clone"
 msgstr "複製"

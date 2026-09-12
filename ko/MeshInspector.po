@@ -6213,7 +6213,7 @@ msgid "ObjectPoints doesn't have any selected points"
 msgstr "ObjectPoints에 선택된 포인트가 없습니다"
 
 msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr ""
+msgstr "ObjectMesh 또는 ObjectPoints를 정확히 하나 선택하세요"
 
 msgid "To Components"
 msgstr "컴포넌트로"

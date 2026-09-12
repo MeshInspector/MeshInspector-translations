@@ -143,12 +143,14 @@ msgid "Create Primitive (Interactive)"
 msgstr "기본 형상 생성(대화식)"
 
 msgid "Clone Selection"
-msgstr ""
+msgstr "선택 항목 복제"
 
 msgid ""
 "Clones selected area (triangles or points) of the object into a separate "
 "object and hides the original."
 msgstr ""
+"객체의 선택한 영역(삼각형 또는 포인트)을 별도의 객체로 복제하고 원본을 숨깁니"
+"다."
 
 msgid "Clone"
 msgstr "복제"
