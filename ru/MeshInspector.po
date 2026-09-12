@@ -6492,7 +6492,7 @@ msgid "ObjectPoints doesn't have any selected points"
 msgstr "ObjectPoints не содержит выбранных точек"
 
 msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr ""
+msgstr "Выберите ровно один ObjectMesh или ObjectPoints"
 
 msgid "To Components"
 msgstr "На компоненты"

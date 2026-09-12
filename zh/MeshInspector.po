@@ -5986,7 +5986,7 @@ msgid "ObjectPoints doesn't have any selected points"
 msgstr "ObjectPoints 没有任何选中的点"
 
 msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr ""
+msgstr "请正好选择一个 ObjectMesh 或 ObjectPoints"
 
 msgid "To Components"
 msgstr "拆分为组件"

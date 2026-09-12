@@ -6521,7 +6521,7 @@ msgid "ObjectPoints doesn't have any selected points"
 msgstr "ObjectPoints não tem nenhum ponto selecionado"
 
 msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr ""
+msgstr "Selecione exatamente um ObjectMesh ou ObjectPoints"
 
 msgid "To Components"
 msgstr "Para Componentes"
