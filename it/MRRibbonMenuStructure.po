@@ -155,6 +155,16 @@ msgstr ""
 msgid "Create Primitive (Interactive)"
 msgstr "Crea primitiva (interattivo)"
 
+msgid "Clone Selection"
+msgstr "Clona selezione"
+
+msgid ""
+"Clones selected area (triangles or points) of the object into a separate "
+"object and hides the original."
+msgstr ""
+"Clona l'area selezionata (triangoli o punti) dell'oggetto in un oggetto "
+"separato e nasconde l'originale."
+
 msgid "Clone"
 msgstr "Clona"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5982,6 +5982,12 @@ msgstr ""
 "您即将对体素对象应用变换。由于 Mesh Inspector 中体素表示的特性，体素将被额外"
 "移动，以保证任何维度上的数据都没有负坐标"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints 没有任何选中的点"
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr "请正好选择一个 ObjectMesh 或 ObjectPoints"
+
 msgid "To Components"
 msgstr "拆分为组件"
 
@@ -7633,9 +7639,6 @@ msgid ""
 "Unable to erode or dilate if all the triangles of ObjectMesh are already "
 "selected"
 msgstr "如果 ObjectMesh 的所有三角形都已选中，则无法进行腐蚀或膨胀"
-
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints 没有任何选中的点"
 
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "

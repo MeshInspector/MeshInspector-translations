@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6239,6 +6239,12 @@ msgstr ""
 "クセル表現の性質上、どの次元でもデータが負の座標を持たないようにボクセルが追"
 "加で移動されます"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPointsに選択されたポイントがありません"
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr "ObjectMeshまたはObjectPointsをちょうど1つ選択してください"
+
 msgid "To Components"
 msgstr "コンポーネントに分割"
 
@@ -7959,9 +7965,6 @@ msgid ""
 "selected"
 msgstr ""
 "ObjectMeshのすべての三角形が既に選択されている場合、収縮または膨張できません"
-
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPointsに選択されたポイントがありません"
 
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "

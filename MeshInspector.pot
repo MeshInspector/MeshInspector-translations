@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5792,6 +5792,12 @@ msgid ""
 "moved so that no data has negative coordinate by any of dimensions"
 msgstr ""
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr ""
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr ""
+
 msgid "To Components"
 msgstr ""
 
@@ -7397,9 +7403,6 @@ msgstr ""
 msgid ""
 "Unable to erode or dilate if all the triangles of ObjectMesh are already "
 "selected"
-msgstr ""
-
-msgid "ObjectPoints doesn't have any selected points"
 msgstr ""
 
 msgid ""

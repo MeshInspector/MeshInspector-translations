@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6604,6 +6604,12 @@ msgstr ""
 "voxels seront en plus déplacés afin qu'aucune donnée n'ait de coordonnée "
 "négative dans aucune dimension"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints n'a aucun point sélectionné"
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr "Sélectionnez exactement un ObjectMesh ou ObjectPoints"
+
 msgid "To Components"
 msgstr "Vers les composants"
 
@@ -8391,9 +8397,6 @@ msgid ""
 msgstr ""
 "Impossible d'éroder ou de dilater si tous les triangles d'ObjectMesh sont "
 "déjà sélectionnés"
-
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints n'a aucun point sélectionné"
 
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "

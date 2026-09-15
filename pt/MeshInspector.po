@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 04:37+0000\n"
+"POT-Creation-Date: 2026-09-12 04:37+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6517,6 +6517,12 @@ msgstr ""
 "adicionalmente movidos para que nenhum dado tenha coordenada negativa em "
 "qualquer das dimensões"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints não tem nenhum ponto selecionado"
+
+msgid "Select exactly one ObjectMesh or ObjectPoints"
+msgstr "Selecione exatamente um ObjectMesh ou ObjectPoints"
+
 msgid "To Components"
 msgstr "Para Componentes"
 
@@ -8295,9 +8301,6 @@ msgid ""
 msgstr ""
 "Não é possível erodir ou dilatar se todos os triângulos do ObjectMesh já "
 "estiverem selecionados"
-
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints não tem nenhum ponto selecionado"
 
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "
