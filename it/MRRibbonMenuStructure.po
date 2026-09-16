@@ -1646,13 +1646,16 @@ msgstr ""
 "tolleranza specificato."
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Nuovo involucro"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
 "mesh, which removes self-intersections, overlaps and inner parts; the "
 "largest closed part of the result is kept."
 msgstr ""
+"Ripara una mesh campionandone la superficie e avvolgendo i campioni in una "
+"nuova mesh, il che rimuove auto-intersezioni, sovrapposizioni e parti "
+"interne; viene mantenuta la parte chiusa più grande del risultato."
 
 msgid "Toolpath"
 msgstr "Percorso utensile"

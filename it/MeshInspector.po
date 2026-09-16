@@ -5058,12 +5058,15 @@ msgid ""
 "enough to stop the ball, and every triangle touchable by an empty ball of "
 "this radius is included in the result."
 msgstr ""
+"Raggio della sfera fatta rotolare sulla superficie: la mesh viene campionata "
+"in modo sufficientemente denso da fermare la sfera, e ogni triangolo che può "
+"essere toccato da una sfera vuota di questo raggio è incluso nel risultato."
 
 msgid "The result has no component with positive volume"
-msgstr ""
+msgstr "Il risultato non ha alcuna componente con volume positivo"
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Nuovo involucro"
 
 msgid "Minuend"
 msgstr "Minuendo"
