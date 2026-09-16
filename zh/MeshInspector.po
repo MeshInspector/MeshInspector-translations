@@ -4647,12 +4647,14 @@ msgid ""
 "enough to stop the ball, and every triangle touchable by an empty ball of "
 "this radius is included in the result."
 msgstr ""
+"在表面上滚动的球的半径：网格采样足够密集以阻挡该球，且此半径的空球能接触到"
+"的每个三角形都会包含在结果中。"
 
 msgid "The result has no component with positive volume"
-msgstr ""
+msgstr "结果中没有体积为正的组件"
 
 msgid "ReWrap"
-msgstr ""
+msgstr "重新包裹"
 
 msgid "Minuend"
 msgstr "被减数"

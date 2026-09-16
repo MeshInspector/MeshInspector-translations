@@ -5006,12 +5006,15 @@ msgid ""
 "enough to stop the ball, and every triangle touchable by an empty ball of "
 "this radius is included in the result."
 msgstr ""
+"Радиус шара, катящегося по поверхности: меш дискретизируется достаточно "
+"плотно, чтобы остановить шар, и каждый треугольник, которого может коснуться "
+"пустой шар такого радиуса, включается в результат."
 
 msgid "The result has no component with positive volume"
-msgstr ""
+msgstr "Результат не содержит компонентов с положительным объёмом"
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Переобтягивание"
 
 msgid "Minuend"
 msgstr "Уменьшаемое"

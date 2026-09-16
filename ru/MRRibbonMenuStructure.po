@@ -1606,13 +1606,16 @@ msgstr ""
 "заданным уровнем допуска."
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Повторное обтягивание"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
 "mesh, which removes self-intersections, overlaps and inner parts; the "
 "largest closed part of the result is kept."
 msgstr ""
+"Восстанавливает меш, дискретизируя его поверхность и обтягивая полученные "
+"образцы новым мешем, что удаляет самопересечения, перекрытия и внутренние "
+"части; сохраняется наибольшая замкнутая часть результата."
 
 msgid "Toolpath"
 msgstr "Траектория инструмента"

@@ -5029,12 +5029,15 @@ msgid ""
 "enough to stop the ball, and every triangle touchable by an empty ball of "
 "this radius is included in the result."
 msgstr ""
+"Raio da bola que rola sobre a superfície: a malha é amostrada com densidade "
+"suficiente para parar a bola, e cada triângulo que possa ser tocado por uma "
+"bola vazia deste raio é incluído no resultado."
 
 msgid "The result has no component with positive volume"
-msgstr ""
+msgstr "O resultado não tem nenhum componente com volume positivo"
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Reenvolver"
 
 msgid "Minuend"
 msgstr "Minuendo"
