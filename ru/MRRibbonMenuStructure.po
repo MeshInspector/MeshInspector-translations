@@ -1606,7 +1606,7 @@ msgstr ""
 "заданным уровнем допуска."
 
 msgid "Rewrap"
-msgstr "Повторное обтягивание"
+msgstr "Повторное обёртывание"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
