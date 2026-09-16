@@ -1541,7 +1541,7 @@ msgstr ""
 "지정된 허용 오차 수준으로 완전히 재구성하여 하나 또는 여러 메시를 복구합니다."
 
 msgid "Rewrap"
-msgstr ""
+msgstr "리랩"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "

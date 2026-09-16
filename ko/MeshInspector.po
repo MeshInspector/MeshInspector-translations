@@ -4814,7 +4814,7 @@ msgid "The result has no component with positive volume"
 msgstr "결과에 양의 부피를 가진 구성요소가 없습니다"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "리랩"
 
 msgid "Minuend"
 msgstr "피감수"

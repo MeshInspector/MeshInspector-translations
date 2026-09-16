@@ -4835,7 +4835,7 @@ msgid "The result has no component with positive volume"
 msgstr "結果に正体積のコンポーネントがありません"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "再ラップ"
 
 msgid "Minuend"
 msgstr "被減数"

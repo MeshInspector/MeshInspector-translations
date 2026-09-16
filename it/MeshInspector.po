@@ -5066,7 +5066,7 @@ msgid "The result has no component with positive volume"
 msgstr "Il risultato non ha alcuna componente con volume positivo"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "Ricrea involucro"
 
 msgid "Minuend"
 msgstr "Minuendo"
