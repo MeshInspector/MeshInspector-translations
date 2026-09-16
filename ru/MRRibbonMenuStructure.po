@@ -1605,6 +1605,18 @@ msgstr ""
 "Восстанавливает один или несколько мешей путём полного их перестроения с "
 "заданным уровнем допуска."
 
+msgid "Rewrap"
+msgstr "Повторное обёртывание"
+
+msgid ""
+"Repair a mesh by sampling its surface and wrapping the samples in a new "
+"mesh, which removes self-intersections, overlaps and inner parts; the "
+"largest closed part of the result is kept."
+msgstr ""
+"Восстанавливает меш, дискретизируя его поверхность и обтягивая полученные "
+"образцы новым мешем, что удаляет самопересечения, перекрытия и внутренние "
+"части; сохраняется наибольшая замкнутая часть результата."
+
 msgid "Toolpath"
 msgstr "Траектория инструмента"
 
@@ -1901,6 +1913,9 @@ msgstr "Эксперименты"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid "ReWrap"
+#~ msgstr "Повторное обтягивание"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 04:37+0000\n"
+"POT-Creation-Date: 2026-09-16 08:57+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5045,6 +5045,22 @@ msgstr "Stärke der Relax-Iterationen pro Kompensationsschritt."
 msgid "Compensate Radius"
 msgstr "Radius kompensieren"
 
+msgid ""
+"Radius of the ball rolled over the surface: the mesh is sampled densely "
+"enough to stop the ball, and every triangle touchable by an empty ball of "
+"this radius is included in the result."
+msgstr ""
+"Radius der über die Oberfläche gerollten Kugel: Das Mesh wird dicht genug "
+"abgetastet, um die Kugel zu stoppen, und jedes Dreieck, das von einer leeren "
+"Kugel mit diesem Radius berührt werden kann, wird in das Ergebnis "
+"aufgenommen."
+
+msgid "The result has no component with positive volume"
+msgstr "Das Ergebnis hat keine Komponente mit positivem Volumen"
+
+msgid "Rewrap"
+msgstr "Neu umhüllen"
+
 msgid "Minuend"
 msgstr "Minuend"
 
@@ -9797,6 +9813,9 @@ msgstr "Aufnehmen"
 
 msgid "Import Zivid scan"
 msgstr "Zivid-Scan importieren"
+
+#~ msgid "ReWrap"
+#~ msgstr "ReWrap"
 
 #~ msgid "Save normals"
 #~ msgstr "Normalen speichern"

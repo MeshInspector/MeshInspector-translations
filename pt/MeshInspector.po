@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 04:37+0000\n"
+"POT-Creation-Date: 2026-09-16 08:57+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5024,6 +5024,21 @@ msgstr ""
 msgid "Compensate Radius"
 msgstr "Compensar raio"
 
+msgid ""
+"Radius of the ball rolled over the surface: the mesh is sampled densely "
+"enough to stop the ball, and every triangle touchable by an empty ball of "
+"this radius is included in the result."
+msgstr ""
+"Raio da bola que rola sobre a superfície: a malha é amostrada com densidade "
+"suficiente para parar a bola, e cada triângulo que possa ser tocado por uma "
+"bola vazia deste raio é incluído no resultado."
+
+msgid "The result has no component with positive volume"
+msgstr "O resultado não tem nenhum componente com volume positivo"
+
+msgid "Rewrap"
+msgstr "Reenvolver"
+
 msgid "Minuend"
 msgstr "Minuendo"
 
@@ -9755,6 +9770,9 @@ msgstr "Capturar"
 
 msgid "Import Zivid scan"
 msgstr "Importar digitalização Zivid"
+
+#~ msgid "ReWrap"
+#~ msgstr "Reenvolver"
 
 #~ msgid "Save normals"
 #~ msgstr "Guardar normais"

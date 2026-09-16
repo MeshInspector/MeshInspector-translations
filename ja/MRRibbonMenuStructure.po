@@ -1566,6 +1566,18 @@ msgid ""
 msgstr ""
 "指定した許容レベルで完全に再構築することにより1つ以上のメッシュを修復します。"
 
+msgid "Rewrap"
+msgstr "再ラップ"
+
+msgid ""
+"Repair a mesh by sampling its surface and wrapping the samples in a new "
+"mesh, which removes self-intersections, overlaps and inner parts; the "
+"largest closed part of the result is kept."
+msgstr ""
+"メッシュの表面をサンプリングし、そのサンプルを新しいメッシュで包むことによっ"
+"てメッシュを修復します。自己交差、重なり、内側の部分が除去され、結果のうち最"
+"大の閉じた部分が保持されます。"
+
 msgid "Toolpath"
 msgstr "ツールパス"
 
@@ -1852,6 +1864,9 @@ msgstr "実験的"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "ReWrap"
+#~ msgstr "再ラップ"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

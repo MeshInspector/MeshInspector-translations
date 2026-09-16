@@ -1443,6 +1443,17 @@ msgid ""
 "specified tolerance level."
 msgstr "通过以指定的容差等级完全重建,修复一个或多个网格。"
 
+msgid "Rewrap"
+msgstr "重新包裹"
+
+msgid ""
+"Repair a mesh by sampling its surface and wrapping the samples in a new "
+"mesh, which removes self-intersections, overlaps and inner parts; the "
+"largest closed part of the result is kept."
+msgstr ""
+"通过对网格表面采样并将样本包裹为新网格来修复网格,从而移除自相交、重叠和内部部"
+"分;结果中最大的封闭部分将被保留。"
+
 msgid "Toolpath"
 msgstr "刀具路径"
 
@@ -1722,6 +1733,9 @@ msgstr "实验性"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid "ReWrap"
+#~ msgstr "重新包裹"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."
