@@ -4654,7 +4654,7 @@ msgid "The result has no component with positive volume"
 msgstr "结果中没有体积为正的组件"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "重新包裹"
 
 msgid "Minuend"
 msgstr "被减数"

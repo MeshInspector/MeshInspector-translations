@@ -1444,7 +1444,7 @@ msgid ""
 msgstr "通过以指定的容差等级完全重建,修复一个或多个网格。"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "重新包裹"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "

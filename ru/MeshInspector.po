@@ -5014,7 +5014,7 @@ msgid "The result has no component with positive volume"
 msgstr "Результат не содержит компонентов с положительным объёмом"
 
 msgid "Rewrap"
-msgstr ""
+msgstr "Переобтягивание"
 
 msgid "Minuend"
 msgstr "Уменьшаемое"
