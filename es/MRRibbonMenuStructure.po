@@ -1667,7 +1667,7 @@ msgstr ""
 "tolerancia especificado."
 
 msgid "Rewrap"
-msgstr ""
+msgstr "Reenvolver"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "

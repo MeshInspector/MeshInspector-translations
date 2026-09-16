@@ -1663,7 +1663,7 @@ msgstr ""
 "angegebenen Toleranzstufe."
 
 msgid "Rewrap"
-msgstr ""
+msgstr "Neu umhüllen"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
