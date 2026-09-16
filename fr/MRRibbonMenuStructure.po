@@ -1679,13 +1679,17 @@ msgstr ""
 "niveau de tolérance spécifié."
 
 msgid "ReWrap"
-msgstr ""
+msgstr "Réenvelopper"
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
 "mesh, which removes self-intersections, overlaps and inner parts; the "
 "largest closed part of the result is kept."
 msgstr ""
+"Répare un maillage en échantillonnant sa surface et en enveloppant les "
+"échantillons dans un nouveau maillage, ce qui supprime les "
+"auto-intersections, les recouvrements et les parties internes ; la plus "
+"grande partie fermée du résultat est conservée."
 
 msgid "Toolpath"
 msgstr "Trajectoire d'outil"

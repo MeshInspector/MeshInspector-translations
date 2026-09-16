@@ -5050,12 +5050,16 @@ msgid ""
 "enough to stop the ball, and every triangle touchable by an empty ball of "
 "this radius is included in the result."
 msgstr ""
+"Radius der über die Oberfläche gerollten Kugel: Das Mesh wird dicht genug "
+"abgetastet, um die Kugel zu stoppen, und jedes Dreieck, das von einer leeren "
+"Kugel mit diesem Radius berührt werden kann, wird in das Ergebnis "
+"aufgenommen."
 
 msgid "The result has no component with positive volume"
-msgstr ""
+msgstr "Das Ergebnis hat keine Komponente mit positivem Volumen"
 
 msgid "ReWrap"
-msgstr ""
+msgstr "ReWrap"
 
 msgid "Minuend"
 msgstr "Minuend"
