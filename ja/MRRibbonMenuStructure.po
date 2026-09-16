@@ -1566,6 +1566,15 @@ msgid ""
 msgstr ""
 "指定した許容レベルで完全に再構築することにより1つ以上のメッシュを修復します。"
 
+msgid "ReWrap"
+msgstr ""
+
+msgid ""
+"Repair a mesh by sampling its surface and wrapping the samples in a new "
+"mesh, which removes self-intersections, overlaps and inner parts; the "
+"largest closed part of the result is kept."
+msgstr ""
+
 msgid "Toolpath"
 msgstr "ツールパス"
 

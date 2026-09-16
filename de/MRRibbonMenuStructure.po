@@ -1662,6 +1662,15 @@ msgstr ""
 "Repariert ein oder mehrere Meshes durch vollständiges Neuaufbauen mit der "
 "angegebenen Toleranzstufe."
 
+msgid "ReWrap"
+msgstr ""
+
+msgid ""
+"Repair a mesh by sampling its surface and wrapping the samples in a new "
+"mesh, which removes self-intersections, overlaps and inner parts; the "
+"largest closed part of the result is kept."
+msgstr ""
+
 msgid "Toolpath"
 msgstr "Werkzeugpfad"
 

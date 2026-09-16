@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 04:37+0000\n"
+"POT-Creation-Date: 2026-09-16 04:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4515,6 +4515,18 @@ msgid "Force of relax iterations applied on each compensation step."
 msgstr ""
 
 msgid "Compensate Radius"
+msgstr ""
+
+msgid ""
+"Radius of the ball rolled over the surface: the mesh is sampled densely "
+"enough to stop the ball, and every triangle touchable by an empty ball of "
+"this radius is included in the result."
+msgstr ""
+
+msgid "The result has no component with positive volume"
+msgstr ""
+
+msgid "ReWrap"
 msgstr ""
 
 msgid "Minuend"
