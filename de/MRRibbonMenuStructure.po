@@ -1662,8 +1662,8 @@ msgstr ""
 "Repariert ein oder mehrere Meshes durch vollständiges Neuaufbauen mit der "
 "angegebenen Toleranzstufe."
 
-msgid "ReWrap"
-msgstr "Neu umhüllen"
+msgid "Rewrap"
+msgstr ""
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
@@ -1971,6 +1971,9 @@ msgstr "Experimentell"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Test"
+
+#~ msgid "ReWrap"
+#~ msgstr "Neu umhüllen"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

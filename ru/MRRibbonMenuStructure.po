@@ -1605,8 +1605,8 @@ msgstr ""
 "Восстанавливает один или несколько мешей путём полного их перестроения с "
 "заданным уровнем допуска."
 
-msgid "ReWrap"
-msgstr "Повторное обтягивание"
+msgid "Rewrap"
+msgstr ""
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
@@ -1913,6 +1913,9 @@ msgstr "Эксперименты"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid "ReWrap"
+#~ msgstr "Повторное обтягивание"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

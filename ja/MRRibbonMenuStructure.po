@@ -1566,8 +1566,8 @@ msgid ""
 msgstr ""
 "指定した許容レベルで完全に再構築することにより1つ以上のメッシュを修復します。"
 
-msgid "ReWrap"
-msgstr "再ラップ"
+msgid "Rewrap"
+msgstr ""
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
@@ -1864,6 +1864,9 @@ msgstr "実験的"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "ReWrap"
+#~ msgstr "再ラップ"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

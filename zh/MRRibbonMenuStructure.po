@@ -1443,8 +1443,8 @@ msgid ""
 "specified tolerance level."
 msgstr "通过以指定的容差等级完全重建,修复一个或多个网格。"
 
-msgid "ReWrap"
-msgstr "重新包裹"
+msgid "Rewrap"
+msgstr ""
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
@@ -1733,6 +1733,9 @@ msgstr "实验性"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid "ReWrap"
+#~ msgstr "重新包裹"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."

@@ -1666,8 +1666,8 @@ msgstr ""
 "Repara una o varias mallas reconstruyéndolas completamente con el nivel de "
 "tolerancia especificado."
 
-msgid "ReWrap"
-msgstr "Reenvolver"
+msgid "Rewrap"
+msgstr ""
 
 msgid ""
 "Repair a mesh by sampling its surface and wrapping the samples in a new "
@@ -1980,6 +1980,9 @@ msgstr "Experimental"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Prueba"
+
+#~ msgid "ReWrap"
+#~ msgstr "Reenvolver"
 
 #~ msgid ""
 #~ "Create object points (object of points cloud) from selected object mesh."
