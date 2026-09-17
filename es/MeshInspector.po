@@ -174,10 +174,10 @@ msgstr ""
 "mejor rendimiento."
 
 msgid "Don't show again"
-msgstr ""
+msgstr "No volver a mostrar"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "Problema con el controlador de OpenGL"
 
 msgid "Getting started with MeshInspector"
 msgstr "Primeros pasos con MeshInspector"

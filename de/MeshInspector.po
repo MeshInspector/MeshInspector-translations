@@ -174,10 +174,10 @@ msgstr ""
 "Apple Silicon herunter."
 
 msgid "Don't show again"
-msgstr ""
+msgstr "Nicht mehr anzeigen"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "OpenGL-Treiberproblem"
 
 msgid "Getting started with MeshInspector"
 msgstr "Erste Schritte mit MeshInspector"

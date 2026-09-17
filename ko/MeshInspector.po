@@ -173,10 +173,10 @@ msgstr ""
 "Apple Silicon용 MeshInspector 버전을 다운로드하세요."
 
 msgid "Don't show again"
-msgstr ""
+msgstr "다시 표시하지 않음"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "OpenGL 드라이버 문제"
 
 msgid "Getting started with MeshInspector"
 msgstr "MeshInspector 시작하기"

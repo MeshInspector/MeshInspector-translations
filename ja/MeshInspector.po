@@ -173,10 +173,10 @@ msgstr ""
 "フォーマンスのためにApple Silicon版をダウンロードしてください。"
 
 msgid "Don't show again"
-msgstr ""
+msgstr "今後表示しない"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "OpenGLドライバーの問題"
 
 msgid "Getting started with MeshInspector"
 msgstr "MeshInspectorを始める"
