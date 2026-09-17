@@ -175,10 +175,10 @@ msgstr ""
 "Silicon."
 
 msgid "Don't show again"
-msgstr ""
+msgstr "Больше не показывать"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "Проблема драйвера OpenGL"
 
 msgid "Getting started with MeshInspector"
 msgstr "Начало работы с MeshInspector"

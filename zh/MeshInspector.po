@@ -173,10 +173,10 @@ msgstr ""
 "的 MeshInspector 版本以获得最佳性能。"
 
 msgid "Don't show again"
-msgstr ""
+msgstr "不再显示"
 
 msgid "OpenGL driver issue"
-msgstr ""
+msgstr "OpenGL 驱动程序问题"
 
 msgid "Getting started with MeshInspector"
 msgstr "开始使用 MeshInspector"
