@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-16 04:38+0000\n"
+"POT-Creation-Date: 2026-09-17 04:38+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2776,7 +2776,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "도, 분, 초"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1305
+#: source/MRViewer/MRViewer.cpp:1313
 #, c++-format
 msgid "{} as {}"
 msgstr "{} ({})"
