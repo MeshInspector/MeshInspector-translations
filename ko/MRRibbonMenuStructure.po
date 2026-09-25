@@ -224,6 +224,8 @@ msgid ""
 "Clone Selection: copies the selected triangles or points of the active "
 "object into a new object of the same type and hides the original."
 msgstr ""
+"선택 항목 복제: 활성 객체의 선택된 삼각형 또는 포인트를 동일한 유형의 새 객체"
+"로 복사하고 원본을 숨깁니다."
 
 msgid "Voxels Segmentation"
 msgstr "복셀 분할"

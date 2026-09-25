@@ -227,6 +227,8 @@ msgid ""
 "Clone Selection: copies the selected triangles or points of the active "
 "object into a new object of the same type and hides the original."
 msgstr ""
+"選択を複製: アクティブオブジェクトの選択した三角形またはポイントを同じ種類の"
+"新しいオブジェクトにコピーし、元のオブジェクトを非表示にします。"
 
 msgid "Voxels Segmentation"
 msgstr "ボクセルセグメンテーション"

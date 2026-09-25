@@ -248,6 +248,8 @@ msgid ""
 "Clone Selection: copies the selected triangles or points of the active "
 "object into a new object of the same type and hides the original."
 msgstr ""
+"Cloner la sélection : copie les triangles ou points sélectionnés de l'objet "
+"actif dans un nouvel objet du même type et masque l'original."
 
 msgid "Voxels Segmentation"
 msgstr "Segmentation des voxels"
