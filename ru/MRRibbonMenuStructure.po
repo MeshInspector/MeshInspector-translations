@@ -150,16 +150,6 @@ msgstr ""
 msgid "Create Primitive (Interactive)"
 msgstr "Создать примитив (интерактивно)"
 
-msgid "Clone Selection"
-msgstr "Клонировать выделение"
-
-msgid ""
-"Clones selected area (triangles or points) of the object into a separate "
-"object and hides the original."
-msgstr ""
-"Клонирует выбранную область (треугольники или точки) объекта в отдельный "
-"объект и скрывает исходный."
-
 msgid "Clone"
 msgstr "Клонировать"
 
@@ -242,8 +232,11 @@ msgid "Selection to Object"
 msgstr "Выделение в объект"
 
 msgid ""
-"Create a new object of the same type from the selection on the active object."
-msgstr "Создаёт новый объект того же типа из выделения на активном объекте."
+"Clone Selection: copies the selected triangles or points of the active "
+"object into a new object of the same type and hides the original."
+msgstr ""
+"Клонировать выделение: копирует выделенные треугольники или точки активного "
+"объекта в новый объект того же типа и скрывает исходный."
 
 msgid "Voxels Segmentation"
 msgstr "Сегментация воксел"
@@ -1913,6 +1906,21 @@ msgstr "Эксперименты"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid "Clone Selection"
+#~ msgstr "Клонировать выделение"
+
+#~ msgid ""
+#~ "Clones selected area (triangles or points) of the object into a separate "
+#~ "object and hides the original."
+#~ msgstr ""
+#~ "Клонирует выбранную область (треугольники или точки) объекта в отдельный "
+#~ "объект и скрывает исходный."
+
+#~ msgid ""
+#~ "Create a new object of the same type from the selection on the active "
+#~ "object."
+#~ msgstr "Создаёт новый объект того же типа из выделения на активном объекте."
 
 #~ msgid "ReWrap"
 #~ msgstr "Повторное обтягивание"

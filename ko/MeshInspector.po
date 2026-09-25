@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 04:38+0000\n"
+"POT-Creation-Date: 2026-09-25 04:40+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6229,12 +6229,6 @@ msgstr ""
 "복셀 객체에 변환을 적용하려 합니다. Mesh Inspector의 복셀 표현 특성으로 인"
 "해, 어떤 차원에서도 음수 좌표를 갖는 데이터가 없도록 복셀이 추가로 이동됩니다"
 
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints에 선택된 포인트가 없습니다"
-
-msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr "ObjectMesh 또는 ObjectPoints를 정확히 하나 선택하세요"
-
 msgid "To Components"
 msgstr "컴포넌트로"
 
@@ -7942,6 +7936,9 @@ msgid ""
 msgstr ""
 "ObjectMesh의 모든 삼각형이 이미 선택된 경우 침식 또는 팽창할 수 없습니다"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints에 선택된 포인트가 없습니다"
+
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "
 "selected"
@@ -9334,6 +9331,9 @@ msgstr "캡처"
 
 msgid "Import Zivid scan"
 msgstr "Zivid 스캔 가져오기"
+
+#~ msgid "Select exactly one ObjectMesh or ObjectPoints"
+#~ msgstr "ObjectMesh 또는 ObjectPoints를 정확히 하나 선택하세요"
 
 #~ msgid "ReWrap"
 #~ msgstr "리랩"

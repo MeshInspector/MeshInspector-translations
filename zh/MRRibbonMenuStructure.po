@@ -135,14 +135,6 @@ msgstr "创建几何基元网格:立方体、平行六面体、圆柱体、球�
 msgid "Create Primitive (Interactive)"
 msgstr "创建基元(交互)"
 
-msgid "Clone Selection"
-msgstr "克隆选择"
-
-msgid ""
-"Clones selected area (triangles or points) of the object into a separate "
-"object and hides the original."
-msgstr "将对象的所选区域(三角形或点)克隆为单独的对象,并隐藏原始对象。"
-
 msgid "Clone"
 msgstr "克隆"
 
@@ -220,8 +212,11 @@ msgid "Selection to Object"
 msgstr "选择转对象"
 
 msgid ""
-"Create a new object of the same type from the selection on the active object."
-msgstr "根据活动对象上的选择创建一个相同类型的新对象。"
+"Clone Selection: copies the selected triangles or points of the active "
+"object into a new object of the same type and hides the original."
+msgstr ""
+"克隆选择:将活动对象上所选的三角形或点复制到一个相同类型的新对象中,并隐藏原始"
+"对象。"
 
 msgid "Voxels Segmentation"
 msgstr "体素分割"
@@ -1733,6 +1728,19 @@ msgstr "实验性"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid "Clone Selection"
+#~ msgstr "克隆选择"
+
+#~ msgid ""
+#~ "Clones selected area (triangles or points) of the object into a separate "
+#~ "object and hides the original."
+#~ msgstr "将对象的所选区域(三角形或点)克隆为单独的对象,并隐藏原始对象。"
+
+#~ msgid ""
+#~ "Create a new object of the same type from the selection on the active "
+#~ "object."
+#~ msgstr "根据活动对象上的选择创建一个相同类型的新对象。"
 
 #~ msgid "ReWrap"
 #~ msgstr "重新包裹"

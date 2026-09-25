@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 04:38+0000\n"
+"POT-Creation-Date: 2026-09-25 04:40+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6509,12 +6509,6 @@ msgstr ""
 "дополнительно смещены так, чтобы ни одна координата данных не была "
 "отрицательной ни по одному из измерений."
 
-msgid "ObjectPoints doesn't have any selected points"
-msgstr "ObjectPoints не содержит выбранных точек"
-
-msgid "Select exactly one ObjectMesh or ObjectPoints"
-msgstr "Выберите ровно один ObjectMesh или ObjectPoints"
-
 msgid "To Components"
 msgstr "На компоненты"
 
@@ -8285,6 +8279,9 @@ msgstr ""
 "Невозможно выполнить эрозию или дилатацию, если все треугольники ObjectMesh "
 "уже выбраны"
 
+msgid "ObjectPoints doesn't have any selected points"
+msgstr "ObjectPoints не содержит выбранных точек"
+
 msgid ""
 "Unable to erode or dilate if all the points of ObjectPoints are already "
 "selected"
@@ -9721,6 +9718,9 @@ msgstr "Снимок"
 
 msgid "Import Zivid scan"
 msgstr "Импортировать скан Zivid"
+
+#~ msgid "Select exactly one ObjectMesh or ObjectPoints"
+#~ msgstr "Выберите ровно один ObjectMesh или ObjectPoints"
 
 #~ msgid "ReWrap"
 #~ msgstr "Переобтягивание"

@@ -142,16 +142,6 @@ msgstr "기하 기본 메시 생성: 큐브, 평행육면체, 원통, 구, 토�
 msgid "Create Primitive (Interactive)"
 msgstr "기본 형상 생성(대화식)"
 
-msgid "Clone Selection"
-msgstr "선택 항목 복제"
-
-msgid ""
-"Clones selected area (triangles or points) of the object into a separate "
-"object and hides the original."
-msgstr ""
-"객체의 선택한 영역(삼각형 또는 포인트)을 별도의 객체로 복제하고 원본을 숨깁니"
-"다."
-
 msgid "Clone"
 msgstr "복제"
 
@@ -231,8 +221,11 @@ msgid "Selection to Object"
 msgstr "선택을 객체로"
 
 msgid ""
-"Create a new object of the same type from the selection on the active object."
-msgstr "활성 객체의 선택 영역에서 동일한 유형의 새 객체를 생성합니다."
+"Clone Selection: copies the selected triangles or points of the active "
+"object into a new object of the same type and hides the original."
+msgstr ""
+"선택 항목 복제: 활성 객체의 선택된 삼각형 또는 포인트를 동일한 유형의 새 객체"
+"로 복사하고 원본을 숨깁니다."
 
 msgid "Voxels Segmentation"
 msgstr "복셀 분할"
@@ -1835,6 +1828,21 @@ msgstr "실험적"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+#~ msgid "Clone Selection"
+#~ msgstr "선택 항목 복제"
+
+#~ msgid ""
+#~ "Clones selected area (triangles or points) of the object into a separate "
+#~ "object and hides the original."
+#~ msgstr ""
+#~ "객체의 선택한 영역(삼각형 또는 포인트)을 별도의 객체로 복제하고 원본을 숨"
+#~ "깁니다."
+
+#~ msgid ""
+#~ "Create a new object of the same type from the selection on the active "
+#~ "object."
+#~ msgstr "활성 객체의 선택 영역에서 동일한 유형의 새 객체를 생성합니다."
 
 #~ msgid "ReWrap"
 #~ msgstr "리랩"
