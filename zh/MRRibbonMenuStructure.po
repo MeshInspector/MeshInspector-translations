@@ -215,6 +215,8 @@ msgid ""
 "Clone Selection: copies the selected triangles or points of the active "
 "object into a new object of the same type and hides the original."
 msgstr ""
+"克隆选择:将活动对象上所选的三角形或点复制到一个相同类型的新对象中,并隐藏原始"
+"对象。"
 
 msgid "Voxels Segmentation"
 msgstr "体素分割"
