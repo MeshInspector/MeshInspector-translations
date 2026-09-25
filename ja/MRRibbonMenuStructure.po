@@ -145,16 +145,6 @@ msgstr ""
 msgid "Create Primitive (Interactive)"
 msgstr "プリミティブを作成（インタラクティブ）"
 
-msgid "Clone Selection"
-msgstr "選択を複製"
-
-msgid ""
-"Clones selected area (triangles or points) of the object into a separate "
-"object and hides the original."
-msgstr ""
-"オブジェクトの選択した領域（三角形またはポイント）を別のオブジェクトに複製"
-"し、元のオブジェクトを非表示にします。"
-
 msgid "Clone"
 msgstr "複製"
 
@@ -234,10 +224,9 @@ msgid "Selection to Object"
 msgstr "選択範囲をオブジェクトに変換"
 
 msgid ""
-"Create a new object of the same type from the selection on the active object."
+"Clone Selection: copies the selected triangles or points of the active "
+"object into a new object of the same type and hides the original."
 msgstr ""
-"アクティブオブジェクトの選択範囲から同じ種類の新しいオブジェクトを作成しま"
-"す。"
 
 msgid "Voxels Segmentation"
 msgstr "ボクセルセグメンテーション"
@@ -1864,6 +1853,23 @@ msgstr "実験的"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "Clone Selection"
+#~ msgstr "選択を複製"
+
+#~ msgid ""
+#~ "Clones selected area (triangles or points) of the object into a separate "
+#~ "object and hides the original."
+#~ msgstr ""
+#~ "オブジェクトの選択した領域（三角形またはポイント）を別のオブジェクトに複製"
+#~ "し、元のオブジェクトを非表示にします。"
+
+#~ msgid ""
+#~ "Create a new object of the same type from the selection on the active "
+#~ "object."
+#~ msgstr ""
+#~ "アクティブオブジェクトの選択範囲から同じ種類の新しいオブジェクトを作成しま"
+#~ "す。"
 
 #~ msgid "ReWrap"
 #~ msgstr "再ラップ"

@@ -155,16 +155,6 @@ msgstr ""
 msgid "Create Primitive (Interactive)"
 msgstr "Crea primitiva (interattivo)"
 
-msgid "Clone Selection"
-msgstr "Clona selezione"
-
-msgid ""
-"Clones selected area (triangles or points) of the object into a separate "
-"object and hides the original."
-msgstr ""
-"Clona l'area selezionata (triangoli o punti) dell'oggetto in un oggetto "
-"separato e nasconde l'originale."
-
 msgid "Clone"
 msgstr "Clona"
 
@@ -253,10 +243,9 @@ msgid "Selection to Object"
 msgstr "Selezione in oggetto"
 
 msgid ""
-"Create a new object of the same type from the selection on the active object."
+"Clone Selection: copies the selected triangles or points of the active "
+"object into a new object of the same type and hides the original."
 msgstr ""
-"Crea un nuovo oggetto dello stesso tipo a partire dalla selezione "
-"sull'oggetto attivo."
 
 msgid "Voxels Segmentation"
 msgstr "Segmentazione voxel"
@@ -1954,6 +1943,23 @@ msgstr "Sperimentale"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Test"
+
+#~ msgid "Clone Selection"
+#~ msgstr "Clona selezione"
+
+#~ msgid ""
+#~ "Clones selected area (triangles or points) of the object into a separate "
+#~ "object and hides the original."
+#~ msgstr ""
+#~ "Clona l'area selezionata (triangoli o punti) dell'oggetto in un oggetto "
+#~ "separato e nasconde l'originale."
+
+#~ msgid ""
+#~ "Create a new object of the same type from the selection on the active "
+#~ "object."
+#~ msgstr ""
+#~ "Crea un nuovo oggetto dello stesso tipo a partire dalla selezione "
+#~ "sull'oggetto attivo."
 
 #~ msgid "ReWrap"
 #~ msgstr "Nuovo involucro"
