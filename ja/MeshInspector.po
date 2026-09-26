@@ -8277,7 +8277,7 @@ msgid "Uncolor Segments"
 msgstr "セグメントの色を解除"
 
 msgid "Smooth Segments"
-msgstr ""
+msgstr "セグメントをスムージング"
 
 msgid "Any Curved"
 msgstr "任意の曲線"
@@ -8318,12 +8318,14 @@ msgstr ""
 "外の場合はセグメント境界のみが選択エッジで表示されます。"
 
 msgid "Smooth Segments, Sharpen Boundaries"
-msgstr ""
+msgstr "セグメントをスムージング、境界をシャープ化"
 
 msgid ""
 "Reduce noise inside every segment, while making the selected edges (segment "
 "boundaries) sharp creases. The mesh topology and the partition are kept."
 msgstr ""
+"各セグメント内のノイズを低減し、選択エッジ（セグメント境界）をシャープなクリ"
+"ースにします。メッシュのトポロジーと分割は保持されます。"
 
 msgid "Break into Segments"
 msgstr "セグメントに分割"
