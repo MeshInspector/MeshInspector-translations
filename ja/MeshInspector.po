@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 04:40+0000\n"
+"POT-Creation-Date: 2026-09-26 04:38+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -8276,6 +8276,9 @@ msgstr "セグメントに色を付ける"
 msgid "Uncolor Segments"
 msgstr "セグメントの色を解除"
 
+msgid "Smooth Segments"
+msgstr ""
+
 msgid "Any Curved"
 msgstr "任意の曲線"
 
@@ -8313,6 +8316,14 @@ msgid ""
 msgstr ""
 "選択すると、1つのセグメントのすべての三角形が同じ識別色を受け取ります。それ以"
 "外の場合はセグメント境界のみが選択エッジで表示されます。"
+
+msgid "Smooth Segments, Sharpen Boundaries"
+msgstr ""
+
+msgid ""
+"Reduce noise inside every segment, while making the selected edges (segment "
+"boundaries) sharp creases. The mesh topology and the partition are kept."
+msgstr ""
 
 msgid "Break into Segments"
 msgstr "セグメントに分割"

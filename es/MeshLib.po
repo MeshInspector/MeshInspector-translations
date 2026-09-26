@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 04:40+0000\n"
+"POT-Creation-Date: 2026-09-26 04:38+0000\n"
 "PO-Revision-Date: 2026-06-04 12:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1850,7 +1850,7 @@ msgstr "Renombrar objeto"
 
 #: source/MRViewer/ImGuiMenu.cpp:937 source/MRViewer/ImGuiMenu.cpp:938
 #: source/MRViewer/ImGuiMenu.cpp:978 source/MRViewer/ImGuiMenu.cpp:979
-#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:132
+#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:133
 msgid "Name"
 msgstr "Nombre"
 
@@ -2058,7 +2058,7 @@ msgstr "Área de superficie seleccionada / total en el espacio mundial."
 msgid "Total surface area in the world space."
 msgstr "Área total de superficie en el espacio mundial."
 
-#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:147
+#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:148
 msgid "Length"
 msgstr "Longitud"
 
@@ -2107,7 +2107,7 @@ msgstr "Distancia X/Y/Z"
 msgid "Angle"
 msgstr "Ángulo"
 
-#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:148
+#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "Diámetro"
 
@@ -2758,44 +2758,44 @@ msgstr "Malla de herramienta"
 msgid "Create Tool"
 msgstr "Crear herramienta"
 
-#: source/MRViewer/MRToolsLibrary.cpp:135
+#: source/MRViewer/MRToolsLibrary.cpp:136
 msgid "Flat End Mill"
 msgstr "Fresa de punta plana"
 
-#: source/MRViewer/MRToolsLibrary.cpp:136
+#: source/MRViewer/MRToolsLibrary.cpp:137
 msgid "Ball End Mill"
 msgstr "Fresa de punta esférica"
 
-#: source/MRViewer/MRToolsLibrary.cpp:137
+#: source/MRViewer/MRToolsLibrary.cpp:138
 msgid "Bull Nose End Mill"
 msgstr "Fresa de punta tórica"
 
-#: source/MRViewer/MRToolsLibrary.cpp:138
+#: source/MRViewer/MRToolsLibrary.cpp:139
 msgid "Chamfer End Mill"
 msgstr "Fresa para chaflán"
 
-#: source/MRViewer/MRToolsLibrary.cpp:142
+#: source/MRViewer/MRToolsLibrary.cpp:143
 msgid "Type"
 msgstr "Tipo"
 
-#: source/MRViewer/MRToolsLibrary.cpp:144
+#: source/MRViewer/MRToolsLibrary.cpp:145
 msgid "Specifications"
 msgstr "Especificaciones"
 
-#: source/MRViewer/MRToolsLibrary.cpp:152
-#: source/MRViewer/MRToolsLibrary.cpp:157
+#: source/MRViewer/MRToolsLibrary.cpp:153
+#: source/MRViewer/MRToolsLibrary.cpp:158
 msgid "Cutter Radius"
 msgstr "Radio de la fresa"
 
-#: source/MRViewer/MRToolsLibrary.cpp:161
+#: source/MRViewer/MRToolsLibrary.cpp:162
 msgid "Cutting Angle"
 msgstr "Ángulo de corte"
 
-#: source/MRViewer/MRToolsLibrary.cpp:162
+#: source/MRViewer/MRToolsLibrary.cpp:163
 msgid "End Diameter"
 msgstr "Diámetro del extremo"
 
-#: source/MRViewer/MRToolsLibrary.cpp:169
+#: source/MRViewer/MRToolsLibrary.cpp:170
 msgid "Create"
 msgstr "Crear"
 

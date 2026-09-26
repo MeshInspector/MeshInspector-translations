@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 04:40+0000\n"
+"POT-Creation-Date: 2026-09-26 04:38+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -7935,6 +7935,9 @@ msgstr "为分段着色"
 msgid "Uncolor Segments"
 msgstr "取消分段着色"
 
+msgid "Smooth Segments"
+msgstr ""
+
 msgid "Any Curved"
 msgstr "任意弯曲"
 
@@ -7970,6 +7973,14 @@ msgid ""
 msgstr ""
 "若选中，同一分段中的所有三角形将获得相同的特色颜色；否则仅以选定边显示分段边"
 "界。"
+
+msgid "Smooth Segments, Sharpen Boundaries"
+msgstr ""
+
+msgid ""
+"Reduce noise inside every segment, while making the selected edges (segment "
+"boundaries) sharp creases. The mesh topology and the partition are kept."
+msgstr ""
 
 msgid "Break into Segments"
 msgstr "拆分为分段"
