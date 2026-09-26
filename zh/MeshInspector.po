@@ -7936,7 +7936,7 @@ msgid "Uncolor Segments"
 msgstr "取消分段着色"
 
 msgid "Smooth Segments"
-msgstr ""
+msgstr "平滑分段"
 
 msgid "Any Curved"
 msgstr "任意弯曲"
@@ -7975,12 +7975,14 @@ msgstr ""
 "界。"
 
 msgid "Smooth Segments, Sharpen Boundaries"
-msgstr ""
+msgstr "平滑分段，锐化边界"
 
 msgid ""
 "Reduce noise inside every segment, while making the selected edges (segment "
 "boundaries) sharp creases. The mesh topology and the partition are kept."
 msgstr ""
+"降低每个分段内部的噪声，同时将选定边（分段边界）变为尖锐折痕。网格拓扑和分割"
+"保持不变。"
 
 msgid "Break into Segments"
 msgstr "拆分为分段"

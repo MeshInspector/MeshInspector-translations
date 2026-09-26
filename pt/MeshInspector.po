@@ -8623,7 +8623,7 @@ msgid "Uncolor Segments"
 msgstr "Descolorir segmentos"
 
 msgid "Smooth Segments"
-msgstr ""
+msgstr "Suavizar segmentos"
 
 msgid "Any Curved"
 msgstr "Qualquer Curvada"
@@ -8667,12 +8667,15 @@ msgstr ""
 "mostradas com arestas selecionadas."
 
 msgid "Smooth Segments, Sharpen Boundaries"
-msgstr ""
+msgstr "Suavizar Segmentos, Aguçar Fronteiras"
 
 msgid ""
 "Reduce noise inside every segment, while making the selected edges (segment "
 "boundaries) sharp creases. The mesh topology and the partition are kept."
 msgstr ""
+"Reduzir o ruído dentro de cada segmento, transformando as arestas "
+"selecionadas (fronteiras dos segmentos) em vincos vivos. A topologia da "
+"malha e a partição são mantidas."
 
 msgid "Break into Segments"
 msgstr "Dividir em Segmentos"
