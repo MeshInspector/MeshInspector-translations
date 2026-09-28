@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 04:40+0000\n"
+"POT-Creation-Date: 2026-09-26 04:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7676,6 +7676,9 @@ msgstr ""
 msgid "Uncolor Segments"
 msgstr ""
 
+msgid "Smooth Segments"
+msgstr ""
+
 msgid "Any Curved"
 msgstr ""
 
@@ -7708,6 +7711,14 @@ msgstr ""
 msgid ""
 "If selected then all triangles of one segment will receive same distinctive "
 "color, otherwise only segment boundaries will be shown with selected edges."
+msgstr ""
+
+msgid "Smooth Segments, Sharpen Boundaries"
+msgstr ""
+
+msgid ""
+"Reduce noise inside every segment, while making the selected edges (segment "
+"boundaries) sharp creases. The mesh topology and the partition are kept."
 msgstr ""
 
 msgid "Break into Segments"

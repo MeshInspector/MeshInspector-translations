@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 04:40+0000\n"
+"POT-Creation-Date: 2026-09-26 04:38+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1816,7 +1816,7 @@ msgstr "객체 이름 바꾸기"
 
 #: source/MRViewer/ImGuiMenu.cpp:937 source/MRViewer/ImGuiMenu.cpp:938
 #: source/MRViewer/ImGuiMenu.cpp:978 source/MRViewer/ImGuiMenu.cpp:979
-#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:132
+#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:133
 msgid "Name"
 msgstr "이름"
 
@@ -2012,7 +2012,7 @@ msgstr "월드 공간에서 선택된 / 전체 표면적입니다."
 msgid "Total surface area in the world space."
 msgstr "월드 공간에서 전체 표면적입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:147
+#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:148
 msgid "Length"
 msgstr "길이"
 
@@ -2060,7 +2060,7 @@ msgstr "X/Y/Z 거리"
 msgid "Angle"
 msgstr "각도"
 
-#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:148
+#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "지름"
 
@@ -2706,44 +2706,44 @@ msgstr "공구 메시"
 msgid "Create Tool"
 msgstr "공구 생성"
 
-#: source/MRViewer/MRToolsLibrary.cpp:135
+#: source/MRViewer/MRToolsLibrary.cpp:136
 msgid "Flat End Mill"
 msgstr "평엔드밀"
 
-#: source/MRViewer/MRToolsLibrary.cpp:136
+#: source/MRViewer/MRToolsLibrary.cpp:137
 msgid "Ball End Mill"
 msgstr "볼엔드밀"
 
-#: source/MRViewer/MRToolsLibrary.cpp:137
+#: source/MRViewer/MRToolsLibrary.cpp:138
 msgid "Bull Nose End Mill"
 msgstr "불노즈엔드밀"
 
-#: source/MRViewer/MRToolsLibrary.cpp:138
+#: source/MRViewer/MRToolsLibrary.cpp:139
 msgid "Chamfer End Mill"
 msgstr "모따기 엔드밀"
 
-#: source/MRViewer/MRToolsLibrary.cpp:142
+#: source/MRViewer/MRToolsLibrary.cpp:143
 msgid "Type"
 msgstr "유형"
 
-#: source/MRViewer/MRToolsLibrary.cpp:144
+#: source/MRViewer/MRToolsLibrary.cpp:145
 msgid "Specifications"
 msgstr "사양"
 
-#: source/MRViewer/MRToolsLibrary.cpp:152
-#: source/MRViewer/MRToolsLibrary.cpp:157
+#: source/MRViewer/MRToolsLibrary.cpp:153
+#: source/MRViewer/MRToolsLibrary.cpp:158
 msgid "Cutter Radius"
 msgstr "절삭공구 반지름"
 
-#: source/MRViewer/MRToolsLibrary.cpp:161
+#: source/MRViewer/MRToolsLibrary.cpp:162
 msgid "Cutting Angle"
 msgstr "절삭 각도"
 
-#: source/MRViewer/MRToolsLibrary.cpp:162
+#: source/MRViewer/MRToolsLibrary.cpp:163
 msgid "End Diameter"
 msgstr "단부 지름"
 
-#: source/MRViewer/MRToolsLibrary.cpp:169
+#: source/MRViewer/MRToolsLibrary.cpp:170
 msgid "Create"
 msgstr "생성"
 
