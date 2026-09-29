@@ -1162,12 +1162,14 @@ msgid "Select all triangles which are connected to selected edges."
 msgstr "Выделяет все треугольники, связанные с выбранными рёбрами."
 
 msgid "Select Region Boundary"
-msgstr ""
+msgstr "Выделить границу области"
 
 msgid ""
 "Add to edge selection all edges separating selected triangles from "
 "unselected ones."
 msgstr ""
+"Добавляет к выделению рёбер все рёбра, отделяющие выделенные треугольники от "
+"невыделенных."
 
 msgid "Swap Creases / Edges"
 msgstr "Поменять местами изломы / рёбра"

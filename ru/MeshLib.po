@@ -508,48 +508,55 @@ msgstr "Показать горячие клавиши"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:280
 msgid "STEP Import"
-msgstr ""
+msgstr "Импорт STEP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:288
 msgid "Angular Deflection"
-msgstr ""
+msgstr "Угловое отклонение"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:293
 msgid ""
 "Maximum angle between the surface normal and the normal of a generated "
 "triangle. Smaller values give a more precise but heavier mesh."
 msgstr ""
+"Максимальный угол между нормалью поверхности и нормалью генерируемого "
+"треугольника. Меньшие значения дают более точную, но более тяжёлую сетку."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:297
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:298
 msgid "Linear Deflection"
-msgstr ""
+msgstr "Линейное отклонение"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:304
 msgid ""
 "Maximum distance between the exact surface and a generated triangle. Smaller "
 "values give a more precise but heavier mesh."
 msgstr ""
+"Максимальное расстояние между точной поверхностью и генерируемым "
+"треугольником. Меньшие значения дают более точную, но более тяжёлую сетку."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:308
 msgid "Relative Deflection"
-msgstr ""
+msgstr "Относительное отклонение"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:310
 msgid ""
 "Treat the linear deflection as a fraction of the edge size instead of an "
 "absolute distance."
 msgstr ""
+"Считать линейное отклонение долей размера ребра, а не абсолютным расстоянием."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:312
 msgid "Auto Colorize"
-msgstr ""
+msgstr "Автоматическая раскраска"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
 msgid ""
 "Assign distinct colors to the imported components. Has no effect if the STEP "
 "file already contains colors."
 msgstr ""
+"Назначать разные цвета импортированным компонентам. Не действует, если файл "
+"STEP уже содержит цвета."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:323
 msgid "Global"

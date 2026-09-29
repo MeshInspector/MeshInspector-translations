@@ -8631,6 +8631,9 @@ msgid ""
 "boundaries) sharp creases. If some triangles are selected, then only they "
 "are smoothed. The mesh topology and the partition are kept."
 msgstr ""
+"Снижает шум внутри каждого сегмента, делая выбранные рёбра (границы "
+"сегментов) острыми складками. Если некоторые треугольники выбраны, "
+"сглаживаются только они. Топология меша и разбиение сохраняются."
 
 msgid "Break into Segments"
 msgstr "Разбить на сегменты"
@@ -8921,7 +8924,7 @@ msgid "Select incident faces"
 msgstr "Выбрать смежные грани"
 
 msgid "Select region boundary edges"
-msgstr ""
+msgstr "Выбрать граничные рёбра области"
 
 msgid "ObjectMesh doesn't have unique selected edges or creases"
 msgstr "ObjectMesh не имеет уникальных выбранных рёбер или складок"
