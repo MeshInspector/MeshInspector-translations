@@ -1106,6 +1106,14 @@ msgstr "인접 삼각형 선택"
 msgid "Select all triangles which are connected to selected edges."
 msgstr "선택한 가장자리에 연결된 모든 삼각형을 선택합니다."
 
+msgid "Select Region Boundary"
+msgstr ""
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr ""
+
 msgid "Swap Creases / Edges"
 msgstr "주름/가장자리 교체"
 

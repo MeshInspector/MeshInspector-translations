@@ -1129,6 +1129,14 @@ msgstr "隣接三角形を選択"
 msgid "Select all triangles which are connected to selected edges."
 msgstr "選択したエッジに接続されているすべての三角形を選択します。"
 
+msgid "Select Region Boundary"
+msgstr ""
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr ""
+
 msgid "Swap Creases / Edges"
 msgstr "クリース/エッジを交換"
 

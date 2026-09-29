@@ -1205,6 +1205,14 @@ msgid "Select all triangles which are connected to selected edges."
 msgstr ""
 "Selecciona todos los triángulos conectados a las aristas seleccionadas."
 
+msgid "Select Region Boundary"
+msgstr ""
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr ""
+
 msgid "Swap Creases / Edges"
 msgstr "Intercambiar pliegues / aristas"
 

@@ -1202,6 +1202,14 @@ msgstr "Anliegende Dreiecke auswählen"
 msgid "Select all triangles which are connected to selected edges."
 msgstr "Wählt alle Dreiecke aus, die mit ausgewählten Kanten verbunden sind."
 
+msgid "Select Region Boundary"
+msgstr ""
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr ""
+
 msgid "Swap Creases / Edges"
 msgstr "Falten/Kanten tauschen"
 
