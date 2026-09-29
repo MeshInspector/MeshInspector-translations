@@ -505,48 +505,56 @@ msgstr "Mostra scorciatoie"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:280
 msgid "STEP Import"
-msgstr ""
+msgstr "Importazione STEP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:288
 msgid "Angular Deflection"
-msgstr ""
+msgstr "Deflessione angolare"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:293
 msgid ""
 "Maximum angle between the surface normal and the normal of a generated "
 "triangle. Smaller values give a more precise but heavier mesh."
 msgstr ""
+"Angolo massimo tra la normale della superficie e la normale di un triangolo "
+"generato. Valori più piccoli producono una mesh più precisa ma più pesante."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:297
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:298
 msgid "Linear Deflection"
-msgstr ""
+msgstr "Deflessione lineare"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:304
 msgid ""
 "Maximum distance between the exact surface and a generated triangle. Smaller "
 "values give a more precise but heavier mesh."
 msgstr ""
+"Distanza massima tra la superficie esatta e un triangolo generato. Valori "
+"più piccoli producono una mesh più precisa ma più pesante."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:308
 msgid "Relative Deflection"
-msgstr ""
+msgstr "Deflessione relativa"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:310
 msgid ""
 "Treat the linear deflection as a fraction of the edge size instead of an "
 "absolute distance."
 msgstr ""
+"Tratta la deflessione lineare come una frazione della dimensione dello "
+"spigolo invece che come una distanza assoluta."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:312
 msgid "Auto Colorize"
-msgstr ""
+msgstr "Colora automaticamente"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
 msgid ""
 "Assign distinct colors to the imported components. Has no effect if the STEP "
 "file already contains colors."
 msgstr ""
+"Assegna colori distinti ai componenti importati. Non ha effetto se il file "
+"STEP contiene già dei colori."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:323
 msgid "Global"

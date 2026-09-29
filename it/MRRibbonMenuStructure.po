@@ -1191,12 +1191,14 @@ msgid "Select all triangles which are connected to selected edges."
 msgstr "Seleziona tutti i triangoli connessi agli spigoli selezionati."
 
 msgid "Select Region Boundary"
-msgstr ""
+msgstr "Seleziona bordo della regione"
 
 msgid ""
 "Add to edge selection all edges separating selected triangles from "
 "unselected ones."
 msgstr ""
+"Aggiunge alla selezione degli spigoli tutti gli spigoli che separano i "
+"triangoli selezionati da quelli non selezionati."
 
 msgid "Swap Creases / Edges"
 msgstr "Scambia pieghe / spigoli"
