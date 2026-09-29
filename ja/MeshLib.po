@@ -506,48 +506,54 @@ msgstr "ホットキーを表示"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:280
 msgid "STEP Import"
-msgstr ""
+msgstr "STEPインポート"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:288
 msgid "Angular Deflection"
-msgstr ""
+msgstr "角度偏差"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:293
 msgid ""
 "Maximum angle between the surface normal and the normal of a generated "
 "triangle. Smaller values give a more precise but heavier mesh."
 msgstr ""
+"サーフェスの法線と生成される三角形の法線との間の最大角度。値を小さくするとよ"
+"り高精度になりますが、メッシュは重くなります。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:297
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:298
 msgid "Linear Deflection"
-msgstr ""
+msgstr "線形偏差"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:304
 msgid ""
 "Maximum distance between the exact surface and a generated triangle. Smaller "
 "values give a more precise but heavier mesh."
 msgstr ""
+"厳密なサーフェスと生成される三角形との間の最大距離。値を小さくするとより高精"
+"度になりますが、メッシュは重くなります。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:308
 msgid "Relative Deflection"
-msgstr ""
+msgstr "相対偏差"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:310
 msgid ""
 "Treat the linear deflection as a fraction of the edge size instead of an "
 "absolute distance."
-msgstr ""
+msgstr "線形偏差を絶対距離ではなくエッジサイズに対する比率として扱います。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:312
 msgid "Auto Colorize"
-msgstr ""
+msgstr "自動色付け"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
 msgid ""
 "Assign distinct colors to the imported components. Has no effect if the STEP "
 "file already contains colors."
 msgstr ""
+"インポートされたコンポーネントに異なる色を割り当てます。STEPファイルに既に色"
+"が含まれている場合は効果がありません。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:323
 msgid "Global"

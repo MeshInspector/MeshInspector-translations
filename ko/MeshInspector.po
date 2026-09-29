@@ -8272,6 +8272,9 @@ msgid ""
 "boundaries) sharp creases. If some triangles are selected, then only they "
 "are smoothed. The mesh topology and the partition are kept."
 msgstr ""
+"모든 세그먼트 내부의 노이즈를 줄이면서 선택된 가장자리(세그먼트 경계)를 날카"
+"로운 주름으로 만듭니다. 일부 삼각형이 선택된 경우 선택된 삼각형만 평활화됩니"
+"다. 메시 토폴로지와 분할은 유지됩니다."
 
 msgid "Break into Segments"
 msgstr "세그먼트로 분할"
@@ -8552,7 +8555,7 @@ msgid "Select incident faces"
 msgstr "인접 면 선택"
 
 msgid "Select region boundary edges"
-msgstr ""
+msgstr "영역 경계 가장자리 선택"
 
 msgid "ObjectMesh doesn't have unique selected edges or creases"
 msgstr "ObjectMesh에 고유한 선택된 가장자리 또는 주름이 없습니다"

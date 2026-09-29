@@ -8325,6 +8325,9 @@ msgid ""
 "boundaries) sharp creases. If some triangles are selected, then only they "
 "are smoothed. The mesh topology and the partition are kept."
 msgstr ""
+"各セグメント内のノイズを低減し、選択されたエッジ（セグメント境界）を鋭いクリ"
+"ースにします。一部の三角形が選択されている場合は、それらのみがスムージングさ"
+"れます。メッシュトポロジーと分割は保持されます。"
 
 msgid "Break into Segments"
 msgstr "セグメントに分割"
@@ -8605,7 +8608,7 @@ msgid "Select incident faces"
 msgstr "隣接面を選択"
 
 msgid "Select region boundary edges"
-msgstr ""
+msgstr "領域境界エッジを選択"
 
 msgid "ObjectMesh doesn't have unique selected edges or creases"
 msgstr "ObjectMeshには一意の選択エッジまたはクリースがありません"
