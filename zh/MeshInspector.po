@@ -7982,6 +7982,8 @@ msgid ""
 "boundaries) sharp creases. If some triangles are selected, then only they "
 "are smoothed. The mesh topology and the partition are kept."
 msgstr ""
+"降低每个分段内部的噪声，同时将选定边（分段边界）变为尖锐折痕。若选择了部分三"
+"角形，则仅平滑这些三角形。网格拓扑和分割保持不变。"
 
 msgid "Break into Segments"
 msgstr "拆分为分段"
@@ -8251,7 +8253,7 @@ msgid "Select incident faces"
 msgstr "选择关联面"
 
 msgid "Select region boundary edges"
-msgstr ""
+msgstr "选择区域边界边"
 
 msgid "ObjectMesh doesn't have unique selected edges or creases"
 msgstr "ObjectMesh 没有唯一的选定边或折痕"
