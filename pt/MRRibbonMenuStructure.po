@@ -1196,6 +1196,16 @@ msgstr "Selecionar triângulos incidentes"
 msgid "Select all triangles which are connected to selected edges."
 msgstr "Seleciona todos os triângulos ligados às arestas selecionadas."
 
+msgid "Select Region Boundary"
+msgstr "Selecionar fronteira da região"
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr ""
+"Adiciona à seleção de arestas todas as arestas que separam os triângulos "
+"selecionados dos não selecionados."
+
 msgid "Swap Creases / Edges"
 msgstr "Trocar vincos / arestas"
 

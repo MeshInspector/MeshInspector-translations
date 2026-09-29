@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-26 04:38+0000\n"
+"POT-Creation-Date: 2026-09-29 04:41+0000\n"
 "PO-Revision-Date: 2026-03-18 00:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:26
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:476
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:518
 msgid "Current viewport"
 msgstr "Текущий вид"
 
@@ -224,12 +224,12 @@ msgid "ImGui preset:"
 msgstr "Пресет ImGui:"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:76
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:136
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:133
 msgid "Dark"
 msgstr "Тёмная"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:78
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:137
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:134
 msgid "Light"
 msgstr "Светлая"
 
@@ -269,7 +269,7 @@ msgid "Save"
 msgstr "Сохранить"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1034
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1076
 #: source/MRViewer/ImGuiMenu.cpp:951 source/MRViewer/ImGuiMenu.cpp:1050
 #: source/MRViewer/MRProgressBar.cpp:227
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
@@ -458,75 +458,127 @@ msgstr "Нет видимых выделенных объектов."
 msgid "There are no visible selected primitives."
 msgstr "Нет видимых выделенных примитивов."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:54
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:51
 msgid "Quick"
 msgstr "Быстрый"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:55
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:52
 msgid "Application"
 msgstr "Приложение"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:53
 msgid "Control"
 msgstr "Управление"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:54
 msgid "3D View"
 msgstr "3D вид"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:720
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:55
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:762
 msgid "Units"
 msgstr "Единицы измерения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:59
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1301
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1343
 msgid "MCP"
 msgstr "MCP"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:60
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
 msgid "Features"
 msgstr "Функции"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:122
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:119
 msgid "Tools"
 msgstr "Инструменты"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:256
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:253
 msgid "General"
 msgstr "Общее"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:271
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:329
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:268
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:370
 msgid "Toolbar Customize"
 msgstr "Настройка панели инструментов"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:274
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:459
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:271
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:501
 msgid "Show Hotkeys"
 msgstr "Показать горячие клавиши"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:282
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:280
+msgid "STEP Import"
+msgstr "Импорт STEP"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:288
+msgid "Angular Deflection"
+msgstr "Угловое отклонение"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:293
+msgid ""
+"Maximum angle between the surface normal and the normal of a generated "
+"triangle. Smaller values give a more precise but heavier mesh."
+msgstr ""
+"Максимальный угол между нормалью поверхности и нормалью генерируемого "
+"треугольника. Меньшие значения дают более точную, но более тяжёлую сетку."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:297
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:298
+msgid "Linear Deflection"
+msgstr "Линейное отклонение"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:304
+msgid ""
+"Maximum distance between the exact surface and a generated triangle. Smaller "
+"values give a more precise but heavier mesh."
+msgstr ""
+"Максимальное расстояние между точной поверхностью и генерируемым "
+"треугольником. Меньшие значения дают более точную, но более тяжёлую сетку."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:308
+msgid "Relative Deflection"
+msgstr "Относительное отклонение"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:310
+msgid ""
+"Treat the linear deflection as a fraction of the edge size instead of an "
+"absolute distance."
+msgstr ""
+"Считать линейное отклонение долей размера ребра, а не абсолютным расстоянием."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:312
+msgid "Auto Colorize"
+msgstr "Автоматическая раскраска"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
+msgid ""
+"Assign distinct colors to the imported components. Has no effect if the STEP "
+"file already contains colors."
+msgstr ""
+"Назначать разные цвета импортированным компонентам. Не действует, если файл "
+"STEP уже содержит цвета."
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:323
 msgid "Global"
 msgstr "Глобальный"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:284
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:325
 msgid "Reset Settings"
 msgstr "Сбросить настройки"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:295
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:336
 msgid "Interface"
 msgstr "Интерфейс"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:304
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:345
 msgid "UI Scale"
 msgstr "Масштаб интерфейса"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:313
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:354
 msgid "Save Tool Window Positions"
 msgstr "Сохранять позиции окон инструментов"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:314
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:355
 msgid ""
 "If checked then enables using of saved positions of tool windows in the "
 "config file"
@@ -534,11 +586,11 @@ msgstr ""
 "Если включено, позиции окон инструментов сохраняются и загружаются из файла "
 "конфигурации"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:324
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:365
 msgid "Enable multi-windows"
 msgstr "Включить несколько окон"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:326
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:367
 msgid ""
 "Allow tool windows to be moved outside the main window. To apply the "
 "changes, need to restart the application."
@@ -546,42 +598,42 @@ msgstr ""
 "Разрешить перемещение окон инструментов за пределы главного окна. Для "
 "применения изменений необходимо перезапустить приложение."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:332
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:373
 msgid "Behavior"
 msgstr "Поведение"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:340
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
 msgid "Make Visible on Select"
 msgstr "Показывать при выборе"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:343
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:384
 msgid "Deselect on Hide"
 msgstr "Снимать выделение при скрытии"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:349
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:390
 msgid "Close Context Menu on Click"
 msgstr "Закрывать контекстное меню по клику"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:352
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:393
 msgid "Close scene context menu on any change or click outside"
 msgstr "Закрывать контекстное меню сцены при любом изменении или клике вне его"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:356
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:397
 msgid "Auto Close Previous Tool"
 msgstr "Автоматически закрывать предыдущий инструмент"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:359
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:400
 msgid ""
 "Automatically close blocking tool when another blocking tool is activated"
 msgstr ""
 "Автоматически закрывать блокирующий инструмент при активации другого "
 "блокирующего инструмента"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:361
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:402
 msgid "Sort Dropped Files"
 msgstr "Сортировать перетащенные файлы"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:364
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:405
 msgid ""
 "Whether to sort the filenames received from Drag&Drop in lexicographical "
 "order before adding them in scene"
@@ -589,41 +641,41 @@ msgstr ""
 "Сортировать ли имена файлов, полученных через Drag&Drop, в "
 "лексикографическом порядке перед добавлением в сцену"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:366
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:407
 msgid "Show Experimental Features"
 msgstr "Показывать экспериментальные функции"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:367
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:408
 msgid "Show experimental or diagnostic tools and controls"
 msgstr ""
 "Показывать экспериментальные или диагностические инструменты и элементы "
 "управления"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:374
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:415
 msgid "Notifications"
 msgstr "Уведомления"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:376
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:417
 msgid "Time Reports"
 msgstr "Отчёты о времени"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:386
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:427
 msgid "Show duration of last operation of the application."
 msgstr "Показывать длительность последней операции приложения."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:388
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:429
 msgid "Recommendations"
 msgstr "Рекомендации"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:398
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:439
 msgid "Show notifications with recommended actions."
 msgstr "Показывать уведомления с рекомендуемыми действиями."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:400
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:441
 msgid "Implicit Changes"
 msgstr "Неявные изменения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:410
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:451
 msgid ""
 "Notify when some changes were made implicitly by the application. (mostly "
 "appear on import of non-manifold models)"
@@ -631,154 +683,154 @@ msgstr ""
 "Уведомлять, когда приложение вносит неявные изменения. (в основном при "
 "импорте немногообразных моделей)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:412
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:453
 msgid "Important"
 msgstr "Важное"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:422
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:463
 msgid "Show important messages about errors or warnings that could happen."
 msgstr "Показывать важные сообщения об ошибках или предупреждениях."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:429
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:471
 msgid "Files and Folders"
 msgstr "Файлы и папки"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:435
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:477
 msgid "Logs folder"
 msgstr "Папка журналов"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:455
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:497
 msgid "Keyboard"
 msgstr "Клавиатура"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:473
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:515
 msgid "Viewport"
 msgstr "Окно просмотра"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:484
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:526
 msgid "Rotation Mode"
 msgstr "Режим вращения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:484
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:526
 msgid "Scene Center"
 msgstr "Центр сцены"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:484
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:526
 msgid "Pick / Scene Center"
 msgstr "Выбор / Центр сцены"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:484
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:526
 msgid "Pick"
 msgstr "Выбор"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:491
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:533
 msgid "Show Axes"
 msgstr "Показать оси"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:497
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:539
 msgid "Show Global Basis"
 msgstr "Показать глобальный базис"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:502
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:544
 msgid "Grid"
 msgstr "Сетка"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:510
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:515
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:552
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:557
 msgid "Global Basis Scale"
 msgstr "Масштаб глобального базиса"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:521
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:563
 msgid "Auto"
 msgstr "Авто"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:531
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:573
 msgid "Show Rotation Center"
 msgstr "Показать центр вращения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:546
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:588
 msgid "Selected Highlight Modifier"
 msgstr "Модификатор подсветки выделенного"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:551
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:593
 msgid "Ambient light brightness multiplication factor for selected objects"
 msgstr ""
 "Коэффициент умножения яркости рассеянного освещения для выделенных объектов"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:555
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:597
 msgid "Clipping Plane"
 msgstr "Плоскость отсечения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:572
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:614
 msgid "Show"
 msgstr "Показать"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:578
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:620
 msgid "Options"
 msgstr "Параметры"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:583
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:625
 msgid "Picker Radius"
 msgstr "Радиус выбора"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:628
 msgid "Radius of area under cursor to pick objects in scene."
 msgstr "Радиус области под курсором для выбора объектов в сцене."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:588
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:630
 msgid "Defaults"
 msgstr "Значения по умолчанию"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:593
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:635
 msgid "Render"
 msgstr "Рендеринг"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:606
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:648
 msgid "Common"
 msgstr "Общие"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:612
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:654
 msgid "Leading zero"
 msgstr "Ведущий ноль"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:614
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:656
 msgid "If disabled, remove the lone zeroes before the decimal point."
 msgstr "Если отключено, одиночные нули перед десятичной точкой удаляются."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:626
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:668
 msgid "Thousands Separator"
 msgstr "Разделитель тысяч"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:628
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:670
 msgid ""
 "A symbol used to separate groups of thousands in large numbers to make them "
 "easier to read."
 msgstr ""
 "Символ для разделения групп тысяч в больших числах для удобства чтения."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:635
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1127
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:677
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1169
 #: source/MRViewer/MRMouse.h:32
 msgid "None"
 msgstr "Нет"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:637
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:679
 msgid "Space"
 msgstr "Пробел"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:650
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:692
 msgid "Linear"
 msgstr "Линейный"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:670
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:712
 msgid "No Units"
 msgstr "Без единиц"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:671
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:713
 msgid "UI Units"
 msgstr "Единицы интерфейса"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:679
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:721
 msgid ""
 "It selects length units to be show in the user interface. If model units are "
 "different, then stored values will be automatically converted when shown in "
@@ -788,15 +840,15 @@ msgstr ""
 "отличаются, хранимые значения будут автоматически конвертированы при "
 "отображении в интерфейсе."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:682
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:724
 msgid "Same as UI Units"
 msgstr "Как единицы интерфейса"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:683
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:725
 msgid "Model Units"
 msgstr "Единицы модели"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:691
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:733
 msgid ""
 "It selects length units of model's actual values (e.g. coordinates of points "
 "stored in memory). And it affects on importing and exporting of data."
@@ -804,90 +856,90 @@ msgstr ""
 "Выбирает единицы длины для реальных значений модели (например, координат "
 "точек, хранящихся в памяти). Влияет на импорт и экспорт данных."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:695
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:732
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:750
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:737
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:774
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:792
 msgid "Precision"
 msgstr "Точность"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:697
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:739
 msgid ""
 "The number of digits to be shown after decimal point for length measurements."
 msgstr "Количество цифр после десятичной точки для линейных измерений."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:705
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:747
 msgid "Angular"
 msgstr "Угловой"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:723
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:765
 msgid "It selects angular units to be show in the user interface."
 msgstr "Выбирает угловые единицы для отображения в интерфейсе."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:734
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:776
 msgid ""
 "The number of digits to be shown after decimal point for angular "
 "measurements."
 msgstr "Количество цифр после десятичной точки для угловых измерений."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:743
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:785
 msgid "Scale and Ratios"
 msgstr "Масштаб и соотношения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:752
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:794
 msgid ""
 "The number of digits to be shown after decimal point for dimensionless "
 "measurements."
 msgstr "Количество цифр после десятичной точки для безразмерных измерений."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:762
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:804
 msgid "Reset Unit Settings"
 msgstr "Сбросить настройки единиц"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:764
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:806
 msgid "Set all settings here to their default values."
 msgstr "Установить все настройки здесь в значения по умолчанию."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:778
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:820
 msgid "Visuals"
 msgstr "Визуальные параметры"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:781
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:823
 msgid "Surface opacity"
 msgstr "Непрозрачность поверхности"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:785
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:827
 #: source/MRViewer/ImGuiMenu.cpp:2004 source/MRViewer/ImGuiMenu.cpp:2075
 #: source/MRViewer/ImGuiMenu.cpp:2201 source/MRViewer/ImGuiMenu.cpp:2212
 msgid "Point size"
 msgstr "Размер точки"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:789
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:831
 msgid "Point size (subfeatures)"
 msgstr "Размер точки (подэлементы)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:793
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:835
 #: source/MRViewer/ImGuiMenu.cpp:2078 source/MRViewer/ImGuiMenu.cpp:2194
 msgid "Line width"
 msgstr "Ширина линии"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:797
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:839
 msgid "Line width (subfeatures)"
 msgstr "Ширина линии (подэлементы)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:822
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:864
 msgid "Alpha Sort"
 msgstr "Сортировка по прозрачности"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:830
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:835
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:872
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:877
 msgid "Depth Peeling Passes"
 msgstr "Проходы послойной прозрачности"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:846
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:888
 msgid "Multisample anti-aliasing (MSAA):"
 msgstr "Мультисэмпловое сглаживание (MSAA):"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:847
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:889
 msgid ""
 "The number of samples per pixel: more samples - better render quality but "
 "worse performance."
@@ -895,101 +947,101 @@ msgstr ""
 "Количество сэмплов на пиксель: больше сэмплов — лучше качество рендеринга, "
 "но ниже производительность."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:857
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:899
 msgid "Off"
 msgstr "Выкл"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:876
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:918
 msgid "GPU multisampling settings override application value."
 msgstr "Настройки мультисэмплинга GPU переопределяют значение приложения."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:878
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:920
 msgid "Application requires restart to apply this change"
 msgstr "Для применения этого изменения необходим перезапуск приложения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:890
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:932
 msgid "Shadows"
 msgstr "Тени"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:898
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:940
 msgid "Enabled"
 msgstr "Включено"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:908
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:950
 msgid "Shadow Color"
 msgstr "Цвет тени"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:918
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:960
 #: source/MRViewer/ImGuiHelpers.cpp:1514
 msgid "Shift"
 msgstr "Смещение"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:919
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:961
 msgid "X = shift to the left, Y = shift upwards"
 msgstr "X = смещение влево, Y = смещение вверх"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:920
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:962
 msgid "Blur Radius"
 msgstr "Радиус размытия"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:921
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:963
 msgid "Quality"
 msgstr "Качество"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:924
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:966
 msgid "Blur texture downscaling coefficient"
 msgstr "Коэффициент уменьшения текстуры размытия"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:955
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:997
 msgid "Language"
 msgstr "Язык"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:975
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1017
 msgid "Color Theme"
 msgstr "Цветовая тема"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:995
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1037
 msgid "This theme is not valid."
 msgstr "Эта тема недействительна."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1002
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1044
 msgid "Add"
 msgstr "Добавить"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1014
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1056
 msgid "Settings reset"
 msgstr "Настройки сброшены"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1018
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1060
 msgid "Reset all application settings?"
 msgstr "Сбросить все настройки приложения?"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1028
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1070
 #: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
 msgid "Reset"
 msgstr "Сбросить"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1046
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1088
 msgid "Auto Detect"
 msgstr "Автоопределение"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1046
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1088
 msgid "Smooth"
 msgstr "Плавное"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1046
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1088
 msgid "Flat"
 msgstr "Плоское"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1050
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
 msgid "Shading Mode"
 msgstr "Режим затенения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1050
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
 msgid "Default Shading Mode"
 msgstr "Режим затенения по умолчанию"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1052
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1094
 msgid ""
 "Shading mode for mesh objects imported from files\n"
 "Detection depends on source format and mesh shape\n"
@@ -999,39 +1051,39 @@ msgstr ""
 "Определение зависит от исходного формата и формы сетки\n"
 "Этот параметр также влияет на некоторые инструменты"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1064
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1106
 msgid "Orthographic"
 msgstr "Ортографический"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1064
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1106
 msgid "Perspective"
 msgstr "Перспективный"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1067
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1109
 msgid "Projection Mode"
 msgstr "Режим проекции"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1095
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1137
 msgid "Background Color"
 msgstr "Цвет фона"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1111
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1153
 msgid "Mouse"
 msgstr "Мышь"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1115
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1157
 msgid "Zoom Gain"
 msgstr "Чувствительность масштабирования"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1117
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1159
 msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
 msgstr "Чувствительность колеса мыши, влияющая на скорость масштабирования."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1176
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1218
 msgid "Set other"
 msgstr "Задать другую"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1181
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1223
 msgid ""
 "Click here with preferred mouse button \n"
 "with/without modifier"
@@ -1039,32 +1091,32 @@ msgstr ""
 "Нажмите здесь предпочтительной кнопкой мыши \n"
 "с модификатором или без"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1218
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1260
 #, c-format
 msgid "Camera controls can also be used with %s"
 msgstr "Управление камерой также доступно с помощью %s"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1225
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1267
 msgid "Spacemouse"
 msgstr "Spacemouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1237
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1279
 msgid "Inverse"
 msgstr "Инверсный"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1245
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1287
 msgid "Translation Sensitivity"
 msgstr "Чувствительность перемещения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1257
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1299
 msgid "Rotation Sensitivity"
 msgstr "Чувствительность вращения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1266
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1308
 msgid "Suppress Zoom by Mouse Scroll"
 msgstr "Отключить масштабирование колесом мыши"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1267
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1309
 msgid ""
 "This mode is recommended if you have 3Dconnexion driver installed, which "
 "sends fake mouse scroll events resulting in double reaction on SpaceMouse "
@@ -1074,85 +1126,85 @@ msgstr ""
 "отправляет ложные события прокрутки мыши, вызывая двойную реакцию на "
 "движение SpaceMouse и дрожание камеры."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1277
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
 msgid "Touchpad"
 msgstr "Сенсорная панель"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1279
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1321
 msgid "Swipe Rotates Camera"
 msgstr "Свайп вращает камеру"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1279
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1321
 msgid "Swipe Moves Camera"
 msgstr "Свайп перемещает камеру"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1284
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1326
 msgid "Ignore Kinetic Movements"
 msgstr "Игнорировать кинетические движения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1328
 msgid "Allow System to Interrupt Gestures"
 msgstr "Разрешить системе прерывать жесты"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1291
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1333
 msgid "Swipe Mode"
 msgstr "Режим свайпа"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1306
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1348
 msgid "Enable in This Session"
 msgstr "Включить в этой сессии"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1310
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1352
 msgid "Enable by Default"
 msgstr "Включать по умолчанию"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1316
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1322
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1358
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1364
 msgid "Port"
 msgstr "Порт"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1317
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1359
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "Порт задан флагом командной строки -mcpPort"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1374
 msgid "MRU Inner Formats"
 msgstr "Внутренние форматы MRU"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1338
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1380
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "Самый медленный формат с высоким потреблением памяти, но лучшим сжатием (как "
 "правило)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1339
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1381
 msgid "Fast and still relatively small format"
 msgstr "Быстрый и относительно компактный формат"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1340
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1382
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr ""
 "Наибольший по размеру, но самый быстрый для загрузки / сохранения и без "
 "потерь"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1342
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1384
 msgid "Fast and efficient format for sparse data"
 msgstr "Быстрый и эффективный формат для разреженных данных"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1343
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1385
 msgid "Simplest but high disk space consumption format"
 msgstr "Простейший формат, но с большим расходом дискового пространства"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1368
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1410
 msgid "Mesh Format"
 msgstr "Формат сетки"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1386
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1428
 msgid "Points Format"
 msgstr "Формат точек"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1401
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1443
 msgid "Voxels Format"
 msgstr "Формат вокселей"
 
@@ -2813,7 +2865,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Градусы, минуты, секунды"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1327
+#: source/MRViewer/MRViewer.cpp:1368
 #, c++-format
 msgid "{} as {}"
 msgstr "{} как {}"

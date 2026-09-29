@@ -1046,6 +1046,14 @@ msgstr "选择关联三角形"
 msgid "Select all triangles which are connected to selected edges."
 msgstr "选择所有与所选边相连的三角形。"
 
+msgid "Select Region Boundary"
+msgstr "选择区域边界"
+
+msgid ""
+"Add to edge selection all edges separating selected triangles from "
+"unselected ones."
+msgstr "将分隔已选三角形与未选三角形的所有边添加到边选择中。"
+
 msgid "Swap Creases / Edges"
 msgstr "互换折痕/边"
 

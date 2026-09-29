@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-26 04:38+0000\n"
+"POT-Creation-Date: 2026-09-29 04:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7718,7 +7718,8 @@ msgstr ""
 
 msgid ""
 "Reduce noise inside every segment, while making the selected edges (segment "
-"boundaries) sharp creases. The mesh topology and the partition are kept."
+"boundaries) sharp creases. If some triangles are selected, then only they "
+"are smoothed. The mesh topology and the partition are kept."
 msgstr ""
 
 msgid "Break into Segments"
@@ -7980,6 +7981,9 @@ msgid "Select Self Intersections"
 msgstr ""
 
 msgid "Select incident faces"
+msgstr ""
+
+msgid "Select region boundary edges"
 msgstr ""
 
 msgid "ObjectMesh doesn't have unique selected edges or creases"
