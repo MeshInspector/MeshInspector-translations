@@ -5449,12 +5449,14 @@ msgstr ""
 "です"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "選択エッジとクリースの付近のみ"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"チェックすると、選択エッジまたはクリース上に頂点を持つ三角形のエッジのみが分"
+"割されます"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "

@@ -552,13 +552,15 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:316
 msgid "Force Load Sub-Shapes"
-msgstr ""
+msgstr "하위 형상 강제 불러오기"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:318
 msgid ""
 "Always load the bodies (solids and shells) of a shape as separate child "
 "objects, even if the shape has a single body."
 msgstr ""
+"형상에 본체가 하나뿐이더라도 형상의 본체(솔리드 및 셸)를 항상 별도의 자식 객"
+"체로 불러옵니다."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:327
 msgid "Global"

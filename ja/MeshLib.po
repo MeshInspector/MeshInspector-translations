@@ -557,13 +557,15 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:316
 msgid "Force Load Sub-Shapes"
-msgstr ""
+msgstr "サブシェイプを強制的に読み込む"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:318
 msgid ""
 "Always load the bodies (solids and shells) of a shape as separate child "
 "objects, even if the shape has a single body."
 msgstr ""
+"シェイプにボディが1つしかない場合でも、シェイプのボディ（ソリッドとシェル）を"
+"常に個別の子オブジェクトとして読み込みます。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:327
 msgid "Global"

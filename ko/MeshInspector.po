@@ -5425,12 +5425,14 @@ msgstr ""
 "사이에 날카로운 가장자리가 없는 자연스러운 표면에 가장 적합합니다"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "선택된 가장자리 및 주름 근처만"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"체크하면 선택된 가장자리 또는 주름에 정점이 있는 삼각형의 가장자리만 분할됩니"
+"다"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "

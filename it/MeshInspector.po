@@ -5721,12 +5721,14 @@ msgstr ""
 "naturali senza spigoli netti tra i triangoli"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "Solo vicino a spigoli selezionati e pieghe"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"Se selezionato, vengono suddivisi solo gli spigoli dei triangoli che hanno "
+"un vertice su uno spigolo selezionato o su una piega"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "
