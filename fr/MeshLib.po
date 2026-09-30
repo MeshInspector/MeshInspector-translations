@@ -561,13 +561,15 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:316
 msgid "Force Load Sub-Shapes"
-msgstr ""
+msgstr "Forcer le chargement des sous-formes"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:318
 msgid ""
 "Always load the bodies (solids and shells) of a shape as separate child "
 "objects, even if the shape has a single body."
 msgstr ""
+"Charge toujours les corps (solides et coques) d'une forme en tant qu'objets "
+"enfants distincts, même si la forme ne comporte qu'un seul corps."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:327
 msgid "Global"

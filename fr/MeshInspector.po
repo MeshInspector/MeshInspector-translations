@@ -5759,12 +5759,14 @@ msgstr ""
 "naturelles sans arêtes vives entre les triangles"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "Uniquement près des arêtes sélectionnées et des plis"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"Si coché, seules les arêtes des triangles ayant un sommet sur une arête "
+"sélectionnée ou un pli sont divisées"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "

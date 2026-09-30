@@ -5716,12 +5716,14 @@ msgstr ""
 "naturales sin aristas agudas entre triángulos"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "Solo cerca de aristas seleccionadas y pliegues"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"Si está marcado, solo se dividen las aristas de los triángulos con un "
+"vértice en una arista seleccionada o en un pliegue"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "
