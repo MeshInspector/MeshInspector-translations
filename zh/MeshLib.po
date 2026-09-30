@@ -539,13 +539,14 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:316
 msgid "Force Load Sub-Shapes"
-msgstr ""
+msgstr "强制加载子形状"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:318
 msgid ""
 "Always load the bodies (solids and shells) of a shape as separate child "
 "objects, even if the shape has a single body."
 msgstr ""
+"始终将形状的几何体(实体和壳体)作为单独的子对象加载,即使该形状只有一个几何体。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:327
 msgid "Global"

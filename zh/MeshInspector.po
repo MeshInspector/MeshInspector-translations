@@ -5234,12 +5234,12 @@ msgstr ""
 "有锐边的自然曲面"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "仅在选定边和折痕附近"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
-msgstr ""
+msgstr "若选中，则仅分割有顶点位于选定边或折痕上的三角形的边"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "

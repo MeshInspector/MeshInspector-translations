@@ -5688,12 +5688,14 @@ msgstr ""
 "arestas vivas entre triângulos"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "Apenas Perto de Arestas Selecionadas e Dobras"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"Se selecionado, apenas as arestas dos triângulos que têm um vértice numa "
+"aresta selecionada ou numa dobra são divididas"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "

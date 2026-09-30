@@ -5665,12 +5665,14 @@ msgstr ""
 "поверхностей без острых рёбер между треугольниками"
 
 msgid "Near Selected Edges and Creases Only"
-msgstr ""
+msgstr "Только вблизи выбранных рёбер и складок"
 
 msgid ""
 "If checked, then only the edges of the triangles having a vertex on a "
 "selected edge or a crease are split"
 msgstr ""
+"Если включено, разбиваются только рёбра треугольников, имеющих вершину на "
+"выбранном ребре или складке"
 
 msgid ""
 "Edge flip is allowed if it changes dihedral angle no more than on this value "
