@@ -1463,6 +1463,17 @@ msgstr ""
 "Разделяет меш на две части, граница которых проходит через две заданные "
 "пользователем точки."
 
+msgid "Cut Around Selected Edges"
+msgstr "Разрезать вокруг выбранных рёбер"
+
+msgid ""
+"Cut the mesh at the given distance around each connected group of selected "
+"edges, keeping the regions of different groups apart, and select these "
+"regions"
+msgstr ""
+"Разрезает меш на заданном расстоянии вокруг каждой связной группы выбранных "
+"рёбер, сохраняя области разных групп раздельными, и выделяет эти области"
+
 msgid "Shrink Wrap"
 msgstr "Обтягивание"
 

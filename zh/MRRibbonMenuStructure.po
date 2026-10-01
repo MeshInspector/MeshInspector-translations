@@ -1321,6 +1321,17 @@ msgid ""
 "points."
 msgstr "将网格分割为两部分,边界通过用户给出的两个点。"
 
+msgid "Cut Around Selected Edges"
+msgstr "围绕所选边切割"
+
+msgid ""
+"Cut the mesh at the given distance around each connected group of selected "
+"edges, keeping the regions of different groups apart, and select these "
+"regions"
+msgstr ""
+"在所选边的每个连通组周围给定距离处切割网格,使不同组的区域保持分离,并选择这些"
+"区域"
+
 msgid "Shrink Wrap"
 msgstr "收缩包裹"
 

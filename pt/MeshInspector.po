@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2930,6 +2930,32 @@ msgstr "Destacar faces de colisão de duas malhas."
 msgid "Collision Plugin: new collision"
 msgstr "Plugin de Colisão: nova colisão"
 
+msgid "Select the edges to cut around"
+msgstr "Selecionar as arestas em torno das quais cortar"
+
+msgid "Distance"
+msgstr "Distância"
+
+msgid ""
+"Distance from each connected group of selected edges to the cut around it"
+msgstr ""
+"Distância de cada grupo conectado de arestas selecionadas até ao corte que o "
+"rodeia"
+
+msgid "Gap"
+msgstr "Folga"
+
+msgid ""
+"Where two groups of selected edges are closer than twice the distance plus "
+"this value, their regions are shrunk to stay apart"
+msgstr ""
+"Onde dois grupos de arestas selecionadas estiverem mais próximos do que o "
+"dobro da distância mais este valor, as suas regiões são encolhidas para se "
+"manterem afastadas"
+
+msgid "Cut Around Selected Edges"
+msgstr "Cortar em Torno das Arestas Selecionadas"
+
 msgid "Polyline must not be empty"
 msgstr "A polilinha não pode estar vazia"
 
@@ -4710,9 +4736,6 @@ msgstr "ObjectMesh não tem triângulos selecionados"
 
 msgid "Diameter of each stone"
 msgstr "Diâmetro de cada pedra"
-
-msgid "Distance"
-msgstr "Distância"
 
 msgid "Distance between two ajacent stones"
 msgstr "Distância entre duas pedras adjacentes"

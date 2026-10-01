@@ -1512,6 +1512,18 @@ msgstr ""
 "Segmentiert das Mesh in zwei Teile, wobei die Grenze durch zwei vom Benutzer "
 "angegebene Punkte verläuft."
 
+msgid "Cut Around Selected Edges"
+msgstr "Um ausgewählte Kanten herum schneiden"
+
+msgid ""
+"Cut the mesh at the given distance around each connected group of selected "
+"edges, keeping the regions of different groups apart, and select these "
+"regions"
+msgstr ""
+"Schneidet das Mesh im angegebenen Abstand um jede zusammenhängende Gruppe "
+"ausgewählter Kanten herum, hält die Bereiche verschiedener Gruppen "
+"voneinander getrennt und wählt diese Bereiche aus"
+
 msgid "Shrink Wrap"
 msgstr "Aufschrumpfen"
 
