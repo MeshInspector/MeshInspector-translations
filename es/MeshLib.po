@@ -1104,11 +1104,11 @@ msgstr "Sensibilidad de la rueda del ratón que afecta a la velocidad del zoom."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1168
 msgid "Invert Zoom"
-msgstr ""
+msgstr "Invertir zoom"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
 msgid "Reverses the mouse wheel zoom direction."
-msgstr ""
+msgstr "Invierte la dirección del zoom de la rueda del ratón."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1229
 msgid "Set other"

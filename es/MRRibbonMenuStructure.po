@@ -1513,13 +1513,16 @@ msgstr ""
 "indicados por el usuario."
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "Cortar alrededor de las aristas seleccionadas"
 
 msgid ""
 "Cut the mesh at the given distance around each connected group of selected "
 "edges, keeping the regions of different groups apart, and select these "
 "regions"
 msgstr ""
+"Corta la malla a la distancia indicada alrededor de cada grupo conexo de "
+"aristas seleccionadas, manteniendo separadas las regiones de grupos "
+"distintos, y selecciona estas regiones"
 
 msgid "Shrink Wrap"
 msgstr "Envoltura retráctil"
