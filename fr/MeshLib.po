@@ -1109,11 +1109,11 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1168
 msgid "Invert Zoom"
-msgstr ""
+msgstr "Inverser le zoom"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
 msgid "Reverses the mouse wheel zoom direction."
-msgstr ""
+msgstr "Inverse le sens du zoom de la molette de souris."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1229
 msgid "Set other"

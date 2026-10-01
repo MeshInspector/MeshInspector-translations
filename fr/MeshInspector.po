@@ -2960,7 +2960,7 @@ msgid "Collision Plugin: new collision"
 msgstr "Plugin de collision : nouvelle collision"
 
 msgid "Select the edges to cut around"
-msgstr ""
+msgstr "Sélectionner les arêtes autour desquelles couper"
 
 msgid "Distance"
 msgstr "Distance"
@@ -2968,17 +2968,21 @@ msgstr "Distance"
 msgid ""
 "Distance from each connected group of selected edges to the cut around it"
 msgstr ""
+"Distance entre chaque groupe connecté d'arêtes sélectionnées et la coupe qui "
+"l'entoure"
 
 msgid "Gap"
-msgstr ""
+msgstr "Écart"
 
 msgid ""
 "Where two groups of selected edges are closer than twice the distance plus "
 "this value, their regions are shrunk to stay apart"
 msgstr ""
+"Là où deux groupes d'arêtes sélectionnées sont plus proches que deux fois la "
+"distance plus cette valeur, leurs régions sont réduites pour rester séparées"
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "Couper autour des arêtes sélectionnées"
 
 msgid "Polyline must not be empty"
 msgstr "La polyligne ne doit pas être vide"
