@@ -2771,25 +2771,25 @@ msgid "Collision Plugin: new collision"
 msgstr "碰撞插件：新碰撞"
 
 msgid "Select the edges to cut around"
-msgstr ""
+msgstr "选择要在其周围切割的边"
 
 msgid "Distance"
 msgstr "距离"
 
 msgid ""
 "Distance from each connected group of selected edges to the cut around it"
-msgstr ""
+msgstr "选定边的每个连通组到其周围切割线的距离"
 
 msgid "Gap"
-msgstr ""
+msgstr "间隙"
 
 msgid ""
 "Where two groups of selected edges are closer than twice the distance plus "
 "this value, their regions are shrunk to stay apart"
-msgstr ""
+msgstr "当两组选定边相距小于距离的两倍加上此值时，它们的区域将被收缩以保持分离"
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "围绕选定边切割"
 
 msgid "Polyline must not be empty"
 msgstr "折线不能为空"
