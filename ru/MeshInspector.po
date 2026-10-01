@@ -2914,7 +2914,7 @@ msgid "Collision Plugin: new collision"
 msgstr "Плагин столкновений: новое столкновение"
 
 msgid "Select the edges to cut around"
-msgstr ""
+msgstr "Выберите рёбра, вокруг которых будет выполнен разрез"
 
 msgid "Distance"
 msgstr "Расстояние"
@@ -2922,17 +2922,21 @@ msgstr "Расстояние"
 msgid ""
 "Distance from each connected group of selected edges to the cut around it"
 msgstr ""
+"Расстояние от каждой связной группы выбранных рёбер до разреза вокруг неё"
 
 msgid "Gap"
-msgstr ""
+msgstr "Зазор"
 
 msgid ""
 "Where two groups of selected edges are closer than twice the distance plus "
 "this value, their regions are shrunk to stay apart"
 msgstr ""
+"Там, где две группы выбранных рёбер находятся ближе друг к другу, чем "
+"удвоенное расстояние плюс это значение, их области уменьшаются, чтобы "
+"оставаться разделёнными"
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "Разрезать вокруг выбранных рёбер"
 
 msgid "Polyline must not be empty"
 msgstr "Полилиния не должна быть пустой"

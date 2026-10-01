@@ -1503,13 +1503,16 @@ msgstr ""
 "indicados pelo utilizador."
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "Cortar em torno das arestas selecionadas"
 
 msgid ""
 "Cut the mesh at the given distance around each connected group of selected "
 "edges, keeping the regions of different groups apart, and select these "
 "regions"
 msgstr ""
+"Corta a malha à distância indicada em torno de cada grupo conexo de arestas "
+"selecionadas, mantendo separadas as regiões de grupos diferentes, e "
+"seleciona essas regiões"
 
 msgid "Shrink Wrap"
 msgstr "Invólucro retrátil"
