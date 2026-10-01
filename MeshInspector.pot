@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2713,6 +2713,27 @@ msgstr ""
 msgid "Collision Plugin: new collision"
 msgstr ""
 
+msgid "Select the edges to cut around"
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid ""
+"Distance from each connected group of selected edges to the cut around it"
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid ""
+"Where two groups of selected edges are closer than twice the distance plus "
+"this value, their regions are shrunk to stay apart"
+msgstr ""
+
+msgid "Cut Around Selected Edges"
+msgstr ""
+
 msgid "Polyline must not be empty"
 msgstr ""
 
@@ -4244,9 +4265,6 @@ msgid "ObjectMesh doesn't have any selected triangles"
 msgstr ""
 
 msgid "Diameter of each stone"
-msgstr ""
-
-msgid "Distance"
 msgstr ""
 
 msgid "Distance between two ajacent stones"

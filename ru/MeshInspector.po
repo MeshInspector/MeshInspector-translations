@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2913,6 +2913,27 @@ msgstr "Выделить сталкивающиеся грани двух меш
 msgid "Collision Plugin: new collision"
 msgstr "Плагин столкновений: новое столкновение"
 
+msgid "Select the edges to cut around"
+msgstr ""
+
+msgid "Distance"
+msgstr "Расстояние"
+
+msgid ""
+"Distance from each connected group of selected edges to the cut around it"
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid ""
+"Where two groups of selected edges are closer than twice the distance plus "
+"this value, their regions are shrunk to stay apart"
+msgstr ""
+
+msgid "Cut Around Selected Edges"
+msgstr ""
+
 msgid "Polyline must not be empty"
 msgstr "Полилиния не должна быть пустой"
 
@@ -4693,9 +4714,6 @@ msgstr "ObjectMesh не имеет выделенных треугольнико
 
 msgid "Diameter of each stone"
 msgstr "Диаметр каждого камня"
-
-msgid "Distance"
-msgstr "Расстояние"
 
 msgid "Distance between two ajacent stones"
 msgstr "Расстояние между двумя соседними камнями"

@@ -1502,6 +1502,15 @@ msgstr ""
 "Segmenta a malha em duas partes com uma fronteira que passa por dois pontos "
 "indicados pelo utilizador."
 
+msgid "Cut Around Selected Edges"
+msgstr ""
+
+msgid ""
+"Cut the mesh at the given distance around each connected group of selected "
+"edges, keeping the regions of different groups apart, and select these "
+"regions"
+msgstr ""
+
 msgid "Shrink Wrap"
 msgstr "Invólucro retrátil"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -477,7 +477,7 @@ msgid "Units"
 msgstr "Unità"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1347
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1354
 msgid "MCP"
 msgstr "MCP"
 
@@ -820,7 +820,7 @@ msgstr ""
 "renderli più facili da leggere."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:681
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1173
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1180
 #: source/MRViewer/MRMouse.h:32
 msgid "None"
 msgstr "Nessuno"
@@ -1100,11 +1100,19 @@ msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
 msgstr ""
 "Sensibilità della rotellina del mouse che influisce sulla velocità di zoom."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1222
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1168
+msgid "Invert Zoom"
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
+msgid "Reverses the mouse wheel zoom direction."
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1229
 msgid "Set other"
 msgstr "Imposta altri"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1227
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1234
 msgid ""
 "Click here with preferred mouse button \n"
 "with/without modifier"
@@ -1112,32 +1120,32 @@ msgstr ""
 "Fai clic qui con il pulsante del mouse preferito \n"
 "con/senza modificatore"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1264
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1271
 #, c-format
 msgid "Camera controls can also be used with %s"
 msgstr "I controlli della camera possono essere usati anche con %s"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1271
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1278
 msgid "Spacemouse"
 msgstr "Spacemouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1283
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1290
 msgid "Inverse"
 msgstr "Inverso"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1291
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1298
 msgid "Translation Sensitivity"
 msgstr "Sensibilità di traslazione"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1303
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1310
 msgid "Rotation Sensitivity"
 msgstr "Sensibilità di rotazione"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1312
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
 msgid "Suppress Zoom by Mouse Scroll"
 msgstr "Sopprimi zoom con la rotellina del mouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1313
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1320
 msgid ""
 "This mode is recommended if you have 3Dconnexion driver installed, which "
 "sends fake mouse scroll events resulting in double reaction on SpaceMouse "
@@ -1147,85 +1155,85 @@ msgstr ""
 "invia falsi eventi di scroll del mouse causando una doppia reazione al "
 "movimento della SpaceMouse e tremolio della camera."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1323
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1330
 msgid "Touchpad"
 msgstr "Touchpad"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1325
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
 msgid "Swipe Rotates Camera"
 msgstr "Lo swipe ruota la camera"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1325
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
 msgid "Swipe Moves Camera"
 msgstr "Lo swipe sposta la camera"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1330
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1337
 msgid "Ignore Kinetic Movements"
 msgstr "Ignora movimenti cinetici"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1339
 msgid "Allow System to Interrupt Gestures"
 msgstr "Consenti al sistema di interrompere i gesti"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1337
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1344
 msgid "Swipe Mode"
 msgstr "Modalità swipe"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1352
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1359
 msgid "Enable in This Session"
 msgstr "Abilita in questa sessione"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1356
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1363
 msgid "Enable by Default"
 msgstr "Abilita per impostazione predefinita"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1362
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1368
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1369
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1375
 msgid "Port"
 msgstr "Porta"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1363
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1370
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "Porta imposta dall'opzione da riga di comando -mcpPort"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1378
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1385
 msgid "MRU Inner Formats"
 msgstr "Formati interni MRU"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1384
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1391
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "Formato più lento, con elevato consumo di memoria, ma (in genere) con la "
 "migliore compressione"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1385
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1392
 msgid "Fast and still relatively small format"
 msgstr "Formato rapido e ancora relativamente compatto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1386
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1393
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr ""
 "Il più grande in dimensione, ma il più rapido da caricare/salvare e senza "
 "perdite"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1388
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1395
 msgid "Fast and efficient format for sparse data"
 msgstr "Formato rapido ed efficiente per dati sparsi"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Simplest but high disk space consumption format"
 msgstr "Formato più semplice ma con elevato consumo di spazio su disco"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1414
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1421
 msgid "Mesh Format"
 msgstr "Formato mesh"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1439
 msgid "Points Format"
 msgstr "Formato punti"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1447
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1454
 msgid "Voxels Format"
 msgstr "Formato voxel"
 
@@ -2774,27 +2782,27 @@ msgid "Select to prefer in selection convex/concave angles or neither"
 msgstr ""
 "Scegli se nella selezione preferire angoli convessi/concavi o nessuno dei due"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:304
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:297
 msgid "Brush: Add"
 msgstr "Pennello: Aggiungi"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:306
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:299
 msgid "Brush: Remove"
 msgstr "Pennello: Rimuovi"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:301
 msgid "Brush: Smooth"
 msgstr "Pennello: Leviga"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:352
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:356
 msgid "Subdivide Ridges/Grooves"
 msgstr "Suddividi creste/scanalature"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:395
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:399
 msgid "Brush: Fix"
 msgstr "Pennello: Ripara"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:857
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:856
 msgid "Brush: Deform"
 msgstr "Pennello: Deforma"
 
@@ -2892,7 +2900,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Gradi, minuti, secondi"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1395
+#: source/MRViewer/MRViewer.cpp:1398
 #, c++-format
 msgid "{} as {}"
 msgstr "{} come {}"

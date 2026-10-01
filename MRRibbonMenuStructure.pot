@@ -1140,6 +1140,12 @@ msgstr ""
 msgid "Segment mesh in two parts with the boundary passing via two user-given points."
 msgstr ""
 
+msgid "Cut Around Selected Edges"
+msgstr ""
+
+msgid "Cut the mesh at the given distance around each connected group of selected edges, keeping the regions of different groups apart, and select these regions"
+msgstr ""
+
 msgid "Shrink Wrap"
 msgstr ""
 

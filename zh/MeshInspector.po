@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2770,6 +2770,27 @@ msgstr "高亮显示两个网格的碰撞面。"
 msgid "Collision Plugin: new collision"
 msgstr "碰撞插件：新碰撞"
 
+msgid "Select the edges to cut around"
+msgstr ""
+
+msgid "Distance"
+msgstr "距离"
+
+msgid ""
+"Distance from each connected group of selected edges to the cut around it"
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid ""
+"Where two groups of selected edges are closer than twice the distance plus "
+"this value, their regions are shrunk to stay apart"
+msgstr ""
+
+msgid "Cut Around Selected Edges"
+msgstr ""
+
 msgid "Polyline must not be empty"
 msgstr "折线不能为空"
 
@@ -4359,9 +4380,6 @@ msgstr "ObjectMesh 没有任何选中的三角形"
 
 msgid "Diameter of each stone"
 msgstr "每块石头的直径"
-
-msgid "Distance"
-msgstr "距离"
 
 msgid "Distance between two ajacent stones"
 msgstr "两块相邻石头之间的距离"

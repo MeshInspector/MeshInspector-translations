@@ -1423,6 +1423,15 @@ msgid ""
 msgstr ""
 "ユーザーが指定した2点を通る境界でメッシュを2つの部分にセグメント化します。"
 
+msgid "Cut Around Selected Edges"
+msgstr ""
+
+msgid ""
+"Cut the mesh at the given distance around each connected group of selected "
+"edges, keeping the regions of different groups apart, and select these "
+"regions"
+msgstr ""
+
 msgid "Shrink Wrap"
 msgstr "シュリンクラップ"
 

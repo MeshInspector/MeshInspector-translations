@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -464,7 +464,7 @@ msgid "Units"
 msgstr "单位"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1347
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1354
 msgid "MCP"
 msgstr "MCP"
 
@@ -785,7 +785,7 @@ msgid ""
 msgstr "用于在大数中分隔千位组以便阅读的符号。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:681
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1173
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1180
 #: source/MRViewer/MRMouse.h:32
 msgid "None"
 msgstr "无"
@@ -1051,11 +1051,19 @@ msgstr "缩放增益"
 msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
 msgstr "鼠标滚轮旋转对缩放速度的灵敏度。"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1222
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1168
+msgid "Invert Zoom"
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
+msgid "Reverses the mouse wheel zoom direction."
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1229
 msgid "Set other"
 msgstr "设置其他"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1227
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1234
 msgid ""
 "Click here with preferred mouse button \n"
 "with/without modifier"
@@ -1063,32 +1071,32 @@ msgstr ""
 "用首选鼠标按钮在此单击 \n"
 "可带或不带修饰键"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1264
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1271
 #, c-format
 msgid "Camera controls can also be used with %s"
 msgstr "相机控制也可与 %s 一起使用"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1271
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1278
 msgid "Spacemouse"
 msgstr "Spacemouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1283
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1290
 msgid "Inverse"
 msgstr "反向"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1291
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1298
 msgid "Translation Sensitivity"
 msgstr "平移灵敏度"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1303
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1310
 msgid "Rotation Sensitivity"
 msgstr "旋转灵敏度"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1312
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
 msgid "Suppress Zoom by Mouse Scroll"
 msgstr "禁用鼠标滚轮缩放"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1313
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1320
 msgid ""
 "This mode is recommended if you have 3Dconnexion driver installed, which "
 "sends fake mouse scroll events resulting in double reaction on SpaceMouse "
@@ -1097,81 +1105,81 @@ msgstr ""
 "如果您安装了 3Dconnexion 驱动程序,会发送伪造的鼠标滚轮事件,导致 SpaceMouse 移"
 "动出现双重反应及相机抖动,建议使用此模式。"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1323
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1330
 msgid "Touchpad"
 msgstr "触摸板"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1325
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
 msgid "Swipe Rotates Camera"
 msgstr "滑动旋转相机"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1325
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
 msgid "Swipe Moves Camera"
 msgstr "滑动移动相机"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1330
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1337
 msgid "Ignore Kinetic Movements"
 msgstr "忽略惯性运动"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1332
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1339
 msgid "Allow System to Interrupt Gestures"
 msgstr "允许系统中断手势"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1337
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1344
 msgid "Swipe Mode"
 msgstr "滑动模式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1352
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1359
 msgid "Enable in This Session"
 msgstr "在本次会话中启用"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1356
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1363
 msgid "Enable by Default"
 msgstr "默认启用"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1362
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1368
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1369
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1375
 msgid "Port"
 msgstr "端口"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1363
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1370
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "由 -mcpPort 命令行参数强制指定的端口"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1378
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1385
 msgid "MRU Inner Formats"
 msgstr "MRU 内部格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1384
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1391
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr "最慢、占用大量内存,但(通常)压缩率最佳的格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1385
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1392
 msgid "Fast and still relatively small format"
 msgstr "快速且体积仍较小的格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1386
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1393
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr "体积最大,但加载/保存最快且无任何损失"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1388
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1395
 msgid "Fast and efficient format for sparse data"
 msgstr "适用于稀疏数据的快速高效格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Simplest but high disk space consumption format"
 msgstr "最简单但占用大量磁盘空间的格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1414
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1421
 msgid "Mesh Format"
 msgstr "网格格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1439
 msgid "Points Format"
 msgstr "点云格式"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1447
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1454
 msgid "Voxels Format"
 msgstr "体素格式"
 
@@ -2688,27 +2696,27 @@ msgstr "选择较长但经过凹区域的路径"
 msgid "Select to prefer in selection convex/concave angles or neither"
 msgstr "选择在选取中是偏好凸 / 凹角度,还是两者都不偏好"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:304
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:297
 msgid "Brush: Add"
 msgstr "笔刷: 添加"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:306
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:299
 msgid "Brush: Remove"
 msgstr "笔刷: 移除"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:301
 msgid "Brush: Smooth"
 msgstr "笔刷: 平滑"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:352
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:356
 msgid "Subdivide Ridges/Grooves"
 msgstr "细分脊 / 槽"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:395
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:399
 msgid "Brush: Fix"
 msgstr "笔刷: 修复"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:857
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:856
 msgid "Brush: Deform"
 msgstr "笔刷: 变形"
 
@@ -2806,7 +2814,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "度、分、秒"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1395
+#: source/MRViewer/MRViewer.cpp:1398
 #, c++-format
 msgid "{} as {}"
 msgstr "{} 作为 {}"

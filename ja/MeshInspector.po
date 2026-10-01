@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 04:42+0000\n"
+"POT-Creation-Date: 2026-10-01 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2840,6 +2840,27 @@ msgstr "2つのメッシュの衝突面をハイライトします。"
 msgid "Collision Plugin: new collision"
 msgstr "衝突プラグイン: 新しい衝突"
 
+msgid "Select the edges to cut around"
+msgstr ""
+
+msgid "Distance"
+msgstr "距離"
+
+msgid ""
+"Distance from each connected group of selected edges to the cut around it"
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid ""
+"Where two groups of selected edges are closer than twice the distance plus "
+"this value, their regions are shrunk to stay apart"
+msgstr ""
+
+msgid "Cut Around Selected Edges"
+msgstr ""
+
 msgid "Polyline must not be empty"
 msgstr "ポリラインを空にすることはできません"
 
@@ -4526,9 +4547,6 @@ msgstr "ObjectMeshに選択された三角形がありません"
 
 msgid "Diameter of each stone"
 msgstr "各石の直径"
-
-msgid "Distance"
-msgstr "距離"
 
 msgid "Distance between two ajacent stones"
 msgstr "隣接する2つの石の間の距離"
