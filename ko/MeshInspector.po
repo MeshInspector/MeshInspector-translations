@@ -2833,25 +2833,27 @@ msgid "Collision Plugin: new collision"
 msgstr "충돌 플러그인: 새 충돌"
 
 msgid "Select the edges to cut around"
-msgstr ""
+msgstr "주위를 자를 가장자리를 선택하세요"
 
 msgid "Distance"
 msgstr "거리"
 
 msgid ""
 "Distance from each connected group of selected edges to the cut around it"
-msgstr ""
+msgstr "선택된 가장자리의 각 연결된 그룹에서 그 주위의 절단선까지의 거리"
 
 msgid "Gap"
-msgstr ""
+msgstr "간격"
 
 msgid ""
 "Where two groups of selected edges are closer than twice the distance plus "
 "this value, their regions are shrunk to stay apart"
 msgstr ""
+"선택된 가장자리의 두 그룹이 거리의 두 배에 이 값을 더한 것보다 가까우면, 해"
+"당 영역이 서로 떨어지도록 축소됩니다"
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "선택된 가장자리 주위 자르기"
 
 msgid "Polyline must not be empty"
 msgstr "폴리라인은 비어 있을 수 없습니다"

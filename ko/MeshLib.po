@@ -1075,11 +1075,11 @@ msgstr "확대/축소 속도에 영향을 미치는 마우스 휠 회전의 감�
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1168
 msgid "Invert Zoom"
-msgstr ""
+msgstr "확대/축소 반전"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
 msgid "Reverses the mouse wheel zoom direction."
-msgstr ""
+msgstr "마우스 휠 확대/축소 방향을 반전합니다."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1229
 msgid "Set other"

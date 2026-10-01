@@ -2841,25 +2841,27 @@ msgid "Collision Plugin: new collision"
 msgstr "衝突プラグイン: 新しい衝突"
 
 msgid "Select the edges to cut around"
-msgstr ""
+msgstr "周囲をカットするエッジを選択してください"
 
 msgid "Distance"
 msgstr "距離"
 
 msgid ""
 "Distance from each connected group of selected edges to the cut around it"
-msgstr ""
+msgstr "選択したエッジの各連結グループから、その周囲のカットまでの距離"
 
 msgid "Gap"
-msgstr ""
+msgstr "ギャップ"
 
 msgid ""
 "Where two groups of selected edges are closer than twice the distance plus "
 "this value, their regions are shrunk to stay apart"
 msgstr ""
+"選択したエッジの2つのグループが距離の2倍にこの値を加えた値より近い箇所では、"
+"両グループの領域が離れたままになるよう縮小されます"
 
 msgid "Cut Around Selected Edges"
-msgstr ""
+msgstr "選択エッジの周囲をカット"
 
 msgid "Polyline must not be empty"
 msgstr "ポリラインを空にすることはできません"
