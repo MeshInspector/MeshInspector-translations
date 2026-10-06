@@ -2758,7 +2758,7 @@ msgstr "稜線/溝を細分化"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
 msgid "Brush: Mark Creases"
-msgstr ""
+msgstr "ブラシ: クリースをマーク"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"

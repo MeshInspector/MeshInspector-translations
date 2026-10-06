@@ -2825,18 +2825,22 @@ msgid "Effect of smoothing surface."
 msgstr "Efecto de suavizado de la superficie."
 
 msgid "Keep Sharp Edges"
-msgstr ""
+msgstr "Conservar aristas agudas"
 
 msgid "If selected, smoothing keeps the selected edges and creases sharp."
 msgstr ""
+"Si está seleccionado, el suavizado mantiene agudos los pliegues y las "
+"aristas seleccionadas."
 
 msgid "Mark Selected Edges as Creases"
-msgstr ""
+msgstr "Marcar aristas seleccionadas como pliegues"
 
 msgid ""
 "If selected, the selected edges in the smoothed area become creases after "
 "each stroke."
 msgstr ""
+"Si está seleccionado, las aristas seleccionadas del área suavizada se "
+"convierten en pliegues tras cada trazo."
 
 msgid "Material Thickness"
 msgstr "Grosor del material"

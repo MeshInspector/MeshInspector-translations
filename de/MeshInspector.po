@@ -2831,18 +2831,22 @@ msgid "Effect of smoothing surface."
 msgstr "Effekt der Oberflächenglättung."
 
 msgid "Keep Sharp Edges"
-msgstr ""
+msgstr "Scharfe Kanten beibehalten"
 
 msgid "If selected, smoothing keeps the selected edges and creases sharp."
 msgstr ""
+"Wenn ausgewählt, bleiben die ausgewählten Kanten und Falten bei der Glättung "
+"scharf."
 
 msgid "Mark Selected Edges as Creases"
-msgstr ""
+msgstr "Ausgewählte Kanten als Falten markieren"
 
 msgid ""
 "If selected, the selected edges in the smoothed area become creases after "
 "each stroke."
 msgstr ""
+"Wenn ausgewählt, werden die ausgewählten Kanten im geglätteten Bereich nach "
+"jedem Pinselstrich zu Falten."
 
 msgid "Material Thickness"
 msgstr "Materialdicke"

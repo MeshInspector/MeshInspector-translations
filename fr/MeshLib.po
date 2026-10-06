@@ -2806,7 +2806,7 @@ msgstr "Subdiviser crêtes/sillons"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
 msgid "Brush: Mark Creases"
-msgstr ""
+msgstr "Pinceau : Marquer les plis"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"

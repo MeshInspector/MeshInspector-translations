@@ -2832,18 +2832,22 @@ msgid "Effect of smoothing surface."
 msgstr "Effetto della superficie di lisciatura."
 
 msgid "Keep Sharp Edges"
-msgstr ""
+msgstr "Mantieni spigoli netti"
 
 msgid "If selected, smoothing keeps the selected edges and creases sharp."
 msgstr ""
+"Se selezionato, la lisciatura mantiene netti gli spigoli selezionati e le "
+"pieghe."
 
 msgid "Mark Selected Edges as Creases"
-msgstr ""
+msgstr "Marca spigoli selezionati come pieghe"
 
 msgid ""
 "If selected, the selected edges in the smoothed area become creases after "
 "each stroke."
 msgstr ""
+"Se selezionato, gli spigoli selezionati nell'area lisciata diventano pieghe "
+"dopo ogni pennellata."
 
 msgid "Material Thickness"
 msgstr "Spessore materiale"

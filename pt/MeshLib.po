@@ -2786,7 +2786,7 @@ msgstr "Subdividir cristas/sulcos"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
 msgid "Brush: Mark Creases"
-msgstr ""
+msgstr "Pincel: Marcar dobras"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"

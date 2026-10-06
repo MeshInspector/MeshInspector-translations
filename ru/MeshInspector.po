@@ -2804,18 +2804,21 @@ msgid "Effect of smoothing surface."
 msgstr "Эффект сглаживания поверхности."
 
 msgid "Keep Sharp Edges"
-msgstr ""
+msgstr "Сохранить острые рёбра"
 
 msgid "If selected, smoothing keeps the selected edges and creases sharp."
 msgstr ""
+"Если включено, сглаживание сохраняет выбранные рёбра и складки острыми."
 
 msgid "Mark Selected Edges as Creases"
-msgstr ""
+msgstr "Пометить выбранные рёбра как складки"
 
 msgid ""
 "If selected, the selected edges in the smoothed area become creases after "
 "each stroke."
 msgstr ""
+"Если включено, выбранные рёбра в сглаженной области становятся складками "
+"после каждого мазка кисти."
 
 msgid "Material Thickness"
 msgstr "Толщина материала"

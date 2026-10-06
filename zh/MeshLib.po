@@ -2714,7 +2714,7 @@ msgstr "细分脊 / 槽"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
 msgid "Brush: Mark Creases"
-msgstr ""
+msgstr "笔刷: 标记折痕"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"

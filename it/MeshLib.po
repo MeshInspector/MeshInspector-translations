@@ -2800,7 +2800,7 @@ msgstr "Suddividi creste/scanalature"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
 msgid "Brush: Mark Creases"
-msgstr ""
+msgstr "Pennello: Marca pieghe"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"

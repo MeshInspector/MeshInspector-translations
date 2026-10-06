@@ -2671,18 +2671,18 @@ msgid "Effect of smoothing surface."
 msgstr "表面平滑效果。"
 
 msgid "Keep Sharp Edges"
-msgstr ""
+msgstr "保持锐边"
 
 msgid "If selected, smoothing keeps the selected edges and creases sharp."
-msgstr ""
+msgstr "若选中，平滑时选定边和折痕将保持尖锐。"
 
 msgid "Mark Selected Edges as Creases"
-msgstr ""
+msgstr "将选定边标记为折痕"
 
 msgid ""
 "If selected, the selected edges in the smoothed area become creases after "
 "each stroke."
-msgstr ""
+msgstr "若选中，平滑区域内的选定边将在每次笔触后变为折痕。"
 
 msgid "Material Thickness"
 msgstr "材料厚度"
