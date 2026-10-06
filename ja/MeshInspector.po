@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-01 04:42+0000\n"
+"POT-Creation-Date: 2026-10-06 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2732,6 +2732,20 @@ msgstr "滑らかさ"
 
 msgid "Effect of smoothing surface."
 msgstr "サーフェスのスムージング効果。"
+
+msgid "Keep Sharp Edges"
+msgstr ""
+
+msgid "If selected, smoothing keeps the selected edges and creases sharp."
+msgstr ""
+
+msgid "Mark Selected Edges as Creases"
+msgstr ""
+
+msgid ""
+"If selected, the selected edges in the smoothed area become creases after "
+"each stroke."
+msgstr ""
 
 msgid "Material Thickness"
 msgstr "素材の厚さ"

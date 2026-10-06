@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-01 04:42+0000\n"
+"POT-Creation-Date: 2026-10-06 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,7 +30,7 @@ msgstr ""
 "로 다시 계산됩니다."
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:31
-#: source/MRViewer/ImGuiHelpers.cpp:1549
+#: source/MRViewer/ImGuiHelpers.cpp:1618
 msgid "Direction"
 msgstr "방향"
 
@@ -258,15 +258,15 @@ msgid "Theme with name {} already exists, override it?"
 msgstr "{} 이라는 이름의 테마가 이미 존재합니다. 덮어쓰시겠습니까?"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
-#: source/MRViewer/ImGuiMenu.cpp:994
+#: source/MRViewer/ImGuiMenu.cpp:1031
 #: source/MRViewer/MRUISaveChangesPopup.cpp:47
 msgid "Save"
 msgstr "저장"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1080
-#: source/MRViewer/ImGuiMenu.cpp:951 source/MRViewer/ImGuiMenu.cpp:1050
-#: source/MRViewer/MRProgressBar.cpp:227
+#: source/MRViewer/ImGuiMenu.cpp:988 source/MRViewer/ImGuiMenu.cpp:1087
+#: source/MRViewer/MRProgressBar.cpp:217
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
 #: source/MRViewer/MRUISaveChangesPopup.h:24
 msgid "Cancel"
@@ -903,8 +903,8 @@ msgid "Surface opacity"
 msgstr "표면 불투명도"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:831
-#: source/MRViewer/ImGuiMenu.cpp:2004 source/MRViewer/ImGuiMenu.cpp:2075
-#: source/MRViewer/ImGuiMenu.cpp:2201 source/MRViewer/ImGuiMenu.cpp:2212
+#: source/MRViewer/ImGuiMenu.cpp:2040 source/MRViewer/ImGuiMenu.cpp:2111
+#: source/MRViewer/ImGuiMenu.cpp:2237 source/MRViewer/ImGuiMenu.cpp:2248
 msgid "Point size"
 msgstr "포인트 크기"
 
@@ -913,7 +913,7 @@ msgid "Point size (subfeatures)"
 msgstr "포인트 크기 (서브 피처)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:839
-#: source/MRViewer/ImGuiMenu.cpp:2078 source/MRViewer/ImGuiMenu.cpp:2194
+#: source/MRViewer/ImGuiMenu.cpp:2114 source/MRViewer/ImGuiMenu.cpp:2230
 msgid "Line width"
 msgstr "선 두께"
 
@@ -966,7 +966,7 @@ msgid "Shadow Color"
 msgstr "그림자 색상"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:964
-#: source/MRViewer/ImGuiHelpers.cpp:1514
+#: source/MRViewer/ImGuiHelpers.cpp:1583
 msgid "Shift"
 msgstr "이동"
 
@@ -1011,7 +1011,7 @@ msgid "Reset all application settings?"
 msgstr "모든 애플리케이션 설정을 재설정할까요?"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1074
-#: source/MRViewer/ImGuiMenu.cpp:902 source/MRViewer/MRRibbonMenu.cpp:2122
+#: source/MRViewer/ImGuiMenu.cpp:939 source/MRViewer/MRRibbonMenu.cpp:2122
 msgid "Reset"
 msgstr "재설정"
 
@@ -1337,7 +1337,7 @@ msgid "Open Voxels"
 msgstr "복셀 열기"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:57
-#: source/MRViewer/ImGuiMenu.cpp:1749
+#: source/MRViewer/ImGuiMenu.cpp:1785
 msgid "Voxel Size"
 msgstr "복셀 크기"
 
@@ -1650,35 +1650,35 @@ msgstr "Shift와 함께 드래그 - 더 빠름, %s - 더 느림"
 msgid "Line width cannot be changed with current renderer."
 msgstr "현재 렌더러에서는 선 두께를 변경할 수 없습니다."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1195
+#: source/MRViewer/ImGuiHelpers.cpp:1264
 msgid "Load preset"
 msgstr "사전 설정 불러오기"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1195
+#: source/MRViewer/ImGuiHelpers.cpp:1264
 msgid "Select Palette Preset"
 msgstr "팔레트 사전 설정 선택"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1202
+#: source/MRViewer/ImGuiHelpers.cpp:1271
 msgid "Cannot load preset with name"
 msgstr "다음 이름으로 된 사전 설정을 불러올 수 없습니다"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1211
+#: source/MRViewer/ImGuiHelpers.cpp:1280
 msgid "Load one of custom presets"
 msgstr "사용자 지정 사전 설정 중 하나 불러오기"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1218
+#: source/MRViewer/ImGuiHelpers.cpp:1287
 msgid "Set Zero to Green"
 msgstr "0을 초록색으로 설정"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1219
+#: source/MRViewer/ImGuiHelpers.cpp:1288
 msgid "If checked, zero value always will be green"
 msgstr "선택하면 0 값이 항상 초록색으로 표시됩니다"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1225
+#: source/MRViewer/ImGuiHelpers.cpp:1294
 msgid "Discrete Palette"
 msgstr "이산 팔레트"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1231
+#: source/MRViewer/ImGuiHelpers.cpp:1300
 msgid ""
 "If checked, palette will have several discrete levels. Otherwise it will be "
 "smooth."
@@ -1686,23 +1686,23 @@ msgstr ""
 "선택하면 팔레트가 여러 개의 이산 레벨을 가집니다. 그렇지 않으면 매끄럽게 표시"
 "됩니다."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1247
+#: source/MRViewer/ImGuiHelpers.cpp:1316
 msgid "Number of discrete levels"
 msgstr "이산 레벨 수"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1258
+#: source/MRViewer/ImGuiHelpers.cpp:1327
 msgid "Palette Type"
 msgstr "팔레트 유형"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1258
+#: source/MRViewer/ImGuiHelpers.cpp:1327
 msgid "Even Space"
 msgstr "균일 간격"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1258
+#: source/MRViewer/ImGuiHelpers.cpp:1327
 msgid "Central Zone"
 msgstr "중앙 영역"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1259
+#: source/MRViewer/ImGuiHelpers.cpp:1328
 msgid ""
 "If \"Central zone\" selected you can separately fit values which are higher "
 "or lower then central one. Otherwise only the whole scale can be fit"
@@ -1710,705 +1710,705 @@ msgstr ""
 "\"중앙 영역\"을 선택하면 중앙값보다 큰 값과 작은 값을 별도로 맞출 수 있습니"
 "다. 그렇지 않으면 전체 척도만 맞출 수 있습니다"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1296
+#: source/MRViewer/ImGuiHelpers.cpp:1365
 msgid "Min/Max"
 msgstr "최소/최대"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1302
+#: source/MRViewer/ImGuiHelpers.cpp:1371
 msgid "Max (red)"
 msgstr "최대값 (빨간색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1304
+#: source/MRViewer/ImGuiHelpers.cpp:1373
 msgid "Min (blue)"
 msgstr "최소값 (파란색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1315
+#: source/MRViewer/ImGuiHelpers.cpp:1384
 msgid "Max positive / Min negative"
 msgstr "최대 양수 / 최소 음수"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1322
+#: source/MRViewer/ImGuiHelpers.cpp:1391
 msgid "Min positive / Max negative"
 msgstr "최소 양수 / 최대 음수"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1328
+#: source/MRViewer/ImGuiHelpers.cpp:1397
 msgid "Max positive (red)"
 msgstr "최대 양수 (빨간색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1329
+#: source/MRViewer/ImGuiHelpers.cpp:1398
 msgid "Min positive (green)"
 msgstr "최소 양수 (초록색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1330
+#: source/MRViewer/ImGuiHelpers.cpp:1399
 msgid "Max negative (green)"
 msgstr "최대 음수 (초록색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1332
+#: source/MRViewer/ImGuiHelpers.cpp:1401
 msgid "Min negative (blue)"
 msgstr "최소 음수 (파란색)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1356
+#: source/MRViewer/ImGuiHelpers.cpp:1425
 msgid "Invalid values order"
 msgstr "잘못된 값 순서"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1390 source/MRViewer/ImGuiHelpers.cpp:1408
+#: source/MRViewer/ImGuiHelpers.cpp:1459 source/MRViewer/ImGuiHelpers.cpp:1477
 msgid "Reset Palette"
 msgstr "팔레트 재설정"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1399
+#: source/MRViewer/ImGuiHelpers.cpp:1468
 msgid "Save Palette as"
 msgstr "팔레트를 다른 이름으로 저장"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1401
+#: source/MRViewer/ImGuiHelpers.cpp:1470
 msgid ""
 "Save the current palette settings to file. You can load it later as a preset."
 msgstr ""
 "현재 팔레트 설정을 파일로 저장합니다. 나중에 사전 설정으로 불러올 수 있습니"
 "다."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1424
+#: source/MRViewer/ImGuiHelpers.cpp:1493
 msgid "Returns the palette to its default values"
 msgstr "팔레트를 기본값으로 되돌립니다"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1449
+#: source/MRViewer/ImGuiHelpers.cpp:1518
 msgid "Plane YZ"
 msgstr "YZ 평면"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1452
+#: source/MRViewer/ImGuiHelpers.cpp:1521
 msgid "Plane XZ"
 msgstr "XZ 평면"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1455
+#: source/MRViewer/ImGuiHelpers.cpp:1524
 msgid "Plane XY"
 msgstr "XY 평면"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1463
+#: source/MRViewer/ImGuiHelpers.cpp:1532
 msgid "Import Plane"
 msgstr "평면 가져오기"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1475
+#: source/MRViewer/ImGuiHelpers.cpp:1544
 msgid "Click on the plane object in scene to import its parameters"
 msgstr "장면의 평면 객체를 클릭하여 매개변수를 가져옵니다"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1490
+#: source/MRViewer/ImGuiHelpers.cpp:1559
 msgid "Normal"
 msgstr "법선"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1517
+#: source/MRViewer/ImGuiHelpers.cpp:1586
 msgid "Flip"
 msgstr "뒤집기"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1529
+#: source/MRViewer/ImGuiHelpers.cpp:1598
 msgid "Show Plane"
 msgstr "평면 표시"
 
-#: source/MRViewer/ImGuiMenu.cpp:142
+#: source/MRViewer/ImGuiMenu.cpp:143
 msgid "Point Array Size"
 msgstr "포인트 배열 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:143
+#: source/MRViewer/ImGuiMenu.cpp:144
 msgid "Line Array Size"
 msgstr "라인 배열 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:144
+#: source/MRViewer/ImGuiMenu.cpp:145
 msgid "Triangle Array Size"
 msgstr "삼각형 배열 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:145
+#: source/MRViewer/ImGuiMenu.cpp:146
 msgid "Point Elements Number"
 msgstr "포인트 요소 개수"
 
-#: source/MRViewer/ImGuiMenu.cpp:146
+#: source/MRViewer/ImGuiMenu.cpp:147
 msgid "Line Elements Number"
 msgstr "라인 요소 개수"
 
-#: source/MRViewer/ImGuiMenu.cpp:147
+#: source/MRViewer/ImGuiMenu.cpp:148
 msgid "Triangle Elements Number"
 msgstr "삼각형 요소 개수"
 
-#: source/MRViewer/ImGuiMenu.cpp:152
+#: source/MRViewer/ImGuiMenu.cpp:153
 msgid "Mouse Down"
 msgstr "마우스 누름"
 
-#: source/MRViewer/ImGuiMenu.cpp:153
+#: source/MRViewer/ImGuiMenu.cpp:154
 msgid "Mouse Up"
 msgstr "마우스 뗌"
 
-#: source/MRViewer/ImGuiMenu.cpp:154
+#: source/MRViewer/ImGuiMenu.cpp:155
 msgid "Mouse Move"
 msgstr "마우스 이동"
 
-#: source/MRViewer/ImGuiMenu.cpp:155
+#: source/MRViewer/ImGuiMenu.cpp:156
 msgid "Mouse Scroll"
 msgstr "마우스 스크롤"
 
-#: source/MRViewer/ImGuiMenu.cpp:156
+#: source/MRViewer/ImGuiMenu.cpp:157
 msgid "Key Down"
 msgstr "키 누름"
 
-#: source/MRViewer/ImGuiMenu.cpp:157
+#: source/MRViewer/ImGuiMenu.cpp:158
 msgid "Key Up"
 msgstr "키 뗌"
 
-#: source/MRViewer/ImGuiMenu.cpp:158
+#: source/MRViewer/ImGuiMenu.cpp:159
 msgid "Key Repeat"
 msgstr "키 반복"
 
-#: source/MRViewer/ImGuiMenu.cpp:159
+#: source/MRViewer/ImGuiMenu.cpp:160
 msgid "Char Pressed"
 msgstr "문자 입력"
 
-#: source/MRViewer/ImGuiMenu.cpp:892
+#: source/MRViewer/ImGuiMenu.cpp:929
 msgid "GL memory buffer"
 msgstr "GL 메모리 버퍼"
 
-#: source/MRViewer/ImGuiMenu.cpp:895 source/MRViewer/ImGuiMenu.cpp:897
+#: source/MRViewer/ImGuiMenu.cpp:932 source/MRViewer/ImGuiMenu.cpp:934
 msgid "Previous frame time"
 msgstr "이전 프레임 시간"
 
-#: source/MRViewer/ImGuiMenu.cpp:898
+#: source/MRViewer/ImGuiMenu.cpp:935
 msgid "Total frames"
 msgstr "총 프레임"
 
-#: source/MRViewer/ImGuiMenu.cpp:899
+#: source/MRViewer/ImGuiMenu.cpp:936
 msgid "Swapped frames"
 msgstr "스왑된 프레임"
 
-#: source/MRViewer/ImGuiMenu.cpp:900
+#: source/MRViewer/ImGuiMenu.cpp:937
 msgid "FPS"
 msgstr "FPS"
 
-#: source/MRViewer/ImGuiMenu.cpp:906
+#: source/MRViewer/ImGuiMenu.cpp:943
 msgid "Print Time to Log"
 msgstr "로그에 시간 출력"
 
-#: source/MRViewer/ImGuiMenu.cpp:922
+#: source/MRViewer/ImGuiMenu.cpp:959
 msgid "Rename Object"
 msgstr "객체 이름 바꾸기"
 
-#: source/MRViewer/ImGuiMenu.cpp:937 source/MRViewer/ImGuiMenu.cpp:938
-#: source/MRViewer/ImGuiMenu.cpp:978 source/MRViewer/ImGuiMenu.cpp:979
-#: source/MRViewer/ImGuiMenu.cpp:2232 source/MRViewer/MRToolsLibrary.cpp:133
+#: source/MRViewer/ImGuiMenu.cpp:974 source/MRViewer/ImGuiMenu.cpp:975
+#: source/MRViewer/ImGuiMenu.cpp:1015 source/MRViewer/ImGuiMenu.cpp:1016
+#: source/MRViewer/ImGuiMenu.cpp:2268 source/MRViewer/MRToolsLibrary.cpp:133
 msgid "Name"
 msgstr "이름"
 
-#: source/MRViewer/ImGuiMenu.cpp:943
+#: source/MRViewer/ImGuiMenu.cpp:980
 msgid "Ok"
 msgstr "확인"
 
-#: source/MRViewer/ImGuiMenu.cpp:945
+#: source/MRViewer/ImGuiMenu.cpp:982
 msgid "Rename object from modal dialog"
 msgstr "객체 이름 변경 (대화상자)"
 
-#: source/MRViewer/ImGuiMenu.cpp:967
+#: source/MRViewer/ImGuiMenu.cpp:1004
 msgid "Edit Tag"
 msgstr "태그 편집"
 
-#: source/MRViewer/ImGuiMenu.cpp:983
+#: source/MRViewer/ImGuiMenu.cpp:1020
 msgid "Assign Color"
 msgstr "색상 지정"
 
-#: source/MRViewer/ImGuiMenu.cpp:988
+#: source/MRViewer/ImGuiMenu.cpp:1025
 msgid "Selected Color"
 msgstr "선택된 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:989
+#: source/MRViewer/ImGuiMenu.cpp:1026
 msgid "Unselected Color"
 msgstr "선택되지 않은 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:1125 source/MRViewer/MRMouseController.cpp:104
+#: source/MRViewer/ImGuiMenu.cpp:1162 source/MRViewer/MRMouseController.cpp:104
 msgid "Error"
 msgstr "오류"
 
-#: source/MRViewer/ImGuiMenu.cpp:1130
+#: source/MRViewer/ImGuiMenu.cpp:1167
 msgid "Warning"
 msgstr "경고"
 
-#: source/MRViewer/ImGuiMenu.cpp:1135
+#: source/MRViewer/ImGuiMenu.cpp:1172
 msgid "Info"
 msgstr "정보"
 
-#: source/MRViewer/ImGuiMenu.cpp:1156
+#: source/MRViewer/ImGuiMenu.cpp:1192
 msgid "Okay"
 msgstr "확인"
 
-#: source/MRViewer/ImGuiMenu.cpp:1233
+#: source/MRViewer/ImGuiMenu.cpp:1269
 msgid "Selection Properties"
 msgstr "선택 속성"
 
-#: source/MRViewer/ImGuiMenu.cpp:1265
+#: source/MRViewer/ImGuiMenu.cpp:1301
 msgid "Draw Options"
 msgstr "그리기 옵션"
 
-#: source/MRViewer/ImGuiMenu.cpp:1293
+#: source/MRViewer/ImGuiMenu.cpp:1329
 msgid "Information"
 msgstr "정보"
 
-#: source/MRViewer/ImGuiMenu.cpp:1306
+#: source/MRViewer/ImGuiMenu.cpp:1342
 msgid "WORLD"
 msgstr "월드"
 
-#: source/MRViewer/ImGuiMenu.cpp:1307
+#: source/MRViewer/ImGuiMenu.cpp:1343
 msgid "LOCAL"
 msgstr "로컬"
 
-#: source/MRViewer/ImGuiMenu.cpp:1528
+#: source/MRViewer/ImGuiMenu.cpp:1564
 msgid "Object Name"
 msgstr "객체 이름"
 
-#: source/MRViewer/ImGuiMenu.cpp:1538
+#: source/MRViewer/ImGuiMenu.cpp:1574
 msgid "Rename object from information"
 msgstr "객체 이름 변경 (정보 패널)"
 
-#: source/MRViewer/ImGuiMenu.cpp:1556
+#: source/MRViewer/ImGuiMenu.cpp:1592
 msgid "Label"
 msgstr "레이블"
 
-#: source/MRViewer/ImGuiMenu.cpp:1561
+#: source/MRViewer/ImGuiMenu.cpp:1597
 msgid "Change label"
 msgstr "레이블 변경"
 
-#: source/MRViewer/ImGuiMenu.cpp:1625
+#: source/MRViewer/ImGuiMenu.cpp:1661
 msgid "Selected / Total"
 msgstr "선택됨 / 전체"
 
-#: source/MRViewer/ImGuiMenu.cpp:1643
+#: source/MRViewer/ImGuiMenu.cpp:1679
 msgid "Object Type"
 msgstr "객체 유형"
 
-#: source/MRViewer/ImGuiMenu.cpp:1647
+#: source/MRViewer/ImGuiMenu.cpp:1683
 msgid "Objects"
 msgstr "객체"
 
-#: source/MRViewer/ImGuiMenu.cpp:1664
+#: source/MRViewer/ImGuiMenu.cpp:1700
 msgid "Local Box Size"
 msgstr "로컬 상자 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:1666
+#: source/MRViewer/ImGuiMenu.cpp:1702
 msgid ""
 "The edges of the tight axis-aligned bounding box in the local object space."
 msgstr "로컬 객체 공간에서 축에 정렬된 빡빡한 경계 상자의 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1668
+#: source/MRViewer/ImGuiMenu.cpp:1704
 msgid "Local Box Min"
 msgstr "로컬 상자 최소"
 
-#: source/MRViewer/ImGuiMenu.cpp:1669
+#: source/MRViewer/ImGuiMenu.cpp:1705
 msgid ""
 "Lower left corner of the tight axis-aligned bounding box in the local object "
 "space."
 msgstr "로컬 객체 공간에서 축에 정렬된 빡빡한 경계 상자의 좌하단 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1671
+#: source/MRViewer/ImGuiMenu.cpp:1707
 msgid "Local Box Max"
 msgstr "로컬 상자 최대"
 
-#: source/MRViewer/ImGuiMenu.cpp:1672
+#: source/MRViewer/ImGuiMenu.cpp:1708
 msgid ""
 "Upper right corner of the tight axis-aligned bounding box in the local "
 "object space."
 msgstr "로컬 객체 공간에서 축에 정렬된 빡빡한 경계 상자의 우상단 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1678
+#: source/MRViewer/ImGuiMenu.cpp:1714
 msgid "World Box Size"
 msgstr "월드 상자 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:1680
+#: source/MRViewer/ImGuiMenu.cpp:1716
 msgid "The edges of the tight axis-aligned bounding box in the world space."
 msgstr "월드 공간에서 축에 정렬된 빡빡한 경계 상자의 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1682
+#: source/MRViewer/ImGuiMenu.cpp:1718
 msgid "World Box Min"
 msgstr "월드 상자 최소"
 
-#: source/MRViewer/ImGuiMenu.cpp:1683
+#: source/MRViewer/ImGuiMenu.cpp:1719
 msgid ""
 "Lower left corner of the tight axis-aligned bounding box in the world space."
 msgstr "월드 공간에서 축에 정렬된 빡빡한 경계 상자의 좌하단 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1685
+#: source/MRViewer/ImGuiMenu.cpp:1721
 msgid "World Box Max"
 msgstr "월드 상자 최대"
 
-#: source/MRViewer/ImGuiMenu.cpp:1686
+#: source/MRViewer/ImGuiMenu.cpp:1722
 msgid ""
 "Upper right corner of the tight axis-aligned bounding box in the world space."
 msgstr "월드 공간에서 축에 정렬된 빡빡한 경계 상자의 우상단 모서리입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1697 source/MRViewer/ImGuiMenu.cpp:2174
+#: source/MRViewer/ImGuiMenu.cpp:1733 source/MRViewer/ImGuiMenu.cpp:2210
 msgid "Triangles"
 msgstr "삼각형"
 
-#: source/MRViewer/ImGuiMenu.cpp:1698
+#: source/MRViewer/ImGuiMenu.cpp:1734
 msgid "Vertices"
 msgstr "정점"
 
-#: source/MRViewer/ImGuiMenu.cpp:1699 source/MRViewer/ImGuiMenu.cpp:2169
+#: source/MRViewer/ImGuiMenu.cpp:1735 source/MRViewer/ImGuiMenu.cpp:2205
 msgid "Edges"
 msgstr "가장자리"
 
-#: source/MRViewer/ImGuiMenu.cpp:1700 source/MRViewer/ImGuiMenu.cpp:2170
-#: source/MRViewer/ImGuiMenu.cpp:2191
+#: source/MRViewer/ImGuiMenu.cpp:1736 source/MRViewer/ImGuiMenu.cpp:2206
+#: source/MRViewer/ImGuiMenu.cpp:2227
 msgid "Points"
 msgstr "포인트"
 
-#: source/MRViewer/ImGuiMenu.cpp:1704
+#: source/MRViewer/ImGuiMenu.cpp:1740
 msgid "Point Normals"
 msgstr "포인트 법선"
 
-#: source/MRViewer/ImGuiMenu.cpp:1704
+#: source/MRViewer/ImGuiMenu.cpp:1740
 msgid "Yes"
 msgstr "예"
 
-#: source/MRViewer/ImGuiMenu.cpp:1704
+#: source/MRViewer/ImGuiMenu.cpp:1740
 msgid "No"
 msgstr "아니요"
 
-#: source/MRViewer/ImGuiMenu.cpp:1708
+#: source/MRViewer/ImGuiMenu.cpp:1744
 msgid "Volume"
 msgstr "부피"
 
-#: source/MRViewer/ImGuiMenu.cpp:1709
+#: source/MRViewer/ImGuiMenu.cpp:1745
 msgid "The volume surrounded by the mesh(es) in the world space."
 msgstr "월드 공간에서 메시로 둘러싸인 부피입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1714 source/MRViewer/ImGuiMenu.cpp:1720
+#: source/MRViewer/ImGuiMenu.cpp:1750 source/MRViewer/ImGuiMenu.cpp:1756
 msgid "Area"
 msgstr "면적"
 
-#: source/MRViewer/ImGuiMenu.cpp:1716
+#: source/MRViewer/ImGuiMenu.cpp:1752
 msgid "Selected / Total surface area in the world space."
 msgstr "월드 공간에서 선택된 / 전체 표면적입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1721
+#: source/MRViewer/ImGuiMenu.cpp:1757
 msgid "Total surface area in the world space."
 msgstr "월드 공간에서 전체 표면적입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1727 source/MRViewer/MRToolsLibrary.cpp:148
+#: source/MRViewer/ImGuiMenu.cpp:1763 source/MRViewer/MRToolsLibrary.cpp:148
 msgid "Length"
 msgstr "길이"
 
-#: source/MRViewer/ImGuiMenu.cpp:1728
+#: source/MRViewer/ImGuiMenu.cpp:1764
 msgid "The length of the lines in the world space."
 msgstr "월드 공간에서 라인의 길이입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1733
+#: source/MRViewer/ImGuiMenu.cpp:1769
 msgid "Avg Edge Length"
 msgstr "평균 가장자리 길이"
 
-#: source/MRViewer/ImGuiMenu.cpp:1734
+#: source/MRViewer/ImGuiMenu.cpp:1770
 msgid "Average edge length of the object(s) in the world space."
 msgstr "월드 공간에서 객체의 평균 가장자리 길이입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:1737
+#: source/MRViewer/ImGuiMenu.cpp:1773
 msgid "Holes"
 msgstr "구멍"
 
-#: source/MRViewer/ImGuiMenu.cpp:1738
+#: source/MRViewer/ImGuiMenu.cpp:1774
 msgid "Components"
 msgstr "구성 요소"
 
-#: source/MRViewer/ImGuiMenu.cpp:1747
+#: source/MRViewer/ImGuiMenu.cpp:1783
 msgid "Voxels Dims"
 msgstr "복셀 차원"
 
-#: source/MRViewer/ImGuiMenu.cpp:1754
+#: source/MRViewer/ImGuiMenu.cpp:1790
 msgid "Active Box Min"
 msgstr "활성 상자 최소"
 
-#: source/MRViewer/ImGuiMenu.cpp:1755
+#: source/MRViewer/ImGuiMenu.cpp:1791
 msgid "Active Box Max"
 msgstr "활성 상자 최대"
 
-#: source/MRViewer/ImGuiMenu.cpp:1760
+#: source/MRViewer/ImGuiMenu.cpp:1796
 msgid "Min,Iso,Max"
 msgstr "최소, 등가, 최대"
 
-#: source/MRViewer/ImGuiMenu.cpp:1777
+#: source/MRViewer/ImGuiMenu.cpp:1813
 msgid "X/Y/Z Distance"
 msgstr "X/Y/Z 거리"
 
-#: source/MRViewer/ImGuiMenu.cpp:1780
+#: source/MRViewer/ImGuiMenu.cpp:1816
 msgid "Angle"
 msgstr "각도"
 
-#: source/MRViewer/ImGuiMenu.cpp:1782 source/MRViewer/MRToolsLibrary.cpp:149
+#: source/MRViewer/ImGuiMenu.cpp:1818 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "지름"
 
-#: source/MRViewer/ImGuiMenu.cpp:1782
+#: source/MRViewer/ImGuiMenu.cpp:1818
 msgid "Radius"
 msgstr "반지름"
 
-#: source/MRViewer/ImGuiMenu.cpp:1872
+#: source/MRViewer/ImGuiMenu.cpp:1908
 msgid "Change Feature Transform"
 msgstr "피처 변환 변경"
 
-#: source/MRViewer/ImGuiMenu.cpp:1921
+#: source/MRViewer/ImGuiMenu.cpp:1957
 msgid "Tolerance"
 msgstr "허용 오차"
 
-#: source/MRViewer/ImGuiMenu.cpp:1923
+#: source/MRViewer/ImGuiMenu.cpp:1959
 msgid "tolerance"
 msgstr "허용 오차"
 
-#: source/MRViewer/ImGuiMenu.cpp:1948
+#: source/MRViewer/ImGuiMenu.cpp:1984
 msgid "Visibility"
 msgstr "가시성"
 
-#: source/MRViewer/ImGuiMenu.cpp:1968
+#: source/MRViewer/ImGuiMenu.cpp:2004
 msgid "Lock Transform"
 msgstr "변환 잠금"
 
-#: source/MRViewer/ImGuiMenu.cpp:1983
+#: source/MRViewer/ImGuiMenu.cpp:2019
 msgid "Advanced"
 msgstr "고급"
 
-#: source/MRViewer/ImGuiMenu.cpp:2003
+#: source/MRViewer/ImGuiMenu.cpp:2039
 msgid "Polygon Offset"
 msgstr "다각형 오프셋"
 
-#: source/MRViewer/ImGuiMenu.cpp:2016
+#: source/MRViewer/ImGuiMenu.cpp:2052
 msgid "Dash"
 msgstr "대시"
 
-#: source/MRViewer/ImGuiMenu.cpp:2025
+#: source/MRViewer/ImGuiMenu.cpp:2061
 msgid "Shininess"
 msgstr "광택"
 
-#: source/MRViewer/ImGuiMenu.cpp:2033
+#: source/MRViewer/ImGuiMenu.cpp:2069
 msgid "Ambient Strength"
 msgstr "주변광 세기"
 
-#: source/MRViewer/ImGuiMenu.cpp:2041
+#: source/MRViewer/ImGuiMenu.cpp:2077
 msgid "Specular Strength"
 msgstr "반사광 세기"
 
-#: source/MRViewer/ImGuiMenu.cpp:2053
+#: source/MRViewer/ImGuiMenu.cpp:2089
 msgid "Visual Sampling"
 msgstr "시각 샘플링"
 
-#: source/MRViewer/ImGuiMenu.cpp:2082
+#: source/MRViewer/ImGuiMenu.cpp:2118
 msgid "Point subfeatures size"
 msgstr "포인트 서브 피처 크기"
 
-#: source/MRViewer/ImGuiMenu.cpp:2085
+#: source/MRViewer/ImGuiMenu.cpp:2121
 msgid "Line subfeatures width"
 msgstr "라인 서브 피처 두께"
 
-#: source/MRViewer/ImGuiMenu.cpp:2089
+#: source/MRViewer/ImGuiMenu.cpp:2125
 msgid "Main component alpha"
 msgstr "주 구성 요소 알파"
 
-#: source/MRViewer/ImGuiMenu.cpp:2092
+#: source/MRViewer/ImGuiMenu.cpp:2128
 msgid "Point subfeatures alpha"
 msgstr "포인트 서브 피처 알파"
 
-#: source/MRViewer/ImGuiMenu.cpp:2095
+#: source/MRViewer/ImGuiMenu.cpp:2131
 msgid "Line subfeatures alpha"
 msgstr "라인 서브 피처 알파"
 
-#: source/MRViewer/ImGuiMenu.cpp:2098
+#: source/MRViewer/ImGuiMenu.cpp:2134
 msgid "Mesh subfeatures alpha"
 msgstr "메시 서브 피처 알파"
 
-#: source/MRViewer/ImGuiMenu.cpp:2121 source/MRViewer/ImGuiMenu.cpp:2122
+#: source/MRViewer/ImGuiMenu.cpp:2157 source/MRViewer/ImGuiMenu.cpp:2158
 #: source/MRViewer/MRToolsLibrary.cpp:103
 #: source/MRViewer/MRToolsLibrary.cpp:108
 msgid "Remove"
 msgstr "제거"
 
-#: source/MRViewer/ImGuiMenu.cpp:2128
+#: source/MRViewer/ImGuiMenu.cpp:2164
 msgid "Remove Objects (context)"
 msgstr "객체 제거 (컨텍스트)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2167
+#: source/MRViewer/ImGuiMenu.cpp:2203
 msgid "Shading"
 msgstr "음영 처리"
 
-#: source/MRViewer/ImGuiMenu.cpp:2168
+#: source/MRViewer/ImGuiMenu.cpp:2204
 msgid "Flat Shading"
 msgstr "평면 음영 처리"
 
-#: source/MRViewer/ImGuiMenu.cpp:2171
+#: source/MRViewer/ImGuiMenu.cpp:2207
 msgid "Selected Edges"
 msgstr "선택된 가장자리"
 
-#: source/MRViewer/ImGuiMenu.cpp:2172
+#: source/MRViewer/ImGuiMenu.cpp:2208
 msgid "Selected Tri-s"
 msgstr "선택된 삼각형"
 
-#: source/MRViewer/ImGuiMenu.cpp:2173
+#: source/MRViewer/ImGuiMenu.cpp:2209
 msgid "Borders"
 msgstr "경계"
 
-#: source/MRViewer/ImGuiMenu.cpp:2175
+#: source/MRViewer/ImGuiMenu.cpp:2211
 msgid "Transparency"
 msgstr "투명도"
 
-#: source/MRViewer/ImGuiMenu.cpp:2187
+#: source/MRViewer/ImGuiMenu.cpp:2223
 msgid "Texture"
 msgstr "텍스처"
 
-#: source/MRViewer/ImGuiMenu.cpp:2192
+#: source/MRViewer/ImGuiMenu.cpp:2228
 msgid "Smooth corners"
 msgstr "부드러운 모서리"
 
-#: source/MRViewer/ImGuiMenu.cpp:2193
+#: source/MRViewer/ImGuiMenu.cpp:2229
 msgid "Dashed"
 msgstr "점선"
 
-#: source/MRViewer/ImGuiMenu.cpp:2211
+#: source/MRViewer/ImGuiMenu.cpp:2247
 msgid "Selected Points"
 msgstr "선택된 포인트"
 
-#: source/MRViewer/ImGuiMenu.cpp:2222
+#: source/MRViewer/ImGuiMenu.cpp:2258
 msgid "Always on top"
 msgstr "항상 위"
 
-#: source/MRViewer/ImGuiMenu.cpp:2223
+#: source/MRViewer/ImGuiMenu.cpp:2259
 msgid "Source point"
 msgstr "원점"
 
-#: source/MRViewer/ImGuiMenu.cpp:2224
+#: source/MRViewer/ImGuiMenu.cpp:2260
 msgid "Background"
 msgstr "배경"
 
-#: source/MRViewer/ImGuiMenu.cpp:2225
+#: source/MRViewer/ImGuiMenu.cpp:2261
 msgid "Contour"
 msgstr "윤곽"
 
-#: source/MRViewer/ImGuiMenu.cpp:2226
+#: source/MRViewer/ImGuiMenu.cpp:2262
 msgid "Leader line"
 msgstr "지시선"
 
-#: source/MRViewer/ImGuiMenu.cpp:2230
+#: source/MRViewer/ImGuiMenu.cpp:2266
 msgid "Subfeatures"
 msgstr "서브 피처"
 
-#: source/MRViewer/ImGuiMenu.cpp:2234
+#: source/MRViewer/ImGuiMenu.cpp:2270
 msgid "Extra information next to name"
 msgstr "이름 옆의 추가 정보"
 
-#: source/MRViewer/ImGuiMenu.cpp:2236
+#: source/MRViewer/ImGuiMenu.cpp:2272
 msgid "Clipping"
 msgstr "클리핑"
 
-#: source/MRViewer/ImGuiMenu.cpp:2293
+#: source/MRViewer/ImGuiMenu.cpp:2329
 msgid "Viewport Id"
 msgstr "뷰포트 ID"
 
-#: source/MRViewer/ImGuiMenu.cpp:2294 source/MRViewer/ImGuiMenu.cpp:2297
+#: source/MRViewer/ImGuiMenu.cpp:2330 source/MRViewer/ImGuiMenu.cpp:2333
 msgid "Default"
 msgstr "기본값"
 
-#: source/MRViewer/ImGuiMenu.cpp:2310
+#: source/MRViewer/ImGuiMenu.cpp:2346
 msgid "Selected color"
 msgstr "선택된 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2317
+#: source/MRViewer/ImGuiMenu.cpp:2353
 msgid "Unselected color"
 msgstr "선택되지 않은 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2324
+#: source/MRViewer/ImGuiMenu.cpp:2360
 msgid "Back Triangles color"
 msgstr "뒷면 삼각형 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2334
+#: source/MRViewer/ImGuiMenu.cpp:2370
 msgid "Edges color"
 msgstr "가장자리 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2341
+#: source/MRViewer/ImGuiMenu.cpp:2377
 msgid "Points color"
 msgstr "포인트 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2348
+#: source/MRViewer/ImGuiMenu.cpp:2384
 msgid "Selected Tri-s color"
 msgstr "선택된 삼각형 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2355
+#: source/MRViewer/ImGuiMenu.cpp:2391
 msgid "Selected Edges color"
 msgstr "선택된 가장자리 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2362
+#: source/MRViewer/ImGuiMenu.cpp:2398
 msgid "Borders color"
 msgstr "경계 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2372
+#: source/MRViewer/ImGuiMenu.cpp:2408
 msgid "Selected Points color"
 msgstr "선택된 포인트 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2382
+#: source/MRViewer/ImGuiMenu.cpp:2418
 msgid "Source point color"
 msgstr "원점 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2389
+#: source/MRViewer/ImGuiMenu.cpp:2425
 msgid "Leader line color"
 msgstr "지시선 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2396
+#: source/MRViewer/ImGuiMenu.cpp:2432
 msgid "Contour color"
 msgstr "윤곽 색상"
 
-#: source/MRViewer/ImGuiMenu.cpp:2407
+#: source/MRViewer/ImGuiMenu.cpp:2443
 msgid "Decorations color (selected)"
 msgstr "장식 색상 (선택됨)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2415
+#: source/MRViewer/ImGuiMenu.cpp:2451
 msgid "Decorations color (unselected)"
 msgstr "장식 색상 (선택되지 않음)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2426
+#: source/MRViewer/ImGuiMenu.cpp:2462
 msgid "Opacity"
 msgstr "불투명도"
 
-#: source/MRViewer/ImGuiMenu.cpp:2493
+#: source/MRViewer/ImGuiMenu.cpp:2529
 #, c++-format
 msgid "{} uncommon tag"
 msgid_plural "{} uncommon tags"
 msgstr[0] "{} 개의 흔치 않은 태그"
 
-#: source/MRViewer/ImGuiMenu.cpp:2515
+#: source/MRViewer/ImGuiMenu.cpp:2551
 msgid "Tags"
 msgstr "태그"
 
-#: source/MRViewer/ImGuiMenu.cpp:2683
+#: source/MRViewer/ImGuiMenu.cpp:2719
 msgid "Type to add new tag..."
 msgstr "새 태그를 추가하려면 입력하세요..."
 
-#: source/MRViewer/ImGuiMenu.cpp:2840
+#: source/MRViewer/ImGuiMenu.cpp:2876
 msgid "Uni-scale"
 msgstr "균일 스케일"
 
-#: source/MRViewer/ImGuiMenu.cpp:2842
+#: source/MRViewer/ImGuiMenu.cpp:2878
 msgid "Selects between uniform scaling or separate scaling along each axis"
 msgstr "균일 스케일링과 각 축별로 독립된 스케일링 중 선택합니다"
 
-#: source/MRViewer/ImGuiMenu.cpp:2847 source/MRViewer/ImGuiMenu.cpp:2852
+#: source/MRViewer/ImGuiMenu.cpp:2883 source/MRViewer/ImGuiMenu.cpp:2888
 msgid "Rotation XYZ"
 msgstr "회전 XYZ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2854
+#: source/MRViewer/ImGuiMenu.cpp:2890
 msgid "Rotation round [X, Y, Z] axes respectively."
 msgstr "각각 [X, Y, Z] 축을 중심으로 회전합니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:2860
+#: source/MRViewer/ImGuiMenu.cpp:2896
 msgid "Sequential intrinsic rotations around Oz, Oy and Ox axes."
 msgstr "Oz, Oy, Ox 축을 중심으로 한 순차적 내재 회전입니다."
 
-#: source/MRViewer/ImGuiMenu.cpp:2887 source/MRViewer/ImGuiMenu.cpp:2899
+#: source/MRViewer/ImGuiMenu.cpp:2923 source/MRViewer/ImGuiMenu.cpp:2935
 #: source/MRViewer/MRMouse.h:34
 msgid "Translation"
 msgstr "평행 이동"
 
-#: source/MRViewer/ImGuiMenu.cpp:2912
+#: source/MRViewer/ImGuiMenu.cpp:2948
 msgid "Manual Change Transform"
 msgstr "수동 변환 변경"
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/MRRibbonMenu.cpp:1903
+#: source/MRViewer/ImGuiMenu.cpp:2970 source/MRViewer/MRRibbonMenu.cpp:1903
 msgid "Transform"
 msgstr "변환"
 
-#: source/MRViewer/ImGuiMenu.cpp:3156
+#: source/MRViewer/ImGuiMenu.cpp:3192
 msgid "Hot Key List"
 msgstr "단축키 목록"
 
@@ -2449,11 +2449,11 @@ msgstr "MMB"
 msgid "Move Object"
 msgstr "객체 이동"
 
-#: source/MRViewer/MRProgressBar.cpp:236
+#: source/MRViewer/MRProgressBar.cpp:226
 msgid "Canceling..."
 msgstr "취소 중..."
 
-#: source/MRViewer/MRProgressBar.cpp:240 source/MRViewer/MRProgressBar.cpp:242
+#: source/MRViewer/MRProgressBar.cpp:230 source/MRViewer/MRProgressBar.cpp:232
 msgid "Operation is in progress, please wait..."
 msgstr "작업이 진행 중입니다. 잠시 기다리세요..."
 
@@ -2656,7 +2656,7 @@ msgstr "리본 장면 이전 항목만 표시"
 msgid "Ribbon Scene Show only next"
 msgstr "리본 장면 다음 항목만 표시"
 
-#: source/MRViewer/MRRibbonMenu.cpp:2371
+#: source/MRViewer/MRRibbonMenu.cpp:2370
 msgid "Hotkeys"
 msgstr "단축키"
 
@@ -2692,7 +2692,7 @@ msgstr "MCP: 객체 제거"
 msgid "MCP addObject"
 msgstr "MCP: 객체 추가"
 
-#: source/MRViewer/MRSceneObjectsListDrawer.cpp:639
+#: source/MRViewer/MRSceneObjectsListDrawer.cpp:644
 msgid "Cannot perform such reorder"
 msgstr "이러한 재정렬을 수행할 수 없습니다"
 
@@ -2729,27 +2729,31 @@ msgid "Select to prefer in selection convex/concave angles or neither"
 msgstr ""
 "선택에서 볼록/오목 각도를 선호할지, 어느 쪽도 선호하지 않을지 선택합니다"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:297
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:307
 msgid "Brush: Add"
 msgstr "브러시: 추가"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:299
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:309
 msgid "Brush: Remove"
 msgstr "브러시: 제거"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:301
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:311
 msgid "Brush: Smooth"
 msgstr "브러시: 평활화"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:356
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:366
 msgid "Subdivide Ridges/Grooves"
 msgstr "능선/홈 세분"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:399
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
+msgid "Brush: Mark Creases"
+msgstr ""
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
 msgid "Brush: Fix"
 msgstr "브러시: 복구"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:856
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:906
 msgid "Brush: Deform"
 msgstr "브러시: 변형"
 
