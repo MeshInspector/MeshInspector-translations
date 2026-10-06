@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-01 04:42+0000\n"
+"POT-Creation-Date: 2026-10-06 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2844,6 +2844,24 @@ msgstr "Lissage"
 
 msgid "Effect of smoothing surface."
 msgstr "Effet du lissage de la surface."
+
+msgid "Keep Sharp Edges"
+msgstr "Conserver les arêtes vives"
+
+msgid "If selected, smoothing keeps the selected edges and creases sharp."
+msgstr ""
+"Si sélectionné, les arêtes sélectionnées et les plis restent vifs lors du "
+"lissage."
+
+msgid "Mark Selected Edges as Creases"
+msgstr "Marquer les arêtes sélectionnées comme plis"
+
+msgid ""
+"If selected, the selected edges in the smoothed area become creases after "
+"each stroke."
+msgstr ""
+"Si sélectionné, les arêtes sélectionnées de la zone lissée deviennent des "
+"plis après chaque coup de pinceau."
 
 msgid "Material Thickness"
 msgstr "Épaisseur de matériau"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-01 04:42+0000\n"
+"POT-Creation-Date: 2026-10-06 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2725,6 +2725,22 @@ msgstr "평활도"
 
 msgid "Effect of smoothing surface."
 msgstr "표면 평활화의 효과."
+
+msgid "Keep Sharp Edges"
+msgstr "날카로운 가장자리 유지"
+
+msgid "If selected, smoothing keeps the selected edges and creases sharp."
+msgstr "선택하면 평활화 시 선택된 가장자리와 주름을 날카롭게 유지합니다."
+
+msgid "Mark Selected Edges as Creases"
+msgstr "선택된 가장자리를 주름으로 표시"
+
+msgid ""
+"If selected, the selected edges in the smoothed area become creases after "
+"each stroke."
+msgstr ""
+"선택하면 각 브러시 스트로크 후 평활화된 영역의 선택된 가장자리가 주름이 됩니"
+"다."
 
 msgid "Material Thickness"
 msgstr "재료 두께"

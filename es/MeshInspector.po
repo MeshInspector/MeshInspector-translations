@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-01 04:42+0000\n"
+"POT-Creation-Date: 2026-10-06 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2823,6 +2823,24 @@ msgstr "Suavidad"
 
 msgid "Effect of smoothing surface."
 msgstr "Efecto de suavizado de la superficie."
+
+msgid "Keep Sharp Edges"
+msgstr "Conservar aristas agudas"
+
+msgid "If selected, smoothing keeps the selected edges and creases sharp."
+msgstr ""
+"Si está seleccionado, el suavizado mantiene agudos los pliegues y las "
+"aristas seleccionadas."
+
+msgid "Mark Selected Edges as Creases"
+msgstr "Marcar aristas seleccionadas como pliegues"
+
+msgid ""
+"If selected, the selected edges in the smoothed area become creases after "
+"each stroke."
+msgstr ""
+"Si está seleccionado, las aristas seleccionadas del área suavizada se "
+"convierten en pliegues tras cada trazo."
 
 msgid "Material Thickness"
 msgstr "Grosor del material"
