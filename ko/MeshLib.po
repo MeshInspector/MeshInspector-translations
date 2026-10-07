@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-07 04:43+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -266,7 +266,7 @@ msgstr "저장"
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1080
 #: source/MRViewer/ImGuiMenu.cpp:988 source/MRViewer/ImGuiMenu.cpp:1087
-#: source/MRViewer/MRProgressBar.cpp:217
+#: source/MRViewer/MRProgressBar.cpp:222
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
 #: source/MRViewer/MRUISaveChangesPopup.h:24
 msgid "Cancel"
@@ -280,39 +280,39 @@ msgstr "색상 테마가 초기화되지 않았습니다"
 msgid "Cannot save theme with name"
 msgstr "다음 이름으로 테마를 저장할 수 없습니다"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:291
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:293
 msgid "Another operation in progress."
 msgstr "다른 작업이 진행 중입니다."
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:298
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:300
 #, c++-format
 msgid "Drop {}"
 msgstr "{} 놓기"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:355
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:357
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:359
 msgid "Load as Scene"
 msgstr "장면으로 불러오기"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:367
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:369
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:371
 msgid "Add Files"
 msgstr "파일 추가"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:456
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:458
 msgid "Open DICOMs"
 msgstr "DICOM 열기"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:483
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:485
 msgid "This web browser doesn't support directory selection"
 msgstr "이 웹 브라우저는 폴더 선택을 지원하지 않습니다"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:508
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:510
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
 msgid "Open Directory"
 msgstr "폴더 열기"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:599
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:601
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -320,54 +320,54 @@ msgstr ""
 "내보낼 수 있는 형식의 객체 하나만 선택하십시오 (예: 메시, 포인트 클라우드, 볼"
 "륨)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:602
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr "같은 형식의 객체를 선택하십시오 (예: 메시, 포인트 클라우드, 볼륨)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:667
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:809
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:669
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:811
 msgid "File name is not set"
 msgstr "파일 이름이 설정되지 않았습니다"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:773
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:792
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:775
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:794
 msgid "Error saving selected:"
 msgstr "선택 항목 저장 오류:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:822
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:824
 msgid "Error saving scene:"
 msgstr "장면 저장 오류:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:857
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:859
 msgid "Scene is empty - nothing to save"
 msgstr "장면이 비어 있습니다 - 저장할 항목이 없습니다"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:891
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
 msgid "Width"
 msgstr "너비"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:892
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
 msgid "Height"
 msgstr "높이"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
 msgid "Transparent Background"
 msgstr "투명 배경"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
 msgid "Hide scene overlays"
 msgstr "장면 오버레이 숨기기"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
 msgid "Capture"
 msgstr "캡처"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:986
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1013
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:988
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1015
 msgid "Error saving screenshot:"
 msgstr "스크린샷 저장 오류:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1027
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
 msgid "This function is not currently supported in web edition"
 msgstr "이 기능은 현재 웹 버전에서 지원되지 않습니다"
 
@@ -2449,11 +2449,11 @@ msgstr "MMB"
 msgid "Move Object"
 msgstr "객체 이동"
 
-#: source/MRViewer/MRProgressBar.cpp:226
+#: source/MRViewer/MRProgressBar.cpp:231
 msgid "Canceling..."
 msgstr "취소 중..."
 
-#: source/MRViewer/MRProgressBar.cpp:230 source/MRViewer/MRProgressBar.cpp:232
+#: source/MRViewer/MRProgressBar.cpp:235 source/MRViewer/MRProgressBar.cpp:237
 msgid "Operation is in progress, please wait..."
 msgstr "작업이 진행 중입니다. 잠시 기다리세요..."
 
@@ -2729,31 +2729,35 @@ msgid "Select to prefer in selection convex/concave angles or neither"
 msgstr ""
 "선택에서 볼록/오목 각도를 선호할지, 어느 쪽도 선호하지 않을지 선택합니다"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:307
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
 msgstr "브러시: 추가"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:309
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
 msgstr "브러시: 제거"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:311
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
+msgid "Brush: Smooth (Keep Sharp Edges)"
+msgstr ""
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"
 msgstr "브러시: 평활화"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:366
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:367
 msgid "Subdivide Ridges/Grooves"
 msgstr "능선/홈 세분"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:390
 msgid "Brush: Mark Creases"
 msgstr "브러시: 주름 표시"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:428
 msgid "Brush: Fix"
 msgstr "브러시: 복구"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:906
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:916
 msgid "Brush: Deform"
 msgstr "브러시: 변형"
 
