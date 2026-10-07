@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-07 04:43+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -266,7 +266,7 @@ msgstr "Guardar"
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1080
 #: source/MRViewer/ImGuiMenu.cpp:988 source/MRViewer/ImGuiMenu.cpp:1087
-#: source/MRViewer/MRProgressBar.cpp:217
+#: source/MRViewer/MRProgressBar.cpp:222
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
 #: source/MRViewer/MRUISaveChangesPopup.h:24
 msgid "Cancel"
@@ -280,39 +280,39 @@ msgstr "O tema de cores não foi inicializado"
 msgid "Cannot save theme with name"
 msgstr "Não é possível guardar o tema com o nome"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:291
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:293
 msgid "Another operation in progress."
 msgstr "Outra operação em curso."
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:298
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:300
 #, c++-format
 msgid "Drop {}"
 msgstr "Largar {}"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:355
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:357
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:359
 msgid "Load as Scene"
 msgstr "Carregar como cena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:367
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:369
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:371
 msgid "Add Files"
 msgstr "Adicionar ficheiros"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:456
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:458
 msgid "Open DICOMs"
 msgstr "Abrir DICOMs"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:483
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:485
 msgid "This web browser doesn't support directory selection"
 msgstr "Este navegador web não suporta a seleção de pastas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:508
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:510
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
 msgid "Open Directory"
 msgstr "Abrir pasta"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:599
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:601
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -320,56 +320,56 @@ msgstr ""
 "Selecione exatamente um objeto de um tipo exportável (por exemplo, malha, "
 "nuvem de pontos ou volume)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:602
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr ""
 "Selecione objetos do mesmo tipo (por exemplo, malhas, nuvens de pontos ou "
 "volumes)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:667
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:809
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:669
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:811
 msgid "File name is not set"
 msgstr "Nome do ficheiro não definido"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:773
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:792
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:775
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:794
 msgid "Error saving selected:"
 msgstr "Erro ao guardar a seleção:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:822
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:824
 msgid "Error saving scene:"
 msgstr "Erro ao guardar a cena:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:857
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:859
 msgid "Scene is empty - nothing to save"
 msgstr "A cena está vazia – nada para guardar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:891
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
 msgid "Width"
 msgstr "Largura"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:892
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
 msgid "Height"
 msgstr "Altura"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
 msgid "Transparent Background"
 msgstr "Fundo transparente"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
 msgid "Hide scene overlays"
 msgstr "Ocultar sobreposições da cena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
 msgid "Capture"
 msgstr "Capturar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:986
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1013
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:988
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1015
 msgid "Error saving screenshot:"
 msgstr "Erro ao guardar a captura de ecrã:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1027
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
 msgid "This function is not currently supported in web edition"
 msgstr "Esta função não é atualmente suportada na edição web"
 
@@ -2488,11 +2488,11 @@ msgstr "MMB"
 msgid "Move Object"
 msgstr "Mover objeto"
 
-#: source/MRViewer/MRProgressBar.cpp:226
+#: source/MRViewer/MRProgressBar.cpp:231
 msgid "Canceling..."
 msgstr "A cancelar..."
 
-#: source/MRViewer/MRProgressBar.cpp:230 source/MRViewer/MRProgressBar.cpp:232
+#: source/MRViewer/MRProgressBar.cpp:235 source/MRViewer/MRProgressBar.cpp:237
 msgid "Operation is in progress, please wait..."
 msgstr "Operação em curso, aguarde..."
 
@@ -2768,31 +2768,35 @@ msgstr "Selecionar um caminho mais longo, mas que passe por regiões côncavas"
 msgid "Select to prefer in selection convex/concave angles or neither"
 msgstr "Escolher se na seleção se preferem ângulos convexos/côncavos ou nenhum"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:307
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
 msgstr "Pincel: Adicionar"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:309
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
 msgstr "Pincel: Remover"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:311
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
+msgid "Brush: Smooth (Keep Sharp Edges)"
+msgstr "Pincel: Suavizar (manter arestas vivas)"
+
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"
 msgstr "Pincel: Suavizar"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:366
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:367
 msgid "Subdivide Ridges/Grooves"
 msgstr "Subdividir cristas/sulcos"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:389
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:390
 msgid "Brush: Mark Creases"
 msgstr "Pincel: Marcar dobras"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:427
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:428
 msgid "Brush: Fix"
 msgstr "Pincel: Reparar"
 
-#: source/MRViewer/MRSurfaceManipulationWidget.cpp:906
+#: source/MRViewer/MRSurfaceManipulationWidget.cpp:916
 msgid "Brush: Deform"
 msgstr "Pincel: Deformar"
 
