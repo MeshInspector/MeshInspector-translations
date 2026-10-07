@@ -2792,7 +2792,7 @@ msgstr "Pennello: Rimuovi"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth (Keep Sharp Edges)"
-msgstr ""
+msgstr "Pennello: Leviga (mantieni spigoli netti)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"

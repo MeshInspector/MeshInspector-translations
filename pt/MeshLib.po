@@ -2778,7 +2778,7 @@ msgstr "Pincel: Remover"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth (Keep Sharp Edges)"
-msgstr ""
+msgstr "Pincel: Suavizar (manter arestas vivas)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"

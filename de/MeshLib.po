@@ -2800,7 +2800,7 @@ msgstr "Pinsel: Entfernen"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth (Keep Sharp Edges)"
-msgstr ""
+msgstr "Pinsel: Glätten (scharfe Kanten beibehalten)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"

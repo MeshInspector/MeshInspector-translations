@@ -2739,7 +2739,7 @@ msgstr "브러시: 제거"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth (Keep Sharp Edges)"
-msgstr ""
+msgstr "브러시: 평활화 (날카로운 가장자리 유지)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"

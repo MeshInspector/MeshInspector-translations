@@ -2798,7 +2798,7 @@ msgstr "Pinceau : Supprimer"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth (Keep Sharp Edges)"
-msgstr ""
+msgstr "Pinceau : Lisser (conserver les arêtes vives)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:312
 msgid "Brush: Smooth"
