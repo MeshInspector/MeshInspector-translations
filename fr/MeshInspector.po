@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-10 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2833,8 +2833,8 @@ msgstr "Correction"
 msgid "Radius of editing area."
 msgstr "Rayon de la zone d'édition."
 
-msgid "Radius presets:"
-msgstr "Préréglages de rayon :"
+msgid "preset:"
+msgstr "préréglage :"
 
 msgid "Hotkey"
 msgstr "Raccourci"
@@ -2967,6 +2967,12 @@ msgid ""
 msgstr ""
 "En mode de correction, désactive le lissage et rapproche les rustines de la "
 "surface initiale."
+
+msgid "Reset to Defaults"
+msgstr "Réinitialiser aux valeurs par défaut"
+
+msgid "Restore the default values of all settings of this tool."
+msgstr "Restaurer les valeurs par défaut de tous les paramètres de cet outil."
 
 msgid "Collide"
 msgstr "Détecter les collisions"
@@ -9955,6 +9961,9 @@ msgstr "Capturer"
 
 msgid "Import Zivid scan"
 msgstr "Importer un scan Zivid"
+
+#~ msgid "Radius presets:"
+#~ msgstr "Préréglages de rayon :"
 
 #~ msgid ""
 #~ "Reduce noise inside every segment, while making the selected edges "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-10 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2658,8 +2658,8 @@ msgstr "修复"
 msgid "Radius of editing area."
 msgstr "编辑区域的半径。"
 
-msgid "Radius presets:"
-msgstr "半径预设："
+msgid "preset:"
+msgstr "预设："
 
 msgid "Hotkey"
 msgstr "快捷键"
@@ -2774,6 +2774,12 @@ msgstr "模拟修复"
 msgid ""
 "In Fix mode disables smoothing and makes patches closer to initial surface."
 msgstr "在修复模式下禁用平滑并使补丁更接近初始表面。"
+
+msgid "Reset to Defaults"
+msgstr "重置为默认值"
+
+msgid "Restore the default values of all settings of this tool."
+msgstr "将此工具的所有设置恢复为默认值。"
 
 msgid "Collide"
 msgstr "碰撞"
@@ -9070,6 +9076,9 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "Radius presets:"
+#~ msgstr "半径预设："
 
 #~ msgid ""
 #~ "Reduce noise inside every segment, while making the selected edges "

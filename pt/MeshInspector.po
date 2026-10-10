@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-10 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2806,8 +2806,8 @@ msgstr "Corrigir"
 msgid "Radius of editing area."
 msgstr "Raio da área de edição."
 
-msgid "Radius presets:"
-msgstr "Predefinições de raio:"
+msgid "preset:"
+msgstr "predefinição:"
 
 msgid "Hotkey"
 msgstr "Atalho"
@@ -2938,6 +2938,13 @@ msgid ""
 msgstr ""
 "No modo Corrigir, desativa a suavização e aproxima os remendos da superfície "
 "inicial."
+
+msgid "Reset to Defaults"
+msgstr "Repor Predefinições"
+
+msgid "Restore the default values of all settings of this tool."
+msgstr ""
+"Restaurar os valores predefinidos de todas as definições desta ferramenta."
 
 msgid "Collide"
 msgstr "Colidir"
@@ -9843,6 +9850,9 @@ msgstr "Capturar"
 
 msgid "Import Zivid scan"
 msgstr "Importar digitalização Zivid"
+
+#~ msgid "Radius presets:"
+#~ msgstr "Predefinições de raio:"
 
 #~ msgid ""
 #~ "Reduce noise inside every segment, while making the selected edges "
