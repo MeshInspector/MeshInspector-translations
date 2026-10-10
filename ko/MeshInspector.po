@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 04:42+0000\n"
+"POT-Creation-Date: 2026-10-10 04:42+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2714,8 +2714,8 @@ msgstr "수정"
 msgid "Radius of editing area."
 msgstr "편집 영역의 반지름."
 
-msgid "Radius presets:"
-msgstr "반지름 사전 설정:"
+msgid "preset:"
+msgstr ""
 
 msgid "Hotkey"
 msgstr "단축키"
@@ -2838,6 +2838,12 @@ msgid ""
 "In Fix mode disables smoothing and makes patches closer to initial surface."
 msgstr ""
 "수정 모드에서는 평활화를 비활성화하고 패치를 초기 표면에 더 가깝게 만듭니다."
+
+msgid "Reset to Defaults"
+msgstr ""
+
+msgid "Restore the default values of all settings of this tool."
+msgstr ""
 
 msgid "Collide"
 msgstr "충돌"
@@ -9395,6 +9401,9 @@ msgstr "캡처"
 
 msgid "Import Zivid scan"
 msgstr "Zivid 스캔 가져오기"
+
+#~ msgid "Radius presets:"
+#~ msgstr "반지름 사전 설정:"
 
 #~ msgid ""
 #~ "Reduce noise inside every segment, while making the selected edges "

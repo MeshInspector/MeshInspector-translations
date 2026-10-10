@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-07 04:43+0000\n"
+"POT-Creation-Date: 2026-10-10 04:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2607,7 +2607,7 @@ msgstr ""
 msgid "Radius of editing area."
 msgstr ""
 
-msgid "Radius presets:"
+msgid "preset:"
 msgstr ""
 
 msgid "Hotkey"
@@ -2716,6 +2716,12 @@ msgstr ""
 
 msgid ""
 "In Fix mode disables smoothing and makes patches closer to initial surface."
+msgstr ""
+
+msgid "Reset to Defaults"
+msgstr ""
+
+msgid "Restore the default values of all settings of this tool."
 msgstr ""
 
 msgid "Collide"
