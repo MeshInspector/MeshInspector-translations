@@ -2784,7 +2784,7 @@ msgstr ""
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add Ridge"
-msgstr ""
+msgstr "Pennello: Aggiungi (cresta)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
@@ -2792,7 +2792,7 @@ msgstr "Pennello: Aggiungi"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove Groove"
-msgstr ""
+msgstr "Pennello: Rimuovi (scanalatura)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
@@ -2812,7 +2812,7 @@ msgstr "Suddividi creste/scanalature"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:371
 msgid " + Subdivision"
-msgstr ""
+msgstr " + suddivisione"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:397
 msgid "Brush: Mark Creases"

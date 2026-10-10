@@ -2731,7 +2731,7 @@ msgstr ""
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add Ridge"
-msgstr ""
+msgstr "브러시: 추가 (능선)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
@@ -2739,7 +2739,7 @@ msgstr "브러시: 추가"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove Groove"
-msgstr ""
+msgstr "브러시: 제거 (홈)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
@@ -2759,7 +2759,7 @@ msgstr "능선/홈 세분"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:371
 msgid " + Subdivision"
-msgstr ""
+msgstr " + 세분"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:397
 msgid "Brush: Mark Creases"

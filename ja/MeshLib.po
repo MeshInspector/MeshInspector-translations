@@ -2742,7 +2742,7 @@ msgstr "選択で凸/凹の角度を優先するかどうかを設定"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add Ridge"
-msgstr ""
+msgstr "ブラシ: 追加（稜線）"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
@@ -2750,7 +2750,7 @@ msgstr "ブラシ: 追加"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove Groove"
-msgstr ""
+msgstr "ブラシ: 削除（溝）"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
@@ -2770,7 +2770,7 @@ msgstr "稜線/溝を細分化"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:371
 msgid " + Subdivision"
-msgstr ""
+msgstr " + 細分化"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:397
 msgid "Brush: Mark Creases"

@@ -2769,7 +2769,7 @@ msgstr "Выбрать предпочтение выпуклых/вогнуты�
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add Ridge"
-msgstr ""
+msgstr "Кисть: добавить (гребень)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
@@ -2777,7 +2777,7 @@ msgstr "Кисть: добавить"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove Groove"
-msgstr ""
+msgstr "Кисть: удалить (бороздка)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
@@ -2797,7 +2797,7 @@ msgstr "Подразделить гребни/бороздки"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:371
 msgid " + Subdivision"
-msgstr ""
+msgstr " + подразделение"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:397
 msgid "Brush: Mark Creases"

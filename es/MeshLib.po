@@ -2786,7 +2786,7 @@ msgstr ""
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add Ridge"
-msgstr ""
+msgstr "Pincel: Añadir (cresta)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:308
 msgid "Brush: Add"
@@ -2794,7 +2794,7 @@ msgstr "Pincel: Añadir"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove Groove"
-msgstr ""
+msgstr "Pincel: Eliminar (surco)"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:310
 msgid "Brush: Remove"
@@ -2814,7 +2814,7 @@ msgstr "Subdividir crestas/surcos"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:371
 msgid " + Subdivision"
-msgstr ""
+msgstr " + subdivisión"
 
 #: source/MRViewer/MRSurfaceManipulationWidget.cpp:397
 msgid "Brush: Mark Creases"

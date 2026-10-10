@@ -2659,7 +2659,7 @@ msgid "Radius of editing area."
 msgstr "编辑区域的半径。"
 
 msgid "preset:"
-msgstr ""
+msgstr "预设："
 
 msgid "Hotkey"
 msgstr "快捷键"
@@ -2776,10 +2776,10 @@ msgid ""
 msgstr "在修复模式下禁用平滑并使补丁更接近初始表面。"
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "重置为默认值"
 
 msgid "Restore the default values of all settings of this tool."
-msgstr ""
+msgstr "将此工具的所有设置恢复为默认值。"
 
 msgid "Collide"
 msgstr "碰撞"

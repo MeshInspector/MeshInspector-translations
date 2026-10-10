@@ -2819,7 +2819,7 @@ msgid "Radius of editing area."
 msgstr "Radius des Bearbeitungsbereichs."
 
 msgid "preset:"
-msgstr ""
+msgstr "Voreinstellung:"
 
 msgid "Hotkey"
 msgstr "Tastenkombination"
@@ -2951,10 +2951,10 @@ msgstr ""
 "ursprüngliche Oberfläche."
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Auf Standardwerte zurücksetzen"
 
 msgid "Restore the default values of all settings of this tool."
-msgstr ""
+msgstr "Standardwerte aller Einstellungen dieses Werkzeugs wiederherstellen."
 
 msgid "Collide"
 msgstr "Kollidieren"

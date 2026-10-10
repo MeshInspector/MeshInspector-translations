@@ -2792,7 +2792,7 @@ msgid "Radius of editing area."
 msgstr "Радиус области редактирования."
 
 msgid "preset:"
-msgstr ""
+msgstr "предустановка:"
 
 msgid "Hotkey"
 msgstr "Горячая клавиша"
@@ -2922,10 +2922,11 @@ msgstr ""
 "начальной поверхности."
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Сбросить до значений по умолчанию"
 
 msgid "Restore the default values of all settings of this tool."
 msgstr ""
+"Восстановить значения по умолчанию для всех настроек этого инструмента."
 
 msgid "Collide"
 msgstr "Столкновение"

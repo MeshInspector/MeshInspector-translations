@@ -2715,7 +2715,7 @@ msgid "Radius of editing area."
 msgstr "편집 영역의 반지름."
 
 msgid "preset:"
-msgstr ""
+msgstr "사전 설정:"
 
 msgid "Hotkey"
 msgstr "단축키"
@@ -2840,10 +2840,10 @@ msgstr ""
 "수정 모드에서는 평활화를 비활성화하고 패치를 초기 표면에 더 가깝게 만듭니다."
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "기본값으로 재설정"
 
 msgid "Restore the default values of all settings of this tool."
-msgstr ""
+msgstr "이 도구의 모든 설정을 기본값으로 복원합니다."
 
 msgid "Collide"
 msgstr "충돌"

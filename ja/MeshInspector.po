@@ -2722,7 +2722,7 @@ msgid "Radius of editing area."
 msgstr "編集エリアの半径。"
 
 msgid "preset:"
-msgstr ""
+msgstr "プリセット:"
 
 msgid "Hotkey"
 msgstr "ホットキー"
@@ -2849,10 +2849,10 @@ msgstr ""
 "修正モードでスムージングを無効にし、パッチを初期サーフェスに近づけます。"
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "デフォルトにリセット"
 
 msgid "Restore the default values of all settings of this tool."
-msgstr ""
+msgstr "このツールのすべての設定をデフォルト値に戻します。"
 
 msgid "Collide"
 msgstr "衝突検出"

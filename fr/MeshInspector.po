@@ -2834,7 +2834,7 @@ msgid "Radius of editing area."
 msgstr "Rayon de la zone d'édition."
 
 msgid "preset:"
-msgstr ""
+msgstr "préréglage :"
 
 msgid "Hotkey"
 msgstr "Raccourci"
@@ -2969,10 +2969,10 @@ msgstr ""
 "surface initiale."
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Réinitialiser aux valeurs par défaut"
 
 msgid "Restore the default values of all settings of this tool."
-msgstr ""
+msgstr "Restaurer les valeurs par défaut de tous les paramètres de cet outil."
 
 msgid "Collide"
 msgstr "Détecter les collisions"
