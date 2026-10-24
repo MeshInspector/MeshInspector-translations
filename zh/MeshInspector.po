@@ -4830,6 +4830,8 @@ msgid ""
 "positions, but must overlap. For point clouds without normals, the "
 "transformation is guessed from covariance matrices of both objects."
 msgstr ""
+"通过匹配两个对象的局部形状，自动查找浮动对象的初始变换。对象可以处于任意位"
+"置，但必须相互重叠。对于不带法线的点云，将根据两个对象的协方差矩阵推测变换。"
 
 msgid "Visual settings"
 msgstr "视觉设置"
