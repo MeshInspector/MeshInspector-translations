@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4579,8 +4579,8 @@ msgstr "从方向看时凹切面的绝对面积总和"
 msgid "Faster approximation of Projected Area metric"
 msgstr "投影面积度量的更快近似"
 
-msgid "Select what metric 'Find Better Direction' button will minimize."
-msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"
+msgid "Select what metric 'Find Optimal Direction' button will minimize."
+msgstr ""
 
 msgid "Max Base Angle"
 msgstr "最大基础角度"
@@ -7550,6 +7550,70 @@ msgstr "将邻近点视为边界的最小夹角。"
 msgid "Select Boundary Points"
 msgstr "选择边界点"
 
+msgid "Curvature"
+msgstr ""
+
+msgid "Anisotropy"
+msgstr ""
+
+msgid "Uniqueness"
+msgstr ""
+
+msgid "Distance to Picked"
+msgstr ""
+
+msgid ""
+"Mean of the Phi histogram: positive on convex parts, negative on concave "
+"ones, zero on planes."
+msgstr ""
+
+msgid ""
+"Spread of the Alpha histogram: zero on planes and spheres, larger on "
+"cylinders, saddles and sharp edges."
+msgstr ""
+
+msgid ""
+"How far the descriptor is from the typical one compared with other points, "
+"in standard deviations: positive for unusual descriptors, negative for more "
+"typical ones."
+msgstr ""
+
+msgid ""
+"Distance from the descriptor of the picked point: low values mark the points "
+"that look alike."
+msgstr ""
+
+msgid "Theta"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Phi"
+msgstr ""
+
+msgid ""
+"Radius of the neighborhood described around each point, usually about 5 "
+"times larger than the distance between neighbor points."
+msgstr ""
+
+msgid ""
+"The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
+"the colors are noisy. Needs about 400 bytes of memory per point."
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Picked Point"
+msgstr ""
+
+msgid "Click a point to see the histograms of its descriptor."
+msgstr ""
+
+msgid "The point cloud has no points or no normals"
+msgstr ""
+
 msgid "Outliers Points update settings"
 msgstr "更新离群点设置"
 
@@ -9080,6 +9144,9 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "Select what metric 'Find Better Direction' button will minimize."
+#~ msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"
 
 #~ msgid ""
 #~ "Automatically select initial transformation for the floating object  "

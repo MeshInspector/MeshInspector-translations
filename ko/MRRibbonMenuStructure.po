@@ -824,6 +824,14 @@ msgstr "법선 제거"
 msgid "Remove normals from point clouds."
 msgstr "포인트 클라우드에서 법선을 제거합니다."
 
+msgid "Visualize Descriptors"
+msgstr ""
+
+msgid ""
+"Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
+"anisotropy, uniqueness or similarity to a picked point."
+msgstr ""
+
 msgid "Select Boundary Points"
 msgstr "경계 포인트 선택"
 

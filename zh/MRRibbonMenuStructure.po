@@ -783,6 +783,14 @@ msgstr "移除法线"
 msgid "Remove normals from point clouds."
 msgstr "从点云中移除法线。"
 
+msgid "Visualize Descriptors"
+msgstr ""
+
+msgid ""
+"Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
+"anisotropy, uniqueness or similarity to a picked point."
+msgstr ""
+
 msgid "Select Boundary Points"
 msgstr "选择边界点"
 

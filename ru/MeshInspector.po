@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4938,10 +4938,8 @@ msgstr ""
 msgid "Faster approximation of Projected Area metric"
 msgstr "Быстрое приближение метрики площади проекции"
 
-msgid "Select what metric 'Find Better Direction' button will minimize."
+msgid "Select what metric 'Find Optimal Direction' button will minimize."
 msgstr ""
-"Выберите метрику, которую будет минимизировать кнопка «Найти лучшее "
-"направление»."
 
 msgid "Max Base Angle"
 msgstr "Макс. базовый угол"
@@ -8181,6 +8179,70 @@ msgstr "Минимальный угол между соседними точка
 msgid "Select Boundary Points"
 msgstr "Выбрать граничные точки"
 
+msgid "Curvature"
+msgstr ""
+
+msgid "Anisotropy"
+msgstr ""
+
+msgid "Uniqueness"
+msgstr ""
+
+msgid "Distance to Picked"
+msgstr ""
+
+msgid ""
+"Mean of the Phi histogram: positive on convex parts, negative on concave "
+"ones, zero on planes."
+msgstr ""
+
+msgid ""
+"Spread of the Alpha histogram: zero on planes and spheres, larger on "
+"cylinders, saddles and sharp edges."
+msgstr ""
+
+msgid ""
+"How far the descriptor is from the typical one compared with other points, "
+"in standard deviations: positive for unusual descriptors, negative for more "
+"typical ones."
+msgstr ""
+
+msgid ""
+"Distance from the descriptor of the picked point: low values mark the points "
+"that look alike."
+msgstr ""
+
+msgid "Theta"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Phi"
+msgstr ""
+
+msgid ""
+"Radius of the neighborhood described around each point, usually about 5 "
+"times larger than the distance between neighbor points."
+msgstr ""
+
+msgid ""
+"The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
+"the colors are noisy. Needs about 400 bytes of memory per point."
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Picked Point"
+msgstr ""
+
+msgid "Click a point to see the histograms of its descriptor."
+msgstr ""
+
+msgid "The point cloud has no points or no normals"
+msgstr ""
+
 msgid "Outliers Points update settings"
 msgstr "Обновить настройки выпадающих точек"
 
@@ -9796,6 +9858,11 @@ msgstr "Снимок"
 
 msgid "Import Zivid scan"
 msgstr "Импортировать скан Zivid"
+
+#~ msgid "Select what metric 'Find Better Direction' button will minimize."
+#~ msgstr ""
+#~ "Выберите метрику, которую будет минимизировать кнопка «Найти лучшее "
+#~ "направление»."
 
 #~ msgid ""
 #~ "Automatically select initial transformation for the floating object  "

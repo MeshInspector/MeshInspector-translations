@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -276,92 +276,92 @@ msgstr "颜色主题未初始化"
 msgid "Cannot save theme with name"
 msgstr "无法保存名称为以下的主题"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:293
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:295
 msgid "Another operation in progress."
 msgstr "正有另一项操作在进行中。"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:300
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:302
 #, c++-format
 msgid "Drop {}"
 msgstr "拖放 {}"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:357
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:359
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:361
 msgid "Load as Scene"
 msgstr "作为场景加载"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:369
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:371
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:373
 msgid "Add Files"
 msgstr "添加文件"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:458
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:460
 msgid "Open DICOMs"
 msgstr "打开 DICOM"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:485
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:487
 msgid "This web browser doesn't support directory selection"
 msgstr "此 Web 浏览器不支持选择文件夹"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:510
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:512
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
 msgid "Open Directory"
 msgstr "打开文件夹"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:601
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
 msgstr "请仅选择一个可导出类型的对象(例如网格、点云或体积)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:607
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr "请选择相同类型的对象(例如网格、点云或体积)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:669
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:811
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:672
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:814
 msgid "File name is not set"
 msgstr "未设置文件名"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:775
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:794
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:778
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:797
 msgid "Error saving selected:"
 msgstr "保存所选项时出错:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:824
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:827
 msgid "Error saving scene:"
 msgstr "保存场景时出错:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:859
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:862
 msgid "Scene is empty - nothing to save"
 msgstr "场景为空 - 无内容可保存"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
 msgid "Width"
 msgstr "宽度"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
 msgid "Height"
 msgstr "高度"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:898
 msgid "Transparent Background"
 msgstr "透明背景"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:899
 msgid "Hide scene overlays"
 msgstr "隐藏场景叠加层"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:900
 msgid "Capture"
 msgstr "截取"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:988
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1015
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:991
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1018
 msgid "Error saving screenshot:"
 msgstr "保存截图时出错:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1032
 msgid "This function is not currently supported in web edition"
 msgstr "Web 版本目前不支持此功能"
 
@@ -2648,15 +2648,15 @@ msgstr "不保存即关闭应用程序"
 msgid "Do not close the application"
 msgstr "不关闭应用程序"
 
-#: source/MRViewer/MRSceneMcp.cpp:241
+#: source/MRViewer/MRSceneMcp.cpp:270
 msgid "MCP setObjectState"
 msgstr "MCP：设置对象状态"
 
-#: source/MRViewer/MRSceneMcp.cpp:351
+#: source/MRViewer/MRSceneMcp.cpp:380
 msgid "MCP removeObject"
 msgstr "MCP：移除对象"
 
-#: source/MRViewer/MRSceneMcp.cpp:485
+#: source/MRViewer/MRSceneMcp.cpp:514
 msgid "MCP addObject"
 msgstr "MCP：添加对象"
 
