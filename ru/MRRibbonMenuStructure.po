@@ -871,12 +871,14 @@ msgid "Remove normals from point clouds."
 msgstr "Удаляет нормали из облаков точек."
 
 msgid "Visualize Descriptors"
-msgstr ""
+msgstr "Визуализировать дескрипторы"
 
 msgid ""
 "Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
 "anisotropy, uniqueness or similarity to a picked point."
 msgstr ""
+"Показывает цветовую карту дескрипторов точек (FPFH) выбранного облака точек: "
+"кривизну, анизотропию, уникальность или сходство с выбранной точкой."
 
 msgid "Select Boundary Points"
 msgstr "Выделить граничные точки"

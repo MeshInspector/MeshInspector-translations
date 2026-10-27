@@ -4940,6 +4940,8 @@ msgstr "Быстрое приближение метрики площади пр
 
 msgid "Select what metric 'Find Optimal Direction' button will minimize."
 msgstr ""
+"Выберите метрику, которую будет минимизировать кнопка «Найти оптимальное "
+"направление»."
 
 msgid "Max Base Angle"
 msgstr "Макс. базовый угол"
@@ -8180,68 +8182,82 @@ msgid "Select Boundary Points"
 msgstr "Выбрать граничные точки"
 
 msgid "Curvature"
-msgstr ""
+msgstr "Кривизна"
 
 msgid "Anisotropy"
-msgstr ""
+msgstr "Анизотропия"
 
 msgid "Uniqueness"
-msgstr ""
+msgstr "Уникальность"
 
 msgid "Distance to Picked"
-msgstr ""
+msgstr "Расстояние до выбранной точки"
 
 msgid ""
 "Mean of the Phi histogram: positive on convex parts, negative on concave "
 "ones, zero on planes."
 msgstr ""
+"Среднее значение гистограммы Фи: положительное на выпуклых участках, "
+"отрицательное на вогнутых, нулевое на плоскостях."
 
 msgid ""
 "Spread of the Alpha histogram: zero on planes and spheres, larger on "
 "cylinders, saddles and sharp edges."
 msgstr ""
+"Разброс гистограммы Альфа: нулевой на плоскостях и сферах, больше на "
+"цилиндрах, сёдлах и острых рёбрах."
 
 msgid ""
 "How far the descriptor is from the typical one compared with other points, "
 "in standard deviations: positive for unusual descriptors, negative for more "
 "typical ones."
 msgstr ""
+"Насколько дескриптор отличается от типичного по сравнению с другими точками, "
+"в стандартных отклонениях: положительное значение для необычных "
+"дескрипторов, отрицательное — для более типичных."
 
 msgid ""
 "Distance from the descriptor of the picked point: low values mark the points "
 "that look alike."
 msgstr ""
+"Расстояние от дескриптора выбранной точки: малые значения отмечают похожие "
+"точки."
 
 msgid "Theta"
-msgstr ""
+msgstr "Тета"
 
 msgid "Alpha"
-msgstr ""
+msgstr "Альфа"
 
 msgid "Phi"
-msgstr ""
+msgstr "Фи"
 
 msgid ""
 "Radius of the neighborhood described around each point, usually about 5 "
 "times larger than the distance between neighbor points."
 msgstr ""
+"Радиус окрестности, описываемой вокруг каждой точки, обычно примерно в 5 раз "
+"больше расстояния между соседними точками."
 
 msgid ""
 "The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
 "the colors are noisy. Needs about 400 bytes of memory per point."
 msgstr ""
+"Нормали должны быть ориентированы согласованно, например с помощью "
+"«Ориентировать нормали», иначе цвета будут зашумлены. Требуется около 400 "
+"байт памяти на точку."
 
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 msgid "Picked Point"
-msgstr ""
+msgstr "Выбранная точка"
 
 msgid "Click a point to see the histograms of its descriptor."
-msgstr ""
+msgstr "Нажмите на точку, чтобы увидеть гистограммы её дескриптора."
 
 msgid "The point cloud has no points or no normals"
-msgstr ""
+msgstr "Облако не содержит точек или нормалей"
 
 msgid "Outliers Points update settings"
 msgstr "Обновить настройки выпадающих точек"

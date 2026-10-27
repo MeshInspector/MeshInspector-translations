@@ -4743,7 +4743,7 @@ msgid "Faster approximation of Projected Area metric"
 msgstr "투영 영역 측정값의 빠른 근사"
 
 msgid "Select what metric 'Find Optimal Direction' button will minimize."
-msgstr ""
+msgstr "'최적 방향 찾기' 버튼이 최소화할 측정값을 선택하세요."
 
 msgid "Max Base Angle"
 msgstr "최대 밑면 각도"
@@ -7837,68 +7837,82 @@ msgid "Select Boundary Points"
 msgstr "경계 포인트 선택"
 
 msgid "Curvature"
-msgstr ""
+msgstr "곡률"
 
 msgid "Anisotropy"
-msgstr ""
+msgstr "이방성"
 
 msgid "Uniqueness"
-msgstr ""
+msgstr "고유성"
 
 msgid "Distance to Picked"
-msgstr ""
+msgstr "선택한 포인트까지의 거리"
 
 msgid ""
 "Mean of the Phi histogram: positive on convex parts, negative on concave "
 "ones, zero on planes."
 msgstr ""
+"Phi 히스토그램의 평균: 볼록한 부분에서는 양수, 오목한 부분에서는 음수, 평면에"
+"서는 0입니다."
 
 msgid ""
 "Spread of the Alpha histogram: zero on planes and spheres, larger on "
 "cylinders, saddles and sharp edges."
 msgstr ""
+"Alpha 히스토그램의 퍼짐 정도: 평면과 구에서는 0이고, 원기둥, 안장면 및 날카로"
+"운 가장자리에서는 더 큽니다."
 
 msgid ""
 "How far the descriptor is from the typical one compared with other points, "
 "in standard deviations: positive for unusual descriptors, negative for more "
 "typical ones."
 msgstr ""
+"다른 포인트와 비교하여 디스크립터가 일반적인 디스크립터에서 얼마나 떨어져 있"
+"는지를 표준 편차 단위로 나타냅니다: 특이한 디스크립터는 양수, 더 일반적인 디"
+"스크립터는 음수입니다."
 
 msgid ""
 "Distance from the descriptor of the picked point: low values mark the points "
 "that look alike."
 msgstr ""
+"선택한 포인트의 디스크립터와의 거리: 값이 낮을수록 비슷해 보이는 포인트입니"
+"다."
 
 msgid "Theta"
-msgstr ""
+msgstr "Theta"
 
 msgid "Alpha"
-msgstr ""
+msgstr "Alpha"
 
 msgid "Phi"
-msgstr ""
+msgstr "Phi"
 
 msgid ""
 "Radius of the neighborhood described around each point, usually about 5 "
 "times larger than the distance between neighbor points."
 msgstr ""
+"각 포인트 주변에서 기술되는 이웃 영역의 반지름으로, 보통 이웃 포인트 사이 거"
+"리의 약 5배입니다."
 
 msgid ""
 "The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
 "the colors are noisy. Needs about 400 bytes of memory per point."
 msgstr ""
+"법선은 '법선 방향 설정' 등을 사용하여 일관되게 방향이 정해져 있어야 하며, 그"
+"렇지 않으면 색상에 노이즈가 생깁니다. 포인트당 약 400바이트의 메모리가 필요합"
+"니다."
 
 msgid "View"
-msgstr ""
+msgstr "보기"
 
 msgid "Picked Point"
-msgstr ""
+msgstr "선택한 포인트"
 
 msgid "Click a point to see the histograms of its descriptor."
-msgstr ""
+msgstr "포인트를 클릭하면 해당 디스크립터의 히스토그램을 볼 수 있습니다."
 
 msgid "The point cloud has no points or no normals"
-msgstr ""
+msgstr "포인트 클라우드에 포인트 또는 법선이 없습니다"
 
 msgid "Outliers Points update settings"
 msgstr "이상치 포인트 설정 업데이트"

@@ -903,12 +903,15 @@ msgid "Remove normals from point clouds."
 msgstr "Entfernt die Normalen aus Punktwolken."
 
 msgid "Visualize Descriptors"
-msgstr ""
+msgstr "Deskriptoren visualisieren"
 
 msgid ""
 "Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
 "anisotropy, uniqueness or similarity to a picked point."
 msgstr ""
+"Zeigt die eingefärbten Punktdeskriptoren (FPFH) der ausgewählten Punktwolke "
+"an: Krümmung, Anisotropie, Einzigartigkeit oder Ähnlichkeit mit einem "
+"ausgewählten Punkt."
 
 msgid "Select Boundary Points"
 msgstr "Randpunkte auswählen"
