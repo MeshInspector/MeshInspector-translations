@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4579,8 +4579,8 @@ msgstr "从方向看时凹切面的绝对面积总和"
 msgid "Faster approximation of Projected Area metric"
 msgstr "投影面积度量的更快近似"
 
-msgid "Select what metric 'Find Better Direction' button will minimize."
-msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"
+msgid "Select what metric 'Find Optimal Direction' button will minimize."
+msgstr "选择「查找最佳方向」按钮要最小化的度量。"
 
 msgid "Max Base Angle"
 msgstr "最大基础角度"
@@ -7550,6 +7550,74 @@ msgstr "将邻近点视为边界的最小夹角。"
 msgid "Select Boundary Points"
 msgstr "选择边界点"
 
+msgid "Curvature"
+msgstr "曲率"
+
+msgid "Anisotropy"
+msgstr "各向异性"
+
+msgid "Uniqueness"
+msgstr "独特性"
+
+msgid "Distance to Picked"
+msgstr "到拾取点的距离"
+
+msgid ""
+"Mean of the Phi histogram: positive on convex parts, negative on concave "
+"ones, zero on planes."
+msgstr "Phi 直方图的均值：在凸出部分为正，在凹陷部分为负，在平面上为零。"
+
+msgid ""
+"Spread of the Alpha histogram: zero on planes and spheres, larger on "
+"cylinders, saddles and sharp edges."
+msgstr "Alpha 直方图的离散度：在平面和球体上为零，在圆柱体、鞍面和锐边上较大。"
+
+msgid ""
+"How far the descriptor is from the typical one compared with other points, "
+"in standard deviations: positive for unusual descriptors, negative for more "
+"typical ones."
+msgstr ""
+"与其他点相比，描述符偏离典型描述符的程度（以标准差计）：不寻常的描述符为正，"
+"较典型的描述符为负。"
+
+msgid ""
+"Distance from the descriptor of the picked point: low values mark the points "
+"that look alike."
+msgstr "与拾取点描述符之间的距离：值越低表示点越相似。"
+
+msgid "Theta"
+msgstr "Theta"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Phi"
+msgstr "Phi"
+
+msgid ""
+"Radius of the neighborhood described around each point, usually about 5 "
+"times larger than the distance between neighbor points."
+msgstr "每个点周围所描述邻域的半径，通常约为相邻点间距的 5 倍。"
+
+msgid ""
+"The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
+"the colors are noisy. Needs about 400 bytes of memory per point."
+msgstr ""
+"法线必须朝向一致（例如使用「定向法线」），否则颜色会有噪点。每个点约需 400 字"
+"节内存。"
+
+msgid "View"
+msgstr "显示"
+
+msgid "Picked Point"
+msgstr "拾取点"
+
+msgid "Click a point to see the histograms of its descriptor."
+msgstr "点击一个点以查看其描述符的直方图。"
+
+msgid "The point cloud has no points or no normals"
+msgstr "点云没有点或没有法线"
+
 msgid "Outliers Points update settings"
 msgstr "更新离群点设置"
 
@@ -9080,6 +9148,9 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "Select what metric 'Find Better Direction' button will minimize."
+#~ msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"
 
 #~ msgid ""
 #~ "Automatically select initial transformation for the floating object  "

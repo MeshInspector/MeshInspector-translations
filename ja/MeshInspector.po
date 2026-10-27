@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4761,8 +4761,8 @@ msgstr "方向から見たときのアンダーカット面の絶対面積の合
 msgid "Faster approximation of Projected Area metric"
 msgstr "投影面積メトリックの高速近似"
 
-msgid "Select what metric 'Find Better Direction' button will minimize."
-msgstr "「より良い方向を検索」ボタンが最小化するメトリックを選択します。"
+msgid "Select what metric 'Find Optimal Direction' button will minimize."
+msgstr "「最適方向を検索」ボタンで最小化するメトリックを選択します。"
 
 msgid "Max Base Angle"
 msgstr "最大ベース角度"
@@ -7883,6 +7883,80 @@ msgstr "境界として扱うための隣接ポイント間の最小角度。"
 msgid "Select Boundary Points"
 msgstr "境界ポイントを選択"
 
+msgid "Curvature"
+msgstr "曲率"
+
+msgid "Anisotropy"
+msgstr "異方性"
+
+msgid "Uniqueness"
+msgstr "独自性"
+
+msgid "Distance to Picked"
+msgstr "選択ポイントまでの距離"
+
+msgid ""
+"Mean of the Phi histogram: positive on convex parts, negative on concave "
+"ones, zero on planes."
+msgstr ""
+"Phiヒストグラムの平均値: 凸部では正、凹部では負、平面ではゼロになります。"
+
+msgid ""
+"Spread of the Alpha histogram: zero on planes and spheres, larger on "
+"cylinders, saddles and sharp edges."
+msgstr ""
+"Alphaヒストグラムの広がり: 平面と球ではゼロ、円柱、鞍型、シャープなエッジでは"
+"大きくなります。"
+
+msgid ""
+"How far the descriptor is from the typical one compared with other points, "
+"in standard deviations: positive for unusual descriptors, negative for more "
+"typical ones."
+msgstr ""
+"他のポイントと比較して、記述子が典型的なものからどれだけ離れているかを標準偏"
+"差単位で示します: 珍しい記述子では正、より典型的な記述子では負になります。"
+
+msgid ""
+"Distance from the descriptor of the picked point: low values mark the points "
+"that look alike."
+msgstr ""
+"選択ポイントの記述子からの距離: 値が小さいほど似ているポイントを示します。"
+
+msgid "Theta"
+msgstr "Theta"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Phi"
+msgstr "Phi"
+
+msgid ""
+"Radius of the neighborhood described around each point, usually about 5 "
+"times larger than the distance between neighbor points."
+msgstr ""
+"各ポイントの周囲で記述される近傍の半径。通常、隣接ポイント間の距離の約5倍で"
+"す。"
+
+msgid ""
+"The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
+"the colors are noisy. Needs about 400 bytes of memory per point."
+msgstr ""
+"法線の向きは一貫している必要があります（例: 「法線を向ける」を使用）。そうで"
+"ない場合、色にノイズが出ます。1ポイントあたり約400バイトのメモリが必要です。"
+
+msgid "View"
+msgstr "表示"
+
+msgid "Picked Point"
+msgstr "選択ポイント"
+
+msgid "Click a point to see the histograms of its descriptor."
+msgstr "ポイントをクリックすると、その記述子のヒストグラムが表示されます。"
+
+msgid "The point cloud has no points or no normals"
+msgstr "点群にポイントまたは法線がありません"
+
 msgid "Outliers Points update settings"
 msgstr "外れ値ポイント設定を更新"
 
@@ -9466,6 +9540,9 @@ msgstr "キャプチャ"
 
 msgid "Import Zivid scan"
 msgstr "Zividスキャンをインポート"
+
+#~ msgid "Select what metric 'Find Better Direction' button will minimize."
+#~ msgstr "「より良い方向を検索」ボタンが最小化するメトリックを選択します。"
 
 #~ msgid ""
 #~ "Automatically select initial transformation for the floating object  "

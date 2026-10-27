@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -285,39 +285,39 @@ msgstr "カラーテーマが初期化されていません"
 msgid "Cannot save theme with name"
 msgstr "この名前ではテーマを保存できません"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:293
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:295
 msgid "Another operation in progress."
 msgstr "別の操作が進行中です。"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:300
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:302
 #, c++-format
 msgid "Drop {}"
 msgstr "{}をドロップ"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:357
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:359
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:361
 msgid "Load as Scene"
 msgstr "シーンとして読み込む"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:369
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:371
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:373
 msgid "Add Files"
 msgstr "ファイルを追加"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:458
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:460
 msgid "Open DICOMs"
 msgstr "DICOMを開く"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:485
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:487
 msgid "This web browser doesn't support directory selection"
 msgstr "このウェブブラウザはフォルダ選択に対応していません"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:510
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:512
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:62
 msgid "Open Directory"
 msgstr "フォルダを開く"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:601
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -325,55 +325,55 @@ msgstr ""
 "エクスポート可能な種類のオブジェクトを1つだけ選択してください（例: メッシュ、"
 "点群、ボリューム）"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:607
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr ""
 "同じ種類のオブジェクトを選択してください（例: メッシュ、点群、ボリューム）"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:669
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:811
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:672
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:814
 msgid "File name is not set"
 msgstr "ファイル名が設定されていません"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:775
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:794
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:778
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:797
 msgid "Error saving selected:"
 msgstr "選択の保存エラー:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:824
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:827
 msgid "Error saving scene:"
 msgstr "シーンの保存エラー:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:859
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:862
 msgid "Scene is empty - nothing to save"
 msgstr "シーンが空です - 保存するものがありません"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:893
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
 msgid "Width"
 msgstr "幅"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
 msgid "Height"
 msgstr "高さ"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:895
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:898
 msgid "Transparent Background"
 msgstr "背景を透明にする"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:899
 msgid "Hide scene overlays"
 msgstr "シーンのオーバーレイを非表示にする"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:900
 msgid "Capture"
 msgstr "キャプチャ"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:988
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1015
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:991
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1018
 msgid "Error saving screenshot:"
 msgstr "スクリーンショットの保存エラー:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1032
 msgid "This function is not currently supported in web edition"
 msgstr "この機能は現在ウェブ版では対応していません"
 
@@ -2692,15 +2692,15 @@ msgstr "保存せずにアプリケーションを閉じます"
 msgid "Do not close the application"
 msgstr "アプリケーションを閉じない"
 
-#: source/MRViewer/MRSceneMcp.cpp:241
+#: source/MRViewer/MRSceneMcp.cpp:270
 msgid "MCP setObjectState"
 msgstr "MCP: オブジェクト状態を設定"
 
-#: source/MRViewer/MRSceneMcp.cpp:351
+#: source/MRViewer/MRSceneMcp.cpp:380
 msgid "MCP removeObject"
 msgstr "MCP: オブジェクトを削除"
 
-#: source/MRViewer/MRSceneMcp.cpp:485
+#: source/MRViewer/MRSceneMcp.cpp:514
 msgid "MCP addObject"
 msgstr "MCP: オブジェクトを追加"
 

@@ -903,6 +903,17 @@ msgstr "Eliminar normales"
 msgid "Remove normals from point clouds."
 msgstr "Elimina las normales de las nubes de puntos."
 
+msgid "Visualize Descriptors"
+msgstr "Visualizar descriptores"
+
+msgid ""
+"Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
+"anisotropy, uniqueness or similarity to a picked point."
+msgstr ""
+"Muestra los descriptores de puntos coloreados (FPFH) de la nube de puntos "
+"seleccionada: curvatura, anisotropía, singularidad o similitud con un punto "
+"seleccionado."
+
 msgid "Select Boundary Points"
 msgstr "Seleccionar puntos de borde"
 

@@ -849,6 +849,16 @@ msgstr "法線を削除"
 msgid "Remove normals from point clouds."
 msgstr "点群から法線を削除します。"
 
+msgid "Visualize Descriptors"
+msgstr "記述子を可視化"
+
+msgid ""
+"Show colorized point descriptors (FPFH) of selected point cloud: curvature, "
+"anisotropy, uniqueness or similarity to a picked point."
+msgstr ""
+"選択した点群のポイント記述子（FPFH）として、曲率、異方性、独自性、または選択"
+"ポイントとの類似度を色付きで表示します。"
+
 msgid "Select Boundary Points"
 msgstr "境界ポイントを選択"
 

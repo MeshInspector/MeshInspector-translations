@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 04:39+0000\n"
+"POT-Creation-Date: 2026-10-27 04:41+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4985,8 +4985,8 @@ msgstr ""
 msgid "Faster approximation of Projected Area metric"
 msgstr "Aproximación más rápida de la métrica de área proyectada"
 
-msgid "Select what metric 'Find Better Direction' button will minimize."
-msgstr "Selecciona qué métrica minimizará el botón «Buscar mejor dirección»."
+msgid "Select what metric 'Find Optimal Direction' button will minimize."
+msgstr "Selecciona qué métrica minimizará el botón 'Buscar dirección óptima'."
 
 msgid "Max Base Angle"
 msgstr "Ángulo base máximo"
@@ -8253,6 +8253,84 @@ msgstr "Ángulo mínimo entre puntos vecinos para tratarlos como frontera."
 msgid "Select Boundary Points"
 msgstr "Seleccionar puntos de frontera"
 
+msgid "Curvature"
+msgstr "Curvatura"
+
+msgid "Anisotropy"
+msgstr "Anisotropía"
+
+msgid "Uniqueness"
+msgstr "Singularidad"
+
+msgid "Distance to Picked"
+msgstr "Distancia al punto seleccionado"
+
+msgid ""
+"Mean of the Phi histogram: positive on convex parts, negative on concave "
+"ones, zero on planes."
+msgstr ""
+"Media del histograma Phi: positiva en las partes convexas, negativa en las "
+"cóncavas, cero en los planos."
+
+msgid ""
+"Spread of the Alpha histogram: zero on planes and spheres, larger on "
+"cylinders, saddles and sharp edges."
+msgstr ""
+"Dispersión del histograma Alfa: cero en planos y esferas, mayor en "
+"cilindros, sillas de montar y aristas agudas."
+
+msgid ""
+"How far the descriptor is from the typical one compared with other points, "
+"in standard deviations: positive for unusual descriptors, negative for more "
+"typical ones."
+msgstr ""
+"Cuánto se aleja el descriptor del típico en comparación con otros puntos, en "
+"desviaciones estándar: positivo para descriptores inusuales, negativo para "
+"los más típicos."
+
+msgid ""
+"Distance from the descriptor of the picked point: low values mark the points "
+"that look alike."
+msgstr ""
+"Distancia al descriptor del punto seleccionado: los valores bajos marcan los "
+"puntos similares."
+
+msgid "Theta"
+msgstr "Theta"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Phi"
+msgstr "Phi"
+
+msgid ""
+"Radius of the neighborhood described around each point, usually about 5 "
+"times larger than the distance between neighbor points."
+msgstr ""
+"Radio del vecindario descrito alrededor de cada punto, normalmente unas 5 "
+"veces mayor que la distancia entre puntos vecinos."
+
+msgid ""
+"The normals must be oriented consistently, e.g. by Orient Normals, otherwise "
+"the colors are noisy. Needs about 400 bytes of memory per point."
+msgstr ""
+"Las normales deben estar orientadas de forma coherente, p. ej., con Orientar "
+"normales; de lo contrario, los colores presentan ruido. Necesita unos 400 "
+"bytes de memoria por punto."
+
+msgid "View"
+msgstr "Vista"
+
+msgid "Picked Point"
+msgstr "Punto seleccionado"
+
+msgid "Click a point to see the histograms of its descriptor."
+msgstr "Haz clic en un punto para ver los histogramas de su descriptor."
+
+msgid "The point cloud has no points or no normals"
+msgstr "La nube de puntos no tiene puntos o no tiene normales"
+
 msgid "Outliers Points update settings"
 msgstr "Actualizar configuración de puntos atípicos"
 
@@ -9898,6 +9976,10 @@ msgstr "Capturar"
 
 msgid "Import Zivid scan"
 msgstr "Importar escaneo Zivid"
+
+#~ msgid "Select what metric 'Find Better Direction' button will minimize."
+#~ msgstr ""
+#~ "Selecciona qué métrica minimizará el botón «Buscar mejor dirección»."
 
 #~ msgid ""
 #~ "Automatically select initial transformation for the floating object  "
