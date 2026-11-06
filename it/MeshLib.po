@@ -2218,7 +2218,7 @@ msgstr "Offset poligono"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Faces"
-msgstr ""
+msgstr "Scarta facce posteriori"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

@@ -2206,7 +2206,7 @@ msgstr "Deslocamento do polígono"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Faces"
-msgstr ""
+msgstr "Descartar faces traseiras"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

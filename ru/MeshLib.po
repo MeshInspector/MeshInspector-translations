@@ -2204,7 +2204,7 @@ msgstr "Смещение полигона"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Faces"
-msgstr ""
+msgstr "Отсекать обратные грани"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
