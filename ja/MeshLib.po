@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 04:41+0000\n"
+"POT-Creation-Date: 2026-11-06 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -912,8 +912,8 @@ msgid "Surface opacity"
 msgstr "サーフェスの不透明度"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:831
-#: source/MRViewer/ImGuiMenu.cpp:2051 source/MRViewer/ImGuiMenu.cpp:2122
-#: source/MRViewer/ImGuiMenu.cpp:2248 source/MRViewer/ImGuiMenu.cpp:2259
+#: source/MRViewer/ImGuiMenu.cpp:2052 source/MRViewer/ImGuiMenu.cpp:2123
+#: source/MRViewer/ImGuiMenu.cpp:2249 source/MRViewer/ImGuiMenu.cpp:2260
 msgid "Point size"
 msgstr "ポイントサイズ"
 
@@ -922,7 +922,7 @@ msgid "Point size (subfeatures)"
 msgstr "ポイントサイズ（サブフィーチャー）"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:839
-#: source/MRViewer/ImGuiMenu.cpp:2125 source/MRViewer/ImGuiMenu.cpp:2241
+#: source/MRViewer/ImGuiMenu.cpp:2126 source/MRViewer/ImGuiMenu.cpp:2242
 msgid "Line width"
 msgstr "線幅"
 
@@ -1897,7 +1897,7 @@ msgstr "オブジェクト名を変更"
 
 #: source/MRViewer/ImGuiMenu.cpp:984 source/MRViewer/ImGuiMenu.cpp:985
 #: source/MRViewer/ImGuiMenu.cpp:1025 source/MRViewer/ImGuiMenu.cpp:1026
-#: source/MRViewer/ImGuiMenu.cpp:2279 source/MRViewer/MRToolsLibrary.cpp:133
+#: source/MRViewer/ImGuiMenu.cpp:2280 source/MRViewer/MRToolsLibrary.cpp:133
 msgid "Name"
 msgstr "名前"
 
@@ -2045,7 +2045,7 @@ msgid ""
 "Upper right corner of the tight axis-aligned bounding box in the world space."
 msgstr "ワールド空間における軸平行バウンディングボックスの右上隅。"
 
-#: source/MRViewer/ImGuiMenu.cpp:1744 source/MRViewer/ImGuiMenu.cpp:2221
+#: source/MRViewer/ImGuiMenu.cpp:1744 source/MRViewer/ImGuiMenu.cpp:2222
 msgid "Triangles"
 msgstr "三角形"
 
@@ -2053,12 +2053,12 @@ msgstr "三角形"
 msgid "Vertices"
 msgstr "頂点"
 
-#: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2216
+#: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2217
 msgid "Edges"
 msgstr "エッジ"
 
-#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2217
-#: source/MRViewer/ImGuiMenu.cpp:2238
+#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2218
+#: source/MRViewer/ImGuiMenu.cpp:2239
 msgid "Points"
 msgstr "ポイント"
 
@@ -2178,248 +2178,252 @@ msgstr "詳細"
 msgid "Polygon Offset"
 msgstr "ポリゴンオフセット"
 
-#: source/MRViewer/ImGuiMenu.cpp:2063
+#: source/MRViewer/ImGuiMenu.cpp:2051
+msgid "Cull Back Faces"
+msgstr "背面をカリング"
+
+#: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
 msgstr "破線"
 
-#: source/MRViewer/ImGuiMenu.cpp:2072
+#: source/MRViewer/ImGuiMenu.cpp:2073
 msgid "Shininess"
 msgstr "光沢"
 
-#: source/MRViewer/ImGuiMenu.cpp:2080
+#: source/MRViewer/ImGuiMenu.cpp:2081
 msgid "Ambient Strength"
 msgstr "環境光強度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2088
+#: source/MRViewer/ImGuiMenu.cpp:2089
 msgid "Specular Strength"
 msgstr "鏡面反射強度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2100
+#: source/MRViewer/ImGuiMenu.cpp:2101
 msgid "Visual Sampling"
 msgstr "ビジュアルサンプリング"
 
-#: source/MRViewer/ImGuiMenu.cpp:2129
+#: source/MRViewer/ImGuiMenu.cpp:2130
 msgid "Point subfeatures size"
 msgstr "ポイントサブフィーチャーサイズ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2132
+#: source/MRViewer/ImGuiMenu.cpp:2133
 msgid "Line subfeatures width"
 msgstr "ラインサブフィーチャー幅"
 
-#: source/MRViewer/ImGuiMenu.cpp:2136
+#: source/MRViewer/ImGuiMenu.cpp:2137
 msgid "Main component alpha"
 msgstr "メインコンポーネントの不透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2139
+#: source/MRViewer/ImGuiMenu.cpp:2140
 msgid "Point subfeatures alpha"
 msgstr "ポイントサブフィーチャーの不透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2142
+#: source/MRViewer/ImGuiMenu.cpp:2143
 msgid "Line subfeatures alpha"
 msgstr "ラインサブフィーチャーの不透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2145
+#: source/MRViewer/ImGuiMenu.cpp:2146
 msgid "Mesh subfeatures alpha"
 msgstr "メッシュサブフィーチャーの不透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2168 source/MRViewer/ImGuiMenu.cpp:2169
+#: source/MRViewer/ImGuiMenu.cpp:2169 source/MRViewer/ImGuiMenu.cpp:2170
 #: source/MRViewer/MRToolsLibrary.cpp:103
 #: source/MRViewer/MRToolsLibrary.cpp:108
 msgid "Remove"
 msgstr "削除"
 
-#: source/MRViewer/ImGuiMenu.cpp:2175
+#: source/MRViewer/ImGuiMenu.cpp:2176
 msgid "Remove Objects (context)"
 msgstr "オブジェクトを削除（コンテキスト）"
 
-#: source/MRViewer/ImGuiMenu.cpp:2214
+#: source/MRViewer/ImGuiMenu.cpp:2215
 msgid "Shading"
 msgstr "シェーディング"
 
-#: source/MRViewer/ImGuiMenu.cpp:2215
+#: source/MRViewer/ImGuiMenu.cpp:2216
 msgid "Flat Shading"
 msgstr "フラットシェーディング"
 
-#: source/MRViewer/ImGuiMenu.cpp:2218
+#: source/MRViewer/ImGuiMenu.cpp:2219
 msgid "Selected Edges"
 msgstr "選択エッジ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2219
+#: source/MRViewer/ImGuiMenu.cpp:2220
 msgid "Selected Tri-s"
 msgstr "選択三角形"
 
-#: source/MRViewer/ImGuiMenu.cpp:2220
+#: source/MRViewer/ImGuiMenu.cpp:2221
 msgid "Borders"
 msgstr "境界"
 
-#: source/MRViewer/ImGuiMenu.cpp:2222
+#: source/MRViewer/ImGuiMenu.cpp:2223
 msgid "Transparency"
 msgstr "透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2234
+#: source/MRViewer/ImGuiMenu.cpp:2235
 msgid "Texture"
 msgstr "テクスチャ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2239
+#: source/MRViewer/ImGuiMenu.cpp:2240
 msgid "Smooth corners"
 msgstr "角を滑らかにする"
 
-#: source/MRViewer/ImGuiMenu.cpp:2240
+#: source/MRViewer/ImGuiMenu.cpp:2241
 msgid "Dashed"
 msgstr "破線"
 
-#: source/MRViewer/ImGuiMenu.cpp:2258
+#: source/MRViewer/ImGuiMenu.cpp:2259
 msgid "Selected Points"
 msgstr "選択ポイント"
 
-#: source/MRViewer/ImGuiMenu.cpp:2269
+#: source/MRViewer/ImGuiMenu.cpp:2270
 msgid "Always on top"
 msgstr "常に最前面"
 
-#: source/MRViewer/ImGuiMenu.cpp:2270
+#: source/MRViewer/ImGuiMenu.cpp:2271
 msgid "Source point"
 msgstr "基点"
 
-#: source/MRViewer/ImGuiMenu.cpp:2271
+#: source/MRViewer/ImGuiMenu.cpp:2272
 msgid "Background"
 msgstr "背景"
 
-#: source/MRViewer/ImGuiMenu.cpp:2272
+#: source/MRViewer/ImGuiMenu.cpp:2273
 msgid "Contour"
 msgstr "輪郭"
 
-#: source/MRViewer/ImGuiMenu.cpp:2273
+#: source/MRViewer/ImGuiMenu.cpp:2274
 msgid "Leader line"
 msgstr "引き出し線"
 
-#: source/MRViewer/ImGuiMenu.cpp:2277
+#: source/MRViewer/ImGuiMenu.cpp:2278
 msgid "Subfeatures"
 msgstr "サブフィーチャー"
 
-#: source/MRViewer/ImGuiMenu.cpp:2281
+#: source/MRViewer/ImGuiMenu.cpp:2282
 msgid "Extra information next to name"
 msgstr "名前の横に追加情報を表示"
 
-#: source/MRViewer/ImGuiMenu.cpp:2283
+#: source/MRViewer/ImGuiMenu.cpp:2284
 msgid "Clipping"
 msgstr "クリッピング"
 
-#: source/MRViewer/ImGuiMenu.cpp:2340
+#: source/MRViewer/ImGuiMenu.cpp:2341
 msgid "Viewport Id"
 msgstr "ビューポートID"
 
-#: source/MRViewer/ImGuiMenu.cpp:2341 source/MRViewer/ImGuiMenu.cpp:2344
+#: source/MRViewer/ImGuiMenu.cpp:2342 source/MRViewer/ImGuiMenu.cpp:2345
 msgid "Default"
 msgstr "デフォルト"
 
-#: source/MRViewer/ImGuiMenu.cpp:2357
+#: source/MRViewer/ImGuiMenu.cpp:2358
 msgid "Selected color"
 msgstr "選択時の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2364
+#: source/MRViewer/ImGuiMenu.cpp:2365
 msgid "Unselected color"
 msgstr "未選択時の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2371
+#: source/MRViewer/ImGuiMenu.cpp:2372
 msgid "Back Triangles color"
 msgstr "背面三角形の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2381
+#: source/MRViewer/ImGuiMenu.cpp:2382
 msgid "Edges color"
 msgstr "エッジの色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2388
+#: source/MRViewer/ImGuiMenu.cpp:2389
 msgid "Points color"
 msgstr "ポイントの色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2395
+#: source/MRViewer/ImGuiMenu.cpp:2396
 msgid "Selected Tri-s color"
 msgstr "選択三角形の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2402
+#: source/MRViewer/ImGuiMenu.cpp:2403
 msgid "Selected Edges color"
 msgstr "選択エッジの色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2409
+#: source/MRViewer/ImGuiMenu.cpp:2410
 msgid "Borders color"
 msgstr "境界の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2419
+#: source/MRViewer/ImGuiMenu.cpp:2420
 msgid "Selected Points color"
 msgstr "選択ポイントの色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2429
+#: source/MRViewer/ImGuiMenu.cpp:2430
 msgid "Source point color"
 msgstr "基点の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2436
+#: source/MRViewer/ImGuiMenu.cpp:2437
 msgid "Leader line color"
 msgstr "引き出し線の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2443
+#: source/MRViewer/ImGuiMenu.cpp:2444
 msgid "Contour color"
 msgstr "輪郭の色"
 
-#: source/MRViewer/ImGuiMenu.cpp:2454
+#: source/MRViewer/ImGuiMenu.cpp:2455
 msgid "Decorations color (selected)"
 msgstr "装飾の色（選択時）"
 
-#: source/MRViewer/ImGuiMenu.cpp:2462
+#: source/MRViewer/ImGuiMenu.cpp:2463
 msgid "Decorations color (unselected)"
 msgstr "装飾の色（未選択時）"
 
-#: source/MRViewer/ImGuiMenu.cpp:2473
+#: source/MRViewer/ImGuiMenu.cpp:2474
 msgid "Opacity"
 msgstr "不透明度"
 
-#: source/MRViewer/ImGuiMenu.cpp:2540
+#: source/MRViewer/ImGuiMenu.cpp:2541
 #, c++-format
 msgid "{} uncommon tag"
 msgid_plural "{} uncommon tags"
 msgstr[0] "{} 個の珍しいタグ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2562
+#: source/MRViewer/ImGuiMenu.cpp:2563
 msgid "Tags"
 msgstr "タグ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2730
+#: source/MRViewer/ImGuiMenu.cpp:2731
 msgid "Type to add new tag..."
 msgstr "新しいタグを入力..."
 
-#: source/MRViewer/ImGuiMenu.cpp:2887
+#: source/MRViewer/ImGuiMenu.cpp:2895
 msgid "Uni-scale"
 msgstr "均一スケール"
 
-#: source/MRViewer/ImGuiMenu.cpp:2889
+#: source/MRViewer/ImGuiMenu.cpp:2897
 msgid "Selects between uniform scaling or separate scaling along each axis"
 msgstr "均一スケールまたは各軸に沿った個別スケールを選択します"
 
-#: source/MRViewer/ImGuiMenu.cpp:2894 source/MRViewer/ImGuiMenu.cpp:2899
+#: source/MRViewer/ImGuiMenu.cpp:2902 source/MRViewer/ImGuiMenu.cpp:2907
 msgid "Rotation XYZ"
 msgstr "回転 XYZ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2901
+#: source/MRViewer/ImGuiMenu.cpp:2909
 msgid "Rotation round [X, Y, Z] axes respectively."
 msgstr "[X、Y、Z]軸それぞれを中心とした回転。"
 
-#: source/MRViewer/ImGuiMenu.cpp:2907
+#: source/MRViewer/ImGuiMenu.cpp:2915
 msgid "Sequential intrinsic rotations around Oz, Oy and Ox axes."
 msgstr "Oz、Oy、Ox軸の順の固有回転。"
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/ImGuiMenu.cpp:2946
+#: source/MRViewer/ImGuiMenu.cpp:2942 source/MRViewer/ImGuiMenu.cpp:2954
 #: source/MRViewer/MRMouse.h:34
 msgid "Translation"
 msgstr "平行移動"
 
-#: source/MRViewer/ImGuiMenu.cpp:2959
+#: source/MRViewer/ImGuiMenu.cpp:2967
 msgid "Manual Change Transform"
 msgstr "変換を手動で変更"
 
-#: source/MRViewer/ImGuiMenu.cpp:2981 source/MRViewer/MRRibbonMenu.cpp:1891
+#: source/MRViewer/ImGuiMenu.cpp:2989 source/MRViewer/MRRibbonMenu.cpp:1891
 msgid "Transform"
 msgstr "変換"
 
-#: source/MRViewer/ImGuiMenu.cpp:3203
+#: source/MRViewer/ImGuiMenu.cpp:3211
 msgid "Hot Key List"
 msgstr "ホットキー一覧"
 
@@ -2878,7 +2882,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "度、分、秒"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1402
+#: source/MRViewer/MRViewer.cpp:1401
 #, c++-format
 msgid "{} as {}"
 msgstr "{}（{}として）"

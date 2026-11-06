@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 04:41+0000\n"
+"POT-Creation-Date: 2026-11-06 04:33+0000\n"
 "PO-Revision-Date: 2026-03-18 00:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -920,8 +920,8 @@ msgid "Surface opacity"
 msgstr "Непрозрачность поверхности"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:831
-#: source/MRViewer/ImGuiMenu.cpp:2051 source/MRViewer/ImGuiMenu.cpp:2122
-#: source/MRViewer/ImGuiMenu.cpp:2248 source/MRViewer/ImGuiMenu.cpp:2259
+#: source/MRViewer/ImGuiMenu.cpp:2052 source/MRViewer/ImGuiMenu.cpp:2123
+#: source/MRViewer/ImGuiMenu.cpp:2249 source/MRViewer/ImGuiMenu.cpp:2260
 msgid "Point size"
 msgstr "Размер точки"
 
@@ -930,7 +930,7 @@ msgid "Point size (subfeatures)"
 msgstr "Размер точки (подэлементы)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:839
-#: source/MRViewer/ImGuiMenu.cpp:2125 source/MRViewer/ImGuiMenu.cpp:2241
+#: source/MRViewer/ImGuiMenu.cpp:2126 source/MRViewer/ImGuiMenu.cpp:2242
 msgid "Line width"
 msgstr "Ширина линии"
 
@@ -1910,7 +1910,7 @@ msgstr "Переименовать объект"
 
 #: source/MRViewer/ImGuiMenu.cpp:984 source/MRViewer/ImGuiMenu.cpp:985
 #: source/MRViewer/ImGuiMenu.cpp:1025 source/MRViewer/ImGuiMenu.cpp:1026
-#: source/MRViewer/ImGuiMenu.cpp:2279 source/MRViewer/MRToolsLibrary.cpp:133
+#: source/MRViewer/ImGuiMenu.cpp:2280 source/MRViewer/MRToolsLibrary.cpp:133
 msgid "Name"
 msgstr "Имя"
 
@@ -2069,7 +2069,7 @@ msgstr ""
 "Верхний правый угол минимального выровненного по осям ограничивающего бокса "
 "в мировом пространстве."
 
-#: source/MRViewer/ImGuiMenu.cpp:1744 source/MRViewer/ImGuiMenu.cpp:2221
+#: source/MRViewer/ImGuiMenu.cpp:1744 source/MRViewer/ImGuiMenu.cpp:2222
 msgid "Triangles"
 msgstr "Треугольники"
 
@@ -2077,12 +2077,12 @@ msgstr "Треугольники"
 msgid "Vertices"
 msgstr "Вершины"
 
-#: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2216
+#: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2217
 msgid "Edges"
 msgstr "Рёбра"
 
-#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2217
-#: source/MRViewer/ImGuiMenu.cpp:2238
+#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2218
+#: source/MRViewer/ImGuiMenu.cpp:2239
 msgid "Points"
 msgstr "Точки"
 
@@ -2202,201 +2202,205 @@ msgstr "Дополнительно"
 msgid "Polygon Offset"
 msgstr "Смещение полигона"
 
-#: source/MRViewer/ImGuiMenu.cpp:2063
+#: source/MRViewer/ImGuiMenu.cpp:2051
+msgid "Cull Back Faces"
+msgstr "Отсекать обратные грани"
+
+#: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
 msgstr "Пунктир"
 
-#: source/MRViewer/ImGuiMenu.cpp:2072
+#: source/MRViewer/ImGuiMenu.cpp:2073
 msgid "Shininess"
 msgstr "Блеск"
 
-#: source/MRViewer/ImGuiMenu.cpp:2080
+#: source/MRViewer/ImGuiMenu.cpp:2081
 msgid "Ambient Strength"
 msgstr "Сила рассеянного освещения"
 
-#: source/MRViewer/ImGuiMenu.cpp:2088
+#: source/MRViewer/ImGuiMenu.cpp:2089
 msgid "Specular Strength"
 msgstr "Сила зеркального освещения"
 
-#: source/MRViewer/ImGuiMenu.cpp:2100
+#: source/MRViewer/ImGuiMenu.cpp:2101
 msgid "Visual Sampling"
 msgstr "Визуальная дискретизация"
 
-#: source/MRViewer/ImGuiMenu.cpp:2129
+#: source/MRViewer/ImGuiMenu.cpp:2130
 msgid "Point subfeatures size"
 msgstr "Размер подэлементов точки"
 
-#: source/MRViewer/ImGuiMenu.cpp:2132
+#: source/MRViewer/ImGuiMenu.cpp:2133
 msgid "Line subfeatures width"
 msgstr "Ширина подэлементов линии"
 
-#: source/MRViewer/ImGuiMenu.cpp:2136
+#: source/MRViewer/ImGuiMenu.cpp:2137
 msgid "Main component alpha"
 msgstr "Прозрачность основного компонента"
 
-#: source/MRViewer/ImGuiMenu.cpp:2139
+#: source/MRViewer/ImGuiMenu.cpp:2140
 msgid "Point subfeatures alpha"
 msgstr "Прозрачность подэлементов точки"
 
-#: source/MRViewer/ImGuiMenu.cpp:2142
+#: source/MRViewer/ImGuiMenu.cpp:2143
 msgid "Line subfeatures alpha"
 msgstr "Прозрачность подэлементов линии"
 
-#: source/MRViewer/ImGuiMenu.cpp:2145
+#: source/MRViewer/ImGuiMenu.cpp:2146
 msgid "Mesh subfeatures alpha"
 msgstr "Прозрачность подэлементов сетки"
 
-#: source/MRViewer/ImGuiMenu.cpp:2168 source/MRViewer/ImGuiMenu.cpp:2169
+#: source/MRViewer/ImGuiMenu.cpp:2169 source/MRViewer/ImGuiMenu.cpp:2170
 #: source/MRViewer/MRToolsLibrary.cpp:103
 #: source/MRViewer/MRToolsLibrary.cpp:108
 msgid "Remove"
 msgstr "Удалить"
 
-#: source/MRViewer/ImGuiMenu.cpp:2175
+#: source/MRViewer/ImGuiMenu.cpp:2176
 msgid "Remove Objects (context)"
 msgstr "Удалить объекты (контекстное меню)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2214
+#: source/MRViewer/ImGuiMenu.cpp:2215
 msgid "Shading"
 msgstr "Затенение"
 
-#: source/MRViewer/ImGuiMenu.cpp:2215
+#: source/MRViewer/ImGuiMenu.cpp:2216
 msgid "Flat Shading"
 msgstr "Плоское затенение"
 
-#: source/MRViewer/ImGuiMenu.cpp:2218
+#: source/MRViewer/ImGuiMenu.cpp:2219
 msgid "Selected Edges"
 msgstr "Выбранные рёбра"
 
-#: source/MRViewer/ImGuiMenu.cpp:2219
+#: source/MRViewer/ImGuiMenu.cpp:2220
 msgid "Selected Tri-s"
 msgstr "Выбранные треугольники"
 
-#: source/MRViewer/ImGuiMenu.cpp:2220
+#: source/MRViewer/ImGuiMenu.cpp:2221
 msgid "Borders"
 msgstr "Границы"
 
-#: source/MRViewer/ImGuiMenu.cpp:2222
+#: source/MRViewer/ImGuiMenu.cpp:2223
 msgid "Transparency"
 msgstr "Прозрачность"
 
-#: source/MRViewer/ImGuiMenu.cpp:2234
+#: source/MRViewer/ImGuiMenu.cpp:2235
 msgid "Texture"
 msgstr "Текстура"
 
-#: source/MRViewer/ImGuiMenu.cpp:2239
+#: source/MRViewer/ImGuiMenu.cpp:2240
 msgid "Smooth corners"
 msgstr "Сглаженные углы"
 
-#: source/MRViewer/ImGuiMenu.cpp:2240
+#: source/MRViewer/ImGuiMenu.cpp:2241
 msgid "Dashed"
 msgstr "Пунктирный"
 
-#: source/MRViewer/ImGuiMenu.cpp:2258
+#: source/MRViewer/ImGuiMenu.cpp:2259
 msgid "Selected Points"
 msgstr "Выбранные точки"
 
-#: source/MRViewer/ImGuiMenu.cpp:2269
+#: source/MRViewer/ImGuiMenu.cpp:2270
 msgid "Always on top"
 msgstr "Всегда сверху"
 
-#: source/MRViewer/ImGuiMenu.cpp:2270
+#: source/MRViewer/ImGuiMenu.cpp:2271
 msgid "Source point"
 msgstr "Исходная точка"
 
-#: source/MRViewer/ImGuiMenu.cpp:2271
+#: source/MRViewer/ImGuiMenu.cpp:2272
 msgid "Background"
 msgstr "Фон"
 
-#: source/MRViewer/ImGuiMenu.cpp:2272
+#: source/MRViewer/ImGuiMenu.cpp:2273
 msgid "Contour"
 msgstr "Контур"
 
-#: source/MRViewer/ImGuiMenu.cpp:2273
+#: source/MRViewer/ImGuiMenu.cpp:2274
 msgid "Leader line"
 msgstr "Выноска"
 
-#: source/MRViewer/ImGuiMenu.cpp:2277
+#: source/MRViewer/ImGuiMenu.cpp:2278
 msgid "Subfeatures"
 msgstr "Подэлементы"
 
-#: source/MRViewer/ImGuiMenu.cpp:2281
+#: source/MRViewer/ImGuiMenu.cpp:2282
 msgid "Extra information next to name"
 msgstr "Дополнительная информация рядом с именем"
 
-#: source/MRViewer/ImGuiMenu.cpp:2283
+#: source/MRViewer/ImGuiMenu.cpp:2284
 msgid "Clipping"
 msgstr "Обрезка"
 
-#: source/MRViewer/ImGuiMenu.cpp:2340
+#: source/MRViewer/ImGuiMenu.cpp:2341
 msgid "Viewport Id"
 msgstr "ID окна просмотра"
 
-#: source/MRViewer/ImGuiMenu.cpp:2341 source/MRViewer/ImGuiMenu.cpp:2344
+#: source/MRViewer/ImGuiMenu.cpp:2342 source/MRViewer/ImGuiMenu.cpp:2345
 msgid "Default"
 msgstr "По умолчанию"
 
-#: source/MRViewer/ImGuiMenu.cpp:2357
+#: source/MRViewer/ImGuiMenu.cpp:2358
 msgid "Selected color"
 msgstr "Цвет выделения"
 
-#: source/MRViewer/ImGuiMenu.cpp:2364
+#: source/MRViewer/ImGuiMenu.cpp:2365
 msgid "Unselected color"
 msgstr "Цвет без выделения"
 
-#: source/MRViewer/ImGuiMenu.cpp:2371
+#: source/MRViewer/ImGuiMenu.cpp:2372
 msgid "Back Triangles color"
 msgstr "Цвет обратных треугольников"
 
-#: source/MRViewer/ImGuiMenu.cpp:2381
+#: source/MRViewer/ImGuiMenu.cpp:2382
 msgid "Edges color"
 msgstr "Цвет рёбер"
 
-#: source/MRViewer/ImGuiMenu.cpp:2388
+#: source/MRViewer/ImGuiMenu.cpp:2389
 msgid "Points color"
 msgstr "Цвет точек"
 
-#: source/MRViewer/ImGuiMenu.cpp:2395
+#: source/MRViewer/ImGuiMenu.cpp:2396
 msgid "Selected Tri-s color"
 msgstr "Цвет выбранных треугольников"
 
-#: source/MRViewer/ImGuiMenu.cpp:2402
+#: source/MRViewer/ImGuiMenu.cpp:2403
 msgid "Selected Edges color"
 msgstr "Цвет выбранных рёбер"
 
-#: source/MRViewer/ImGuiMenu.cpp:2409
+#: source/MRViewer/ImGuiMenu.cpp:2410
 msgid "Borders color"
 msgstr "Цвет границ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2419
+#: source/MRViewer/ImGuiMenu.cpp:2420
 msgid "Selected Points color"
 msgstr "Цвет выбранных точек"
 
-#: source/MRViewer/ImGuiMenu.cpp:2429
+#: source/MRViewer/ImGuiMenu.cpp:2430
 msgid "Source point color"
 msgstr "Цвет исходной точки"
 
-#: source/MRViewer/ImGuiMenu.cpp:2436
+#: source/MRViewer/ImGuiMenu.cpp:2437
 msgid "Leader line color"
 msgstr "Цвет выноски"
 
-#: source/MRViewer/ImGuiMenu.cpp:2443
+#: source/MRViewer/ImGuiMenu.cpp:2444
 msgid "Contour color"
 msgstr "Цвет контура"
 
-#: source/MRViewer/ImGuiMenu.cpp:2454
+#: source/MRViewer/ImGuiMenu.cpp:2455
 msgid "Decorations color (selected)"
 msgstr "Цвет декораций (выбрано)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2462
+#: source/MRViewer/ImGuiMenu.cpp:2463
 msgid "Decorations color (unselected)"
 msgstr "Цвет декораций (не выбрано)"
 
-#: source/MRViewer/ImGuiMenu.cpp:2473
+#: source/MRViewer/ImGuiMenu.cpp:2474
 msgid "Opacity"
 msgstr "Непрозрачность"
 
-#: source/MRViewer/ImGuiMenu.cpp:2540
+#: source/MRViewer/ImGuiMenu.cpp:2541
 #, c++-format
 msgid "{} uncommon tag"
 msgid_plural "{} uncommon tags"
@@ -2404,48 +2408,48 @@ msgstr[0] "{} нестандартный тег"
 msgstr[1] "{} нестандартных тега"
 msgstr[2] "{} нестандартных тегов"
 
-#: source/MRViewer/ImGuiMenu.cpp:2562
+#: source/MRViewer/ImGuiMenu.cpp:2563
 msgid "Tags"
 msgstr "Теги"
 
-#: source/MRViewer/ImGuiMenu.cpp:2730
+#: source/MRViewer/ImGuiMenu.cpp:2731
 msgid "Type to add new tag..."
 msgstr "Введите для добавления нового тега..."
 
-#: source/MRViewer/ImGuiMenu.cpp:2887
+#: source/MRViewer/ImGuiMenu.cpp:2895
 msgid "Uni-scale"
 msgstr "Равномерный масштаб"
 
-#: source/MRViewer/ImGuiMenu.cpp:2889
+#: source/MRViewer/ImGuiMenu.cpp:2897
 msgid "Selects between uniform scaling or separate scaling along each axis"
 msgstr "Выбор между равномерным масштабированием или раздельным по каждой оси"
 
-#: source/MRViewer/ImGuiMenu.cpp:2894 source/MRViewer/ImGuiMenu.cpp:2899
+#: source/MRViewer/ImGuiMenu.cpp:2902 source/MRViewer/ImGuiMenu.cpp:2907
 msgid "Rotation XYZ"
 msgstr "Вращение XYZ"
 
-#: source/MRViewer/ImGuiMenu.cpp:2901
+#: source/MRViewer/ImGuiMenu.cpp:2909
 msgid "Rotation round [X, Y, Z] axes respectively."
 msgstr "Вращение вокруг осей [X, Y, Z] соответственно."
 
-#: source/MRViewer/ImGuiMenu.cpp:2907
+#: source/MRViewer/ImGuiMenu.cpp:2915
 msgid "Sequential intrinsic rotations around Oz, Oy and Ox axes."
 msgstr "Последовательные внутренние вращения вокруг осей Oz, Oy и Ox."
 
-#: source/MRViewer/ImGuiMenu.cpp:2934 source/MRViewer/ImGuiMenu.cpp:2946
+#: source/MRViewer/ImGuiMenu.cpp:2942 source/MRViewer/ImGuiMenu.cpp:2954
 #: source/MRViewer/MRMouse.h:34
 msgid "Translation"
 msgstr "Перемещение"
 
-#: source/MRViewer/ImGuiMenu.cpp:2959
+#: source/MRViewer/ImGuiMenu.cpp:2967
 msgid "Manual Change Transform"
 msgstr "Ручное изменение преобразования"
 
-#: source/MRViewer/ImGuiMenu.cpp:2981 source/MRViewer/MRRibbonMenu.cpp:1891
+#: source/MRViewer/ImGuiMenu.cpp:2989 source/MRViewer/MRRibbonMenu.cpp:1891
 msgid "Transform"
 msgstr "Преобразование"
 
-#: source/MRViewer/ImGuiMenu.cpp:3203
+#: source/MRViewer/ImGuiMenu.cpp:3211
 msgid "Hot Key List"
 msgstr "Список горячих клавиш"
 
@@ -2905,7 +2909,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Градусы, минуты, секунды"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1402
+#: source/MRViewer/MRViewer.cpp:1401
 #, c++-format
 msgid "{} as {}"
 msgstr "{} как {}"
