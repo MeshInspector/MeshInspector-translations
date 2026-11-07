@@ -1613,6 +1613,12 @@ msgid ""
 "logging"
 msgstr "执行无效操作以检查程序稳定性和正确的日志记录"
 
+msgid "Background Texture Test"
+msgstr ""
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+
 msgid "Test UI Rect Allocator"
 msgstr "UI 矩形分配器测试"
 

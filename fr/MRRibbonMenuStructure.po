@@ -1866,6 +1866,12 @@ msgstr ""
 "Effectue une opération invalide pour vérifier la stabilité du programme et "
 "la justesse de la journalisation"
 
+msgid "Background Texture Test"
+msgstr ""
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+
 msgid "Test UI Rect Allocator"
 msgstr "Test d'allocateur de rectangles d'UI"
 

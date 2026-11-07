@@ -1717,6 +1717,12 @@ msgid ""
 msgstr ""
 "프로그램 안정성과 올바른 로깅을 확인하기 위해 일부 잘못된 작업을 수행합니다"
 
+msgid "Background Texture Test"
+msgstr ""
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+
 msgid "Test UI Rect Allocator"
 msgstr "UI 사각형 할당기 테스트"
 

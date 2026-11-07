@@ -1788,6 +1788,12 @@ msgstr ""
 "Выполняет некорректную операцию для проверки стабильности программы и "
 "корректности журналирования"
 
+msgid "Background Texture Test"
+msgstr ""
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+
 msgid "Test UI Rect Allocator"
 msgstr "Тест распределителя прямоугольников UI"
 

@@ -1377,6 +1377,12 @@ msgstr ""
 msgid "Performs some invalid operation to check program stability and correct logging"
 msgstr ""
 
+msgid "Background Texture Test"
+msgstr ""
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+
 msgid "Test UI Rect Allocator"
 msgstr ""
 
