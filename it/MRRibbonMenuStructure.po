@@ -1830,6 +1830,12 @@ msgstr ""
 "Esegue un'operazione non valida per verificare la stabilità del programma e "
 "la corretta registrazione"
 
+msgid "Background Texture Test"
+msgstr "Test texture di sfondo"
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr "Texture di sfondo della vista generata da pochi pixel o da un'immagine"
+
 msgid "Test UI Rect Allocator"
 msgstr "Test allocatore rettangoli UI"
 

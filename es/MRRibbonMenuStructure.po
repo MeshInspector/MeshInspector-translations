@@ -1854,6 +1854,13 @@ msgstr ""
 "Realiza una operación inválida para comprobar la estabilidad del programa y "
 "la correcta generación de registros"
 
+msgid "Background Texture Test"
+msgstr "Prueba de textura de fondo"
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+"Textura de fondo de la vista a partir de unos pocos píxeles o una imagen"
+
 msgid "Test UI Rect Allocator"
 msgstr "Prueba de asignador de rectángulos de UI"
 

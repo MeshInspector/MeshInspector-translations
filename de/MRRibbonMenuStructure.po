@@ -1849,6 +1849,13 @@ msgstr ""
 "Führt eine ungültige Operation aus, um Programmstabilität und korrekte "
 "Protokollierung zu prüfen"
 
+msgid "Background Texture Test"
+msgstr "Hintergrundtextur-Test"
+
+msgid "Viewport background texture from a few pixels or an image"
+msgstr ""
+"Hintergrundtextur des Ansichtsfensters aus wenigen Pixeln oder einem Bild"
+
 msgid "Test UI Rect Allocator"
 msgstr "UI-Rechteck-Allocator-Test"
 

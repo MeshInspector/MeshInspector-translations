@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-06 04:33+0000\n"
+"POT-Creation-Date: 2026-11-07 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2168,8 +2168,8 @@ msgid "Polygon Offset"
 msgstr "다각형 오프셋"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
-msgid "Cull Back Faces"
-msgstr "뒷면 컬링"
+msgid "Cull Back Tri-s"
+msgstr "뒷면 삼각형 컬링"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
@@ -2899,6 +2899,9 @@ msgstr "정면"
 #: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "BACK"
 msgstr "후면"
+
+#~ msgid "Cull Back Faces"
+#~ msgstr "뒷면 컬링"
 
 #~ msgid "Brush: Patch"
 #~ msgstr "브러시: 패치"

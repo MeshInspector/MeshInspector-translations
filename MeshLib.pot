@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-06 04:33+0000\n"
+"POT-Creation-Date: 2026-11-07 04:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2124,7 +2124,7 @@ msgid "Polygon Offset"
 msgstr ""
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
-msgid "Cull Back Faces"
+msgid "Cull Back Tri-s"
 msgstr ""
 
 #: source/MRViewer/ImGuiMenu.cpp:2064

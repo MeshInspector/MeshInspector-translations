@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-06 04:33+0000\n"
+"POT-Creation-Date: 2026-11-07 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2205,8 +2205,8 @@ msgid "Polygon Offset"
 msgstr "Deslocamento do polígono"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
-msgid "Cull Back Faces"
-msgstr "Descartar faces traseiras"
+msgid "Cull Back Tri-s"
+msgstr "Descartar triângulos traseiros"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
@@ -2938,6 +2938,9 @@ msgstr "FRENTE"
 #: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "BACK"
 msgstr "TRÁS"
+
+#~ msgid "Cull Back Faces"
+#~ msgstr "Descartar faces traseiras"
 
 #~ msgid "Brush: Patch"
 #~ msgstr "Pincel: Remendo"
