@@ -2169,7 +2169,7 @@ msgstr "다각형 오프셋"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "뒷면 삼각형 컬링"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

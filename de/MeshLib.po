@@ -2223,7 +2223,7 @@ msgstr "Polygon-Versatz"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "Rückseitendreiecke ausblenden"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

@@ -1843,10 +1843,10 @@ msgstr ""
 "registo correto"
 
 msgid "Background Texture Test"
-msgstr ""
+msgstr "Teste de textura de fundo"
 
 msgid "Viewport background texture from a few pixels or an image"
-msgstr ""
+msgstr "Textura de fundo da vista a partir de alguns píxeis ou de uma imagem"
 
 msgid "Test UI Rect Allocator"
 msgstr "Teste do alocador de retângulos da UI"

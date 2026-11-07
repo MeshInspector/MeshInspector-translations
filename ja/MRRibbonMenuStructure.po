@@ -1742,10 +1742,10 @@ msgstr ""
 "プログラムの安定性と正しいログ記録を確認するために無効な操作を実行します"
 
 msgid "Background Texture Test"
-msgstr ""
+msgstr "背景テクスチャテスト"
 
 msgid "Viewport background texture from a few pixels or an image"
-msgstr ""
+msgstr "数ピクセルまたは画像からのビューポート背景テクスチャ"
 
 msgid "Test UI Rect Allocator"
 msgstr "UI矩形アロケーターテスト"

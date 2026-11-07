@@ -2219,7 +2219,7 @@ msgstr "Desplazamiento de polígono"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "Descartar triángulos traseros"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

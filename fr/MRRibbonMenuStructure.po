@@ -1867,10 +1867,12 @@ msgstr ""
 "la justesse de la journalisation"
 
 msgid "Background Texture Test"
-msgstr ""
+msgstr "Test de texture d'arrière-plan"
 
 msgid "Viewport background texture from a few pixels or an image"
 msgstr ""
+"Texture d'arrière-plan de la fenêtre d'affichage à partir de quelques pixels "
+"ou d'une image"
 
 msgid "Test UI Rect Allocator"
 msgstr "Test d'allocateur de rectangles d'UI"

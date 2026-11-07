@@ -2218,7 +2218,7 @@ msgstr "Offset poligono"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "Scarta triangoli posteriori"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

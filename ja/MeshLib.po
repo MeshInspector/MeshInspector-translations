@@ -2180,7 +2180,7 @@ msgstr "ポリゴンオフセット"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "背面三角形をカリング"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"

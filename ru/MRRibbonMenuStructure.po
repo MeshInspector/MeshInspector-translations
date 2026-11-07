@@ -1789,10 +1789,10 @@ msgstr ""
 "корректности журналирования"
 
 msgid "Background Texture Test"
-msgstr ""
+msgstr "Тест фоновой текстуры"
 
 msgid "Viewport background texture from a few pixels or an image"
-msgstr ""
+msgstr "Фоновая текстура вьюпорта из нескольких пикселей или изображения"
 
 msgid "Test UI Rect Allocator"
 msgstr "Тест распределителя прямоугольников UI"

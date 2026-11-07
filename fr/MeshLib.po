@@ -2225,7 +2225,7 @@ msgstr "Décalage de polygone"
 
 #: source/MRViewer/ImGuiMenu.cpp:2051
 msgid "Cull Back Tri-s"
-msgstr ""
+msgstr "Éliminer les triangles arrière"
 
 #: source/MRViewer/ImGuiMenu.cpp:2064
 msgid "Dash"
