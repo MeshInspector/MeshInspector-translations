@@ -747,13 +747,13 @@ msgstr "회전 중심 표시"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
 msgid "View Cube Animation"
-msgstr ""
+msgstr "뷰 큐브 애니메이션"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
-msgstr ""
+msgstr "뷰포트 모서리의 뷰 큐브를 클릭하면 카메라가 부드럽게 회전합니다."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
 msgid "Selected Highlight Modifier"

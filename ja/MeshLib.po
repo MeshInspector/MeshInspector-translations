@@ -757,13 +757,15 @@ msgstr "回転中心を表示"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
 msgid "View Cube Animation"
-msgstr ""
+msgstr "ビューキューブアニメーション"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
 msgstr ""
+"ビューポートの隅にあるビューキューブをクリックした後、カメラを滑らかに回転さ"
+"せます。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
 msgid "Selected Highlight Modifier"

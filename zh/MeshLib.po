@@ -728,13 +728,13 @@ msgstr "显示旋转中心"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
 msgid "View Cube Animation"
-msgstr ""
+msgstr "视图立方体动画"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
-msgstr ""
+msgstr "单击视口角落的视图立方体后,平滑地旋转相机。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
 msgid "Selected Highlight Modifier"

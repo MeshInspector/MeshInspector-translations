@@ -762,13 +762,15 @@ msgstr "Показать центр вращения"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
 msgid "View Cube Animation"
-msgstr ""
+msgstr "Анимация видового куба"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
 msgstr ""
+"Плавно поворачивает камеру после клика по видовому кубу в углу окна "
+"просмотра."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
 msgid "Selected Highlight Modifier"

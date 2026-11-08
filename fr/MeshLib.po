@@ -765,13 +765,15 @@ msgstr "Afficher le centre de rotation"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
 msgid "View Cube Animation"
-msgstr ""
+msgstr "Animation du cube de vue"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
 msgstr ""
+"Fait pivoter la caméra en douceur après un clic sur le cube de vue dans le "
+"coin de la fenêtre d'affichage."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
 msgid "Selected Highlight Modifier"
