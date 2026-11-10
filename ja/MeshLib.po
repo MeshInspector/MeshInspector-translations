@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 04:33+0000\n"
+"POT-Creation-Date: 2026-11-10 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2708,15 +2708,15 @@ msgstr "保存せずにアプリケーションを閉じます"
 msgid "Do not close the application"
 msgstr "アプリケーションを閉じない"
 
-#: source/MRViewer/MRSceneMcp.cpp:270
+#: source/MRViewer/MRSceneMcp.cpp:259
 msgid "MCP setObjectState"
 msgstr "MCP: オブジェクト状態を設定"
 
-#: source/MRViewer/MRSceneMcp.cpp:380
+#: source/MRViewer/MRSceneMcp.cpp:369
 msgid "MCP removeObject"
 msgstr "MCP: オブジェクトを削除"
 
-#: source/MRViewer/MRSceneMcp.cpp:514
+#: source/MRViewer/MRSceneMcp.cpp:503
 msgid "MCP addObject"
 msgstr "MCP: オブジェクトを追加"
 
@@ -2899,27 +2899,27 @@ msgstr "度、分、秒"
 msgid "{} as {}"
 msgstr "{}（{}として）"
 
-#: source/MRViewer/MRViewportCornerController.cpp:99
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "RIGHT"
 msgstr "右面"
 
-#: source/MRViewer/MRViewportCornerController.cpp:99
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "LEFT"
 msgstr "左面"
 
-#: source/MRViewer/MRViewportCornerController.cpp:100
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "TOP"
 msgstr "上面"
 
-#: source/MRViewer/MRViewportCornerController.cpp:100
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "BOTTOM"
 msgstr "下面"
 
-#: source/MRViewer/MRViewportCornerController.cpp:101
+#: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "FRONT"
 msgstr "正面"
 
-#: source/MRViewer/MRViewportCornerController.cpp:101
+#: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "背面"
 

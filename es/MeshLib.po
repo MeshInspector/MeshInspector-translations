@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 04:33+0000\n"
+"POT-Creation-Date: 2026-11-10 04:33+0000\n"
 "PO-Revision-Date: 2026-06-04 12:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2750,15 +2750,15 @@ msgstr "Cerrar la aplicación sin guardar"
 msgid "Do not close the application"
 msgstr "No cerrar la aplicación"
 
-#: source/MRViewer/MRSceneMcp.cpp:270
+#: source/MRViewer/MRSceneMcp.cpp:259
 msgid "MCP setObjectState"
 msgstr "MCP: establecer estado del objeto"
 
-#: source/MRViewer/MRSceneMcp.cpp:380
+#: source/MRViewer/MRSceneMcp.cpp:369
 msgid "MCP removeObject"
 msgstr "MCP: eliminar objeto"
 
-#: source/MRViewer/MRSceneMcp.cpp:514
+#: source/MRViewer/MRSceneMcp.cpp:503
 msgid "MCP addObject"
 msgstr "MCP: añadir objeto"
 
@@ -2943,27 +2943,27 @@ msgstr "Grados, minutos, segundos"
 msgid "{} as {}"
 msgstr "{} como {}"
 
-#: source/MRViewer/MRViewportCornerController.cpp:99
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "RIGHT"
 msgstr "DERECHA"
 
-#: source/MRViewer/MRViewportCornerController.cpp:99
+#: source/MRViewer/MRViewportCornerController.cpp:100
 msgid "LEFT"
 msgstr "IZQDA"
 
-#: source/MRViewer/MRViewportCornerController.cpp:100
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "TOP"
 msgstr "ARRIBA"
 
-#: source/MRViewer/MRViewportCornerController.cpp:100
+#: source/MRViewer/MRViewportCornerController.cpp:101
 msgid "BOTTOM"
 msgstr "ABAJO"
 
-#: source/MRViewer/MRViewportCornerController.cpp:101
+#: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "FRONT"
 msgstr "FRENTE"
 
-#: source/MRViewer/MRViewportCornerController.cpp:101
+#: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "ATRÁS"
 

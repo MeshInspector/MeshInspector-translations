@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 04:41+0000\n"
+"POT-Creation-Date: 2026-11-10 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2536,6 +2536,19 @@ msgstr "Rellenar agujeros"
 msgid "Whether to fill planar holes at both ends of the extrusion body."
 msgstr ""
 "Si se rellenan agujeros planares en ambos extremos del cuerpo de extrusión."
+
+msgid "Fix Self-Intersections"
+msgstr ""
+
+msgid ""
+"Cut the extrusion body along its self-intersections (experimental self-"
+"boolean) and delete the parts inside the body or turned inside out.\n"
+"Requires closed body contours and either a closed trajectory or Fill Holes."
+msgstr ""
+
+#, c++-format
+msgid "Self-intersections are not fixed: {}"
+msgstr ""
 
 msgid "Make extrusion body mesh"
 msgstr "Crear malla del cuerpo de extrusión"
