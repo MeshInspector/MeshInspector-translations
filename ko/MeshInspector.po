@@ -2450,17 +2450,20 @@ msgid "Whether to fill planar holes at both ends of the extrusion body."
 msgstr "압출 본체의 양쪽 끝에 있는 평면 구멍을 채울지 여부."
 
 msgid "Fix Self-Intersections"
-msgstr ""
+msgstr "자체 교차 수정"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
 "boolean) and delete the parts inside the body or turned inside out.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
+"자체 교차를 따라 압출 본체를 자르고 (실험적 자체 부울), 본체 내부에 있거나 안"
+"팎이 뒤집힌 부분을 삭제합니다.\n"
+"닫힌 본체 윤곽선과 함께 닫힌 경로 또는 구멍 채우기 중 하나가 필요합니다."
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
-msgstr ""
+msgstr "자체 교차가 수정되지 않았습니다: {}"
 
 msgid "Make extrusion body mesh"
 msgstr "압출 본체 메시 만들기"

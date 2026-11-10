@@ -2455,17 +2455,20 @@ msgid "Whether to fill planar holes at both ends of the extrusion body."
 msgstr "押し出しボディの両端の平面穴を埋めるかどうか。"
 
 msgid "Fix Self-Intersections"
-msgstr ""
+msgstr "自己交差を修正"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
 "boolean) and delete the parts inside the body or turned inside out.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
+"押し出しボディを自己交差に沿って切断し（試験的なセルフブール演算）、ボディの"
+"内側にある部分または裏返った部分を削除します。\n"
+"閉じたボディ輪郭と、閉じた軌跡または「穴を埋める」のいずれかが必要です。"
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
-msgstr ""
+msgstr "自己交差は修正されていません: {}"
 
 msgid "Make extrusion body mesh"
 msgstr "押し出しボディメッシュを作成"

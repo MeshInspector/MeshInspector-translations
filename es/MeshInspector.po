@@ -2538,17 +2538,22 @@ msgstr ""
 "Si se rellenan agujeros planares en ambos extremos del cuerpo de extrusión."
 
 msgid "Fix Self-Intersections"
-msgstr ""
+msgstr "Corregir autointersecciones"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
 "boolean) and delete the parts inside the body or turned inside out.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
+"Cortar el cuerpo de extrusión a lo largo de sus autointersecciones (booleano "
+"propio experimental) y eliminar las partes situadas dentro del cuerpo o "
+"vueltas del revés.\n"
+"Requiere que los contornos del cuerpo estén cerrados y que la trayectoria "
+"esté cerrada o que «Rellenar agujeros» esté activado."
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
-msgstr ""
+msgstr "No se corrigieron las autointersecciones: {}"
 
 msgid "Make extrusion body mesh"
 msgstr "Crear malla del cuerpo de extrusión"

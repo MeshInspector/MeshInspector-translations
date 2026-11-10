@@ -2543,17 +2543,22 @@ msgid "Whether to fill planar holes at both ends of the extrusion body."
 msgstr "Ob ebene Löcher an beiden Enden des Extrusionskörpers gefüllt werden."
 
 msgid "Fix Self-Intersections"
-msgstr ""
+msgstr "Selbstüberschneidungen beheben"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
 "boolean) and delete the parts inside the body or turned inside out.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
+"Schneidet den Extrusionskörper entlang seiner Selbstüberschneidungen "
+"(experimenteller Selbst-Boolean) und löscht die Teile, die innerhalb des "
+"Körpers liegen oder umgestülpt sind.\n"
+"Erfordert geschlossene Körperkonturen und entweder eine geschlossene "
+"Trajektorie oder „Löcher füllen“."
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
-msgstr ""
+msgstr "Selbstüberschneidungen wurden nicht behoben: {}"
 
 msgid "Make extrusion body mesh"
 msgstr "Extrusionskörper-Mesh erstellen"
