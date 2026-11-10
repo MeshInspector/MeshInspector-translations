@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 04:41+0000\n"
+"POT-Creation-Date: 2026-11-10 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2396,6 +2396,22 @@ msgstr "填充孔洞"
 
 msgid "Whether to fill planar holes at both ends of the extrusion body."
 msgstr "是否填充挤出主体两端的平面孔洞。"
+
+msgid "Fix Self-Intersections"
+msgstr "修复自相交"
+
+msgid ""
+"Cut the extrusion body along its self-intersections (experimental self-"
+"boolean) and delete the parts inside the body or turned inside out.\n"
+"Requires closed body contours and either a closed trajectory or Fill Holes."
+msgstr ""
+"沿自相交处切割挤出主体（实验性自布尔运算），并删除位于主体内部或内外翻转的部"
+"分。\n"
+"需要闭合的主体轮廓，以及闭合的轨迹或启用“填充孔洞”。"
+
+#, c++-format
+msgid "Self-intersections are not fixed: {}"
+msgstr "自相交未修复：{}"
 
 msgid "Make extrusion body mesh"
 msgstr "创建挤出主体网格"

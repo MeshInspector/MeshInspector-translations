@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 04:33+0000\n"
+"POT-Creation-Date: 2026-11-10 04:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2352,6 +2352,19 @@ msgid "Fill Holes"
 msgstr ""
 
 msgid "Whether to fill planar holes at both ends of the extrusion body."
+msgstr ""
+
+msgid "Fix Self-Intersections"
+msgstr ""
+
+msgid ""
+"Cut the extrusion body along its self-intersections (experimental self-"
+"boolean) and delete the parts inside the body or turned inside out.\n"
+"Requires closed body contours and either a closed trajectory or Fill Holes."
+msgstr ""
+
+#, c++-format
+msgid "Self-intersections are not fixed: {}"
 msgstr ""
 
 msgid "Make extrusion body mesh"
