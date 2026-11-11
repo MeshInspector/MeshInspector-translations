@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-11 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -312,7 +312,8 @@ msgstr "Questo browser web non supporta la selezione di cartelle"
 msgid "Open Directory"
 msgstr "Apri cartella"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:606
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:617
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -320,55 +321,61 @@ msgstr ""
 "Seleziona esattamente un oggetto di un tipo esportabile (ad es. Mesh, Nuvola "
 "di punti o Volume)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:607
+#. TRANSLATORS: example string: Plane objects cannot be exported
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:614
+#, c++-format
+msgid "{} objects cannot be exported"
+msgstr "Gli oggetti di tipo {} non possono essere esportati"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:619
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr ""
 "Seleziona oggetti dello stesso tipo (ad es. Mesh, Nuvole di punti o Volumi)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:672
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:814
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:683
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:825
 msgid "File name is not set"
 msgstr "Il nome del file non è impostato"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:778
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:797
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:789
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:808
 msgid "Error saving selected:"
 msgstr "Errore nel salvataggio dei selezionati:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:827
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:838
 msgid "Error saving scene:"
 msgstr "Errore nel salvataggio della scena:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:862
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:873
 msgid "Scene is empty - nothing to save"
 msgstr "La scena è vuota - niente da salvare"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:907
 msgid "Width"
 msgstr "Larghezza"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:908
 msgid "Height"
 msgstr "Altezza"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:898
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:909
 msgid "Transparent Background"
 msgstr "Sfondo trasparente"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:899
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:910
 msgid "Hide scene overlays"
 msgstr "Nascondi sovrapposizioni della scena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:900
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:911
 msgid "Capture"
 msgstr "Cattura"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:991
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1018
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1002
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
 msgid "Error saving screenshot:"
 msgstr "Errore nel salvataggio dello screenshot:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1032
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1043
 msgid "This function is not currently supported in web edition"
 msgstr "Questa funzione non è attualmente supportata nell'edizione web"
 

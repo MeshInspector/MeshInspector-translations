@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-11 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -312,7 +312,8 @@ msgstr "Dieser Webbrowser unterstützt keine Verzeichnisauswahl"
 msgid "Open Directory"
 msgstr "Verzeichnis öffnen"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:604
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:606
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:617
 msgid ""
 "Select exactly one object of an exportable type (e.g. Mesh, Point Cloud or "
 "Volume)"
@@ -320,56 +321,62 @@ msgstr ""
 "Wählen Sie genau ein Objekt eines exportierbaren Typs aus (z. B. Mesh, "
 "Punktwolke oder Volumen)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:607
+#. TRANSLATORS: example string: Plane objects cannot be exported
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:614
+#, c++-format
+msgid "{} objects cannot be exported"
+msgstr "Objekte vom Typ „{}“ können nicht exportiert werden"
+
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:619
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
 msgstr ""
 "Wählen Sie Objekte desselben Typs aus (z. B. Meshes, Punktwolken oder "
 "Volumen)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:672
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:814
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:683
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:825
 msgid "File name is not set"
 msgstr "Dateiname ist nicht gesetzt"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:778
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:797
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:789
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:808
 msgid "Error saving selected:"
 msgstr "Fehler beim Speichern der Auswahl:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:827
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:838
 msgid "Error saving scene:"
 msgstr "Fehler beim Speichern der Szene:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:862
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:873
 msgid "Scene is empty - nothing to save"
 msgstr "Szene ist leer – nichts zu speichern"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:896
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:907
 msgid "Width"
 msgstr "Breite"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:897
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:908
 msgid "Height"
 msgstr "Höhe"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:898
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:909
 msgid "Transparent Background"
 msgstr "Transparenter Hintergrund"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:899
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:910
 msgid "Hide scene overlays"
 msgstr "Szenenüberlagerungen ausblenden"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:900
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:911
 msgid "Capture"
 msgstr "Aufnehmen"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:991
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1018
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1002
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1029
 msgid "Error saving screenshot:"
 msgstr "Fehler beim Speichern des Bildschirmfotos:"
 
-#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1032
+#: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:1043
 msgid "This function is not currently supported in web edition"
 msgstr "Diese Funktion wird in der Web-Edition derzeit nicht unterstützt"
 
