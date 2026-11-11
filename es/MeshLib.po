@@ -326,7 +326,7 @@ msgstr ""
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:614
 #, c++-format
 msgid "{} objects cannot be exported"
-msgstr ""
+msgstr "Los objetos de tipo {} no se pueden exportar"
 
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:619
 msgid "Select objects of the same type (e.g. Meshes, Point Clouds or Volumes)"
