@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1107,6 +1107,13 @@ msgstr "Параллелепипед"
 msgid "Center"
 msgstr "Центр"
 
+msgid "Rotation"
+msgstr "Вращение"
+
+msgid ""
+"Rotation of the object around its center: angles around X, Y and Z axes."
+msgstr ""
+
 msgid "Name"
 msgstr "Имя"
 
@@ -1265,11 +1272,11 @@ msgstr "Расстояние по Z"
 msgid "3D distance"
 msgstr "Расстояние в 3D"
 
-msgid "Point 2:"
-msgstr "Точка 2:"
-
 msgid "Point 1:"
 msgstr "Точка 1:"
+
+msgid "Point 2:"
+msgstr "Точка 2:"
 
 msgid "Nominal & Tolerance"
 msgstr "Номинальное значение и допуск"
@@ -2524,14 +2531,10 @@ msgstr "Исправить самопересечения"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
-"boolean) and delete the parts inside the body or turned inside out.\n"
+"boolean) and keep the largest part of every connected component; "
+"intersecting components are united.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
-"Разрезать тело выдавливания по его самопересечениям (экспериментальная "
-"самобулева операция) и удалить части, находящиеся внутри тела или вывернутые "
-"наизнанку.\n"
-"Требуются замкнутые контуры тела и либо замкнутая траектория, либо "
-"включённый параметр «Заполнить отверстия»."
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
@@ -3801,6 +3804,14 @@ msgstr "Разрешение Y"
 msgid "Z res"
 msgstr "Разрешение Z"
 
+msgid "Ignore Selection"
+msgstr ""
+
+msgid ""
+"If the mesh has selected triangles, only they are deformed. Check to deform "
+"the whole mesh."
+msgstr ""
+
 msgid "Reset/Start"
 msgstr "Сбросить/Начать"
 
@@ -4393,6 +4404,20 @@ msgstr "Булевы точки: Пересечение"
 msgid "Boolean points: Difference"
 msgstr "Булевы точки: Разность"
 
+msgid ""
+"Boolean operation failed.\n"
+"\n"
+"The operation could not be completed due to geometry issues. Common causes "
+"include:\n"
+"- Self-intersections\n"
+"- Holes\n"
+"- Inconsistent normals\n"
+"- Degenerate triangles\n"
+"- Duplicate or floating vertices/edges\n"
+"\n"
+"Please check and repair the mesh before retrying."
+msgstr ""
+
 msgid "Force Mode"
 msgstr "Принудительный режим"
 
@@ -4444,6 +4469,9 @@ msgstr "Добавить линии пересечения"
 
 msgid "Add Intersection Contours"
 msgstr "Добавить контуры пересечения"
+
+msgid "Exchange objects A and B."
+msgstr ""
 
 msgid "Select Cut Edges"
 msgstr "Выбрать рёбра разреза"
@@ -4763,9 +4791,6 @@ msgstr "Диаметр каждого камня"
 
 msgid "Distance between two ajacent stones"
 msgstr "Расстояние между двумя соседними камнями"
-
-msgid "Rotation"
-msgstr "Вращение"
 
 msgid "Rotates all the grid"
 msgstr "Поворачивает всю сетку"
@@ -9892,6 +9917,18 @@ msgstr "Снимок"
 
 msgid "Import Zivid scan"
 msgstr "Импортировать скан Zivid"
+
+#~ msgid ""
+#~ "Cut the extrusion body along its self-intersections (experimental self-"
+#~ "boolean) and delete the parts inside the body or turned inside out.\n"
+#~ "Requires closed body contours and either a closed trajectory or Fill "
+#~ "Holes."
+#~ msgstr ""
+#~ "Разрезать тело выдавливания по его самопересечениям (экспериментальная "
+#~ "самобулева операция) и удалить части, находящиеся внутри тела или "
+#~ "вывернутые наизнанку.\n"
+#~ "Требуются замкнутые контуры тела и либо замкнутая траектория, либо "
+#~ "включённый параметр «Заполнить отверстия»."
 
 #~ msgid "Select what metric 'Find Better Direction' button will minimize."
 #~ msgstr ""

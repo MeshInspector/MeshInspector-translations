@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1086,6 +1086,13 @@ msgstr "平行六面体"
 msgid "Center"
 msgstr "中心"
 
+msgid "Rotation"
+msgstr "回転"
+
+msgid ""
+"Rotation of the object around its center: angles around X, Y and Z axes."
+msgstr ""
+
 msgid "Name"
 msgstr "名前"
 
@@ -1245,11 +1252,11 @@ msgstr "Z 距離"
 msgid "3D distance"
 msgstr "3D 距離"
 
-msgid "Point 2:"
-msgstr "ポイント 2:"
-
 msgid "Point 1:"
 msgstr "ポイント 1:"
+
+msgid "Point 2:"
+msgstr "ポイント 2:"
 
 msgid "Nominal & Tolerance"
 msgstr "公称値と許容差"
@@ -2459,12 +2466,10 @@ msgstr "自己交差を修正"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
-"boolean) and delete the parts inside the body or turned inside out.\n"
+"boolean) and keep the largest part of every connected component; "
+"intersecting components are united.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
-"押し出しボディを自己交差に沿って切断し（試験的なセルフブール演算）、ボディの"
-"内側にある部分または裏返った部分を削除します。\n"
-"閉じたボディ輪郭と、閉じた軌跡または「穴を埋める」のいずれかが必要です。"
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
@@ -3688,6 +3693,14 @@ msgstr "Y解像度"
 msgid "Z res"
 msgstr "Z解像度"
 
+msgid "Ignore Selection"
+msgstr ""
+
+msgid ""
+"If the mesh has selected triangles, only they are deformed. Check to deform "
+"the whole mesh."
+msgstr ""
+
 msgid "Reset/Start"
 msgstr "リセット/開始"
 
@@ -4242,6 +4255,20 @@ msgstr "ブールポイント: 共通部分"
 msgid "Boolean points: Difference"
 msgstr "ブールポイント: 差"
 
+msgid ""
+"Boolean operation failed.\n"
+"\n"
+"The operation could not be completed due to geometry issues. Common causes "
+"include:\n"
+"- Self-intersections\n"
+"- Holes\n"
+"- Inconsistent normals\n"
+"- Degenerate triangles\n"
+"- Duplicate or floating vertices/edges\n"
+"\n"
+"Please check and repair the mesh before retrying."
+msgstr ""
+
 msgid "Force Mode"
 msgstr "強制モード"
 
@@ -4291,6 +4318,9 @@ msgstr "交差ラインを追加"
 
 msgid "Add Intersection Contours"
 msgstr "交差コントアを追加"
+
+msgid "Exchange objects A and B."
+msgstr ""
 
 msgid "Select Cut Edges"
 msgstr "カットエッジを選択"
@@ -4591,9 +4621,6 @@ msgstr "各石の直径"
 
 msgid "Distance between two ajacent stones"
 msgstr "隣接する2つの石の間の距離"
-
-msgid "Rotation"
-msgstr "回転"
 
 msgid "Rotates all the grid"
 msgstr "グリッド全体を回転します"
@@ -9556,6 +9583,16 @@ msgstr "キャプチャ"
 
 msgid "Import Zivid scan"
 msgstr "Zividスキャンをインポート"
+
+#~ msgid ""
+#~ "Cut the extrusion body along its self-intersections (experimental self-"
+#~ "boolean) and delete the parts inside the body or turned inside out.\n"
+#~ "Requires closed body contours and either a closed trajectory or Fill "
+#~ "Holes."
+#~ msgstr ""
+#~ "押し出しボディを自己交差に沿って切断し（試験的なセルフブール演算）、ボディ"
+#~ "の内側にある部分または裏返った部分を削除します。\n"
+#~ "閉じたボディ輪郭と、閉じた軌跡または「穴を埋める」のいずれかが必要です。"
 
 #~ msgid "Select what metric 'Find Better Direction' button will minimize."
 #~ msgstr "「より良い方向を検索」ボタンが最小化するメトリックを選択します。"

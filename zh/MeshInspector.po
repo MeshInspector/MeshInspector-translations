@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1075,6 +1075,13 @@ msgstr "平行六面体"
 msgid "Center"
 msgstr "中心"
 
+msgid "Rotation"
+msgstr "旋转"
+
+msgid ""
+"Rotation of the object around its center: angles around X, Y and Z axes."
+msgstr ""
+
 msgid "Name"
 msgstr "名称"
 
@@ -1233,11 +1240,11 @@ msgstr "Z 距离"
 msgid "3D distance"
 msgstr "3D 距离"
 
-msgid "Point 2:"
-msgstr "点 2："
-
 msgid "Point 1:"
 msgstr "点 1："
+
+msgid "Point 2:"
+msgstr "点 2："
 
 msgid "Nominal & Tolerance"
 msgstr "标称值与公差"
@@ -2402,12 +2409,10 @@ msgstr "修复自相交"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
-"boolean) and delete the parts inside the body or turned inside out.\n"
+"boolean) and keep the largest part of every connected component; "
+"intersecting components are united.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
-"沿自相交处切割挤出主体（实验性自布尔运算），并删除位于主体内部或内外翻转的部"
-"分。\n"
-"需要闭合的主体轮廓，以及闭合的轨迹或启用“填充孔洞”。"
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
@@ -3562,6 +3567,14 @@ msgstr "Y 分辨率"
 msgid "Z res"
 msgstr "Z 分辨率"
 
+msgid "Ignore Selection"
+msgstr ""
+
+msgid ""
+"If the mesh has selected triangles, only they are deformed. Check to deform "
+"the whole mesh."
+msgstr ""
+
 msgid "Reset/Start"
 msgstr "重置/开始"
 
@@ -4094,6 +4107,20 @@ msgstr "布尔点: 交集"
 msgid "Boolean points: Difference"
 msgstr "布尔点: 差集"
 
+msgid ""
+"Boolean operation failed.\n"
+"\n"
+"The operation could not be completed due to geometry issues. Common causes "
+"include:\n"
+"- Self-intersections\n"
+"- Holes\n"
+"- Inconsistent normals\n"
+"- Degenerate triangles\n"
+"- Duplicate or floating vertices/edges\n"
+"\n"
+"Please check and repair the mesh before retrying."
+msgstr ""
+
 msgid "Force Mode"
 msgstr "强制模式"
 
@@ -4143,6 +4170,9 @@ msgstr "添加相交线"
 
 msgid "Add Intersection Contours"
 msgstr "添加相交轮廓"
+
+msgid "Exchange objects A and B."
+msgstr ""
 
 msgid "Select Cut Edges"
 msgstr "选择切割边"
@@ -4419,9 +4449,6 @@ msgstr "每块石头的直径"
 
 msgid "Distance between two ajacent stones"
 msgstr "两块相邻石头之间的距离"
-
-msgid "Rotation"
-msgstr "旋转"
 
 msgid "Rotates all the grid"
 msgstr "旋转整个网格"
@@ -9164,6 +9191,16 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid ""
+#~ "Cut the extrusion body along its self-intersections (experimental self-"
+#~ "boolean) and delete the parts inside the body or turned inside out.\n"
+#~ "Requires closed body contours and either a closed trajectory or Fill "
+#~ "Holes."
+#~ msgstr ""
+#~ "沿自相交处切割挤出主体（实验性自布尔运算），并删除位于主体内部或内外翻转的"
+#~ "部分。\n"
+#~ "需要闭合的主体轮廓，以及闭合的轨迹或启用“填充孔洞”。"
 
 #~ msgid "Select what metric 'Find Better Direction' button will minimize."
 #~ msgstr "选择 \"查找更好方向\" 按钮要最小化的度量。"

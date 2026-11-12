@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1113,6 +1113,13 @@ msgstr "Parallelepiped"
 msgid "Center"
 msgstr "Mitte"
 
+msgid "Rotation"
+msgstr "Rotation"
+
+msgid ""
+"Rotation of the object around its center: angles around X, Y and Z axes."
+msgstr ""
+
 msgid "Name"
 msgstr "Name"
 
@@ -1271,11 +1278,11 @@ msgstr "Z-Abstand"
 msgid "3D distance"
 msgstr "3D-Abstand"
 
-msgid "Point 2:"
-msgstr "Punkt 2:"
-
 msgid "Point 1:"
 msgstr "Punkt 1:"
+
+msgid "Point 2:"
+msgstr "Punkt 2:"
 
 msgid "Nominal & Tolerance"
 msgstr "Nennwert & Toleranz"
@@ -2547,14 +2554,10 @@ msgstr "Selbstüberschneidungen beheben"
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
-"boolean) and delete the parts inside the body or turned inside out.\n"
+"boolean) and keep the largest part of every connected component; "
+"intersecting components are united.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
-"Schneidet den Extrusionskörper entlang seiner Selbstüberschneidungen "
-"(experimenteller Selbst-Boolean) und löscht die Teile, die innerhalb des "
-"Körpers liegen oder umgestülpt sind.\n"
-"Erfordert geschlossene Körperkonturen und entweder eine geschlossene "
-"Trajektorie oder „Löcher füllen“."
 
 #, c++-format
 msgid "Self-intersections are not fixed: {}"
@@ -3837,6 +3840,14 @@ msgstr "Y-Auflösung"
 msgid "Z res"
 msgstr "Z-Auflösung"
 
+msgid "Ignore Selection"
+msgstr ""
+
+msgid ""
+"If the mesh has selected triangles, only they are deformed. Check to deform "
+"the whole mesh."
+msgstr ""
+
 msgid "Reset/Start"
 msgstr "Zurücksetzen/Starten"
 
@@ -4434,6 +4445,20 @@ msgstr "Boolean Punkte: Schnittmenge"
 msgid "Boolean points: Difference"
 msgstr "Boolean Punkte: Differenz"
 
+msgid ""
+"Boolean operation failed.\n"
+"\n"
+"The operation could not be completed due to geometry issues. Common causes "
+"include:\n"
+"- Self-intersections\n"
+"- Holes\n"
+"- Inconsistent normals\n"
+"- Degenerate triangles\n"
+"- Duplicate or floating vertices/edges\n"
+"\n"
+"Please check and repair the mesh before retrying."
+msgstr ""
+
 msgid "Force Mode"
 msgstr "Erzwingungsmodus"
 
@@ -4485,6 +4510,9 @@ msgstr "Schnittlinien hinzufügen"
 
 msgid "Add Intersection Contours"
 msgstr "Schnittkonturen hinzufügen"
+
+msgid "Exchange objects A and B."
+msgstr ""
 
 msgid "Select Cut Edges"
 msgstr "Schnittkanten auswählen"
@@ -4804,9 +4832,6 @@ msgstr "Durchmesser jedes Steins"
 
 msgid "Distance between two ajacent stones"
 msgstr "Abstand zwischen zwei benachbarten Steinen"
-
-msgid "Rotation"
-msgstr "Rotation"
 
 msgid "Rotates all the grid"
 msgstr "Rotiert das gesamte Raster"
@@ -9995,6 +10020,18 @@ msgstr "Aufnehmen"
 
 msgid "Import Zivid scan"
 msgstr "Zivid-Scan importieren"
+
+#~ msgid ""
+#~ "Cut the extrusion body along its self-intersections (experimental self-"
+#~ "boolean) and delete the parts inside the body or turned inside out.\n"
+#~ "Requires closed body contours and either a closed trajectory or Fill "
+#~ "Holes."
+#~ msgstr ""
+#~ "Schneidet den Extrusionskörper entlang seiner Selbstüberschneidungen "
+#~ "(experimenteller Selbst-Boolean) und löscht die Teile, die innerhalb des "
+#~ "Körpers liegen oder umgestülpt sind.\n"
+#~ "Erfordert geschlossene Körperkonturen und entweder eine geschlossene "
+#~ "Trajektorie oder „Löcher füllen“."
 
 #~ msgid "Select what metric 'Find Better Direction' button will minimize."
 #~ msgstr ""

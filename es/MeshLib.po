@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: 2026-06-04 12:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:26
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:523
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:532
 msgid "Current viewport"
 msgstr "Vista actual"
 
@@ -265,7 +265,7 @@ msgid "Save"
 msgstr "Guardar"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1089
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1098
 #: source/MRViewer/ImGuiMenu.cpp:998 source/MRViewer/ImGuiMenu.cpp:1097
 #: source/MRViewer/MRProgressBar.cpp:222
 #: source/MRViewer/MRUISaveChangesPopup.cpp:91
@@ -480,12 +480,12 @@ msgid "3D View"
 msgstr "Vista 3D"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:56
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:775
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:784
 msgid "Units"
 msgstr "Unidades"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1363
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1372
 msgid "MCP"
 msgstr "MCP"
 
@@ -502,12 +502,12 @@ msgid "General"
 msgstr "General"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:269
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:375
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:384
 msgid "Toolbar Customize"
 msgstr "Personalizar barra de herramientas"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:272
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:506
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:515
 msgid "Show Hotkeys"
 msgstr "Mostrar atajos"
 
@@ -617,41 +617,49 @@ msgstr ""
 "Permite mover las ventanas de herramientas fuera de la ventana principal. "
 "Para aplicar los cambios es necesario reiniciar la aplicación."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:378
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:379
+msgid "Show Splash Screen"
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
+msgid "Show the splash screen while the application is starting."
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
 msgid "Behavior"
 msgstr "Comportamiento"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:386
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:395
 msgid "Make Visible on Select"
 msgstr "Hacer visible al seleccionar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:389
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:398
 msgid "Deselect on Hide"
 msgstr "Deseleccionar al ocultar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:395
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:404
 msgid "Close Context Menu on Click"
 msgstr "Cerrar menú contextual al hacer clic"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:398
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:407
 msgid "Close scene context menu on any change or click outside"
 msgstr ""
 "Cerrar el menú contextual de la escena ante cualquier cambio o clic fuera"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:402
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:411
 msgid "Auto Close Previous Tool"
 msgstr "Cerrar automáticamente la herramienta anterior"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:405
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:414
 msgid ""
 "Automatically close blocking tool when another blocking tool is activated"
 msgstr "Cerrar automáticamente la herramienta bloqueante cuando se activa otra"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:407
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:416
 msgid "Sort Dropped Files"
 msgstr "Ordenar archivos arrastrados"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:410
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:419
 msgid ""
 "Whether to sort the filenames received from Drag&Drop in lexicographical "
 "order before adding them in scene"
@@ -659,39 +667,39 @@ msgstr ""
 "Indica si se ordenan lexicográficamente los nombres de archivo recibidos por "
 "arrastrar y soltar antes de añadirlos a la escena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:412
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:421
 msgid "Show Experimental Features"
 msgstr "Mostrar funciones experimentales"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:413
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:422
 msgid "Show experimental or diagnostic tools and controls"
 msgstr "Mostrar herramientas y controles experimentales o de diagnóstico"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:420
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:429
 msgid "Notifications"
 msgstr "Notificaciones"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:422
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:431
 msgid "Time Reports"
 msgstr "Informes de tiempo"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:441
 msgid "Show duration of last operation of the application."
 msgstr "Mostrar la duración de la última operación de la aplicación."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:434
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:443
 msgid "Recommendations"
 msgstr "Recomendaciones"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:444
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:453
 msgid "Show notifications with recommended actions."
 msgstr "Mostrar notificaciones con acciones recomendadas."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:446
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:455
 msgid "Implicit Changes"
 msgstr "Cambios implícitos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:456
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:465
 msgid ""
 "Notify when some changes were made implicitly by the application. (mostly "
 "appear on import of non-manifold models)"
@@ -699,76 +707,76 @@ msgstr ""
 "Notificar cuando la aplicación haya realizado cambios de forma implícita "
 "(sucede sobre todo al importar modelos no variedades)."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:458
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:467
 msgid "Important"
 msgstr "Importante"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:468
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:477
 msgid "Show important messages about errors or warnings that could happen."
 msgstr "Mostrar mensajes importantes sobre posibles errores o advertencias."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:476
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:485
 msgid "Files and Folders"
 msgstr "Archivos y carpetas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:482
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:491
 msgid "Logs folder"
 msgstr "Carpeta de registros"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:502
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:511
 msgid "Keyboard"
 msgstr "Teclado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:520
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:529
 msgid "Viewport"
 msgstr "Vista"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:531
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
 msgid "Rotation Mode"
 msgstr "Modo de rotación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:531
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
 msgid "Scene Center"
 msgstr "Centro de la escena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:531
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
 msgid "Pick / Scene Center"
 msgstr "Pick / Centro de la escena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:531
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
 msgid "Pick"
 msgstr "Pick"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:538
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:547
 msgid "Show Axes"
 msgstr "Mostrar ejes"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:544
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:553
 msgid "Show Global Basis"
 msgstr "Mostrar base global"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:549
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:558
 msgid "Grid"
 msgstr "Cuadrícula"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:557
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:562
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:566
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:571
 msgid "Global Basis Scale"
 msgstr "Escala de la base global"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:568
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:577
 msgid "Auto"
 msgstr "Auto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:578
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:587
 msgid "Show Rotation Center"
 msgstr "Mostrar centro de rotación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:584
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:593
 msgid "View Cube Animation"
 msgstr "Animación del cubo de vista"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:586
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:595
 msgid ""
 "Smoothly turns the camera after a click on the view cube in the viewport "
 "corner."
@@ -776,63 +784,63 @@ msgstr ""
 "Gira suavemente la cámara tras hacer clic en el cubo de vista situado en la "
 "esquina de la vista."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:601
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:610
 msgid "Selected Highlight Modifier"
 msgstr "Modificador de resaltado de seleccionados"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:606
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:615
 msgid "Ambient light brightness multiplication factor for selected objects"
 msgstr ""
 "Factor de multiplicación del brillo de la luz ambiental para los objetos "
 "seleccionados"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:610
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:619
 msgid "Clipping Plane"
 msgstr "Plano de recorte"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:627
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:636
 msgid "Show"
 msgstr "Mostrar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:633
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:642
 msgid "Options"
 msgstr "Opciones"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:638
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:647
 msgid "Picker Radius"
 msgstr "Radio del selector"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:641
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:650
 msgid "Radius of area under cursor to pick objects in scene."
 msgstr "Radio del área bajo el cursor para seleccionar objetos en la escena."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:643
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:652
 msgid "Defaults"
 msgstr "Valores predeterminados"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:648
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:657
 msgid "Render"
 msgstr "Renderizar"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:661
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:670
 msgid "Common"
 msgstr "Común"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:667
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:676
 msgid "Leading zero"
 msgstr "Cero a la izquierda"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:669
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:678
 msgid "If disabled, remove the lone zeroes before the decimal point."
 msgstr ""
 "Si está desactivado, se eliminan los ceros aislados antes del separador "
 "decimal."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:681
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:690
 msgid "Thousands Separator"
 msgstr "Separador de miles"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:683
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:692
 msgid ""
 "A symbol used to separate groups of thousands in large numbers to make them "
 "easier to read."
@@ -840,29 +848,29 @@ msgstr ""
 "Símbolo utilizado para separar los grupos de miles en los números grandes "
 "para hacerlos más legibles."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:690
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1189
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:699
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1198
 #: source/MRViewer/MRMouse.h:32
 msgid "None"
 msgstr "Ninguno"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:692
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:701
 msgid "Space"
 msgstr "Espacio"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:705
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:714
 msgid "Linear"
 msgstr "Lineal"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:725
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:734
 msgid "No Units"
 msgstr "Sin unidades"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:726
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:735
 msgid "UI Units"
 msgstr "Unidades de la interfaz"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:734
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:743
 msgid ""
 "It selects length units to be show in the user interface. If model units are "
 "different, then stored values will be automatically converted when shown in "
@@ -872,15 +880,15 @@ msgstr ""
 "usuario. Si las unidades del modelo son distintas, los valores almacenados "
 "se convierten automáticamente al mostrarse en la interfaz."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:737
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:746
 msgid "Same as UI Units"
 msgstr "Igual que las unidades de la interfaz"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:738
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:747
 msgid "Model Units"
 msgstr "Unidades del modelo"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:746
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:755
 msgid ""
 "It selects length units of model's actual values (e.g. coordinates of points "
 "stored in memory). And it affects on importing and exporting of data."
@@ -889,29 +897,29 @@ msgstr ""
 "ejemplo, las coordenadas de puntos en memoria). Afecta a la importación y "
 "exportación de datos."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:750
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:787
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:805
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:759
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:796
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:814
 msgid "Precision"
 msgstr "Precisión"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:752
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:761
 msgid ""
 "The number of digits to be shown after decimal point for length measurements."
 msgstr ""
 "Número de dígitos a mostrar tras el separador decimal para las medidas de "
 "longitud."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:760
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:769
 msgid "Angular"
 msgstr "Angular"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:778
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:787
 msgid "It selects angular units to be show in the user interface."
 msgstr ""
 "Selecciona las unidades angulares que se muestran en la interfaz de usuario."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:789
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:798
 msgid ""
 "The number of digits to be shown after decimal point for angular "
 "measurements."
@@ -919,11 +927,11 @@ msgstr ""
 "Número de dígitos a mostrar tras el separador decimal para las medidas "
 "angulares."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:798
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:807
 msgid "Scale and Ratios"
 msgstr "Escala y ratios"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:807
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:816
 msgid ""
 "The number of digits to be shown after decimal point for dimensionless "
 "measurements."
@@ -931,55 +939,55 @@ msgstr ""
 "Número de dígitos a mostrar tras el separador decimal para las medidas "
 "adimensionales."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:817
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:826
 msgid "Reset Unit Settings"
 msgstr "Restablecer ajustes de unidades"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:819
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:828
 msgid "Set all settings here to their default values."
 msgstr "Restablece todos los ajustes aquí a sus valores predeterminados."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:833
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:842
 msgid "Visuals"
 msgstr "Visualización"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:836
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:845
 msgid "Surface opacity"
 msgstr "Opacidad de la superficie"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:840
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:849
 #: source/MRViewer/ImGuiMenu.cpp:2052 source/MRViewer/ImGuiMenu.cpp:2123
 #: source/MRViewer/ImGuiMenu.cpp:2249 source/MRViewer/ImGuiMenu.cpp:2260
 msgid "Point size"
 msgstr "Tamaño del punto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:844
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:853
 msgid "Point size (subfeatures)"
 msgstr "Tamaño del punto (subcaracterísticas)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:848
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:857
 #: source/MRViewer/ImGuiMenu.cpp:2126 source/MRViewer/ImGuiMenu.cpp:2242
 msgid "Line width"
 msgstr "Anchura de línea"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:852
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:861
 msgid "Line width (subfeatures)"
 msgstr "Anchura de línea (subcaracterísticas)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:877
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:886
 msgid "Alpha Sort"
 msgstr "Ordenación alfa"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:885
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:890
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:894
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:899
 msgid "Depth Peeling Passes"
 msgstr "Pasadas de depth peeling"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:901
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:910
 msgid "Multisample anti-aliasing (MSAA):"
 msgstr "Antialiasing multimuestra (MSAA):"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:902
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:911
 msgid ""
 "The number of samples per pixel: more samples - better render quality but "
 "worse performance."
@@ -987,103 +995,103 @@ msgstr ""
 "Número de muestras por píxel: más muestras – mejor calidad de renderizado "
 "pero peor rendimiento."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:912
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:921
 msgid "Off"
 msgstr "Desactivado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:931
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:940
 msgid "GPU multisampling settings override application value."
 msgstr ""
 "Los ajustes de multisampling de la GPU sobrescriben el valor de la "
 "aplicación."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:933
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:942
 msgid "Application requires restart to apply this change"
 msgstr "La aplicación debe reiniciarse para aplicar este cambio"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:945
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:954
 msgid "Shadows"
 msgstr "Sombras"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:953
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:962
 msgid "Enabled"
 msgstr "Activado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:963
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:972
 msgid "Shadow Color"
 msgstr "Color de la sombra"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:973
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:982
 #: source/MRViewer/ImGuiHelpers.cpp:1591
 msgid "Shift"
 msgstr "Desplazamiento"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:974
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:983
 msgid "X = shift to the left, Y = shift upwards"
 msgstr "X = desplazamiento a la izquierda, Y = desplazamiento hacia arriba"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:975
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:984
 msgid "Blur Radius"
 msgstr "Radio de desenfoque"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:976
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:985
 msgid "Quality"
 msgstr "Calidad"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:979
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:988
 msgid "Blur texture downscaling coefficient"
 msgstr "Coeficiente de reducción de la textura de desenfoque"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1010
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1019
 msgid "Language"
 msgstr "Idioma"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1030
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1039
 msgid "Color Theme"
 msgstr "Tema de colores"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1050
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1059
 msgid "This theme is not valid."
 msgstr "Este tema no es válido."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1057
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1066
 msgid "Add"
 msgstr "Añadir"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1069
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1078
 msgid "Settings reset"
 msgstr "Restablecimiento de ajustes"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1073
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1082
 msgid "Reset all application settings?"
 msgstr "¿Restablecer todos los ajustes de la aplicación?"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1083
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
 #: source/MRViewer/ImGuiMenu.cpp:949 source/MRViewer/MRRibbonMenu.cpp:2110
 msgid "Reset"
 msgstr "Restablecer"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1101
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1110
 msgid "Auto Detect"
 msgstr "Detección automática"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1101
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1110
 msgid "Smooth"
 msgstr "Suave"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1101
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1110
 msgid "Flat"
 msgstr "Plano"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1105
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1114
 msgid "Shading Mode"
 msgstr "Modo de sombreado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1105
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1114
 msgid "Default Shading Mode"
 msgstr "Modo de sombreado predeterminado"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1107
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1116
 msgid ""
 "Shading mode for mesh objects imported from files\n"
 "Detection depends on source format and mesh shape\n"
@@ -1093,47 +1101,47 @@ msgstr ""
 "La detección depende del formato origen y de la forma de la malla\n"
 "Este ajuste afecta también a algunas herramientas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1119
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1128
 msgid "Orthographic"
 msgstr "Ortográfica"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1119
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1128
 msgid "Perspective"
 msgstr "Perspectiva"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1122
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1131
 msgid "Projection Mode"
 msgstr "Modo de proyección"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1150
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1159
 msgid "Background Color"
 msgstr "Color de fondo"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1166
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1175
 msgid "Mouse"
 msgstr "Ratón"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1170
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1179
 msgid "Zoom Gain"
 msgstr "Ganancia de zoom"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1172
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1181
 msgid "Sensitivity for mouse wheel rotation affecting the speed of zooming."
 msgstr "Sensibilidad de la rueda del ratón que afecta a la velocidad del zoom."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1177
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1186
 msgid "Invert Zoom"
 msgstr "Invertir zoom"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1179
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1188
 msgid "Reverses the mouse wheel zoom direction."
 msgstr "Invierte la dirección del zoom de la rueda del ratón."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1238
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1247
 msgid "Set other"
 msgstr "Establecer otros"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1243
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1252
 msgid ""
 "Click here with preferred mouse button \n"
 "with/without modifier"
@@ -1141,32 +1149,32 @@ msgstr ""
 "Haga clic aquí con el botón del ratón preferido \n"
 "con/sin modificador"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1280
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1289
 #, c-format
 msgid "Camera controls can also be used with %s"
 msgstr "Los controles de cámara también pueden usarse con %s"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1287
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1296
 msgid "Spacemouse"
 msgstr "Spacemouse"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1299
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1308
 msgid "Inverse"
 msgstr "Inverso"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1307
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1316
 msgid "Translation Sensitivity"
 msgstr "Sensibilidad de traslación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1319
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1328
 msgid "Rotation Sensitivity"
 msgstr "Sensibilidad de rotación"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1328
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1337
 msgid "Suppress Zoom by Mouse Scroll"
 msgstr "Suprimir zoom con la rueda del ratón"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1329
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1338
 msgid ""
 "This mode is recommended if you have 3Dconnexion driver installed, which "
 "sends fake mouse scroll events resulting in double reaction on SpaceMouse "
@@ -1176,84 +1184,84 @@ msgstr ""
 "envía eventos falsos de rueda del ratón provocando una doble reacción al "
 "movimiento del SpaceMouse y tembleque de la cámara."
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1339
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1348
 msgid "Touchpad"
 msgstr "Panel táctil"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1341
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1350
 msgid "Swipe Rotates Camera"
 msgstr "El deslizamiento rota la cámara"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1341
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1350
 msgid "Swipe Moves Camera"
 msgstr "El deslizamiento mueve la cámara"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1346
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1355
 msgid "Ignore Kinetic Movements"
 msgstr "Ignorar movimientos cinéticos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1348
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1357
 msgid "Allow System to Interrupt Gestures"
 msgstr "Permitir que el sistema interrumpa gestos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1353
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1362
 msgid "Swipe Mode"
 msgstr "Modo de deslizamiento"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1368
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1377
 msgid "Enable in This Session"
 msgstr "Habilitar en esta sesión"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1372
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1381
 msgid "Enable by Default"
 msgstr "Habilitar por defecto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1378
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1384
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1387
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1393
 msgid "Port"
 msgstr "Puerto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1379
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1388
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "Puerto forzado por la opción de línea de comandos -mcpPort"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1394
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
 msgid "MRU Inner Formats"
 msgstr "Formatos internos MRU"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1400
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1409
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "Formato más lento, con alto consumo de memoria, pero (típicamente) con la "
 "mejor compresión"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1401
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1410
 msgid "Fast and still relatively small format"
 msgstr "Formato rápido y aún relativamente compacto"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1402
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1411
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr ""
 "El más grande en tamaño, pero el más rápido al cargar/guardar y sin pérdidas"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1404
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1413
 msgid "Fast and efficient format for sparse data"
 msgstr "Formato rápido y eficiente para datos dispersos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1405
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1414
 msgid "Simplest but high disk space consumption format"
 msgstr "Formato más sencillo pero con alto consumo de espacio en disco"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1430
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1439
 msgid "Mesh Format"
 msgstr "Formato de malla"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1448
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1457
 msgid "Points Format"
 msgstr "Formato de puntos"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1463
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1472
 msgid "Voxels Format"
 msgstr "Formato de vóxeles"
 
@@ -1402,13 +1410,9 @@ msgstr "Invertir orientación de la superficie"
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:60
 msgid ""
 "By default result voxels has iso-surfaces oriented from bigger value to "
-"smaller which represents dense volume,invert to have iso-surface oriented "
+"smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
-"Por defecto, los vóxeles resultantes tienen isosuperficies orientadas del "
-"valor mayor al menor, lo que representa un volumen denso; invierta para que "
-"la isosuperficie quede orientada del valor menor al mayor y represente un "
-"volumen de distancias"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"
@@ -2945,7 +2949,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Grados, minutos, segundos"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1403
+#: source/MRViewer/MRViewer.cpp:1405
 #, c++-format
 msgid "{} as {}"
 msgstr "{} como {}"
@@ -2973,6 +2977,16 @@ msgstr "FRENTE"
 #: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "ATRÁS"
+
+#~ msgid ""
+#~ "By default result voxels has iso-surfaces oriented from bigger value to "
+#~ "smaller which represents dense volume,invert to have iso-surface oriented "
+#~ "from smaller value to bigger to represent distances volume"
+#~ msgstr ""
+#~ "Por defecto, los vóxeles resultantes tienen isosuperficies orientadas del "
+#~ "valor mayor al menor, lo que representa un volumen denso; invierta para "
+#~ "que la isosuperficie quede orientada del valor menor al mayor y "
+#~ "represente un volumen de distancias"
 
 #~ msgid "Cull Back Faces"
 #~ msgstr "Descartar caras traseras"
