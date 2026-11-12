@@ -493,7 +493,7 @@ msgstr "MCP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
 msgid "Features"
-msgstr "Функции"
+msgstr "Примитивы"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:120
 msgid "Tools"
