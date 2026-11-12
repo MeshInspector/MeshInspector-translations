@@ -620,11 +620,11 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:379
 msgid "Show Splash Screen"
-msgstr ""
+msgstr "Afficher l'écran de démarrage"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
 msgid "Show the splash screen while the application is starting."
-msgstr ""
+msgstr "Affiche l'écran de démarrage pendant le lancement de l'application."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
 msgid "Behavior"
@@ -1419,6 +1419,10 @@ msgid ""
 "smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
+"Par défaut, les voxels résultants ont des iso-surfaces orientées de la "
+"valeur la plus grande à la plus petite, ce qui représente un volume dense ; "
+"inverser pour orienter l'iso-surface de la plus petite valeur à la plus "
+"grande afin de représenter un volume de distances"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"

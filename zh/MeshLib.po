@@ -593,11 +593,11 @@ msgstr "允许将工具窗口移到主窗口之外。要应用更改,需要重�
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:379
 msgid "Show Splash Screen"
-msgstr ""
+msgstr "显示启动画面"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
 msgid "Show the splash screen while the application is starting."
-msgstr ""
+msgstr "在应用程序启动时显示启动画面。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
 msgid "Behavior"
@@ -1352,6 +1352,8 @@ msgid ""
 "smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
+"默认情况下,生成的体素的等值面方向是从较大值指向较小值,表示密集体积;反转后等值"
+"面方向变为从较小值指向较大值,以表示距离体积"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"

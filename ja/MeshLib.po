@@ -616,11 +616,11 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:379
 msgid "Show Splash Screen"
-msgstr ""
+msgstr "スプラッシュスクリーンを表示"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
 msgid "Show the splash screen while the application is starting."
-msgstr ""
+msgstr "アプリケーションの起動中にスプラッシュスクリーンを表示します。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
 msgid "Behavior"
@@ -1389,6 +1389,9 @@ msgid ""
 "smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
+"デフォルトでは、結果ボクセルの等値面は密なボリュームを表す大きい値から小さい"
+"値の方向に向いています。小さい値から大きい値の方向（距離ボリューム）に反転す"
+"るにはこれを使用します"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"

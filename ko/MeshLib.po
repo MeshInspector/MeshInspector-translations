@@ -609,11 +609,11 @@ msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:379
 msgid "Show Splash Screen"
-msgstr ""
+msgstr "스플래시 화면 표시"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:381
 msgid "Show the splash screen while the application is starting."
-msgstr ""
+msgstr "애플리케이션이 시작되는 동안 스플래시 화면을 표시합니다."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:387
 msgid "Behavior"
@@ -1376,6 +1376,9 @@ msgid ""
 "smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
+"기본적으로 결과 복셀의 등가면은 큰 값에서 작은 값으로 향하도록 방향이 지정되"
+"어 조밀 볼륨을 나타냅니다. 거리 볼륨을 나타내려면 등가면이 작은 값에서 큰 값"
+"으로 향하도록 반전하십시오"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"
