@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 04:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1059,6 +1059,13 @@ msgstr ""
 msgid "Center"
 msgstr ""
 
+msgid "Rotation"
+msgstr ""
+
+msgid ""
+"Rotation of the object around its center: angles around X, Y and Z axes."
+msgstr ""
+
 msgid "Name"
 msgstr ""
 
@@ -1215,10 +1222,10 @@ msgstr ""
 msgid "3D distance"
 msgstr ""
 
-msgid "Point 2:"
+msgid "Point 1:"
 msgstr ""
 
-msgid "Point 1:"
+msgid "Point 2:"
 msgstr ""
 
 msgid "Nominal & Tolerance"
@@ -2359,7 +2366,8 @@ msgstr ""
 
 msgid ""
 "Cut the extrusion body along its self-intersections (experimental self-"
-"boolean) and delete the parts inside the body or turned inside out.\n"
+"boolean) and keep the largest part of every connected component; "
+"intersecting components are united.\n"
 "Requires closed body contours and either a closed trajectory or Fill Holes."
 msgstr ""
 
@@ -3468,6 +3476,14 @@ msgstr ""
 msgid "Z res"
 msgstr ""
 
+msgid "Ignore Selection"
+msgstr ""
+
+msgid ""
+"If the mesh has selected triangles, only they are deformed. Check to deform "
+"the whole mesh."
+msgstr ""
+
 msgid "Reset/Start"
 msgstr ""
 
@@ -3986,6 +4002,20 @@ msgstr ""
 msgid "Boolean points: Difference"
 msgstr ""
 
+msgid ""
+"Boolean operation failed.\n"
+"\n"
+"The operation could not be completed due to geometry issues. Common causes "
+"include:\n"
+"- Self-intersections\n"
+"- Holes\n"
+"- Inconsistent normals\n"
+"- Degenerate triangles\n"
+"- Duplicate or floating vertices/edges\n"
+"\n"
+"Please check and repair the mesh before retrying."
+msgstr ""
+
 msgid "Force Mode"
 msgstr ""
 
@@ -4034,6 +4064,9 @@ msgid "Add Intersection Lines"
 msgstr ""
 
 msgid "Add Intersection Contours"
+msgstr ""
+
+msgid "Exchange objects A and B."
 msgstr ""
 
 msgid "Select Cut Edges"
@@ -4301,9 +4334,6 @@ msgid "Diameter of each stone"
 msgstr ""
 
 msgid "Distance between two ajacent stones"
-msgstr ""
-
-msgid "Rotation"
 msgstr ""
 
 msgid "Rotates all the grid"
