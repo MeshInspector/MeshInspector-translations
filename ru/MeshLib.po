@@ -1497,11 +1497,11 @@ msgstr "Полилинии"
 
 #: source/MRMesh/MRObjectMesh.h:21
 msgid "Mesh"
-msgstr "Сетка"
+msgstr "Меш"
 
 #: source/MRMesh/MRObjectMesh.h:24
 msgid "Meshes"
-msgstr "Сетки"
+msgstr "Меши"
 
 #: source/MRMesh/MRObjectPoints.h:24
 msgid "Point Cloud"
