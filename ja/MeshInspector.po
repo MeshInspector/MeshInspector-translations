@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -658,7 +658,7 @@ msgstr "テクスチャID"
 msgid "Clip object to get cross section"
 msgstr "断面を取得するためにオブジェクトをクリップ"
 
-msgid "At least one objects should be in scene"
+msgid "At least one object should be in the scene"
 msgstr "シーンに少なくとも1つのオブジェクトが必要です"
 
 msgid "Clip Objects"
@@ -1507,13 +1507,6 @@ msgstr "選択に合わせる"
 msgid "Settings"
 msgstr "設定"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"選択したセグメントをメッシュオブジェクトとして可視化します。\n"
-"ウェブアプリで便利です。"
-
 msgid "Work Color"
 msgstr "作業色"
 
@@ -1544,7 +1537,7 @@ msgstr "ツールを表示"
 msgid "Input Time"
 msgstr "入力時間"
 
-msgid "Formated Time"
+msgid "Formatted Time"
 msgstr "フォーマット済み時間"
 
 msgid "Play speed"
@@ -3199,11 +3192,15 @@ msgstr "穴全体または複数の穴を充填します"
 msgid "Fill All"
 msgstr "すべてを充填"
 
-msgid "Divide a hole on parts"
-msgstr "穴をパーツに分割"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr "除外された穴を除き、メッシュのすべての穴を一度に充填します"
 
 msgid "Make Bridge"
 msgstr "ブリッジを作成"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr "穴の2つの境界エッジ間にブリッジを架けて、穴を複数の部分に分割します"
 
 msgid "Fill type"
 msgstr "充填タイプ"
@@ -3218,10 +3215,10 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
-"すべての穴を充填モード使用時に %s+クリックで3Dシーン内の穴のエッジを除外また"
-"は含めます。"
+"「すべての穴を充填」モードの使用時に、3Dシーンで穴のエッジを%s+クリックする"
+"と、その穴を除外または含めることができます。"
 
 msgid "Deselect Large Holes"
 msgstr "大きい穴の選択を解除"
@@ -3660,8 +3657,8 @@ msgstr "コンポーネントを強制分割"
 msgid "Pick Free Form Align Point"
 msgstr "フリーフォーム位置合わせポイントを選択"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "ObjectMeshを2つまたはObjectPointsを2つ選択してください"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr "メッシュまたはポイントクラウドを任意の組み合わせで2つ選択してください"
 
 msgid "Floating"
 msgstr "フローティング"
@@ -5704,8 +5701,12 @@ msgstr "メッシュサーフェス上の2点をクリックしてテキスト�
 msgid "Drag the points to adjust direction as needed."
 msgstr "ポイントをドラッグして必要に応じて方向を調整します。"
 
-msgid "Applies only to multiline text"
-msgstr "複数行テキストにのみ適用されます"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
+"複数行テキストの行を揃えます。「パスに沿ってテキストを曲げる」を使用する場合"
+"は、テキストをパスの始点、中央、または終点にも配置します。"
 
 msgid "Depth (-)/Height (+) "
 msgstr "深さ (-)/高さ (+) "
@@ -7055,8 +7056,8 @@ msgstr "共通設定"
 msgid "Tool Diameter"
 msgstr "ツール直径"
 
-msgid "Radius of the milling tool"
-msgstr "フライス工具の半径"
+msgid "Diameter of the milling tool"
+msgstr "切削ツールの直径"
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "メッシュをオフセットするために必要なボクセルサイズ"
@@ -8052,6 +8053,17 @@ msgstr "外れ値ポイントでの法線差の最小角度"
 
 msgid "Select Outliers"
 msgstr "外れ値を選択"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
+"探索球内の平均ポイント数: 探索半径は、ポイントを中心とするこの半径の球に平均"
+"してこの数のポイントが含まれるように選択されます。\n"
+"探索半径: {}"
 
 msgid "Empty Point Cloud."
 msgstr "空のポイントクラウド。"
@@ -9598,6 +9610,39 @@ msgstr "キャプチャ"
 
 msgid "Import Zivid scan"
 msgstr "Zividスキャンをインポート"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "シーンに少なくとも1つのオブジェクトが必要です"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "選択したセグメントをメッシュオブジェクトとして可視化します。\n"
+#~ "ウェブアプリで便利です。"
+
+#~ msgid "Formated Time"
+#~ msgstr "フォーマット済み時間"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "穴をパーツに分割"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr ""
+#~ "すべての穴を充填モード使用時に %s+クリックで3Dシーン内の穴のエッジを除外ま"
+#~ "たは含めます。"
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "ObjectMeshを2つまたはObjectPointsを2つ選択してください"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "複数行テキストにのみ適用されます"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "フライス工具の半径"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"

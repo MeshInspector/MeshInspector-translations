@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -490,6 +490,7 @@ msgid "MCP"
 msgstr "MCP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
+#: source/MRMesh/MRFeatureObject.h:101
 msgid "Features"
 msgstr "フィーチャー"
 
@@ -1397,6 +1398,157 @@ msgstr ""
 msgid "Open Voxels From TIFF"
 msgstr "TIFFからボクセルを開く"
 
+#: source/MRMesh/MRAngleMeasurementObject.h:21
+#: source/MRViewer/ImGuiMenu.cpp:1827
+msgid "Angle"
+msgstr "角度"
+
+#: source/MRMesh/MRAngleMeasurementObject.h:24
+msgid "Angles"
+msgstr "角度"
+
+#: source/MRMesh/MRCircleObject.h:30
+msgid "Circle"
+msgstr "円"
+
+#: source/MRMesh/MRCircleObject.h:33
+msgid "Circles"
+msgstr "円"
+
+#: source/MRMesh/MRConeObject.h:32
+msgid "Cone"
+msgstr "円錐"
+
+#: source/MRMesh/MRConeObject.h:35
+msgid "Cones"
+msgstr "円錐"
+
+#: source/MRMesh/MRCylinderObject.h:31
+msgid "Cylinder"
+msgstr "円柱"
+
+#: source/MRMesh/MRCylinderObject.h:34
+msgid "Cylinders"
+msgstr "円柱"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:22
+msgid "Distance"
+msgstr "距離"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:25
+msgid "Distances"
+msgstr "距離"
+
+#: source/MRMesh/MRFeatureObject.h:98
+msgid "Feature"
+msgstr "フィーチャー"
+
+#: source/MRMesh/MRLineObject.h:26
+msgid "Line"
+msgstr "ライン"
+
+#: source/MRMesh/MRLineObject.h:29
+msgid "Lines"
+msgstr "ライン"
+
+#: source/MRMesh/MRObject.h:73
+msgid "Object"
+msgstr "オブジェクト"
+
+#: source/MRMesh/MRObject.h:77 source/MRViewer/ImGuiMenu.cpp:1694
+msgid "Objects"
+msgstr "オブジェクト"
+
+#: source/MRMesh/MRObjectDistanceMap.h:27
+msgid "Distance Map"
+msgstr "距離マップ"
+
+#: source/MRMesh/MRObjectDistanceMap.h:30
+msgid "Distance Maps"
+msgstr "距離マップ"
+
+#: source/MRMesh/MRObjectGcode.h:24
+msgid "G-code"
+msgstr "G-code"
+
+#: source/MRMesh/MRObjectGcode.h:27
+msgid "G-codes"
+msgstr "G-code"
+
+#: source/MRMesh/MRObjectLines.h:20
+msgid "Polyline"
+msgstr "ポリライン"
+
+#: source/MRMesh/MRObjectLines.h:23
+msgid "Polylines"
+msgstr "ポリライン"
+
+#: source/MRMesh/MRObjectMesh.h:21
+msgid "Mesh"
+msgstr "メッシュ"
+
+#: source/MRMesh/MRObjectMesh.h:24
+msgid "Meshes"
+msgstr "メッシュ"
+
+#: source/MRMesh/MRObjectPoints.h:24
+msgid "Point Cloud"
+msgstr "点群"
+
+#: source/MRMesh/MRObjectPoints.h:27
+msgid "Point Clouds"
+msgstr "点群"
+
+#: source/MRMesh/MRPlaneObject.h:25
+msgid "Plane"
+msgstr "平面"
+
+#: source/MRMesh/MRPlaneObject.h:28
+msgid "Planes"
+msgstr "平面"
+
+#: source/MRMesh/MRPointMeasurementObject.h:29
+msgid "Measure Point"
+msgstr "計測ポイント"
+
+#: source/MRMesh/MRPointMeasurementObject.h:32
+msgid "Measure Points"
+msgstr "計測ポイント"
+
+#: source/MRMesh/MRPointObject.h:27
+msgid "Point"
+msgstr "ポイント"
+
+#: source/MRMesh/MRPointObject.h:30 source/MRViewer/ImGuiMenu.cpp:1747
+#: source/MRViewer/ImGuiMenu.cpp:2218 source/MRViewer/ImGuiMenu.cpp:2239
+msgid "Points"
+msgstr "ポイント"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:22
+#: source/MRViewer/ImGuiMenu.cpp:1829
+msgid "Radius"
+msgstr "半径"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:25
+msgid "Radii"
+msgstr "半径"
+
+#: source/MRMesh/MRSceneRoot.h:25
+msgid "Root"
+msgstr "ルート"
+
+#: source/MRMesh/MRSceneRoot.h:28
+msgid "Roots"
+msgstr "ルート"
+
+#: source/MRMesh/MRSphereObject.h:28
+msgid "Sphere"
+msgstr "球"
+
+#: source/MRMesh/MRSphereObject.h:31
+msgid "Spheres"
+msgstr "球"
+
 #: source/MRMesh/MRUnitInfo.cpp:22
 msgid "Microns"
 msgstr "マイクロメートル"
@@ -1678,6 +1830,14 @@ msgstr "フィート⁻¹"
 #: source/MRMesh/MRUnitInfo.cpp:127
 msgid " ft⁻¹"
 msgstr " ft⁻¹"
+
+#: source/MRMesh/MRVisualObject.h:127
+msgid "Visual Object"
+msgstr "ビジュアルオブジェクト"
+
+#: source/MRMesh/MRVisualObject.h:130
+msgid "Visual Objects"
+msgstr "ビジュアルオブジェクト"
 
 #: source/MRViewer/ImGuiHelpers.cpp:98
 #, c-format
@@ -2012,10 +2172,6 @@ msgstr "選択済み / 全体"
 msgid "Object Type"
 msgstr "オブジェクトタイプ"
 
-#: source/MRViewer/ImGuiMenu.cpp:1694
-msgid "Objects"
-msgstr "オブジェクト"
-
 #: source/MRViewer/ImGuiMenu.cpp:1711
 msgid "Local Box Size"
 msgstr "ローカルボックスサイズ"
@@ -2083,11 +2239,6 @@ msgstr "頂点"
 #: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2217
 msgid "Edges"
 msgstr "エッジ"
-
-#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2218
-#: source/MRViewer/ImGuiMenu.cpp:2239
-msgid "Points"
-msgstr "ポイント"
 
 #: source/MRViewer/ImGuiMenu.cpp:1751
 msgid "Point Normals"
@@ -2165,17 +2316,9 @@ msgstr "最小,等値,最大"
 msgid "X/Y/Z Distance"
 msgstr "X/Y/Z 距離"
 
-#: source/MRViewer/ImGuiMenu.cpp:1827
-msgid "Angle"
-msgstr "角度"
-
 #: source/MRViewer/ImGuiMenu.cpp:1829 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "直径"
-
-#: source/MRViewer/ImGuiMenu.cpp:1829
-msgid "Radius"
-msgstr "半径"
 
 #: source/MRViewer/ImGuiMenu.cpp:1919
 msgid "Change Feature Transform"
@@ -2937,6 +3080,14 @@ msgstr "正面"
 #: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "背面"
+
+#: source/MRVoxels/MRObjectVoxels.h:27
+msgid "Voxel Volume"
+msgstr "ボクセルボリューム"
+
+#: source/MRVoxels/MRObjectVoxels.h:30
+msgid "Voxel Volumes"
+msgstr "ボクセルボリューム"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "

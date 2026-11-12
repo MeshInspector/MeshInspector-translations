@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -485,6 +485,7 @@ msgid "MCP"
 msgstr "MCP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
+#: source/MRMesh/MRFeatureObject.h:101
 msgid "Features"
 msgstr "피처"
 
@@ -1384,6 +1385,157 @@ msgstr ""
 msgid "Open Voxels From TIFF"
 msgstr "TIFF에서 복셀 열기"
 
+#: source/MRMesh/MRAngleMeasurementObject.h:21
+#: source/MRViewer/ImGuiMenu.cpp:1827
+msgid "Angle"
+msgstr "각도"
+
+#: source/MRMesh/MRAngleMeasurementObject.h:24
+msgid "Angles"
+msgstr "각도"
+
+#: source/MRMesh/MRCircleObject.h:30
+msgid "Circle"
+msgstr "원"
+
+#: source/MRMesh/MRCircleObject.h:33
+msgid "Circles"
+msgstr "원"
+
+#: source/MRMesh/MRConeObject.h:32
+msgid "Cone"
+msgstr "원뿔"
+
+#: source/MRMesh/MRConeObject.h:35
+msgid "Cones"
+msgstr "원뿔"
+
+#: source/MRMesh/MRCylinderObject.h:31
+msgid "Cylinder"
+msgstr "원기둥"
+
+#: source/MRMesh/MRCylinderObject.h:34
+msgid "Cylinders"
+msgstr "원기둥"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:22
+msgid "Distance"
+msgstr "거리"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:25
+msgid "Distances"
+msgstr "거리"
+
+#: source/MRMesh/MRFeatureObject.h:98
+msgid "Feature"
+msgstr "피처"
+
+#: source/MRMesh/MRLineObject.h:26
+msgid "Line"
+msgstr "라인"
+
+#: source/MRMesh/MRLineObject.h:29
+msgid "Lines"
+msgstr "라인"
+
+#: source/MRMesh/MRObject.h:73
+msgid "Object"
+msgstr "객체"
+
+#: source/MRMesh/MRObject.h:77 source/MRViewer/ImGuiMenu.cpp:1694
+msgid "Objects"
+msgstr "객체"
+
+#: source/MRMesh/MRObjectDistanceMap.h:27
+msgid "Distance Map"
+msgstr "거리 맵"
+
+#: source/MRMesh/MRObjectDistanceMap.h:30
+msgid "Distance Maps"
+msgstr "거리 맵"
+
+#: source/MRMesh/MRObjectGcode.h:24
+msgid "G-code"
+msgstr "G-code"
+
+#: source/MRMesh/MRObjectGcode.h:27
+msgid "G-codes"
+msgstr "G-code"
+
+#: source/MRMesh/MRObjectLines.h:20
+msgid "Polyline"
+msgstr "폴리라인"
+
+#: source/MRMesh/MRObjectLines.h:23
+msgid "Polylines"
+msgstr "폴리라인"
+
+#: source/MRMesh/MRObjectMesh.h:21
+msgid "Mesh"
+msgstr "메시"
+
+#: source/MRMesh/MRObjectMesh.h:24
+msgid "Meshes"
+msgstr "메시"
+
+#: source/MRMesh/MRObjectPoints.h:24
+msgid "Point Cloud"
+msgstr "포인트 클라우드"
+
+#: source/MRMesh/MRObjectPoints.h:27
+msgid "Point Clouds"
+msgstr "포인트 클라우드"
+
+#: source/MRMesh/MRPlaneObject.h:25
+msgid "Plane"
+msgstr "평면"
+
+#: source/MRMesh/MRPlaneObject.h:28
+msgid "Planes"
+msgstr "평면"
+
+#: source/MRMesh/MRPointMeasurementObject.h:29
+msgid "Measure Point"
+msgstr "측정 포인트"
+
+#: source/MRMesh/MRPointMeasurementObject.h:32
+msgid "Measure Points"
+msgstr "측정 포인트"
+
+#: source/MRMesh/MRPointObject.h:27
+msgid "Point"
+msgstr "포인트"
+
+#: source/MRMesh/MRPointObject.h:30 source/MRViewer/ImGuiMenu.cpp:1747
+#: source/MRViewer/ImGuiMenu.cpp:2218 source/MRViewer/ImGuiMenu.cpp:2239
+msgid "Points"
+msgstr "포인트"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:22
+#: source/MRViewer/ImGuiMenu.cpp:1829
+msgid "Radius"
+msgstr "반지름"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:25
+msgid "Radii"
+msgstr "반지름"
+
+#: source/MRMesh/MRSceneRoot.h:25
+msgid "Root"
+msgstr "루트"
+
+#: source/MRMesh/MRSceneRoot.h:28
+msgid "Roots"
+msgstr "루트"
+
+#: source/MRMesh/MRSphereObject.h:28
+msgid "Sphere"
+msgstr "구"
+
+#: source/MRMesh/MRSphereObject.h:31
+msgid "Spheres"
+msgstr "구"
+
 #: source/MRMesh/MRUnitInfo.cpp:22
 msgid "Microns"
 msgstr "마이크로미터"
@@ -1665,6 +1817,14 @@ msgstr "피트⁻¹"
 #: source/MRMesh/MRUnitInfo.cpp:127
 msgid " ft⁻¹"
 msgstr " ft⁻¹"
+
+#: source/MRMesh/MRVisualObject.h:127
+msgid "Visual Object"
+msgstr "시각 객체"
+
+#: source/MRMesh/MRVisualObject.h:130
+msgid "Visual Objects"
+msgstr "시각 객체"
 
 #: source/MRViewer/ImGuiHelpers.cpp:98
 #, c-format
@@ -2000,10 +2160,6 @@ msgstr "선택됨 / 전체"
 msgid "Object Type"
 msgstr "객체 유형"
 
-#: source/MRViewer/ImGuiMenu.cpp:1694
-msgid "Objects"
-msgstr "객체"
-
 #: source/MRViewer/ImGuiMenu.cpp:1711
 msgid "Local Box Size"
 msgstr "로컬 상자 크기"
@@ -2070,11 +2226,6 @@ msgstr "정점"
 #: source/MRViewer/ImGuiMenu.cpp:1746 source/MRViewer/ImGuiMenu.cpp:2217
 msgid "Edges"
 msgstr "가장자리"
-
-#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2218
-#: source/MRViewer/ImGuiMenu.cpp:2239
-msgid "Points"
-msgstr "포인트"
 
 #: source/MRViewer/ImGuiMenu.cpp:1751
 msgid "Point Normals"
@@ -2152,17 +2303,9 @@ msgstr "최소, 등가, 최대"
 msgid "X/Y/Z Distance"
 msgstr "X/Y/Z 거리"
 
-#: source/MRViewer/ImGuiMenu.cpp:1827
-msgid "Angle"
-msgstr "각도"
-
 #: source/MRViewer/ImGuiMenu.cpp:1829 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "지름"
-
-#: source/MRViewer/ImGuiMenu.cpp:1829
-msgid "Radius"
-msgstr "반지름"
 
 #: source/MRViewer/ImGuiMenu.cpp:1919
 msgid "Change Feature Transform"
@@ -2924,6 +3067,14 @@ msgstr "정면"
 #: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "후면"
+
+#: source/MRVoxels/MRObjectVoxels.h:27
+msgid "Voxel Volume"
+msgstr "복셀 볼륨"
+
+#: source/MRVoxels/MRObjectVoxels.h:30
+msgid "Voxel Volumes"
+msgstr "복셀 볼륨"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "

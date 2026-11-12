@@ -105,10 +105,13 @@ msgstr ""
 msgid "Create Simple Objects"
 msgstr ""
 
-msgid "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, torus and arrow."
+msgid "Create a geometric primitive mesh: cube, parallelepiped, cylinder, sphere, torus, arrow or prism."
 msgstr ""
 
 msgid "Create Primitive (Interactive)"
+msgstr ""
+
+msgid "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, torus and arrow."
 msgstr ""
 
 msgid "Clone"
@@ -156,7 +159,7 @@ msgstr ""
 msgid "Convex Hull"
 msgstr ""
 
-msgid "Create convex hull mesh for each selected mesh or points."
+msgid "Create a convex hull mesh of the selected mesh or point cloud."
 msgstr ""
 
 msgid "Delete Colors"
@@ -468,7 +471,7 @@ msgstr ""
 msgid "Slicestack Diagnostics"
 msgstr ""
 
-msgid "Check slices of a 3MF slicestack file for open contours, intersections and inconsistent winding."
+msgid "Check slices of a 3MF slicestack file for intersections and inconsistent winding."
 msgstr ""
 
 msgid "Show Dense BBox"
@@ -798,7 +801,7 @@ msgstr ""
 msgid "Smooth Boundary"
 msgstr ""
 
-msgid "Add triangles to mesh boundary to make it more straighten."
+msgid "Add triangles along the mesh boundary to make it straighter."
 msgstr ""
 
 msgid "Smooth Region Boundary"
@@ -888,13 +891,13 @@ msgstr ""
 msgid "Select Twin Edges"
 msgstr ""
 
-msgid "Find pairs of vertices located very close, and then select edges in between of them."
+msgid "Select twin edges: edges whose end vertices lie within Close distance of the end vertices of another edge, for example duplicated edges along an unwelded seam."
 msgstr ""
 
 msgid "Select Incident Triangles"
 msgstr ""
 
-msgid "Select all triangles which are connected to selected edges."
+msgid "Add to the triangle selection all triangles that share a vertex with the selected edges."
 msgstr ""
 
 msgid "Select Region Boundary"
@@ -970,6 +973,9 @@ msgid "Remove from selection all triangles oriented toward the camera (even if o
 msgstr ""
 
 msgid "Select by Area"
+msgstr ""
+
+msgid "Select connected parts of the mesh whose area is less or greater than the given value, in absolute units or percent of the total area. Replaces the current selection."
 msgstr ""
 
 msgid "Select Creases by Angle"
@@ -1257,7 +1263,7 @@ msgstr ""
 msgid "Toolpath"
 msgstr ""
 
-msgid "Build z-constant tool path for the given mesh"
+msgid "Build a toolpath for the selected mesh: Constant Z, Lacing or Constant Cusp"
 msgstr ""
 
 msgid "Mesh Boolean"

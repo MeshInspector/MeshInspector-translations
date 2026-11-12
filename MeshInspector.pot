@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -642,7 +642,7 @@ msgstr ""
 msgid "Clip object to get cross section"
 msgstr ""
 
-msgid "At least one objects should be in scene"
+msgid "At least one object should be in the scene"
 msgstr ""
 
 msgid "Clip Objects"
@@ -1469,11 +1469,6 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-
 msgid "Work Color"
 msgstr ""
 
@@ -1504,7 +1499,7 @@ msgstr ""
 msgid "Input Time"
 msgstr ""
 
-msgid "Formated Time"
+msgid "Formatted Time"
 msgstr ""
 
 msgid "Play speed"
@@ -3024,10 +3019,14 @@ msgstr ""
 msgid "Fill All"
 msgstr ""
 
-msgid "Divide a hole on parts"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
 msgstr ""
 
 msgid "Make Bridge"
+msgstr ""
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
 msgstr ""
 
 msgid "Fill type"
@@ -3041,7 +3040,7 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
 
 msgid "Deselect Large Holes"
@@ -3440,7 +3439,7 @@ msgstr ""
 msgid "Pick Free Form Align Point"
 msgstr ""
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
+msgid "Please select two objects: meshes or point clouds, in any combination"
 msgstr ""
 
 msgid "Floating"
@@ -5307,7 +5306,9 @@ msgstr ""
 msgid "Drag the points to adjust direction as needed."
 msgstr ""
 
-msgid "Applies only to multiline text"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
 msgstr ""
 
 msgid "Depth (-)/Height (+) "
@@ -6545,7 +6546,7 @@ msgstr ""
 msgid "Tool Diameter"
 msgstr ""
 
-msgid "Radius of the milling tool"
+msgid "Diameter of the milling tool"
 msgstr ""
 
 msgid "Size of voxel needed to offset mesh"
@@ -7454,6 +7455,14 @@ msgid "Minimum angle of difference of normal at outlier points"
 msgstr ""
 
 msgid "Select Outliers"
+msgstr ""
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
 msgstr ""
 
 msgid "Empty Point Cloud."

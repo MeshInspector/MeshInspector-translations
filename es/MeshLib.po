@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-06-04 12:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -490,6 +490,7 @@ msgid "MCP"
 msgstr "MCP"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:58
+#: source/MRMesh/MRFeatureObject.h:101
 msgid "Features"
 msgstr "Características"
 
@@ -1422,6 +1423,157 @@ msgstr ""
 msgid "Open Voxels From TIFF"
 msgstr "Abrir vóxeles desde TIFF"
 
+#: source/MRMesh/MRAngleMeasurementObject.h:21
+#: source/MRViewer/ImGuiMenu.cpp:1827
+msgid "Angle"
+msgstr "Ángulo"
+
+#: source/MRMesh/MRAngleMeasurementObject.h:24
+msgid "Angles"
+msgstr "Ángulos"
+
+#: source/MRMesh/MRCircleObject.h:30
+msgid "Circle"
+msgstr "Círculo"
+
+#: source/MRMesh/MRCircleObject.h:33
+msgid "Circles"
+msgstr "Círculos"
+
+#: source/MRMesh/MRConeObject.h:32
+msgid "Cone"
+msgstr "Cono"
+
+#: source/MRMesh/MRConeObject.h:35
+msgid "Cones"
+msgstr "Conos"
+
+#: source/MRMesh/MRCylinderObject.h:31
+msgid "Cylinder"
+msgstr "Cilindro"
+
+#: source/MRMesh/MRCylinderObject.h:34
+msgid "Cylinders"
+msgstr "Cilindros"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:22
+msgid "Distance"
+msgstr "Distancia"
+
+#: source/MRMesh/MRDistanceMeasurementObject.h:25
+msgid "Distances"
+msgstr "Distancias"
+
+#: source/MRMesh/MRFeatureObject.h:98
+msgid "Feature"
+msgstr "Característica"
+
+#: source/MRMesh/MRLineObject.h:26
+msgid "Line"
+msgstr "Línea"
+
+#: source/MRMesh/MRLineObject.h:29
+msgid "Lines"
+msgstr "Líneas"
+
+#: source/MRMesh/MRObject.h:73
+msgid "Object"
+msgstr "Objeto"
+
+#: source/MRMesh/MRObject.h:77 source/MRViewer/ImGuiMenu.cpp:1694
+msgid "Objects"
+msgstr "Objetos"
+
+#: source/MRMesh/MRObjectDistanceMap.h:27
+msgid "Distance Map"
+msgstr "Mapa de distancias"
+
+#: source/MRMesh/MRObjectDistanceMap.h:30
+msgid "Distance Maps"
+msgstr "Mapas de distancias"
+
+#: source/MRMesh/MRObjectGcode.h:24
+msgid "G-code"
+msgstr "G-code"
+
+#: source/MRMesh/MRObjectGcode.h:27
+msgid "G-codes"
+msgstr "G-codes"
+
+#: source/MRMesh/MRObjectLines.h:20
+msgid "Polyline"
+msgstr "Polilínea"
+
+#: source/MRMesh/MRObjectLines.h:23
+msgid "Polylines"
+msgstr "Polilíneas"
+
+#: source/MRMesh/MRObjectMesh.h:21
+msgid "Mesh"
+msgstr "Malla"
+
+#: source/MRMesh/MRObjectMesh.h:24
+msgid "Meshes"
+msgstr "Mallas"
+
+#: source/MRMesh/MRObjectPoints.h:24
+msgid "Point Cloud"
+msgstr "Nube de puntos"
+
+#: source/MRMesh/MRObjectPoints.h:27
+msgid "Point Clouds"
+msgstr "Nubes de puntos"
+
+#: source/MRMesh/MRPlaneObject.h:25
+msgid "Plane"
+msgstr "Plano"
+
+#: source/MRMesh/MRPlaneObject.h:28
+msgid "Planes"
+msgstr "Planos"
+
+#: source/MRMesh/MRPointMeasurementObject.h:29
+msgid "Measure Point"
+msgstr "Punto de medición"
+
+#: source/MRMesh/MRPointMeasurementObject.h:32
+msgid "Measure Points"
+msgstr "Puntos de medición"
+
+#: source/MRMesh/MRPointObject.h:27
+msgid "Point"
+msgstr "Punto"
+
+#: source/MRMesh/MRPointObject.h:30 source/MRViewer/ImGuiMenu.cpp:1747
+#: source/MRViewer/ImGuiMenu.cpp:2218 source/MRViewer/ImGuiMenu.cpp:2239
+msgid "Points"
+msgstr "Puntos"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:22
+#: source/MRViewer/ImGuiMenu.cpp:1829
+msgid "Radius"
+msgstr "Radio"
+
+#: source/MRMesh/MRRadiusMeasurementObject.h:25
+msgid "Radii"
+msgstr "Radios"
+
+#: source/MRMesh/MRSceneRoot.h:25
+msgid "Root"
+msgstr "Raíz"
+
+#: source/MRMesh/MRSceneRoot.h:28
+msgid "Roots"
+msgstr "Raíces"
+
+#: source/MRMesh/MRSphereObject.h:28
+msgid "Sphere"
+msgstr "Esfera"
+
+#: source/MRMesh/MRSphereObject.h:31
+msgid "Spheres"
+msgstr "Esferas"
+
 #: source/MRMesh/MRUnitInfo.cpp:22
 msgid "Microns"
 msgstr "Micrómetros"
@@ -1703,6 +1855,14 @@ msgstr "Pies⁻¹"
 #: source/MRMesh/MRUnitInfo.cpp:127
 msgid " ft⁻¹"
 msgstr " ft⁻¹"
+
+#: source/MRMesh/MRVisualObject.h:127
+msgid "Visual Object"
+msgstr "Objeto visual"
+
+#: source/MRMesh/MRVisualObject.h:130
+msgid "Visual Objects"
+msgstr "Objetos visuales"
 
 #: source/MRViewer/ImGuiHelpers.cpp:98
 #, c-format
@@ -2039,10 +2199,6 @@ msgstr "Seleccionados / Total"
 msgid "Object Type"
 msgstr "Tipo de objeto"
 
-#: source/MRViewer/ImGuiMenu.cpp:1694
-msgid "Objects"
-msgstr "Objetos"
-
 #: source/MRViewer/ImGuiMenu.cpp:1711
 msgid "Local Box Size"
 msgstr "Tamaño de caja local"
@@ -2122,11 +2278,6 @@ msgstr "Vértices"
 msgid "Edges"
 msgstr "Aristas"
 
-#: source/MRViewer/ImGuiMenu.cpp:1747 source/MRViewer/ImGuiMenu.cpp:2218
-#: source/MRViewer/ImGuiMenu.cpp:2239
-msgid "Points"
-msgstr "Puntos"
-
 #: source/MRViewer/ImGuiMenu.cpp:1751
 msgid "Point Normals"
 msgstr "Normales de los puntos"
@@ -2204,17 +2355,9 @@ msgstr "Mín, Iso, Máx"
 msgid "X/Y/Z Distance"
 msgstr "Distancia X/Y/Z"
 
-#: source/MRViewer/ImGuiMenu.cpp:1827
-msgid "Angle"
-msgstr "Ángulo"
-
 #: source/MRViewer/ImGuiMenu.cpp:1829 source/MRViewer/MRToolsLibrary.cpp:149
 msgid "Diameter"
 msgstr "Diámetro"
-
-#: source/MRViewer/ImGuiMenu.cpp:1829
-msgid "Radius"
-msgstr "Radio"
 
 #: source/MRViewer/ImGuiMenu.cpp:1919
 msgid "Change Feature Transform"
@@ -2981,6 +3124,14 @@ msgstr "FRENTE"
 #: source/MRViewer/MRViewportCornerController.cpp:102
 msgid "BACK"
 msgstr "ATRÁS"
+
+#: source/MRVoxels/MRObjectVoxels.h:27
+msgid "Voxel Volume"
+msgstr "Volumen de vóxeles"
+
+#: source/MRVoxels/MRObjectVoxels.h:30
+msgid "Voxel Volumes"
+msgstr "Volúmenes de vóxeles"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "

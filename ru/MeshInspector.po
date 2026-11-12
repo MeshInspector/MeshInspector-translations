@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -671,8 +671,8 @@ msgstr "ID текстуры"
 msgid "Clip object to get cross section"
 msgstr "Обрезать объект для получения поперечного сечения"
 
-msgid "At least one objects should be in scene"
-msgstr "В сцене должен быть хотя бы один объект"
+msgid "At least one object should be in the scene"
+msgstr "На сцене должен быть хотя бы один объект"
 
 msgid "Clip Objects"
 msgstr "Обрезать объекты"
@@ -1112,8 +1112,7 @@ msgstr "Поворот"
 
 msgid ""
 "Rotation of the object around its center: angles around X, Y and Z axes."
-msgstr ""
-"Поворот объекта вокруг его центра: углы вокруг осей X, Y и Z."
+msgstr "Поворот объекта вокруг его центра: углы вокруг осей X, Y и Z."
 
 msgid "Name"
 msgstr "Имя"
@@ -1529,13 +1528,6 @@ msgstr "Подогнать выбранное"
 msgid "Settings"
 msgstr "Настройки"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"Визуализировать выбранный сегмент как объект меша.\n"
-"Полезно в веб-приложении."
-
 msgid "Work Color"
 msgstr "Рабочий цвет"
 
@@ -1566,7 +1558,7 @@ msgstr "Показать инструмент"
 msgid "Input Time"
 msgstr "Входное время"
 
-msgid "Formated Time"
+msgid "Formatted Time"
 msgstr "Форматированное время"
 
 msgid "Play speed"
@@ -3294,11 +3286,15 @@ msgstr "Заполнить целое отверстие или нескольк
 msgid "Fill All"
 msgstr "Заполнить всё"
 
-msgid "Divide a hole on parts"
-msgstr "Разделить отверстие на части"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr "Заполнить все отверстия меша сразу, кроме исключённых"
 
 msgid "Make Bridge"
 msgstr "Создать мост"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr "Разделить отверстие на части мостом между двумя его граничными рёбрами"
 
 msgid "Fill type"
 msgstr "Тип заполнения"
@@ -3313,7 +3309,7 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
 "%s+Нажмите на ребро отверстия в 3D-сцене, чтобы исключить или включить его в "
 "режиме заполнения всех отверстий."
@@ -3774,8 +3770,9 @@ msgstr "Принудительные компоненты"
 msgid "Pick Free Form Align Point"
 msgstr "Выбрать точку свободного выравнивания"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "Пожалуйста, выберите два ObjectMesh или два ObjectPoints"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr ""
+"Пожалуйста, выберите два объекта: меши или облака точек в любом сочетании"
 
 msgid "Floating"
 msgstr "Плавающий"
@@ -5934,8 +5931,12 @@ msgstr ""
 msgid "Drag the points to adjust direction as needed."
 msgstr "Перетащите точки для настройки направления при необходимости."
 
-msgid "Applies only to multiline text"
-msgstr "Применяется только к многострочному тексту"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
+"Выравнивает строки многострочного текста. При включённом параметре «Изогнуть "
+"текст вдоль пути» также размещает текст в начале, середине или конце пути."
 
 msgid "Depth (-)/Height (+) "
 msgstr "Глубина (-)/ Высота (+) "
@@ -7326,8 +7327,8 @@ msgstr "Общие настройки"
 msgid "Tool Diameter"
 msgstr "Диаметр инструмента"
 
-msgid "Radius of the milling tool"
-msgstr "Радиус фрезерного инструмента"
+msgid "Diameter of the milling tool"
+msgstr "Диаметр фрезерного инструмента"
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "Размер вокселя, необходимый для смещения меша"
@@ -8360,6 +8361,17 @@ msgstr "Минимальный угол различия нормали в то�
 
 msgid "Select Outliers"
 msgstr "Выбрать выпадающие точки"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
+"Среднее число точек внутри шара поиска: радиус поиска выбирается так, чтобы "
+"шар этого радиуса вокруг точки в среднем содержал столько точек.\n"
+"Радиус поиска: {}"
 
 msgid "Empty Point Cloud."
 msgstr "Пустое облако точек."
@@ -9936,6 +9948,39 @@ msgstr "Снимок"
 
 msgid "Import Zivid scan"
 msgstr "Импортировать скан Zivid"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "В сцене должен быть хотя бы один объект"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "Визуализировать выбранный сегмент как объект меша.\n"
+#~ "Полезно в веб-приложении."
+
+#~ msgid "Formated Time"
+#~ msgstr "Форматированное время"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "Разделить отверстие на части"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr ""
+#~ "%s+Нажмите на ребро отверстия в 3D-сцене, чтобы исключить или включить "
+#~ "его в режиме заполнения всех отверстий."
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "Пожалуйста, выберите два ObjectMesh или два ObjectPoints"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "Применяется только к многострочному тексту"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "Радиус фрезерного инструмента"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"
