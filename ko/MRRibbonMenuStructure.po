@@ -146,7 +146,7 @@ msgstr "기본 형상 생성(대화식)"
 
 msgid ""
 "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
-msgstr ""
+msgstr "장면에서 마우스를 드래그하여 큐브, 원통 또는 구 메시를 생성합니다."
 
 msgid "Clone"
 msgstr "복제"

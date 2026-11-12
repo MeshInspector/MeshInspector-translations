@@ -152,7 +152,7 @@ msgstr "Создать примитив (интерактивно)"
 
 msgid ""
 "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
-msgstr ""
+msgstr "Создаёт меш куба, цилиндра или сферы перетаскиванием мыши в сцене."
 
 msgid "Clone"
 msgstr "Клонировать"

@@ -155,7 +155,7 @@ msgstr "Criar primitiva (interativo)"
 
 msgid ""
 "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
-msgstr ""
+msgstr "Cria uma malha de cubo, cilindro ou esfera arrastando o rato na cena."
 
 msgid "Clone"
 msgstr "Clonar"

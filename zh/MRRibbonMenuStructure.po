@@ -137,7 +137,7 @@ msgstr "创建基元(交互)"
 
 msgid ""
 "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
-msgstr ""
+msgstr "通过在场景中拖动鼠标创建立方体、圆柱体或球体网格。"
 
 msgid "Clone"
 msgstr "克隆"

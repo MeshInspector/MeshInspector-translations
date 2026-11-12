@@ -148,6 +148,8 @@ msgstr "プリミティブを作成（インタラクティブ）"
 msgid ""
 "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
 msgstr ""
+"シーン内でマウスをドラッグして、立方体、円柱、または球のメッシュを作成しま"
+"す。"
 
 msgid "Clone"
 msgstr "複製"
