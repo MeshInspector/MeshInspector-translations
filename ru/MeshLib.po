@@ -1417,55 +1417,55 @@ msgstr "Угол"
 
 #: source/MRMesh/MRAngleMeasurementObject.h:24
 msgid "Angles"
-msgstr ""
+msgstr "Углы"
 
 #: source/MRMesh/MRCircleObject.h:30
 msgid "Circle"
-msgstr ""
+msgstr "Окружность"
 
 #: source/MRMesh/MRCircleObject.h:33
 msgid "Circles"
-msgstr ""
+msgstr "Окружности"
 
 #: source/MRMesh/MRConeObject.h:32
 msgid "Cone"
-msgstr ""
+msgstr "Конус"
 
 #: source/MRMesh/MRConeObject.h:35
 msgid "Cones"
-msgstr ""
+msgstr "Конусы"
 
 #: source/MRMesh/MRCylinderObject.h:31
 msgid "Cylinder"
-msgstr ""
+msgstr "Цилиндр"
 
 #: source/MRMesh/MRCylinderObject.h:34
 msgid "Cylinders"
-msgstr ""
+msgstr "Цилиндры"
 
 #: source/MRMesh/MRDistanceMeasurementObject.h:22
 msgid "Distance"
-msgstr ""
+msgstr "Расстояние"
 
 #: source/MRMesh/MRDistanceMeasurementObject.h:25
 msgid "Distances"
-msgstr ""
+msgstr "Расстояния"
 
 #: source/MRMesh/MRFeatureObject.h:98
 msgid "Feature"
-msgstr ""
+msgstr "Примитив"
 
 #: source/MRMesh/MRLineObject.h:26
 msgid "Line"
-msgstr ""
+msgstr "Линия"
 
 #: source/MRMesh/MRLineObject.h:29
 msgid "Lines"
-msgstr ""
+msgstr "Линии"
 
 #: source/MRMesh/MRObject.h:73
 msgid "Object"
-msgstr ""
+msgstr "Объект"
 
 #: source/MRMesh/MRObject.h:77 source/MRViewer/ImGuiMenu.cpp:1694
 msgid "Objects"
@@ -1473,63 +1473,63 @@ msgstr "Объекты"
 
 #: source/MRMesh/MRObjectDistanceMap.h:27
 msgid "Distance Map"
-msgstr ""
+msgstr "Карта расстояний"
 
 #: source/MRMesh/MRObjectDistanceMap.h:30
 msgid "Distance Maps"
-msgstr ""
+msgstr "Карты расстояний"
 
 #: source/MRMesh/MRObjectGcode.h:24
 msgid "G-code"
-msgstr ""
+msgstr "G-код"
 
 #: source/MRMesh/MRObjectGcode.h:27
 msgid "G-codes"
-msgstr ""
+msgstr "G-коды"
 
 #: source/MRMesh/MRObjectLines.h:20
 msgid "Polyline"
-msgstr ""
+msgstr "Полилиния"
 
 #: source/MRMesh/MRObjectLines.h:23
 msgid "Polylines"
-msgstr ""
+msgstr "Полилинии"
 
 #: source/MRMesh/MRObjectMesh.h:21
 msgid "Mesh"
-msgstr ""
+msgstr "Сетка"
 
 #: source/MRMesh/MRObjectMesh.h:24
 msgid "Meshes"
-msgstr ""
+msgstr "Сетки"
 
 #: source/MRMesh/MRObjectPoints.h:24
 msgid "Point Cloud"
-msgstr ""
+msgstr "Облако точек"
 
 #: source/MRMesh/MRObjectPoints.h:27
 msgid "Point Clouds"
-msgstr ""
+msgstr "Облака точек"
 
 #: source/MRMesh/MRPlaneObject.h:25
 msgid "Plane"
-msgstr ""
+msgstr "Плоскость"
 
 #: source/MRMesh/MRPlaneObject.h:28
 msgid "Planes"
-msgstr ""
+msgstr "Плоскости"
 
 #: source/MRMesh/MRPointMeasurementObject.h:29
 msgid "Measure Point"
-msgstr ""
+msgstr "Точка измерения"
 
 #: source/MRMesh/MRPointMeasurementObject.h:32
 msgid "Measure Points"
-msgstr ""
+msgstr "Точки измерения"
 
 #: source/MRMesh/MRPointObject.h:27
 msgid "Point"
-msgstr ""
+msgstr "Точка"
 
 #: source/MRMesh/MRPointObject.h:30 source/MRViewer/ImGuiMenu.cpp:1747
 #: source/MRViewer/ImGuiMenu.cpp:2218 source/MRViewer/ImGuiMenu.cpp:2239
@@ -1543,23 +1543,23 @@ msgstr "Радиус"
 
 #: source/MRMesh/MRRadiusMeasurementObject.h:25
 msgid "Radii"
-msgstr ""
+msgstr "Радиусы"
 
 #: source/MRMesh/MRSceneRoot.h:25
 msgid "Root"
-msgstr ""
+msgstr "Корень"
 
 #: source/MRMesh/MRSceneRoot.h:28
 msgid "Roots"
-msgstr ""
+msgstr "Корни"
 
 #: source/MRMesh/MRSphereObject.h:28
 msgid "Sphere"
-msgstr ""
+msgstr "Сфера"
 
 #: source/MRMesh/MRSphereObject.h:31
 msgid "Spheres"
-msgstr ""
+msgstr "Сферы"
 
 #: source/MRMesh/MRUnitInfo.cpp:22
 msgid "Microns"
@@ -1845,11 +1845,11 @@ msgstr " фут⁻¹"
 
 #: source/MRMesh/MRVisualObject.h:127
 msgid "Visual Object"
-msgstr ""
+msgstr "Визуальный объект"
 
 #: source/MRMesh/MRVisualObject.h:130
 msgid "Visual Objects"
-msgstr ""
+msgstr "Визуальные объекты"
 
 #: source/MRViewer/ImGuiHelpers.cpp:98
 #, c-format
@@ -3110,11 +3110,11 @@ msgstr "СЗАДИ"
 
 #: source/MRVoxels/MRObjectVoxels.h:27
 msgid "Voxel Volume"
-msgstr ""
+msgstr "Воксельный объём"
 
 #: source/MRVoxels/MRObjectVoxels.h:30
 msgid "Voxel Volumes"
-msgstr ""
+msgstr "Воксельные объёмы"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "

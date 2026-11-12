@@ -1367,55 +1367,55 @@ msgstr "角度"
 
 #: source/MRMesh/MRAngleMeasurementObject.h:24
 msgid "Angles"
-msgstr ""
+msgstr "角度"
 
 #: source/MRMesh/MRCircleObject.h:30
 msgid "Circle"
-msgstr ""
+msgstr "圆"
 
 #: source/MRMesh/MRCircleObject.h:33
 msgid "Circles"
-msgstr ""
+msgstr "圆"
 
 #: source/MRMesh/MRConeObject.h:32
 msgid "Cone"
-msgstr ""
+msgstr "圆锥体"
 
 #: source/MRMesh/MRConeObject.h:35
 msgid "Cones"
-msgstr ""
+msgstr "圆锥体"
 
 #: source/MRMesh/MRCylinderObject.h:31
 msgid "Cylinder"
-msgstr ""
+msgstr "圆柱体"
 
 #: source/MRMesh/MRCylinderObject.h:34
 msgid "Cylinders"
-msgstr ""
+msgstr "圆柱体"
 
 #: source/MRMesh/MRDistanceMeasurementObject.h:22
 msgid "Distance"
-msgstr ""
+msgstr "距离"
 
 #: source/MRMesh/MRDistanceMeasurementObject.h:25
 msgid "Distances"
-msgstr ""
+msgstr "距离"
 
 #: source/MRMesh/MRFeatureObject.h:98
 msgid "Feature"
-msgstr ""
+msgstr "特征"
 
 #: source/MRMesh/MRLineObject.h:26
 msgid "Line"
-msgstr ""
+msgstr "直线"
 
 #: source/MRMesh/MRLineObject.h:29
 msgid "Lines"
-msgstr ""
+msgstr "直线"
 
 #: source/MRMesh/MRObject.h:73
 msgid "Object"
-msgstr ""
+msgstr "对象"
 
 #: source/MRMesh/MRObject.h:77 source/MRViewer/ImGuiMenu.cpp:1694
 msgid "Objects"
@@ -1423,63 +1423,63 @@ msgstr "对象"
 
 #: source/MRMesh/MRObjectDistanceMap.h:27
 msgid "Distance Map"
-msgstr ""
+msgstr "距离图"
 
 #: source/MRMesh/MRObjectDistanceMap.h:30
 msgid "Distance Maps"
-msgstr ""
+msgstr "距离图"
 
 #: source/MRMesh/MRObjectGcode.h:24
 msgid "G-code"
-msgstr ""
+msgstr "G 代码"
 
 #: source/MRMesh/MRObjectGcode.h:27
 msgid "G-codes"
-msgstr ""
+msgstr "G 代码"
 
 #: source/MRMesh/MRObjectLines.h:20
 msgid "Polyline"
-msgstr ""
+msgstr "折线"
 
 #: source/MRMesh/MRObjectLines.h:23
 msgid "Polylines"
-msgstr ""
+msgstr "折线"
 
 #: source/MRMesh/MRObjectMesh.h:21
 msgid "Mesh"
-msgstr ""
+msgstr "网格"
 
 #: source/MRMesh/MRObjectMesh.h:24
 msgid "Meshes"
-msgstr ""
+msgstr "网格"
 
 #: source/MRMesh/MRObjectPoints.h:24
 msgid "Point Cloud"
-msgstr ""
+msgstr "点云"
 
 #: source/MRMesh/MRObjectPoints.h:27
 msgid "Point Clouds"
-msgstr ""
+msgstr "点云"
 
 #: source/MRMesh/MRPlaneObject.h:25
 msgid "Plane"
-msgstr ""
+msgstr "平面"
 
 #: source/MRMesh/MRPlaneObject.h:28
 msgid "Planes"
-msgstr ""
+msgstr "平面"
 
 #: source/MRMesh/MRPointMeasurementObject.h:29
 msgid "Measure Point"
-msgstr ""
+msgstr "测量点"
 
 #: source/MRMesh/MRPointMeasurementObject.h:32
 msgid "Measure Points"
-msgstr ""
+msgstr "测量点"
 
 #: source/MRMesh/MRPointObject.h:27
 msgid "Point"
-msgstr ""
+msgstr "点"
 
 #: source/MRMesh/MRPointObject.h:30 source/MRViewer/ImGuiMenu.cpp:1747
 #: source/MRViewer/ImGuiMenu.cpp:2218 source/MRViewer/ImGuiMenu.cpp:2239
@@ -1493,23 +1493,23 @@ msgstr "半径"
 
 #: source/MRMesh/MRRadiusMeasurementObject.h:25
 msgid "Radii"
-msgstr ""
+msgstr "半径"
 
 #: source/MRMesh/MRSceneRoot.h:25
 msgid "Root"
-msgstr ""
+msgstr "根"
 
 #: source/MRMesh/MRSceneRoot.h:28
 msgid "Roots"
-msgstr ""
+msgstr "根"
 
 #: source/MRMesh/MRSphereObject.h:28
 msgid "Sphere"
-msgstr ""
+msgstr "球体"
 
 #: source/MRMesh/MRSphereObject.h:31
 msgid "Spheres"
-msgstr ""
+msgstr "球体"
 
 #: source/MRMesh/MRUnitInfo.cpp:22
 msgid "Microns"
@@ -1795,11 +1795,11 @@ msgstr " ft⁻¹"
 
 #: source/MRMesh/MRVisualObject.h:127
 msgid "Visual Object"
-msgstr ""
+msgstr "可视对象"
 
 #: source/MRMesh/MRVisualObject.h:130
 msgid "Visual Objects"
-msgstr ""
+msgstr "可视对象"
 
 #: source/MRViewer/ImGuiHelpers.cpp:98
 #, c-format
@@ -3037,11 +3037,11 @@ msgstr "后"
 
 #: source/MRVoxels/MRObjectVoxels.h:27
 msgid "Voxel Volume"
-msgstr ""
+msgstr "体素体积"
 
 #: source/MRVoxels/MRObjectVoxels.h:30
 msgid "Voxel Volumes"
-msgstr ""
+msgstr "体素体积"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "
