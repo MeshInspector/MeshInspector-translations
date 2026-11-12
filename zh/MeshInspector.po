@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -651,8 +651,8 @@ msgstr "纹理 ID"
 msgid "Clip object to get cross section"
 msgstr "裁剪对象以获取横截面"
 
-msgid "At least one objects should be in scene"
-msgstr "场景中至少需要一个对象"
+msgid "At least one object should be in the scene"
+msgstr ""
 
 msgid "Clip Objects"
 msgstr "裁剪对象"
@@ -1491,13 +1491,6 @@ msgstr "适应选中项"
 msgid "Settings"
 msgstr "设置"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"将选中线段可视化为网格对象。\n"
-"在 Web 应用中有用。"
-
 msgid "Work Color"
 msgstr "工作颜色"
 
@@ -1528,8 +1521,8 @@ msgstr "显示工具"
 msgid "Input Time"
 msgstr "输入时间"
 
-msgid "Formated Time"
-msgstr "格式化时间"
+msgid "Formatted Time"
+msgstr ""
 
 msgid "Play speed"
 msgstr "播放速度"
@@ -3103,11 +3096,15 @@ msgstr "填充整个孔或多个孔"
 msgid "Fill All"
 msgstr "全部填充"
 
-msgid "Divide a hole on parts"
-msgstr "将孔分成几部分"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr ""
 
 msgid "Make Bridge"
 msgstr "创建桥"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr ""
 
 msgid "Fill type"
 msgstr "填充类型"
@@ -3120,8 +3117,8 @@ msgstr "点击孔的边以填充。或在控制设置中切换为按孔 ID 选�
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
-msgstr "在使用全部填充孔模式时，%s+点击 3D 场景中的孔边以排除或包含它。"
+"the Fill All Holes mode."
+msgstr ""
 
 msgid "Deselect Large Holes"
 msgstr "取消选择大孔"
@@ -3534,8 +3531,8 @@ msgstr "强制组件"
 msgid "Pick Free Form Align Point"
 msgstr "选择自由变形对齐点"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "请选择两个 ObjectMesh 或两个 ObjectPoints"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr ""
 
 msgid "Floating"
 msgstr "浮动"
@@ -5476,8 +5473,10 @@ msgstr "在网格表面单击两点以定义文本方向。"
 msgid "Drag the points to adjust direction as needed."
 msgstr "根据需要拖动点以调整方向。"
 
-msgid "Applies only to multiline text"
-msgstr "仅适用于多行文本"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
 
 msgid "Depth (-)/Height (+) "
 msgstr "深度 (-)/高度 (+) "
@@ -6765,8 +6764,8 @@ msgstr "通用设置"
 msgid "Tool Diameter"
 msgstr "刀具直径"
 
-msgid "Radius of the milling tool"
-msgstr "铣削刀具的半径"
+msgid "Diameter of the milling tool"
+msgstr ""
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "网格偏移所需的体素大小"
@@ -7711,6 +7710,14 @@ msgstr "离群点处法线的最小角度差"
 
 msgid "Select Outliers"
 msgstr "选择离群点"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
 
 msgid "Empty Point Cloud."
 msgstr "点云为空。"
@@ -9204,6 +9211,37 @@ msgstr "采集"
 
 msgid "Import Zivid scan"
 msgstr "导入 Zivid 扫描"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "场景中至少需要一个对象"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "将选中线段可视化为网格对象。\n"
+#~ "在 Web 应用中有用。"
+
+#~ msgid "Formated Time"
+#~ msgstr "格式化时间"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "将孔分成几部分"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr "在使用全部填充孔模式时，%s+点击 3D 场景中的孔边以排除或包含它。"
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "请选择两个 ObjectMesh 或两个 ObjectPoints"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "仅适用于多行文本"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "铣削刀具的半径"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"

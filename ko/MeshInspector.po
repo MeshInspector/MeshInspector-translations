@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -656,8 +656,8 @@ msgstr "텍스처 ID"
 msgid "Clip object to get cross section"
 msgstr "단면을 얻기 위해 객체를 자릅니다"
 
-msgid "At least one objects should be in scene"
-msgstr "장면에 최소 하나의 객체가 있어야 합니다"
+msgid "At least one object should be in the scene"
+msgstr ""
 
 msgid "Clip Objects"
 msgstr "객체 자르기"
@@ -1504,13 +1504,6 @@ msgstr "선택 항목 맞춤"
 msgid "Settings"
 msgstr "설정"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"선택한 세그먼트를 메시 객체로 시각화합니다.\n"
-"웹 앱에서 유용합니다."
-
 msgid "Work Color"
 msgstr "작업 색상"
 
@@ -1541,8 +1534,8 @@ msgstr "도구 표시"
 msgid "Input Time"
 msgstr "입력 시간"
 
-msgid "Formated Time"
-msgstr "서식 있는 시간"
+msgid "Formatted Time"
+msgstr ""
 
 msgid "Play speed"
 msgstr "재생 속도"
@@ -3189,11 +3182,15 @@ msgstr "전체 구멍 또는 여러 구멍을 채웁니다"
 msgid "Fill All"
 msgstr "모두 채우기"
 
-msgid "Divide a hole on parts"
-msgstr "구멍을 부분으로 나눕니다"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr ""
 
 msgid "Make Bridge"
 msgstr "브리지 만들기"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr ""
 
 msgid "Fill type"
 msgstr "채우기 유형"
@@ -3208,10 +3205,8 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
-"전체 구멍 채우기 모드를 사용할 때 제외 또는 포함하려면 3D 장면에서 구멍 가장"
-"자리를 %s+클릭하세요."
 
 msgid "Deselect Large Holes"
 msgstr "큰 구멍 선택 해제"
@@ -3644,8 +3639,8 @@ msgstr "강제 구성요소"
 msgid "Pick Free Form Align Point"
 msgstr "자유 형식 정렬 포인트 선택"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "ObjectMesh 두 개 또는 ObjectPoints 두 개를 선택하세요"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr ""
 
 msgid "Floating"
 msgstr "유동"
@@ -5681,8 +5676,10 @@ msgstr "메시 표면에서 두 포인트를 클릭하여 텍스트 방향을 �
 msgid "Drag the points to adjust direction as needed."
 msgstr "필요에 따라 포인트를 드래그하여 방향을 조정합니다."
 
-msgid "Applies only to multiline text"
-msgstr "여러 줄 텍스트에만 적용됩니다"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
 
 msgid "Depth (-)/Height (+) "
 msgstr "깊이 (-)/높이 (+) "
@@ -7015,8 +7012,8 @@ msgstr "공통 설정"
 msgid "Tool Diameter"
 msgstr "도구 직경"
 
-msgid "Radius of the milling tool"
-msgstr "밀링 도구의 반지름"
+msgid "Diameter of the milling tool"
+msgstr ""
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "메시 오프셋에 필요한 복셀 크기"
@@ -8011,6 +8008,14 @@ msgstr "이상치 포인트에서의 법선 차이 최소 각도"
 
 msgid "Select Outliers"
 msgstr "이상치 선택"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
 
 msgid "Empty Point Cloud."
 msgstr "빈 포인트 클라우드."
@@ -9542,6 +9547,39 @@ msgstr "캡처"
 
 msgid "Import Zivid scan"
 msgstr "Zivid 스캔 가져오기"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "장면에 최소 하나의 객체가 있어야 합니다"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "선택한 세그먼트를 메시 객체로 시각화합니다.\n"
+#~ "웹 앱에서 유용합니다."
+
+#~ msgid "Formated Time"
+#~ msgstr "서식 있는 시간"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "구멍을 부분으로 나눕니다"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr ""
+#~ "전체 구멍 채우기 모드를 사용할 때 제외 또는 포함하려면 3D 장면에서 구멍 가"
+#~ "장자리를 %s+클릭하세요."
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "ObjectMesh 두 개 또는 ObjectPoints 두 개를 선택하세요"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "여러 줄 텍스트에만 적용됩니다"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "밀링 도구의 반지름"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"

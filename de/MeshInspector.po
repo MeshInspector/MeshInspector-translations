@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -676,8 +676,8 @@ msgstr "Textur-ID"
 msgid "Clip object to get cross section"
 msgstr "Objekt zuschneiden, um Querschnitt zu erhalten"
 
-msgid "At least one objects should be in scene"
-msgstr "Mindestens ein Objekt sollte in der Szene vorhanden sein"
+msgid "At least one object should be in the scene"
+msgstr ""
 
 msgid "Clip Objects"
 msgstr "Objekte zuschneiden"
@@ -1535,13 +1535,6 @@ msgstr "Auswahl einpassen"
 msgid "Settings"
 msgstr "Einstellungen"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"Ausgewähltes Segment als Mesh-Objekt visualisieren.\n"
-"Nützlich in Web-App."
-
 msgid "Work Color"
 msgstr "Arbeitsfarbe"
 
@@ -1572,8 +1565,8 @@ msgstr "Werkzeug anzeigen"
 msgid "Input Time"
 msgstr "Eingabezeit"
 
-msgid "Formated Time"
-msgstr "Formatierte Zeit"
+msgid "Formatted Time"
+msgstr ""
 
 msgid "Play speed"
 msgstr "Wiedergabegeschwindigkeit"
@@ -3327,11 +3320,15 @@ msgstr "Ganzes Loch oder mehrere Löcher füllen"
 msgid "Fill All"
 msgstr "Alle füllen"
 
-msgid "Divide a hole on parts"
-msgstr "Loch in Teile aufteilen"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr ""
 
 msgid "Make Bridge"
 msgstr "Brücke erstellen"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr ""
 
 msgid "Fill type"
 msgstr "Fülltyp"
@@ -3346,10 +3343,8 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
-"%s+Klick auf eine Lochkante in der 3D-Szene, um sie im Modus \"Alle Löcher "
-"füllen\" auszuschließen oder einzuschließen."
 
 msgid "Deselect Large Holes"
 msgstr "Große Löcher abwählen"
@@ -3811,8 +3806,8 @@ msgstr "Komponenten erzwingen"
 msgid "Pick Free Form Align Point"
 msgstr "Freiform-Ausrichtungspunkt wählen"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "Bitte wählen Sie zwei ObjectMesh oder zwei ObjectPoints aus"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr ""
 
 msgid "Floating"
 msgstr "Beweglich"
@@ -5992,8 +5987,10 @@ msgstr ""
 msgid "Drag the points to adjust direction as needed."
 msgstr "Punkte ziehen, um die Richtung nach Bedarf anzupassen."
 
-msgid "Applies only to multiline text"
-msgstr "Gilt nur für mehrzeiligen Text"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
 
 msgid "Depth (-)/Height (+) "
 msgstr "Tiefe (-)/Höhe (+) "
@@ -7386,8 +7383,8 @@ msgstr "Allgemeine Einstellungen"
 msgid "Tool Diameter"
 msgstr "Werkzeugdurchmesser"
 
-msgid "Radius of the milling tool"
-msgstr "Radius des Fräswerkzeugs"
+msgid "Diameter of the milling tool"
+msgstr ""
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "Voxelgröße, die zum Versetzen des Meshs benötigt wird"
@@ -8438,6 +8435,14 @@ msgstr "Minimaler Differenzwinkel der Normale an Ausreißerpunkten"
 
 msgid "Select Outliers"
 msgstr "Ausreißer auswählen"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
 
 msgid "Empty Point Cloud."
 msgstr "Leere Punktwolke."
@@ -10040,6 +10045,39 @@ msgstr "Aufnehmen"
 
 msgid "Import Zivid scan"
 msgstr "Zivid-Scan importieren"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "Mindestens ein Objekt sollte in der Szene vorhanden sein"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "Ausgewähltes Segment als Mesh-Objekt visualisieren.\n"
+#~ "Nützlich in Web-App."
+
+#~ msgid "Formated Time"
+#~ msgstr "Formatierte Zeit"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "Loch in Teile aufteilen"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr ""
+#~ "%s+Klick auf eine Lochkante in der 3D-Szene, um sie im Modus \"Alle "
+#~ "Löcher füllen\" auszuschließen oder einzuschließen."
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "Bitte wählen Sie zwei ObjectMesh oder zwei ObjectPoints aus"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "Gilt nur für mehrzeiligen Text"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "Radius des Fräswerkzeugs"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"

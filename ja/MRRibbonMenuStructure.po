@@ -136,14 +136,19 @@ msgid "Create Simple Objects"
 msgstr "シンプルオブジェクトを作成"
 
 msgid ""
+"Create a geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
+"torus, arrow or prism."
+msgstr ""
+
+msgid "Create Primitive (Interactive)"
+msgstr "プリミティブを作成（インタラクティブ）"
+
+msgid ""
 "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
 "torus and arrow."
 msgstr ""
 "幾何プリミティブメッシュを作成します: 立方体、直方体、円柱、球、トーラス、矢"
 "印。"
-
-msgid "Create Primitive (Interactive)"
-msgstr "プリミティブを作成（インタラクティブ）"
 
 msgid "Clone"
 msgstr "複製"
@@ -194,8 +199,8 @@ msgstr "メッシュオブジェクトを指定した数のコンポーネント
 msgid "Convex Hull"
 msgstr "凸包"
 
-msgid "Create convex hull mesh for each selected mesh or points."
-msgstr "選択した各メッシュまたはポイントの凸包メッシュを作成します。"
+msgid "Create a convex hull mesh of the selected mesh or point cloud."
+msgstr ""
 
 msgid "Delete Colors"
 msgstr "色を削除"
@@ -605,11 +610,9 @@ msgid "Slicestack Diagnostics"
 msgstr "スライススタック診断"
 
 msgid ""
-"Check slices of a 3MF slicestack file for open contours, intersections and "
-"inconsistent winding."
+"Check slices of a 3MF slicestack file for intersections and inconsistent "
+"winding."
 msgstr ""
-"3MFスライススタックファイルのスライスに開いたコンター、交差、巻き方向の不整合"
-"がないか確認します。"
 
 msgid "Show Dense BBox"
 msgstr "密なバウンディングボックスを表示"
@@ -1018,8 +1021,8 @@ msgstr "大きなライン区間をより小さな区間に分割します。"
 msgid "Smooth Boundary"
 msgstr "境界を平滑化"
 
-msgid "Add triangles to mesh boundary to make it more straighten."
-msgstr "メッシュ境界に三角形を追加してより直線的にします。"
+msgid "Add triangles along the mesh boundary to make it straighter."
+msgstr ""
 
 msgid "Smooth Region Boundary"
 msgstr "領域境界を平滑化"
@@ -1129,15 +1132,18 @@ msgid "Select Twin Edges"
 msgstr "双子エッジを選択"
 
 msgid ""
-"Find pairs of vertices located very close, and then select edges in between "
-"of them."
-msgstr "非常に近接した頂点のペアを見つけ、それらの間のエッジを選択します。"
+"Select twin edges: edges whose end vertices lie within Close distance of the "
+"end vertices of another edge, for example duplicated edges along an unwelded "
+"seam."
+msgstr ""
 
 msgid "Select Incident Triangles"
 msgstr "隣接三角形を選択"
 
-msgid "Select all triangles which are connected to selected edges."
-msgstr "選択したエッジに接続されているすべての三角形を選択します。"
+msgid ""
+"Add to the triangle selection all triangles that share a vertex with the "
+"selected edges."
+msgstr ""
 
 msgid "Select Region Boundary"
 msgstr "領域境界を選択"
@@ -1229,6 +1235,12 @@ msgstr ""
 
 msgid "Select by Area"
 msgstr "面積で選択"
+
+msgid ""
+"Select connected parts of the mesh whose area is less or greater than the "
+"given value, in absolute units or percent of the total area. Replaces the "
+"current selection."
+msgstr ""
 
 msgid "Select Creases by Angle"
 msgstr "角度でクリースを選択"
@@ -1603,8 +1615,9 @@ msgstr ""
 msgid "Toolpath"
 msgstr "ツールパス"
 
-msgid "Build z-constant tool path for the given mesh"
-msgstr "指定したメッシュのZ一定ツールパスを構築します"
+msgid ""
+"Build a toolpath for the selected mesh: Constant Z, Lacing or Constant Cusp"
+msgstr ""
 
 msgid "Mesh Boolean"
 msgstr "メッシュブール演算"
@@ -1892,6 +1905,30 @@ msgstr "実験的"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "Create convex hull mesh for each selected mesh or points."
+#~ msgstr "選択した各メッシュまたはポイントの凸包メッシュを作成します。"
+
+#~ msgid ""
+#~ "Check slices of a 3MF slicestack file for open contours, intersections "
+#~ "and inconsistent winding."
+#~ msgstr ""
+#~ "3MFスライススタックファイルのスライスに開いたコンター、交差、巻き方向の不"
+#~ "整合がないか確認します。"
+
+#~ msgid "Add triangles to mesh boundary to make it more straighten."
+#~ msgstr "メッシュ境界に三角形を追加してより直線的にします。"
+
+#~ msgid ""
+#~ "Find pairs of vertices located very close, and then select edges in "
+#~ "between of them."
+#~ msgstr "非常に近接した頂点のペアを見つけ、それらの間のエッジを選択します。"
+
+#~ msgid "Select all triangles which are connected to selected edges."
+#~ msgstr "選択したエッジに接続されているすべての三角形を選択します。"
+
+#~ msgid "Build z-constant tool path for the given mesh"
+#~ msgstr "指定したメッシュのZ一定ツールパスを構築します"
 
 #~ msgid "Clone Selection"
 #~ msgstr "選択を複製"

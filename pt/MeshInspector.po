@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 04:33+0000\n"
+"POT-Creation-Date: 2026-11-12 08:03+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -672,8 +672,8 @@ msgstr "ID de Textura"
 msgid "Clip object to get cross section"
 msgstr "Recortar objeto para obter secção transversal"
 
-msgid "At least one objects should be in scene"
-msgstr "Deve haver pelo menos um objeto na cena"
+msgid "At least one object should be in the scene"
+msgstr ""
 
 msgid "Clip Objects"
 msgstr "Recortar Objetos"
@@ -1532,13 +1532,6 @@ msgstr "Ajustar selecionados"
 msgid "Settings"
 msgstr "Definições"
 
-msgid ""
-"Visualize selected segment as mesh object.\n"
-"Usefull in web app."
-msgstr ""
-"Visualizar segmento selecionado como objeto de malha.\n"
-"Útil na aplicação web."
-
 msgid "Work Color"
 msgstr "Cor de Trabalho"
 
@@ -1569,8 +1562,8 @@ msgstr "Mostrar ferramenta"
 msgid "Input Time"
 msgstr "Tempo de Entrada"
 
-msgid "Formated Time"
-msgstr "Tempo Formatado"
+msgid "Formatted Time"
+msgstr ""
 
 msgid "Play speed"
 msgstr "Velocidade de reprodução"
@@ -3317,11 +3310,15 @@ msgstr "Preencher buraco inteiro ou vários buracos"
 msgid "Fill All"
 msgstr "Preencher Tudo"
 
-msgid "Divide a hole on parts"
-msgstr "Dividir um buraco em partes"
+msgid "Fill all holes of the mesh at once, except the excluded ones"
+msgstr ""
 
 msgid "Make Bridge"
 msgstr "Criar Ponte"
+
+msgid ""
+"Divide a hole into parts with a bridge between two of its boundary edges"
+msgstr ""
 
 msgid "Fill type"
 msgstr "Tipo de preenchimento"
@@ -3336,10 +3333,8 @@ msgstr ""
 #, c-format
 msgid ""
 "%s+Click on a hole edge in the 3D scene to exclude or include it when using "
-"th e Fill All Holes mode."
+"the Fill All Holes mode."
 msgstr ""
-"%s+Clique numa aresta de buraco na cena 3D para a excluir ou incluir ao usar "
-"o modo Preencher Todos os Buracos."
 
 msgid "Deselect Large Holes"
 msgstr "Desselecionar Buracos Grandes"
@@ -3800,8 +3795,8 @@ msgstr "Forçar Componentes"
 msgid "Pick Free Form Align Point"
 msgstr "Selecionar ponto de alinhamento livre"
 
-msgid "Please select two ObjectMesh or two ObjectPoints"
-msgstr "Por favor selecione dois ObjectMesh ou dois ObjectPoints"
+msgid "Please select two objects: meshes or point clouds, in any combination"
+msgstr ""
 
 msgid "Floating"
 msgstr "Flutuante"
@@ -5967,8 +5962,10 @@ msgstr ""
 msgid "Drag the points to adjust direction as needed."
 msgstr "Arraste os pontos para ajustar a direção conforme necessário."
 
-msgid "Applies only to multiline text"
-msgstr "Aplica-se apenas a texto multilinha"
+msgid ""
+"Aligns the lines of multiline text. With Bend Text along Path, also places "
+"the text at the start, middle or end of the path."
+msgstr ""
 
 msgid "Depth (-)/Height (+) "
 msgstr "Profundidade (-)/Altura (+) "
@@ -7352,8 +7349,8 @@ msgstr "Definições Comuns"
 msgid "Tool Diameter"
 msgstr "Diâmetro da Ferramenta"
 
-msgid "Radius of the milling tool"
-msgstr "Raio da ferramenta de fresagem"
+msgid "Diameter of the milling tool"
+msgstr ""
 
 msgid "Size of voxel needed to offset mesh"
 msgstr "Tamanho do voxel necessário para deslocar a malha"
@@ -8400,6 +8397,14 @@ msgstr "Ângulo mínimo de diferença da normal em pontos atípicos"
 
 msgid "Select Outliers"
 msgstr "Selecionar pontos atípicos"
+
+#, c++-format
+msgid ""
+"Average number of points inside the search ball: the search radius is chosen "
+"so that a ball of this radius around a point contains this many points on "
+"average.\n"
+"Search radius: {}"
+msgstr ""
 
 msgid "Empty Point Cloud."
 msgstr "Nuvem de Pontos vazia."
@@ -9995,6 +10000,39 @@ msgstr "Capturar"
 
 msgid "Import Zivid scan"
 msgstr "Importar digitalização Zivid"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "Deve haver pelo menos um objeto na cena"
+
+#~ msgid ""
+#~ "Visualize selected segment as mesh object.\n"
+#~ "Usefull in web app."
+#~ msgstr ""
+#~ "Visualizar segmento selecionado como objeto de malha.\n"
+#~ "Útil na aplicação web."
+
+#~ msgid "Formated Time"
+#~ msgstr "Tempo Formatado"
+
+#~ msgid "Divide a hole on parts"
+#~ msgstr "Dividir um buraco em partes"
+
+#, c-format
+#~ msgid ""
+#~ "%s+Click on a hole edge in the 3D scene to exclude or include it when "
+#~ "using th e Fill All Holes mode."
+#~ msgstr ""
+#~ "%s+Clique numa aresta de buraco na cena 3D para a excluir ou incluir ao "
+#~ "usar o modo Preencher Todos os Buracos."
+
+#~ msgid "Please select two ObjectMesh or two ObjectPoints"
+#~ msgstr "Por favor selecione dois ObjectMesh ou dois ObjectPoints"
+
+#~ msgid "Applies only to multiline text"
+#~ msgstr "Aplica-se apenas a texto multilinha"
+
+#~ msgid "Radius of the milling tool"
+#~ msgstr "Raio da ferramenta de fresagem"
 
 #~ msgid ""
 #~ "Cut the extrusion body along its self-intersections (experimental self-"
