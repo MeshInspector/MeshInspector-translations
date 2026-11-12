@@ -1352,8 +1352,8 @@ msgid ""
 "smaller which represents dense volume, invert to have iso-surface oriented "
 "from smaller value to bigger to represent distances volume"
 msgstr ""
-"默认情况下,生成的体素的等值面方向是从较大值指向较小值,表示密集体积;反转后等值"
-"面方向变为从较小值指向较大值,以表示距离体积"
+"默认情况下,生成的体素的等值面方向是从较大值指向较小值,表示密集体数据;反转后等"
+"值面方向变为从较小值指向较大值,以表示距离体数据"
 
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"

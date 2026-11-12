@@ -1108,12 +1108,12 @@ msgid "Center"
 msgstr "Центр"
 
 msgid "Rotation"
-msgstr "Вращение"
+msgstr "Поворот"
 
 msgid ""
 "Rotation of the object around its center: angles around X, Y and Z axes."
 msgstr ""
-"Вращение объекта вокруг его центра: углы поворота вокруг осей X, Y и Z."
+"Поворот объекта вокруг его центра: углы вокруг осей X, Y и Z."
 
 msgid "Name"
 msgstr "Имя"
