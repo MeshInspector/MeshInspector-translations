@@ -145,9 +145,8 @@ msgid "Create Primitive (Interactive)"
 msgstr "기본 형상 생성(대화식)"
 
 msgid ""
-"Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
-"torus and arrow."
-msgstr "기하 기본 메시 생성: 큐브, 평행육면체, 원통, 구, 토러스, 화살표."
+"Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
+msgstr ""
 
 msgid "Clone"
 msgstr "복제"
@@ -1889,6 +1888,11 @@ msgstr "실험적"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+#~ msgid ""
+#~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "
+#~ "torus and arrow."
+#~ msgstr "기하 기본 메시 생성: 큐브, 평행육면체, 원통, 구, 토러스, 화살표."
 
 #~ msgid "Create convex hull mesh for each selected mesh or points."
 #~ msgstr "선택한 각 메시 또는 포인트에 대해 컨벡스 헐 메시를 생성합니다."

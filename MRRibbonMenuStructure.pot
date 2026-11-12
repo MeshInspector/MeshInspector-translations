@@ -111,7 +111,7 @@ msgstr ""
 msgid "Create Primitive (Interactive)"
 msgstr ""
 
-msgid "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, torus and arrow."
+msgid "Create a cube, cylinder or sphere mesh by dragging the mouse in the scene."
 msgstr ""
 
 msgid "Clone"
