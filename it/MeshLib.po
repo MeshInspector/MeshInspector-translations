@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-14 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Autofit, questa posizione viene ricalcolata automaticamente."
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:31
-#: source/MRViewer/ImGuiHelpers.cpp:1626
+#: source/MRViewer/ImGuiHelpers.cpp:1628
 msgid "Direction"
 msgstr "Direzione"
 
@@ -385,8 +385,8 @@ msgstr "Questa funzione non è attualmente supportata nell'edizione web"
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:110
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:132
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:155
-msgid "At least one objects should be in scene"
-msgstr "Deve esserci almeno un oggetto nella scena"
+msgid "At least one object should be in the scene"
+msgstr ""
 
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:32
 msgid "Sort scene"
@@ -1020,7 +1020,7 @@ msgid "Shadow Color"
 msgstr "Colore dell'ombra"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:982
-#: source/MRViewer/ImGuiHelpers.cpp:1591
+#: source/MRViewer/ImGuiHelpers.cpp:1593
 msgid "Shift"
 msgstr "Spostamento"
 
@@ -1871,35 +1871,35 @@ msgid "Line width cannot be changed with current renderer."
 msgstr ""
 "La larghezza della linea non può essere modificata con il renderer corrente."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1272
+#: source/MRViewer/ImGuiHelpers.cpp:1273
 msgid "Load preset"
 msgstr "Carica preset"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1272
+#: source/MRViewer/ImGuiHelpers.cpp:1273
 msgid "Select Palette Preset"
 msgstr "Seleziona preset palette"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1279
+#: source/MRViewer/ImGuiHelpers.cpp:1280
 msgid "Cannot load preset with name"
 msgstr "Impossibile caricare il preset con il nome"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1288
+#: source/MRViewer/ImGuiHelpers.cpp:1289
 msgid "Load one of custom presets"
 msgstr "Carica uno dei preset personalizzati"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1295
+#: source/MRViewer/ImGuiHelpers.cpp:1296
 msgid "Set Zero to Green"
 msgstr "Imposta zero su verde"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1296
+#: source/MRViewer/ImGuiHelpers.cpp:1297
 msgid "If checked, zero value always will be green"
 msgstr "Se selezionato, il valore zero sarà sempre verde"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1302
+#: source/MRViewer/ImGuiHelpers.cpp:1303
 msgid "Discrete Palette"
 msgstr "Palette discreta"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1308
+#: source/MRViewer/ImGuiHelpers.cpp:1309
 msgid ""
 "If checked, palette will have several discrete levels. Otherwise it will be "
 "smooth."
@@ -1907,23 +1907,23 @@ msgstr ""
 "Se selezionato, la palette avrà diversi livelli discreti. Altrimenti sarà "
 "continua."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1324
+#: source/MRViewer/ImGuiHelpers.cpp:1325
 msgid "Number of discrete levels"
 msgstr "Numero di livelli discreti"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Palette Type"
 msgstr "Tipo di palette"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Even Space"
 msgstr "Spaziatura uniforme"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Central Zone"
 msgstr "Zona centrale"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1336
+#: source/MRViewer/ImGuiHelpers.cpp:1337
 msgid ""
 "If \"Central zone\" selected you can separately fit values which are higher "
 "or lower then central one. Otherwise only the whole scale can be fit"
@@ -1932,94 +1932,94 @@ msgstr ""
 "valori superiori o inferiori a quello centrale. Altrimenti è possibile "
 "adattare solo l'intera scala"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1373
+#: source/MRViewer/ImGuiHelpers.cpp:1374
 msgid "Min/Max"
 msgstr "Min/Max"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1379
+#: source/MRViewer/ImGuiHelpers.cpp:1381
 msgid "Max (red)"
 msgstr "Max (rosso)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1381
+#: source/MRViewer/ImGuiHelpers.cpp:1383
 msgid "Min (blue)"
 msgstr "Min (blu)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1392
+#: source/MRViewer/ImGuiHelpers.cpp:1394
 msgid "Max positive / Min negative"
 msgstr "Max positivo / Min negativo"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1399
+#: source/MRViewer/ImGuiHelpers.cpp:1401
 msgid "Min positive / Max negative"
 msgstr "Min positivo / Max negativo"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1405
+#: source/MRViewer/ImGuiHelpers.cpp:1407
 msgid "Max positive (red)"
 msgstr "Max positivo (rosso)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1406
+#: source/MRViewer/ImGuiHelpers.cpp:1408
 msgid "Min positive (green)"
 msgstr "Min positivo (verde)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1407
+#: source/MRViewer/ImGuiHelpers.cpp:1409
 msgid "Max negative (green)"
 msgstr "Max negativo (verde)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1409
+#: source/MRViewer/ImGuiHelpers.cpp:1411
 msgid "Min negative (blue)"
 msgstr "Min negativo (blu)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1433
+#: source/MRViewer/ImGuiHelpers.cpp:1435
 msgid "Invalid values order"
 msgstr "Ordine dei valori non valido"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1467 source/MRViewer/ImGuiHelpers.cpp:1485
+#: source/MRViewer/ImGuiHelpers.cpp:1469 source/MRViewer/ImGuiHelpers.cpp:1487
 msgid "Reset Palette"
 msgstr "Reimposta palette"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1476
+#: source/MRViewer/ImGuiHelpers.cpp:1478
 msgid "Save Palette as"
 msgstr "Salva palette come"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1478
+#: source/MRViewer/ImGuiHelpers.cpp:1480
 msgid ""
 "Save the current palette settings to file. You can load it later as a preset."
 msgstr ""
 "Salva le impostazioni della palette corrente su file. Potrai caricarle in "
 "seguito come preset."
 
-#: source/MRViewer/ImGuiHelpers.cpp:1501
+#: source/MRViewer/ImGuiHelpers.cpp:1503
 msgid "Returns the palette to its default values"
 msgstr "Riporta la palette ai valori predefiniti"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1526
+#: source/MRViewer/ImGuiHelpers.cpp:1528
 msgid "Plane YZ"
 msgstr "Piano YZ"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1529
+#: source/MRViewer/ImGuiHelpers.cpp:1531
 msgid "Plane XZ"
 msgstr "Piano XZ"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1532
+#: source/MRViewer/ImGuiHelpers.cpp:1534
 msgid "Plane XY"
 msgstr "Piano XY"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1540
+#: source/MRViewer/ImGuiHelpers.cpp:1542
 msgid "Import Plane"
 msgstr "Importa piano"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1552
+#: source/MRViewer/ImGuiHelpers.cpp:1554
 msgid "Click on the plane object in scene to import its parameters"
 msgstr "Fai clic sull'oggetto piano nella scena per importarne i parametri"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1567
+#: source/MRViewer/ImGuiHelpers.cpp:1569
 msgid "Normal"
 msgstr "Normale"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1594
+#: source/MRViewer/ImGuiHelpers.cpp:1596
 msgid "Flip"
 msgstr "Inverti"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1606
+#: source/MRViewer/ImGuiHelpers.cpp:1608
 msgid "Show Plane"
 msgstr "Mostra piano"
 
@@ -3130,6 +3130,9 @@ msgstr "Volume voxel"
 #: source/MRVoxels/MRObjectVoxels.h:30
 msgid "Voxel Volumes"
 msgstr "Volumi voxel"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "Deve esserci almeno un oggetto nella scena"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "
