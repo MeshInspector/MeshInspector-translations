@@ -391,7 +391,7 @@ msgstr "この機能は現在ウェブ版では対応していません"
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:132
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:155
 msgid "At least one object should be in the scene"
-msgstr ""
+msgstr "シーンに少なくとも1つのオブジェクトが必要です"
 
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:32
 msgid "Sort scene"

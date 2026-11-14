@@ -387,7 +387,7 @@ msgstr "Esta função não é atualmente suportada na edição web"
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:132
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:155
 msgid "At least one object should be in the scene"
-msgstr ""
+msgstr "Deve existir pelo menos um objeto na cena"
 
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:32
 msgid "Sort scene"
