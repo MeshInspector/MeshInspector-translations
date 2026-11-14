@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-14 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -28,7 +28,7 @@ msgid ""
 msgstr "相机焦点在世界空间中的位置。在自动适配模式下,该位置会自动重新计算。"
 
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:31
-#: source/MRViewer/ImGuiHelpers.cpp:1626
+#: source/MRViewer/ImGuiHelpers.cpp:1628
 msgid "Direction"
 msgstr "方向"
 
@@ -378,7 +378,7 @@ msgstr "Web 版本目前不支持此功能"
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:110
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:132
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:155
-msgid "At least one objects should be in scene"
+msgid "At least one object should be in the scene"
 msgstr "场景中至少应有一个对象"
 
 #: source/MRCommonPlugins/ViewerButtons/MRRibbonSceneButtons.cpp:32
@@ -970,7 +970,7 @@ msgid "Shadow Color"
 msgstr "阴影颜色"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:982
-#: source/MRViewer/ImGuiHelpers.cpp:1591
+#: source/MRViewer/ImGuiHelpers.cpp:1593
 msgid "Shift"
 msgstr "偏移"
 
@@ -1810,149 +1810,149 @@ msgstr "按 Shift 拖动 - 更快,按 %s - 更慢"
 msgid "Line width cannot be changed with current renderer."
 msgstr "当前渲染器无法更改线宽。"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1272
+#: source/MRViewer/ImGuiHelpers.cpp:1273
 msgid "Load preset"
 msgstr "加载预设"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1272
+#: source/MRViewer/ImGuiHelpers.cpp:1273
 msgid "Select Palette Preset"
 msgstr "选择调色板预设"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1279
+#: source/MRViewer/ImGuiHelpers.cpp:1280
 msgid "Cannot load preset with name"
 msgstr "无法加载名称为以下的预设"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1288
+#: source/MRViewer/ImGuiHelpers.cpp:1289
 msgid "Load one of custom presets"
 msgstr "加载某个自定义预设"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1295
+#: source/MRViewer/ImGuiHelpers.cpp:1296
 msgid "Set Zero to Green"
 msgstr "将零值设为绿色"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1296
+#: source/MRViewer/ImGuiHelpers.cpp:1297
 msgid "If checked, zero value always will be green"
 msgstr "勾选后,零值始终为绿色"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1302
+#: source/MRViewer/ImGuiHelpers.cpp:1303
 msgid "Discrete Palette"
 msgstr "离散调色板"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1308
+#: source/MRViewer/ImGuiHelpers.cpp:1309
 msgid ""
 "If checked, palette will have several discrete levels. Otherwise it will be "
 "smooth."
 msgstr "勾选后,调色板将具有多个离散级别;否则将是平滑的。"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1324
+#: source/MRViewer/ImGuiHelpers.cpp:1325
 msgid "Number of discrete levels"
 msgstr "离散级别数量"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Palette Type"
 msgstr "调色板类型"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Even Space"
 msgstr "均匀间隔"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1335
+#: source/MRViewer/ImGuiHelpers.cpp:1336
 msgid "Central Zone"
 msgstr "中心区域"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1336
+#: source/MRViewer/ImGuiHelpers.cpp:1337
 msgid ""
 "If \"Central zone\" selected you can separately fit values which are higher "
 "or lower then central one. Otherwise only the whole scale can be fit"
 msgstr ""
 "选择「中心区域」时,可以分别调整高于或低于中心值的数值;否则只能调整整个刻度"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1373
+#: source/MRViewer/ImGuiHelpers.cpp:1374
 msgid "Min/Max"
 msgstr "最小/最大"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1379
+#: source/MRViewer/ImGuiHelpers.cpp:1381
 msgid "Max (red)"
 msgstr "最大值(红色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1381
+#: source/MRViewer/ImGuiHelpers.cpp:1383
 msgid "Min (blue)"
 msgstr "最小值(蓝色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1392
+#: source/MRViewer/ImGuiHelpers.cpp:1394
 msgid "Max positive / Min negative"
 msgstr "最大正值 / 最小负值"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1399
+#: source/MRViewer/ImGuiHelpers.cpp:1401
 msgid "Min positive / Max negative"
 msgstr "最小正值 / 最大负值"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1405
+#: source/MRViewer/ImGuiHelpers.cpp:1407
 msgid "Max positive (red)"
 msgstr "最大正值(红色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1406
+#: source/MRViewer/ImGuiHelpers.cpp:1408
 msgid "Min positive (green)"
 msgstr "最小正值(绿色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1407
+#: source/MRViewer/ImGuiHelpers.cpp:1409
 msgid "Max negative (green)"
 msgstr "最大负值(绿色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1409
+#: source/MRViewer/ImGuiHelpers.cpp:1411
 msgid "Min negative (blue)"
 msgstr "最小负值(蓝色)"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1433
+#: source/MRViewer/ImGuiHelpers.cpp:1435
 msgid "Invalid values order"
 msgstr "数值顺序无效"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1467 source/MRViewer/ImGuiHelpers.cpp:1485
+#: source/MRViewer/ImGuiHelpers.cpp:1469 source/MRViewer/ImGuiHelpers.cpp:1487
 msgid "Reset Palette"
 msgstr "重置调色板"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1476
+#: source/MRViewer/ImGuiHelpers.cpp:1478
 msgid "Save Palette as"
 msgstr "调色板另存为"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1478
+#: source/MRViewer/ImGuiHelpers.cpp:1480
 msgid ""
 "Save the current palette settings to file. You can load it later as a preset."
 msgstr "将当前调色板设置保存到文件。可在以后将其作为预设加载。"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1501
+#: source/MRViewer/ImGuiHelpers.cpp:1503
 msgid "Returns the palette to its default values"
 msgstr "将调色板恢复为默认值"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1526
+#: source/MRViewer/ImGuiHelpers.cpp:1528
 msgid "Plane YZ"
 msgstr "YZ 平面"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1529
+#: source/MRViewer/ImGuiHelpers.cpp:1531
 msgid "Plane XZ"
 msgstr "XZ 平面"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1532
+#: source/MRViewer/ImGuiHelpers.cpp:1534
 msgid "Plane XY"
 msgstr "XY 平面"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1540
+#: source/MRViewer/ImGuiHelpers.cpp:1542
 msgid "Import Plane"
 msgstr "导入平面"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1552
+#: source/MRViewer/ImGuiHelpers.cpp:1554
 msgid "Click on the plane object in scene to import its parameters"
 msgstr "单击场景中的平面对象以导入其参数"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1567
+#: source/MRViewer/ImGuiHelpers.cpp:1569
 msgid "Normal"
 msgstr "法线"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1594
+#: source/MRViewer/ImGuiHelpers.cpp:1596
 msgid "Flip"
 msgstr "翻转"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1606
+#: source/MRViewer/ImGuiHelpers.cpp:1608
 msgid "Show Plane"
 msgstr "显示平面"
 
@@ -3042,6 +3042,9 @@ msgstr "体素体积"
 #: source/MRVoxels/MRObjectVoxels.h:30
 msgid "Voxel Volumes"
 msgstr "体素体积"
+
+#~ msgid "At least one objects should be in scene"
+#~ msgstr "场景中至少应有一个对象"
 
 #~ msgid ""
 #~ "By default result voxels has iso-surfaces oriented from bigger value to "
