@@ -1417,6 +1417,16 @@ msgstr ""
 "2つの球に対して固定のブールA-Bマイクロベンチマークを実行します。AVG/MIN/MAXの"
 "タイミングを報告します。"
 
+msgid "Milling Benchmark"
+msgstr "切削ベンチマーク"
+
+msgid ""
+"Mill the top of a box with a ball tool along a lacing path, one Boolean "
+"subtraction per tool position; reports Boolean timings."
+msgstr ""
+"球状工具でLacingパスに沿ってボックスの上面を切削し、工具位置ごとに1回のブール"
+"減算を行います。ブール演算のタイミングを報告します。"
+
 msgid "Python"
 msgstr "Python"
 
