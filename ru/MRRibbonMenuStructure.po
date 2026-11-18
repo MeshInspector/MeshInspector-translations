@@ -1457,12 +1457,15 @@ msgstr ""
 "выводит время AVG/MIN/MAX."
 
 msgid "Milling Benchmark"
-msgstr ""
+msgstr "Тест фрезерования"
 
 msgid ""
 "Mill the top of a box with a ball tool along a lacing path, one Boolean "
 "subtraction per tool position; reports Boolean timings."
 msgstr ""
+"Фрезерует верхнюю часть параллелепипеда сферическим инструментом по "
+"зигзагообразной траектории, выполняя одно булево вычитание на каждое "
+"положение инструмента; выводит время булевых операций."
 
 msgid "Python"
 msgstr "Python"

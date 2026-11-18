@@ -1313,12 +1313,14 @@ msgid ""
 msgstr "在两个球体上运行固定的布尔 A-B 微基准测试;报告 AVG/MIN/MAX 计时。"
 
 msgid "Milling Benchmark"
-msgstr ""
+msgstr "铣削基准测试"
 
 msgid ""
 "Mill the top of a box with a ball tool along a lacing path, one Boolean "
 "subtraction per tool position; reports Boolean timings."
 msgstr ""
+"使用球形刀具沿往复路径铣削盒子顶部,每个刀具位置执行一次布尔差集运算;报告布尔"
+"运算计时。"
 
 msgid "Python"
 msgstr "Python"

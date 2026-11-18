@@ -1507,12 +1507,15 @@ msgstr ""
 "AVG/MIN/MAX-Zeiten."
 
 msgid "Milling Benchmark"
-msgstr ""
+msgstr "Fräs-Benchmark"
 
 msgid ""
 "Mill the top of a box with a ball tool along a lacing path, one Boolean "
 "subtraction per tool position; reports Boolean timings."
 msgstr ""
+"Fräst die Oberseite eines Quaders mit einem Kugelkopffräser entlang eines "
+"Schnürmuster-Pfads, eine boolesche Subtraktion pro Werkzeugposition; meldet "
+"die Zeiten der booleschen Operationen."
 
 msgid "Python"
 msgstr "Python"
