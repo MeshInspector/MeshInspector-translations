@@ -1502,7 +1502,7 @@ msgid ""
 "subtraction per tool position; reports Boolean timings."
 msgstr ""
 "Fresa o topo de uma caixa com uma ferramenta esférica ao longo de uma "
-"trajetória do tipo Atacar, uma subtração booleana por posição da ferramenta; "
+"trajetória em zigue-zague, uma subtração booleana por posição da ferramenta; "
 "reporta os tempos das operações booleanas."
 
 msgid "Python"
