@@ -1394,6 +1394,14 @@ msgstr ""
 "두 개의 구에 대해 고정된 부울 A-B 마이크로벤치마크를 실행합니다. AVG/MIN/MAX "
 "시간을 보고합니다."
 
+msgid "Milling Benchmark"
+msgstr ""
+
+msgid ""
+"Mill the top of a box with a ball tool along a lacing path, one Boolean "
+"subtraction per tool position; reports Boolean timings."
+msgstr ""
+
 msgid "Python"
 msgstr "Python"
 

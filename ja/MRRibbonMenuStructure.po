@@ -1417,6 +1417,14 @@ msgstr ""
 "2つの球に対して固定のブールA-Bマイクロベンチマークを実行します。AVG/MIN/MAXの"
 "タイミングを報告します。"
 
+msgid "Milling Benchmark"
+msgstr ""
+
+msgid ""
+"Mill the top of a box with a ball tool along a lacing path, one Boolean "
+"subtraction per tool position; reports Boolean timings."
+msgstr ""
+
 msgid "Python"
 msgstr "Python"
 

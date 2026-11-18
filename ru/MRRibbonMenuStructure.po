@@ -1456,6 +1456,14 @@ msgstr ""
 "Запускает фиксированный микротест булевой операции A-B на двух сферах; "
 "выводит время AVG/MIN/MAX."
 
+msgid "Milling Benchmark"
+msgstr ""
+
+msgid ""
+"Mill the top of a box with a ball tool along a lacing path, one Boolean "
+"subtraction per tool position; reports Boolean timings."
+msgstr ""
+
 msgid "Python"
 msgstr "Python"
 

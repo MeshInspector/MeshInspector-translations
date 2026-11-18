@@ -1494,6 +1494,14 @@ msgstr ""
 "Executa um microbenchmark booleano fixo A-B em duas esferas; reporta os "
 "tempos AVG/MIN/MAX."
 
+msgid "Milling Benchmark"
+msgstr ""
+
+msgid ""
+"Mill the top of a box with a ball tool along a lacing path, one Boolean "
+"subtraction per tool position; reports Boolean timings."
+msgstr ""
+
 msgid "Python"
 msgstr "Python"
 
