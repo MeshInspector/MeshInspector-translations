@@ -2138,13 +2138,16 @@ msgstr ""
 "в каждом вокселе."
 
 msgid "Descriptor Spacing"
-msgstr ""
+msgstr "Шаг дескрипторов"
 
 msgid ""
 "Auto Initial matches the objects by shape descriptors computed on samples "
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
+"Функция «Авто начальное» сопоставляет объекты по дескрипторам формы, "
+"вычисленным в точках выборки с этим шагом. Меньший шаг позволяет уловить "
+"более мелкие детали, но требует больше времени."
 
 msgid "Sample Target"
 msgstr "Целевой объект выборки"
@@ -7584,12 +7587,14 @@ msgstr ""
 "Подходит, когда каждый объект значительно меньше всей сцены."
 
 msgid "Auto Initial Transformation"
-msgstr ""
+msgstr "Авто начальное преобразование"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment"
 msgstr ""
+"Найти преобразования всех объектов по их перекрытиям, без начального "
+"выравнивания"
 
 msgid "Global Registration"
 msgstr "Глобальная регистрация"
@@ -7622,11 +7627,11 @@ msgid "High Deviation"
 msgstr "Высокое отклонение"
 
 msgid "Auto Initial: all objects are registered together"
-msgstr ""
+msgstr "Авто начальное: все объекты зарегистрированы вместе"
 
 #, c++-format
 msgid "Auto Initial: objects are registered in {} separate groups"
-msgstr ""
+msgstr "Авто начальное: объекты зарегистрированы в отдельных группах ({})"
 
 msgid "Orient as Existing Normals"
 msgstr "Ориентировать по существующим нормалям"

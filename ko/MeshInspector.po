@@ -2093,13 +2093,16 @@ msgstr ""
 "이 값은 각 복셀에서 하나의 포인트만 선택하도록 샘플링 복셀 크기를 결정합니다."
 
 msgid "Descriptor Spacing"
-msgstr ""
+msgstr "디스크립터 간격"
 
 msgid ""
 "Auto Initial matches the objects by shape descriptors computed on samples "
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
+"자동 초기는 이 간격으로 추출한 샘플에서 계산된 형상 디스크립터로 객체를 매칭"
+"합니다. 간격이 작을수록 더 작은 세부 사항까지 포착하지만 시간이 더 오래 걸립"
+"니다."
 
 msgid "Sample Target"
 msgstr "샘플 대상"
@@ -7269,12 +7272,12 @@ msgstr ""
 "각 객체가 전체 장면보다 훨씬 작을 때 좋습니다."
 
 msgid "Auto Initial Transformation"
-msgstr ""
+msgstr "자동 초기 변환"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment"
-msgstr ""
+msgstr "초기 정렬 없이 객체 간의 겹침으로부터 모든 객체의 변환을 찾습니다"
 
 msgid "Global Registration"
 msgstr "전역 정합"
@@ -7307,11 +7310,11 @@ msgid "High Deviation"
 msgstr "높은 편차"
 
 msgid "Auto Initial: all objects are registered together"
-msgstr ""
+msgstr "자동 초기: 모든 객체가 함께 정합되었습니다"
 
 #, c++-format
 msgid "Auto Initial: objects are registered in {} separate groups"
-msgstr ""
+msgstr "자동 초기: 객체가 {}개의 개별 그룹으로 나뉘어 정합되었습니다"
 
 msgid "Orient as Existing Normals"
 msgstr "기존 법선 방향으로 향하게 하기"

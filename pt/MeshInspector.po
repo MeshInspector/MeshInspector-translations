@@ -2147,13 +2147,16 @@ msgstr ""
 "um ponto em cada voxel."
 
 msgid "Descriptor Spacing"
-msgstr ""
+msgstr "Espaçamento de Descritores"
 
 msgid ""
 "Auto Initial matches the objects by shape descriptors computed on samples "
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
+"Inicial Automático faz corresponder os objetos através de descritores de "
+"forma calculados em amostras com este espaçamento. Um espaçamento menor "
+"capta detalhes mais pequenos, mas demora mais."
 
 msgid "Sample Target"
 msgstr "Alvo de Amostragem"
@@ -7621,12 +7624,14 @@ msgstr ""
 "Adequado quando cada objeto é muito menor do que a cena inteira."
 
 msgid "Auto Initial Transformation"
-msgstr ""
+msgstr "Transformação Inicial Automática"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment"
 msgstr ""
+"Encontrar as transformações de todos os objetos a partir das suas "
+"sobreposições, sem alinhamento inicial"
 
 msgid "Global Registration"
 msgstr "Registo Global"
@@ -7659,11 +7664,11 @@ msgid "High Deviation"
 msgstr "Desvio Elevado"
 
 msgid "Auto Initial: all objects are registered together"
-msgstr ""
+msgstr "Inicial Automático: todos os objetos são registados em conjunto"
 
 #, c++-format
 msgid "Auto Initial: objects are registered in {} separate groups"
-msgstr ""
+msgstr "Inicial Automático: os objetos são registados em {} grupos separados"
 
 msgid "Orient as Existing Normals"
 msgstr "Orientar como Normais Existentes"

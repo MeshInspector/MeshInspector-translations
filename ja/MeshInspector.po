@@ -2093,13 +2093,16 @@ msgstr ""
 "サイズを決定します。"
 
 msgid "Descriptor Spacing"
-msgstr ""
+msgstr "記述子間隔"
 
 msgid ""
 "Auto Initial matches the objects by shape descriptors computed on samples "
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
+"自動初期化は、この間隔のサンプル上で計算された形状記述子によってオブジェクト"
+"をマッチングします。間隔が小さいほど細かい部分まで捉えられますが、処理時間が"
+"長くなります。"
 
 msgid "Sample Target"
 msgstr "サンプルターゲット"
@@ -7307,12 +7310,14 @@ msgstr ""
 "各オブジェクトがシーン全体より非常に小さい場合に適しています。"
 
 msgid "Auto Initial Transformation"
-msgstr ""
+msgstr "自動初期変換"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment"
 msgstr ""
+"初期位置合わせなしで、オブジェクト間の重なりからすべてのオブジェクトの変換を"
+"求めます"
 
 msgid "Global Registration"
 msgstr "グローバル位置合わせ"
@@ -7345,11 +7350,11 @@ msgid "High Deviation"
 msgstr "高偏差"
 
 msgid "Auto Initial: all objects are registered together"
-msgstr ""
+msgstr "自動初期化: すべてのオブジェクトがまとめて位置合わせされました"
 
 #, c++-format
 msgid "Auto Initial: objects are registered in {} separate groups"
-msgstr ""
+msgstr "自動初期化: オブジェクトは {} 個の別々のグループで位置合わせされました"
 
 msgid "Orient as Existing Normals"
 msgstr "既存の法線に合わせて向きを設定"
