@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2163,6 +2163,19 @@ msgid ""
 msgstr ""
 "Cette valeur détermine la taille du voxel d'échantillonnage pour ne "
 "sélectionner qu'un point dans chaque voxel."
+
+msgid "Descriptor Spacing"
+msgstr "Espacement des descripteurs"
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
+"Initial automatique fait correspondre les objets à l'aide de descripteurs de "
+"forme calculés sur des échantillons prélevés avec cet espacement. Un "
+"espacement plus petit capture des détails plus fins, mais le traitement est "
+"plus long."
 
 msgid "Sample Target"
 msgstr "Cible d'échantillonnage"
@@ -7702,6 +7715,16 @@ msgstr ""
 "utiliser les sous-arbres comme groupes.\n"
 "Convient lorsque chaque objet est beaucoup plus petit que la scène entière."
 
+msgid "Auto Initial Transformation"
+msgstr "Transformation initiale automatique"
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+"Trouver les transformations de tous les objets à partir de leurs "
+"chevauchements, sans alignement initial"
+
 msgid "Global Registration"
 msgstr "Recalage global"
 
@@ -7732,6 +7755,13 @@ msgstr "Carte de déviation"
 
 msgid "High Deviation"
 msgstr "Forte déviation"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr "Initial automatique : tous les objets sont recalés ensemble"
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr "Initial automatique : les objets sont recalés en {} groupes distincts"
 
 msgid "Orient as Existing Normals"
 msgstr "Orienter selon les normales existantes"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2153,6 +2153,18 @@ msgid ""
 msgstr ""
 "Questo valore determina la dimensione del voxel di campionamento per "
 "selezionare un solo punto in ciascun voxel."
+
+msgid "Descriptor Spacing"
+msgstr "Spaziatura descrittori"
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
+"Iniziale automatico fa corrispondere gli oggetti tramite descrittori di "
+"forma calcolati su campioni con questa spaziatura. Una spaziatura minore "
+"cattura dettagli più piccoli, ma richiede più tempo."
 
 msgid "Sample Target"
 msgstr "Campiona destinazione"
@@ -7653,6 +7665,16 @@ msgstr ""
 "sotto-alberi come gruppi.\n"
 "Buono quando ogni oggetto è molto più piccolo dell'intera scena."
 
+msgid "Auto Initial Transformation"
+msgstr "Trasformazione iniziale automatica"
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+"Trova le trasformazioni di tutti gli oggetti dalle loro sovrapposizioni, "
+"senza allineamento iniziale"
+
 msgid "Global Registration"
 msgstr "Registrazione globale"
 
@@ -7682,6 +7704,13 @@ msgstr "Mappa di deviazione"
 
 msgid "High Deviation"
 msgstr "Deviazione elevata"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr "Iniziale automatico: tutti gli oggetti sono registrati insieme"
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr "Iniziale automatico: gli oggetti sono registrati in {} gruppi separati"
 
 msgid "Orient as Existing Normals"
 msgstr "Orienta come normali esistenti"

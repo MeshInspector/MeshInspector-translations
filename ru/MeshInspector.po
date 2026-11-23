@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2136,6 +2136,18 @@ msgid ""
 msgstr ""
 "Это значение определяет размер вокселя выборки для выбора только одной точки "
 "в каждом вокселе."
+
+msgid "Descriptor Spacing"
+msgstr "Шаг дескрипторов"
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
+"Функция «Авто начальное» сопоставляет объекты по дескрипторам формы, "
+"вычисленным в точках выборки с этим шагом. Меньший шаг позволяет уловить "
+"более мелкие детали, но требует больше времени."
 
 msgid "Sample Target"
 msgstr "Целевой объект выборки"
@@ -5942,7 +5954,7 @@ msgid "Depth (-)/Height (+) "
 msgstr "Глубина (-)/ Высота (+) "
 
 msgid "Spacing"
-msgstr "Межстрочный интервал"
+msgstr "Интервал"
 
 msgid "Real-Time Preview"
 msgstr "Предпросмотр в реальном времени"
@@ -7574,6 +7586,16 @@ msgstr ""
 "затем использовать поддеревья как группы.\n"
 "Подходит, когда каждый объект значительно меньше всей сцены."
 
+msgid "Auto Initial Transformation"
+msgstr "Авто начальное преобразование"
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+"Найти преобразования всех объектов по их перекрытиям, без начального "
+"выравнивания"
+
 msgid "Global Registration"
 msgstr "Глобальная регистрация"
 
@@ -7603,6 +7625,13 @@ msgstr "Карта отклонений"
 
 msgid "High Deviation"
 msgstr "Высокое отклонение"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr "Авто начальное: все объекты зарегистрированы вместе"
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr "Авто начальное: объекты зарегистрированы в отдельных группах ({})"
 
 msgid "Orient as Existing Normals"
 msgstr "Ориентировать по существующим нормалям"
