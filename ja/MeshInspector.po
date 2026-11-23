@@ -7316,6 +7316,8 @@ msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
 msgstr ""
+"初期位置合わせなしで、オブジェクト間の重なりからすべてのオブジェクトの変換を"
+"求めます。"
 
 msgid "Global Registration"
 msgstr "グローバル位置合わせ"

@@ -7021,7 +7021,7 @@ msgstr "自动初始变换"
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
-msgstr ""
+msgstr "根据对象之间的重叠查找所有对象的变换，无需初始对齐。"
 
 msgid "Global Registration"
 msgstr "全局配准"

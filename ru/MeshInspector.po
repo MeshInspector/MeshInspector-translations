@@ -7593,6 +7593,8 @@ msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
 msgstr ""
+"Найти преобразования всех объектов по их перекрытиям, без начального "
+"выравнивания."
 
 msgid "Global Registration"
 msgstr "Глобальная регистрация"

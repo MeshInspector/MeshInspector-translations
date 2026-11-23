@@ -7277,7 +7277,7 @@ msgstr "자동 초기 변환"
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
-msgstr ""
+msgstr "초기 정렬 없이 객체 간의 겹침으로부터 모든 객체의 변환을 찾습니다."
 
 msgid "Global Registration"
 msgstr "전역 정합"

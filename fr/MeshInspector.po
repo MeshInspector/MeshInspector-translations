@@ -7722,6 +7722,8 @@ msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
 msgstr ""
+"Trouver les transformations de tous les objets à partir de leurs "
+"chevauchements, sans alignement initial."
 
 msgid "Global Registration"
 msgstr "Recalage global"

@@ -7663,6 +7663,8 @@ msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
 "alignment."
 msgstr ""
+"Transformationen aller Objekte anhand ihrer Überlappungen ermitteln, ohne "
+"Anfangsausrichtung."
 
 msgid "Global Registration"
 msgstr "Globale Registrierung"
