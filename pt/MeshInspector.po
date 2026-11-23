@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2145,6 +2145,15 @@ msgid ""
 msgstr ""
 "Este valor determina o tamanho do voxel de amostragem para selecionar apenas "
 "um ponto em cada voxel."
+
+msgid "Descriptor Spacing"
+msgstr ""
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
 
 msgid "Sample Target"
 msgstr "Alvo de Amostragem"
@@ -7611,6 +7620,14 @@ msgstr ""
 "utilizar as subárvores como grupos.\n"
 "Adequado quando cada objeto é muito menor do que a cena inteira."
 
+msgid "Auto Initial Transformation"
+msgstr ""
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+
 msgid "Global Registration"
 msgstr "Registo Global"
 
@@ -7640,6 +7657,13 @@ msgstr "Mapa de Desvio"
 
 msgid "High Deviation"
 msgstr "Desvio Elevado"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr ""
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr ""
 
 msgid "Orient as Existing Normals"
 msgstr "Orientar como Normais Existentes"

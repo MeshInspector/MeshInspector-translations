@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 04:33+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2016,6 +2016,15 @@ msgstr ""
 msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
+msgstr ""
+
+msgid "Descriptor Spacing"
+msgstr ""
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
 msgstr ""
 
 msgid "Sample Target"
@@ -6776,6 +6785,14 @@ msgid ""
 "Good when each object is much smaller than whole scene."
 msgstr ""
 
+msgid "Auto Initial Transformation"
+msgstr ""
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+
 msgid "Global Registration"
 msgstr ""
 
@@ -6804,6 +6821,13 @@ msgid "Deviation Map"
 msgstr ""
 
 msgid "High Deviation"
+msgstr ""
+
+msgid "Auto Initial: all objects are registered together"
+msgstr ""
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
 msgstr ""
 
 msgid "Orient as Existing Normals"

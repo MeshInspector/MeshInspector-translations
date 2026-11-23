@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2091,6 +2091,15 @@ msgid ""
 msgstr ""
 "この値は、各ボクセル内で1つのポイントのみを選択するためのサンプリングボクセル"
 "サイズを決定します。"
+
+msgid "Descriptor Spacing"
+msgstr ""
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
 
 msgid "Sample Target"
 msgstr "サンプルターゲット"
@@ -7297,6 +7306,14 @@ msgstr ""
 "をグループとして使用します。\n"
 "各オブジェクトがシーン全体より非常に小さい場合に適しています。"
 
+msgid "Auto Initial Transformation"
+msgstr ""
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+
 msgid "Global Registration"
 msgstr "グローバル位置合わせ"
 
@@ -7326,6 +7343,13 @@ msgstr "偏差マップ"
 
 msgid "High Deviation"
 msgstr "高偏差"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr ""
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr ""
 
 msgid "Orient as Existing Normals"
 msgstr "既存の法線に合わせて向きを設定"

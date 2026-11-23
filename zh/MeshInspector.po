@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 08:03+0000\n"
+"POT-Creation-Date: 2026-11-23 04:35+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2052,6 +2052,15 @@ msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
 msgstr "此值决定采样体素大小，以便每个体素中仅选择一个点。"
+
+msgid "Descriptor Spacing"
+msgstr ""
+
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
 
 msgid "Sample Target"
 msgstr "采样目标"
@@ -7004,6 +7013,14 @@ msgstr ""
 "基于对象包围盒构建 AABB 树，然后使用子树作为组。\n"
 "当每个对象远小于整个场景时效果良好。"
 
+msgid "Auto Initial Transformation"
+msgstr ""
+
+msgid ""
+"Find the transformations of all objects from their overlaps, without initial "
+"alignment"
+msgstr ""
+
 msgid "Global Registration"
 msgstr "全局配准"
 
@@ -7033,6 +7050,13 @@ msgstr "偏差图"
 
 msgid "High Deviation"
 msgstr "高偏差"
+
+msgid "Auto Initial: all objects are registered together"
+msgstr ""
+
+#, c++-format
+msgid "Auto Initial: objects are registered in {} separate groups"
+msgstr ""
 
 msgid "Orient as Existing Normals"
 msgstr "按现有法线定向"
