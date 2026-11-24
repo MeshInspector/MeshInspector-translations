@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-23 08:04+0000\n"
+"POT-Creation-Date: 2026-11-24 04:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6760,6 +6760,9 @@ msgstr ""
 msgid "File saved successfully."
 msgstr ""
 
+msgid "Global Registration"
+msgstr ""
+
 msgid "Free-form Adjust"
 msgstr ""
 
@@ -6785,7 +6788,9 @@ msgid ""
 "Good when each object is much smaller than whole scene."
 msgstr ""
 
-msgid "Auto Initial Transformation"
+msgid ""
+"The selected method needs normals, but none of the point clouds has them. "
+"Compute them with Make Normals or select Point-to-Point method."
 msgstr ""
 
 msgid ""
@@ -6793,7 +6798,7 @@ msgid ""
 "alignment."
 msgstr ""
 
-msgid "Global Registration"
+msgid "All point clouds must have normals."
 msgstr ""
 
 msgid "No active pairs found, please consider changing parameters"
@@ -6821,6 +6826,9 @@ msgid "Deviation Map"
 msgstr ""
 
 msgid "High Deviation"
+msgstr ""
+
+msgid "Auto Initial Transformation"
 msgstr ""
 
 msgid "Auto Initial: all objects are registered together"
