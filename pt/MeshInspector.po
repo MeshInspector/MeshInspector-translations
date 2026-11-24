@@ -7630,6 +7630,8 @@ msgid ""
 "The selected method needs normals, but none of the point clouds has them. "
 "Compute them with Make Normals or select Point-to-Point method."
 msgstr ""
+"O método selecionado requer normais, mas nenhuma das nuvens de pontos as "
+"tem. Calcule-as com «Criar Normais» ou selecione o método «Ponto-a-Ponto»."
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
@@ -7639,7 +7641,7 @@ msgstr ""
 "sobreposições, sem alinhamento inicial."
 
 msgid "All point clouds must have normals."
-msgstr ""
+msgstr "Todas as nuvens de pontos devem ter normais."
 
 msgid "No active pairs found, please consider changing parameters"
 msgstr "Não foram encontrados pares ativos, considere alterar os parâmetros"

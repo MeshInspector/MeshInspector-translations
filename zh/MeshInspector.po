@@ -7022,6 +7022,8 @@ msgid ""
 "The selected method needs normals, but none of the point clouds has them. "
 "Compute them with Make Normals or select Point-to-Point method."
 msgstr ""
+"所选方法需要法线，但所有点云均没有法线。请使用“生成法线”计算法线，或选择“点到"
+"点”方法。"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
@@ -7029,7 +7031,7 @@ msgid ""
 msgstr "根据对象之间的重叠查找所有对象的变换，无需初始对齐。"
 
 msgid "All point clouds must have normals."
-msgstr ""
+msgstr "所有点云必须具有法线。"
 
 msgid "No active pairs found, please consider changing parameters"
 msgstr "未找到活动配对，请考虑更改参数"

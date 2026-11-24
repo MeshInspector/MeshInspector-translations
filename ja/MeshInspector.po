@@ -7316,6 +7316,8 @@ msgid ""
 "The selected method needs normals, but none of the point clouds has them. "
 "Compute them with Make Normals or select Point-to-Point method."
 msgstr ""
+"選択したメソッドには法線が必要ですが、どのポイントクラウドにも法線がありませ"
+"ん。「法線を作成」で法線を計算するか、「点対点」メソッドを選択してください。"
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
@@ -7325,7 +7327,7 @@ msgstr ""
 "求めます。"
 
 msgid "All point clouds must have normals."
-msgstr ""
+msgstr "すべてのポイントクラウドに法線が必要です。"
 
 msgid "No active pairs found, please consider changing parameters"
 msgstr "アクティブなペアが見つかりません。パラメーターの変更をご検討ください"

@@ -7593,6 +7593,8 @@ msgid ""
 "The selected method needs normals, but none of the point clouds has them. "
 "Compute them with Make Normals or select Point-to-Point method."
 msgstr ""
+"Для выбранного метода нужны нормали, но ни у одного из облаков точек их нет. "
+"Вычислите их с помощью «Создать нормали» или выберите метод «Точка к точке»."
 
 msgid ""
 "Find the transformations of all objects from their overlaps, without initial "
@@ -7602,7 +7604,7 @@ msgstr ""
 "выравнивания."
 
 msgid "All point clouds must have normals."
-msgstr ""
+msgstr "Все облака точек должны иметь нормали."
 
 msgid "No active pairs found, please consider changing parameters"
 msgstr "Активные пары не найдены, попробуйте изменить параметры"
