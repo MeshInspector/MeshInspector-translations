@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 04:33+0000\n"
+"POT-Creation-Date: 2026-11-25 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5979,6 +5979,9 @@ msgstr "Izquierda"
 msgid "Right"
 msgstr "Derecha"
 
+msgid "Type text here..."
+msgstr "Escribe el texto aquí..."
+
 msgid "Detalization"
 msgstr "Detalle"
 
@@ -9267,6 +9270,21 @@ msgstr ""
 
 msgid "Select Self Intersections"
 msgstr "Seleccionar autointersecciones"
+
+msgid "Max Neck Length"
+msgstr "Longitud máxima de cuello"
+
+msgid ""
+"A part of the mesh is selected if its connection (neck) with the main "
+"surface is shorter than this value, and shorter than the part's own open "
+"boundary."
+msgstr ""
+"Se selecciona una parte de la malla si su conexión (cuello) con la "
+"superficie principal es más corta que este valor y más corta que el borde "
+"abierto de la propia parte."
+
+msgid "Select Weakly Attached Parts"
+msgstr "Seleccionar partes débilmente unidas"
 
 msgid "Select incident faces"
 msgstr "Seleccionar caras incidentes"

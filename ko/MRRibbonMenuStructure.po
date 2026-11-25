@@ -1276,6 +1276,14 @@ msgstr "퇴화 삼각형 선택"
 msgid "Select all degenerate triangles based on their aspect ratio."
 msgstr "종횡비를 기준으로 모든 퇴화 삼각형을 선택합니다."
 
+msgid "Select Weakly Attached Parts"
+msgstr "약하게 연결된 부분 선택"
+
+msgid ""
+"Select the parts of the active mesh attached to its main surface only by a "
+"narrow neck."
+msgstr "활성 메시에서 좁은 목을 통해서만 주 표면에 연결된 부분을 선택합니다."
+
 msgid "Select Not Smooth Triangles"
 msgstr "비매끄러운 삼각형 선택"
 

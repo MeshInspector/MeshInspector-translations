@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 04:33+0000\n"
+"POT-Creation-Date: 2026-11-25 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5683,6 +5683,9 @@ msgstr "左"
 msgid "Right"
 msgstr "右"
 
+msgid "Type text here..."
+msgstr "ここにテキストを入力..."
+
 msgid "Detalization"
 msgstr "詳細度"
 
@@ -8843,6 +8846,20 @@ msgstr "交差する三角形だけでなく、互いに接触するだけの三
 
 msgid "Select Self Intersections"
 msgstr "自己交差を選択"
+
+msgid "Max Neck Length"
+msgstr "最大くびれ長"
+
+msgid ""
+"A part of the mesh is selected if its connection (neck) with the main "
+"surface is shorter than this value, and shorter than the part's own open "
+"boundary."
+msgstr ""
+"メッシュの一部は、メインサーフェスとの接続部（くびれ）がこの値より短く、かつ"
+"その部分自身の開いた境界よりも短い場合に選択されます。"
+
+msgid "Select Weakly Attached Parts"
+msgstr "弱く接続された部分を選択"
 
 msgid "Select incident faces"
 msgstr "隣接面を選択"

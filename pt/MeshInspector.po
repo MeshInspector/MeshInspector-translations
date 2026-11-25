@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 04:33+0000\n"
+"POT-Creation-Date: 2026-11-25 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5947,6 +5947,9 @@ msgstr "Esquerda"
 msgid "Right"
 msgstr "Direita"
 
+msgid "Type text here..."
+msgstr "Escreva o texto aqui..."
+
 msgid "Detalization"
 msgstr "Detalhe"
 
@@ -9228,6 +9231,21 @@ msgstr ""
 
 msgid "Select Self Intersections"
 msgstr "Selecionar Auto-interseções"
+
+msgid "Max Neck Length"
+msgstr "Comprimento Máximo do Gargalo"
+
+msgid ""
+"A part of the mesh is selected if its connection (neck) with the main "
+"surface is shorter than this value, and shorter than the part's own open "
+"boundary."
+msgstr ""
+"Uma parte da malha é selecionada se a sua ligação (gargalo) com a superfície "
+"principal for mais curta do que este valor e também mais curta do que a "
+"fronteira aberta da própria parte."
+
+msgid "Select Weakly Attached Parts"
+msgstr "Selecionar Partes Fracamente Ligadas"
 
 msgid "Select incident faces"
 msgstr "Selecionar faces incidentes"

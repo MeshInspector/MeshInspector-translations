@@ -1382,6 +1382,16 @@ msgid "Select all degenerate triangles based on their aspect ratio."
 msgstr ""
 "Selecciona todos los triángulos degenerados según su relación de aspecto."
 
+msgid "Select Weakly Attached Parts"
+msgstr "Seleccionar partes débilmente unidas"
+
+msgid ""
+"Select the parts of the active mesh attached to its main surface only by a "
+"narrow neck."
+msgstr ""
+"Selecciona las partes de la malla activa unidas a su superficie principal "
+"solo por un cuello estrecho."
+
 msgid "Select Not Smooth Triangles"
 msgstr "Seleccionar triángulos no suaves"
 
