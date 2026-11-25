@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 04:33+0000\n"
+"POT-Creation-Date: 2026-11-25 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5455,6 +5455,9 @@ msgstr "左"
 msgid "Right"
 msgstr "右"
 
+msgid "Type text here..."
+msgstr ""
+
 msgid "Detalization"
 msgstr "细节程度"
 
@@ -8471,6 +8474,18 @@ msgstr "不仅选择相交的三角形，还选择仅相互接触的三角形。
 
 msgid "Select Self Intersections"
 msgstr "选择自相交"
+
+msgid "Max Neck Length"
+msgstr ""
+
+msgid ""
+"A part of the mesh is selected if its connection (neck) with the main "
+"surface is shorter than this value, and shorter than the part's own open "
+"boundary."
+msgstr ""
+
+msgid "Select Weakly Attached Parts"
+msgstr ""
 
 msgid "Select incident faces"
 msgstr "选择关联面"

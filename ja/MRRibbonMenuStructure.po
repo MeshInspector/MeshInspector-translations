@@ -1300,6 +1300,14 @@ msgstr "退化三角形を選択"
 msgid "Select all degenerate triangles based on their aspect ratio."
 msgstr "アスペクト比に基づいてすべての退化三角形を選択します。"
 
+msgid "Select Weakly Attached Parts"
+msgstr ""
+
+msgid ""
+"Select the parts of the active mesh attached to its main surface only by a "
+"narrow neck."
+msgstr ""
+
 msgid "Select Not Smooth Triangles"
 msgstr "非スムーズ三角形を選択"
 

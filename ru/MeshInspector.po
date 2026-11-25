@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 04:33+0000\n"
+"POT-Creation-Date: 2026-11-25 04:33+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5912,6 +5912,9 @@ msgstr "Слева"
 msgid "Right"
 msgstr "По правому краю"
 
+msgid "Type text here..."
+msgstr ""
+
 msgid "Detalization"
 msgstr "Детализация"
 
@@ -9170,6 +9173,18 @@ msgstr ""
 
 msgid "Select Self Intersections"
 msgstr "Выбрать самопересечения"
+
+msgid "Max Neck Length"
+msgstr ""
+
+msgid ""
+"A part of the mesh is selected if its connection (neck) with the main "
+"surface is shorter than this value, and shorter than the part's own open "
+"boundary."
+msgstr ""
+
+msgid "Select Weakly Attached Parts"
+msgstr ""
 
 msgid "Select incident faces"
 msgstr "Выбрать смежные грани"
