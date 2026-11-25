@@ -9186,7 +9186,7 @@ msgstr ""
 "короче этого значения, а также короче её собственной открытой границы."
 
 msgid "Select Weakly Attached Parts"
-msgstr "Выбрать слабо присоединённые части"
+msgstr "Выбрать слабо прикреплённые части"
 
 msgid "Select incident faces"
 msgstr "Выбрать смежные грани"

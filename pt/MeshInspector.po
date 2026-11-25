@@ -9233,14 +9233,14 @@ msgid "Select Self Intersections"
 msgstr "Selecionar Auto-interseções"
 
 msgid "Max Neck Length"
-msgstr "Comprimento Máximo de Pescoço"
+msgstr "Comprimento Máximo do Gargalo"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
-"Uma parte da malha é selecionada se a sua ligação (pescoço) com a superfície "
+"Uma parte da malha é selecionada se a sua ligação (gargalo) com a superfície "
 "principal for mais curta do que este valor e também mais curta do que a "
 "fronteira aberta da própria parte."
 

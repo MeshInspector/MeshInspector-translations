@@ -8848,14 +8848,14 @@ msgid "Select Self Intersections"
 msgstr "自己交差を選択"
 
 msgid "Max Neck Length"
-msgstr "最大ネック長"
+msgstr "最大くびれ長"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
-"メッシュの一部は、メインサーフェスとの接続部（ネック）がこの値より短く、かつ"
+"メッシュの一部は、メインサーフェスとの接続部（くびれ）がこの値より短く、かつ"
 "その部分自身の開いた境界よりも短い場合に選択されます。"
 
 msgid "Select Weakly Attached Parts"
