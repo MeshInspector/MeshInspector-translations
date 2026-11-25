@@ -5456,7 +5456,7 @@ msgid "Right"
 msgstr "右"
 
 msgid "Type text here..."
-msgstr ""
+msgstr "在此输入文本……"
 
 msgid "Detalization"
 msgstr "细节程度"
@@ -8476,16 +8476,18 @@ msgid "Select Self Intersections"
 msgstr "选择自相交"
 
 msgid "Max Neck Length"
-msgstr ""
+msgstr "最大颈部长度"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
+"如果网格的某个部分与主表面的连接处（颈部）短于此值，且短于该部分自身的开放边"
+"界，则选中该部分。"
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "选择弱连接部分"
 
 msgid "Select incident faces"
 msgstr "选择关联面"

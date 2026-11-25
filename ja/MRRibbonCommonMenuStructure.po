@@ -63,6 +63,8 @@ msgid ""
 "Difference for volumes made from meshes; Max, Min, Sum, Multiply, Divide for "
 "other volumes."
 msgstr ""
+"個々のボクセルペアに対する各種二変数関数: メッシュから作成したボリュームには"
+"和集合、交差、差分、その他のボリュームには最大、最小、合計、乗算、除算。"
 
 msgid "Open Voxels From TIFF"
 msgstr "TIFFからボクセルを開く"

@@ -5663,7 +5663,7 @@ msgid "Right"
 msgstr "오른쪽"
 
 msgid "Type text here..."
-msgstr ""
+msgstr "여기에 텍스트를 입력하세요..."
 
 msgid "Detalization"
 msgstr "세부 수준"
@@ -8799,16 +8799,18 @@ msgid "Select Self Intersections"
 msgstr "자체 교차 선택"
 
 msgid "Max Neck Length"
-msgstr ""
+msgstr "최대 목 길이"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
+"메시의 일부는 주 표면과의 연결부(목)가 이 값보다 짧고, 해당 부분 자체의 열린 "
+"경계보다도 짧으면 선택됩니다."
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "약하게 연결된 부분 선택"
 
 msgid "Select incident faces"
 msgstr "인접 면 선택"

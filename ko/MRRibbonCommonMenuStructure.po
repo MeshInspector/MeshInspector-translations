@@ -60,6 +60,8 @@ msgid ""
 "Difference for volumes made from meshes; Max, Min, Sum, Multiply, Divide for "
 "other volumes."
 msgstr ""
+"개별 복셀 쌍에 대한 다양한 이변량 함수: 메시로 만든 볼륨에는 합집합, 교집합, "
+"차집합, 그 외 볼륨에는 최댓값, 최솟값, 합, 곱하기, 나누기."
 
 msgid "Open Voxels From TIFF"
 msgstr "TIFF에서 복셀 열기"

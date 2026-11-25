@@ -5980,7 +5980,7 @@ msgid "Right"
 msgstr "Derecha"
 
 msgid "Type text here..."
-msgstr ""
+msgstr "Escribe el texto aquí..."
 
 msgid "Detalization"
 msgstr "Detalle"
@@ -9272,16 +9272,19 @@ msgid "Select Self Intersections"
 msgstr "Seleccionar autointersecciones"
 
 msgid "Max Neck Length"
-msgstr ""
+msgstr "Longitud máxima de cuello"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
+"Se selecciona una parte de la malla si su conexión (cuello) con la "
+"superficie principal es más corta que este valor y más corta que el borde "
+"abierto de la propia parte."
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "Seleccionar partes débilmente unidas"
 
 msgid "Select incident faces"
 msgstr "Seleccionar caras incidentes"

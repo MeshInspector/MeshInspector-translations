@@ -1382,12 +1382,14 @@ msgstr ""
 "Wählt alle degenerierten Dreiecke anhand ihres Seitenverhältnisses aus."
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "Schwach verbundene Teile auswählen"
 
 msgid ""
 "Select the parts of the active mesh attached to its main surface only by a "
 "narrow neck."
 msgstr ""
+"Wählt die Teile des aktiven Meshes aus, die nur über einen schmalen Hals mit "
+"seiner Hauptoberfläche verbunden sind."
 
 msgid "Select Not Smooth Triangles"
 msgstr "Nicht glatte Dreiecke auswählen"

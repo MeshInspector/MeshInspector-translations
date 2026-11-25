@@ -1121,29 +1121,31 @@ msgstr "マウスホイールによるズームの方向を反転します。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1200
 msgid "Middle Button (as in Blender, 3ds Max)"
-msgstr ""
+msgstr "中ボタン（Blender、3ds Maxと同様）"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1201
 msgid "Left Button (as in MeshLab, Metashape)"
-msgstr ""
+msgstr "左ボタン（MeshLab、Metashapeと同様）"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1202
 msgid "Right Button (as in Rhino)"
-msgstr ""
+msgstr "右ボタン（Rhinoと同様）"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Rotate With"
-msgstr ""
+msgstr "回転に使用するボタン"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1228
 msgid ""
 "Mouse buttons for rotating, moving and rolling the camera, as in other 3D "
 "programs. Each control can also be changed below."
 msgstr ""
+"他の3Dプログラムと同様の、カメラの回転、移動、ロールに使用するマウスボタンで"
+"す。各操作は以下で個別に変更することもできます。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
 msgid "Set other"

@@ -5913,7 +5913,7 @@ msgid "Right"
 msgstr "По правому краю"
 
 msgid "Type text here..."
-msgstr ""
+msgstr "Введите текст здесь..."
 
 msgid "Detalization"
 msgstr "Детализация"
@@ -9175,16 +9175,18 @@ msgid "Select Self Intersections"
 msgstr "Выбрать самопересечения"
 
 msgid "Max Neck Length"
-msgstr ""
+msgstr "Максимальная длина перешейка"
 
 msgid ""
 "A part of the mesh is selected if its connection (neck) with the main "
 "surface is shorter than this value, and shorter than the part's own open "
 "boundary."
 msgstr ""
+"Часть меша выбирается, если её соединение (перешеек) с основной поверхностью "
+"короче этого значения, а также короче её собственной открытой границы."
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "Выбрать слабо присоединённые части"
 
 msgid "Select incident faces"
 msgstr "Выбрать смежные грани"

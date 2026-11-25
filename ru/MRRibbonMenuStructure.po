@@ -1335,12 +1335,14 @@ msgid "Select all degenerate triangles based on their aspect ratio."
 msgstr "Выделяет все вырожденные треугольники на основе их соотношения сторон."
 
 msgid "Select Weakly Attached Parts"
-msgstr ""
+msgstr "Выделить слабо прикреплённые части"
 
 msgid ""
 "Select the parts of the active mesh attached to its main surface only by a "
 "narrow neck."
 msgstr ""
+"Выделяет части активного меша, прикреплённые к его основной поверхности лишь "
+"узким перешейком."
 
 msgid "Select Not Smooth Triangles"
 msgstr "Выделить негладкие треугольники"

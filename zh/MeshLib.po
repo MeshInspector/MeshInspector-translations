@@ -1087,29 +1087,31 @@ msgstr "反转鼠标滚轮的缩放方向。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1200
 msgid "Middle Button (as in Blender, 3ds Max)"
-msgstr ""
+msgstr "鼠标中键(如 Blender、3ds Max)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1201
 msgid "Left Button (as in MeshLab, Metashape)"
-msgstr ""
+msgstr "鼠标左键(如 MeshLab、Metashape)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1202
 msgid "Right Button (as in Rhino)"
-msgstr ""
+msgstr "鼠标右键(如 Rhino)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Rotate With"
-msgstr ""
+msgstr "旋转按键"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1228
 msgid ""
 "Mouse buttons for rotating, moving and rolling the camera, as in other 3D "
 "programs. Each control can also be changed below."
 msgstr ""
+"用于旋转、平移和翻滚相机的鼠标按钮,与其他 3D 程序中一致。每项控制也可在下方更"
+"改。"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
 msgid "Set other"

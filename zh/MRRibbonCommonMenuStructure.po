@@ -60,6 +60,8 @@ msgid ""
 "Difference for volumes made from meshes; Max, Min, Sum, Multiply, Divide for "
 "other volumes."
 msgstr ""
+"对单个体素对的各种二元函数:并集、交集、差集用于由网格生成的体积;最大值、最小"
+"值、求和、相乘、相除用于其他体积。"
 
 msgid "Open Voxels From TIFF"
 msgstr "从 TIFF 打开体素"

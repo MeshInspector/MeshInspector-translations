@@ -1129,29 +1129,31 @@ msgstr "Инвертирует направление масштабирован
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1200
 msgid "Middle Button (as in Blender, 3ds Max)"
-msgstr ""
+msgstr "Средняя кнопка (как в Blender, 3ds Max)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1201
 msgid "Left Button (as in MeshLab, Metashape)"
-msgstr ""
+msgstr "Левая кнопка (как в MeshLab, Metashape)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1202
 msgid "Right Button (as in Rhino)"
-msgstr ""
+msgstr "Правая кнопка (как в Rhino)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Rotate With"
-msgstr ""
+msgstr "Вращать с помощью"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Custom"
-msgstr ""
+msgstr "Пользовательская"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1228
 msgid ""
 "Mouse buttons for rotating, moving and rolling the camera, as in other 3D "
 "programs. Each control can also be changed below."
 msgstr ""
+"Кнопки мыши для вращения, перемещения и крена камеры, как в других "
+"3D-программах. Каждое действие также можно переназначить ниже."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
 msgid "Set other"

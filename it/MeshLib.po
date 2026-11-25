@@ -1138,29 +1138,32 @@ msgstr "Inverte la direzione dello zoom con la rotellina del mouse."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1200
 msgid "Middle Button (as in Blender, 3ds Max)"
-msgstr ""
+msgstr "Pulsante centrale (come in Blender, 3ds Max)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1201
 msgid "Left Button (as in MeshLab, Metashape)"
-msgstr ""
+msgstr "Pulsante sinistro (come in MeshLab, Metashape)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1202
 msgid "Right Button (as in Rhino)"
-msgstr ""
+msgstr "Pulsante destro (come in Rhino)"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Rotate With"
-msgstr ""
+msgstr "Ruota con"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1221
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzato"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1228
 msgid ""
 "Mouse buttons for rotating, moving and rolling the camera, as in other 3D "
 "programs. Each control can also be changed below."
 msgstr ""
+"Pulsanti del mouse per la rotazione, lo spostamento e il rollio della "
+"camera, come in altri programmi 3D. Ogni controllo può anche essere "
+"modificato qui sotto."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
 msgid "Set other"
