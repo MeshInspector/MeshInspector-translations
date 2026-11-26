@@ -5360,7 +5360,7 @@ msgid ""
 "method."
 msgstr ""
 "Il metodo selezionato richiede le normali dell'oggetto di riferimento, ma la "
-"nuvola di punti \"{}\" non le possiede. Calcolale con lo strumento Crea "
+"nuvola di punti \"{}\" non le possiede. Calcolale con lo strumento Genera "
 "normali o seleziona il metodo Punto-a-punto."
 
 msgid "Visual settings"

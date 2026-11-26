@@ -116,7 +116,7 @@ msgstr "等轴测"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:27
 msgid "Select two separate objects: the upper one stays, the lower one moves"
-msgstr "请选择两个独立的对象:上方的对象保持不动,下方的对象将被移动"
+msgstr "请选择两个独立的对象：上方的对象保持不动，下方的对象将被移动"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:71
 msgid "Fixed"
@@ -156,7 +156,7 @@ msgstr "翻转"
 msgid ""
 "Planes: same normals instead of opposite ones. Axes: the farther direction "
 "instead of the closer one."
-msgstr "平面:法线方向相同而非相反。轴:取较远的方向而非较近的方向。"
+msgstr "平面：法线方向相同而非相反。轴：取较远的方向而非较近的方向。"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:107
 msgid "Gap"
@@ -179,7 +179,7 @@ msgstr "不匹配"
 msgid ""
 "Remaining degrees of freedom: {}. Add locators or a clocking pair to fix "
 "them."
-msgstr "剩余自由度:{}。添加定位特征或角向定位特征对以约束这些自由度。"
+msgstr "剩余自由度：{}。添加定位特征或角向定位特征对以约束这些自由度。"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106

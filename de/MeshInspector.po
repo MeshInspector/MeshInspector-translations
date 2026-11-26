@@ -5355,7 +5355,7 @@ msgid ""
 msgstr ""
 "Die ausgewählte Methode benötigt Normalen des Referenzobjekts, aber die "
 "Punktwolke \"{}\" verfügt über keine. Berechnen Sie sie mit „Normalen "
-"erstellen“ oder wählen Sie die Methode „Punkt zu Punkt“."
+"erzeugen“ oder wählen Sie die Methode „Punkt zu Punkt“."
 
 msgid "Visual settings"
 msgstr "Anzeigeeinstellungen"

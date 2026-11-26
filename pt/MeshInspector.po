@@ -5333,7 +5333,7 @@ msgid ""
 "method."
 msgstr ""
 "O método selecionado requer normais do objeto de referência, mas a nuvem de "
-"pontos \"{}\" não as tem. Calcule-as com «Criar Normais» ou selecione o "
+"pontos \"{}\" não as tem. Calcule-as com «Gerar normais» ou selecione o "
 "método «Ponto-a-Ponto»."
 
 msgid "Visual settings"
