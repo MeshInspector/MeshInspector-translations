@@ -153,7 +153,7 @@ msgstr ""
 msgid "Force Components"
 msgstr ""
 
-msgid "Split mesh object on defined number of components"
+msgid "Split mesh or polyline object on defined number of components"
 msgstr ""
 
 msgid "Convex Hull"

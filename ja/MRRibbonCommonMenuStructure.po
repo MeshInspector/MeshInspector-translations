@@ -10,6 +10,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "Feature Alignment"
+msgstr "フィーチャー位置合わせ"
+
+msgid ""
+"Move one object so that its fitted features meet the matching features of "
+"another object."
+msgstr ""
+"一方のオブジェクトを移動して、そのフィッティングしたフィーチャーをもう一方の"
+"オブジェクトの対応するフィーチャーに合わせます。"
+
 msgid "Undo"
 msgstr "元に戻す"
 

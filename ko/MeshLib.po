@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 04:33+0000\n"
+"POT-Creation-Date: 2026-11-26 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -117,6 +117,88 @@ msgstr "하단"
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:131
 msgid "Isometric"
 msgstr "등각"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:27
+msgid "Select two separate objects: the upper one stays, the lower one moves"
+msgstr ""
+"서로 다른 두 객체를 선택하십시오: 위쪽 객체는 고정되고, 아래쪽 객체는 이동합"
+"니다"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:71
+msgid "Fixed"
+msgstr "고정"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:72
+msgid "Moving"
+msgstr "이동"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:73
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
+msgid "Swap"
+msgstr "교환"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Primary"
+msgstr "기본"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 1"
+msgstr "로케이터 1"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 2"
+msgstr "로케이터 2"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Clocking"
+msgstr "클로킹"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:105
+#: source/MRViewer/ImGuiHelpers.cpp:1596
+msgid "Flip"
+msgstr "뒤집기"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:106
+msgid ""
+"Planes: same normals instead of opposite ones. Axes: the farther direction "
+"instead of the closer one."
+msgstr ""
+"평면: 반대 방향 대신 같은 방향의 법선을 사용합니다. 축: 더 가까운 방향 대신 "
+"더 먼 방향을 사용합니다."
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:107
+msgid "Gap"
+msgstr "간격"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:111
+msgid "Choose the primary features of both objects."
+msgstr "두 객체의 기본 피처를 선택하십시오."
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:113
+msgid "The primary features must both be planes, axes or points."
+msgstr "기본 피처는 둘 다 평면, 축 또는 포인트여야 합니다."
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:135
+msgid "mismatch"
+msgstr "불일치"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:139
+#, c++-format
+msgid ""
+"Remaining degrees of freedom: {}. Add locators or a clocking pair to fix "
+"them."
+msgstr ""
+"남은 자유도: {}. 이를 고정하려면 로케이터 또는 클로킹 쌍을 추가하십시오."
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
+#: source/MRViewer/MRRibbonMenu.cpp:2103
+msgid "Apply"
+msgstr "적용"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:142
+msgid "Feature Alignment"
+msgstr "피처 정렬"
 
 #: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:61
 msgid ""
@@ -480,7 +562,7 @@ msgid "Units"
 msgstr "단위"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1411
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1413
 msgid "MCP"
 msgstr "MCP"
 
@@ -1194,70 +1276,78 @@ msgstr "스와이프로 카메라 회전"
 msgid "Swipe Moves Camera"
 msgstr "스와이프로 카메라 이동"
 
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
+msgid "Swipe Does Nothing"
+msgstr "스와이프 시 동작 없음"
+
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1394
+msgid "Enable Touchpad Gestures"
+msgstr "터치패드 제스처 활성화"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Ignore Kinetic Movements"
 msgstr "관성 동작 무시"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1398
 msgid "Allow System to Interrupt Gestures"
 msgstr "시스템이 제스처를 중단하도록 허용"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1401
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
 msgid "Swipe Mode"
 msgstr "스와이프 모드"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1416
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1418
 msgid "Enable in This Session"
 msgstr "이 세션에서 활성화"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1420
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1422
 msgid "Enable by Default"
 msgstr "기본적으로 활성화"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1426
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1428
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1434
 msgid "Port"
 msgstr "포트"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1427
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1429
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "-mcpPort 명령줄 플래그로 강제된 포트"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1442
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1444
 msgid "MRU Inner Formats"
 msgstr "MRU 내부 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1448
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "가장 느리고 메모리를 많이 사용하지만 (일반적으로) 압축률이 가장 좋은 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1449
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1451
 msgid "Fast and still relatively small format"
 msgstr "빠르면서도 비교적 작은 크기의 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr "크기가 가장 크지만 불러오기/저장이 가장 빠르고 손실이 없습니다"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1454
 msgid "Fast and efficient format for sparse data"
 msgstr "희소 데이터에 빠르고 효율적인 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1453
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1455
 msgid "Simplest but high disk space consumption format"
 msgstr "가장 간단하지만 디스크 공간을 많이 사용하는 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1478
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1480
 msgid "Mesh Format"
 msgstr "메시 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1496
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1498
 msgid "Points Format"
 msgstr "포인트 형식"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1511
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1513
 msgid "Voxels Format"
 msgstr "복셀 형식"
 
@@ -1337,10 +1427,6 @@ msgstr "객체 A"
 msgid "Object B"
 msgstr "객체 B"
 
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
-msgid "Swap"
-msgstr "교환"
-
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:70
 msgid "Operations"
 msgstr "연산"
@@ -1352,11 +1438,6 @@ msgstr "미리 보기 활성화"
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:99
 msgid "Operation"
 msgstr "연산"
-
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
-#: source/MRViewer/MRRibbonMenu.cpp:2103
-msgid "Apply"
-msgstr "적용"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:124
 msgid "Objects must have the same grid class (e.g. level set or unknown)"
@@ -2005,10 +2086,6 @@ msgstr "장면의 평면 객체를 클릭하여 매개변수를 가져옵니다"
 #: source/MRViewer/ImGuiHelpers.cpp:1569
 msgid "Normal"
 msgstr "법선"
-
-#: source/MRViewer/ImGuiHelpers.cpp:1596
-msgid "Flip"
-msgstr "뒤집기"
 
 #: source/MRViewer/ImGuiHelpers.cpp:1608
 msgid "Show Plane"

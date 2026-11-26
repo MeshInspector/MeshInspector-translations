@@ -10,6 +10,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "Feature Alignment"
+msgstr "Alineación por características"
+
+msgid ""
+"Move one object so that its fitted features meet the matching features of "
+"another object."
+msgstr ""
+"Mover un objeto para que sus características ajustadas coincidan con las "
+"características correspondientes de otro objeto."
+
 msgid "Undo"
 msgstr "Deshacer"
 

@@ -194,8 +194,9 @@ msgstr "選択したメッシュの最大の連結成分以外のすべての連
 msgid "Force Components"
 msgstr "コンポーネントに強制分割"
 
-msgid "Split mesh object on defined number of components"
-msgstr "メッシュオブジェクトを指定した数のコンポーネントに分割します"
+msgid "Split mesh or polyline object on defined number of components"
+msgstr ""
+"メッシュまたはポリラインオブジェクトを指定した数のコンポーネントに分割します"
 
 msgid "Convex Hull"
 msgstr "凸包"
@@ -1936,6 +1937,9 @@ msgstr "実験的"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+#~ msgid "Split mesh object on defined number of components"
+#~ msgstr "メッシュオブジェクトを指定した数のコンポーネントに分割します"
 
 #~ msgid ""
 #~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "

@@ -207,8 +207,10 @@ msgstr ""
 msgid "Force Components"
 msgstr "Komponenten erzwingen"
 
-msgid "Split mesh object on defined number of components"
-msgstr "Teilt das Mesh-Objekt in eine angegebene Anzahl von Komponenten"
+msgid "Split mesh or polyline object on defined number of components"
+msgstr ""
+"Teilt das Mesh- oder Polylinienobjekt in eine angegebene Anzahl von "
+"Komponenten"
 
 msgid "Convex Hull"
 msgstr "Konvexe Hülle"
@@ -2048,6 +2050,9 @@ msgstr "Experimentell"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Test"
+
+#~ msgid "Split mesh object on defined number of components"
+#~ msgstr "Teilt das Mesh-Objekt in eine angegebene Anzahl von Komponenten"
 
 #~ msgid ""
 #~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "

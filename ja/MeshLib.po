@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 04:33+0000\n"
+"POT-Creation-Date: 2026-11-26 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -122,6 +122,91 @@ msgstr "下面"
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:131
 msgid "Isometric"
 msgstr "アイソメトリック"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:27
+msgid "Select two separate objects: the upper one stays, the lower one moves"
+msgstr ""
+"2つの別々のオブジェクトを選択してください: 上のオブジェクトは固定され、下のオ"
+"ブジェクトが移動します"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:71
+msgid "Fixed"
+msgstr "固定"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:72
+msgid "Moving"
+msgstr "移動"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:73
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
+msgid "Swap"
+msgstr "入れ替え"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Primary"
+msgstr "プライマリ"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 1"
+msgstr "ロケーター 1"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 2"
+msgstr "ロケーター 2"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Clocking"
+msgstr "クロッキング"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:105
+#: source/MRViewer/ImGuiHelpers.cpp:1596
+msgid "Flip"
+msgstr "反転"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:106
+msgid ""
+"Planes: same normals instead of opposite ones. Axes: the farther direction "
+"instead of the closer one."
+msgstr ""
+"平面: 法線を逆向きではなく同じ向きにします。軸: 近い方向ではなく遠い方向を使"
+"用します。"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:107
+msgid "Gap"
+msgstr "ギャップ"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:111
+msgid "Choose the primary features of both objects."
+msgstr "両方のオブジェクトのプライマリフィーチャーを選択してください。"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:113
+msgid "The primary features must both be planes, axes or points."
+msgstr ""
+"プライマリフィーチャーは両方とも平面、軸、またはポイントである必要がありま"
+"す。"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:135
+msgid "mismatch"
+msgstr "不一致"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:139
+#, c++-format
+msgid ""
+"Remaining degrees of freedom: {}. Add locators or a clocking pair to fix "
+"them."
+msgstr ""
+"残りの自由度: {}。固定するには、ロケーターまたはクロッキングペアを追加してく"
+"ださい。"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
+#: source/MRViewer/MRRibbonMenu.cpp:2103
+msgid "Apply"
+msgstr "適用"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:142
+msgid "Feature Alignment"
+msgstr "フィーチャー位置合わせ"
 
 #: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:61
 msgid ""
@@ -485,7 +570,7 @@ msgid "Units"
 msgstr "単位"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1411
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1413
 msgid "MCP"
 msgstr "MCP"
 
@@ -1206,69 +1291,77 @@ msgstr "スワイプでカメラを回転"
 msgid "Swipe Moves Camera"
 msgstr "スワイプでカメラを移動"
 
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
+msgid "Swipe Does Nothing"
+msgstr "スワイプで何もしない"
+
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1394
+msgid "Enable Touchpad Gestures"
+msgstr "タッチパッドジェスチャーを有効にする"
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Ignore Kinetic Movements"
 msgstr "慣性移動を無視する"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1398
 msgid "Allow System to Interrupt Gestures"
 msgstr "システムによるジェスチャーの中断を許可する"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1401
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
 msgid "Swipe Mode"
 msgstr "スワイプモード"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1416
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1418
 msgid "Enable in This Session"
 msgstr "このセッションで有効化"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1420
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1422
 msgid "Enable by Default"
 msgstr "デフォルトで有効化"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1426
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1428
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1434
 msgid "Port"
 msgstr "ポート"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1427
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1429
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "-mcpPort コマンドラインフラグで指定されたポート"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1442
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1444
 msgid "MRU Inner Formats"
 msgstr "MRU内部フォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1448
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr "最も遅く、メモリ消費が多いが、最高の圧縮率（通常）のフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1449
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1451
 msgid "Fast and still relatively small format"
 msgstr "高速でサイズも比較的小さいフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr "サイズが最大ですが、読み込み/保存が最速で損失がないフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1454
 msgid "Fast and efficient format for sparse data"
 msgstr "スパースデータに高速で効率的なフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1453
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1455
 msgid "Simplest but high disk space consumption format"
 msgstr "最も単純ですがディスク使用量が多いフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1478
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1480
 msgid "Mesh Format"
 msgstr "メッシュフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1496
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1498
 msgid "Points Format"
 msgstr "ポイントフォーマット"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1511
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1513
 msgid "Voxels Format"
 msgstr "ボクセルフォーマット"
 
@@ -1348,10 +1441,6 @@ msgstr "オブジェクト A"
 msgid "Object B"
 msgstr "オブジェクト B"
 
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
-msgid "Swap"
-msgstr "入れ替え"
-
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:70
 msgid "Operations"
 msgstr "演算"
@@ -1363,11 +1452,6 @@ msgstr "プレビューを有効にする"
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:99
 msgid "Operation"
 msgstr "演算"
-
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
-#: source/MRViewer/MRRibbonMenu.cpp:2103
-msgid "Apply"
-msgstr "適用"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:124
 msgid "Objects must have the same grid class (e.g. level set or unknown)"
@@ -2017,10 +2101,6 @@ msgstr "シーン内の平面オブジェクトをクリックしてパラメー
 #: source/MRViewer/ImGuiHelpers.cpp:1569
 msgid "Normal"
 msgstr "法線"
-
-#: source/MRViewer/ImGuiHelpers.cpp:1596
-msgid "Flip"
-msgstr "反転"
 
 #: source/MRViewer/ImGuiHelpers.cpp:1608
 msgid "Show Plane"

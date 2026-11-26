@@ -10,6 +10,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "Feature Alignment"
+msgstr "特征对齐"
+
+msgid ""
+"Move one object so that its fitted features meet the matching features of "
+"another object."
+msgstr "移动一个对象，使其拟合特征与另一个对象的对应特征重合。"
+
 msgid "Undo"
 msgstr "撤销"
 

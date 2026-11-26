@@ -198,8 +198,8 @@ msgstr "Удаляет все связные компоненты выбранн
 msgid "Force Components"
 msgstr "Разбить на компоненты"
 
-msgid "Split mesh object on defined number of components"
-msgstr "Разбивает объект меша на заданное количество компонент"
+msgid "Split mesh or polyline object on defined number of components"
+msgstr "Разбивает объект меша или полилинии на заданное количество компонент"
 
 msgid "Convex Hull"
 msgstr "Выпуклая оболочка"
@@ -1988,6 +1988,9 @@ msgstr "Эксперименты"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тесты"
+
+#~ msgid "Split mesh object on defined number of components"
+#~ msgstr "Разбивает объект меша на заданное количество компонент"
 
 #~ msgid ""
 #~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "

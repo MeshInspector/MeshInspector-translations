@@ -10,6 +10,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "Feature Alignment"
+msgstr "피처 정렬"
+
+msgid ""
+"Move one object so that its fitted features meet the matching features of "
+"another object."
+msgstr ""
+"한 객체의 피팅된 피처가 다른 객체의 대응하는 피처와 맞닿도록 해당 객체를 "
+"이동합니다."
+
 msgid "Undo"
 msgstr "실행 취소"
 
