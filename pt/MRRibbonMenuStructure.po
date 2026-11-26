@@ -204,7 +204,7 @@ msgid "Force Components"
 msgstr "Forçar componentes"
 
 msgid "Split mesh or polyline object on defined number of components"
-msgstr ""
+msgstr "Divide o objeto malha ou polilinha num número definido de componentes"
 
 msgid "Convex Hull"
 msgstr "Invólucro convexo"

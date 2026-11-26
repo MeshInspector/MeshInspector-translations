@@ -196,6 +196,7 @@ msgstr "コンポーネントに強制分割"
 
 msgid "Split mesh or polyline object on defined number of components"
 msgstr ""
+"メッシュまたはポリラインオブジェクトを指定した数のコンポーネントに分割します"
 
 msgid "Convex Hull"
 msgstr "凸包"

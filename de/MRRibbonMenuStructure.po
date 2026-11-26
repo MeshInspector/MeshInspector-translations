@@ -209,6 +209,8 @@ msgstr "Komponenten erzwingen"
 
 msgid "Split mesh or polyline object on defined number of components"
 msgstr ""
+"Teilt das Mesh- oder Polylinienobjekt in eine angegebene Anzahl von "
+"Komponenten"
 
 msgid "Convex Hull"
 msgstr "Konvexe Hülle"

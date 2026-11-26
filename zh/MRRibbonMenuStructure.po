@@ -183,7 +183,7 @@ msgid "Force Components"
 msgstr "强制分组件"
 
 msgid "Split mesh or polyline object on defined number of components"
-msgstr ""
+msgstr "将网格或折线对象拆分为指定数量的组件"
 
 msgid "Convex Hull"
 msgstr "凸包"

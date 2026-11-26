@@ -210,7 +210,7 @@ msgid "Force Components"
 msgstr "Forcer les composants"
 
 msgid "Split mesh or polyline object on defined number of components"
-msgstr ""
+msgstr "Divise l'objet maillage ou polyligne en un nombre défini de composants"
 
 msgid "Convex Hull"
 msgstr "Enveloppe convexe"

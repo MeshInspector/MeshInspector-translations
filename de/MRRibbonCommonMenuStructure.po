@@ -11,12 +11,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Feature Alignment"
-msgstr ""
+msgstr "Feature-Ausrichtung"
 
 msgid ""
 "Move one object so that its fitted features meet the matching features of "
 "another object."
 msgstr ""
+"Ein Objekt so verschieben, dass seine eingepassten Features auf die "
+"entsprechenden Features eines anderen Objekts treffen."
 
 msgid "Undo"
 msgstr "Rückgängig"

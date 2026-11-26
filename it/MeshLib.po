@@ -121,14 +121,16 @@ msgstr "Isometrica"
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:27
 msgid "Select two separate objects: the upper one stays, the lower one moves"
 msgstr ""
+"Seleziona due oggetti distinti: quello superiore resta fermo, quello "
+"inferiore si sposta"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:71
 msgid "Fixed"
-msgstr ""
+msgstr "Fisso"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:72
 msgid "Moving"
-msgstr ""
+msgstr "Mobile"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:73
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
@@ -137,19 +139,19 @@ msgstr "Scambia"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
 msgid "Primary"
-msgstr ""
+msgstr "Primaria"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
 msgid "Locator 1"
-msgstr ""
+msgstr "Localizzatore 1"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
 msgid "Locator 2"
-msgstr ""
+msgstr "Localizzatore 2"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
 msgid "Clocking"
-msgstr ""
+msgstr "Fasatura"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:105
 #: source/MRViewer/ImGuiHelpers.cpp:1596
@@ -161,22 +163,24 @@ msgid ""
 "Planes: same normals instead of opposite ones. Axes: the farther direction "
 "instead of the closer one."
 msgstr ""
+"Piani: normali con lo stesso verso invece che opposte. Assi: la direzione "
+"più lontana invece di quella più vicina."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:107
 msgid "Gap"
-msgstr ""
+msgstr "Distanza"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:111
 msgid "Choose the primary features of both objects."
-msgstr ""
+msgstr "Scegli le feature primarie di entrambi gli oggetti."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:113
 msgid "The primary features must both be planes, axes or points."
-msgstr ""
+msgstr "Le feature primarie devono essere entrambe piani, assi o punti."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:135
 msgid "mismatch"
-msgstr ""
+msgstr "discrepanza"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:139
 #, c++-format
@@ -184,6 +188,8 @@ msgid ""
 "Remaining degrees of freedom: {}. Add locators or a clocking pair to fix "
 "them."
 msgstr ""
+"Gradi di libertà rimanenti: {}. Aggiungi localizzatori o una coppia di "
+"fasatura per vincolarli."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
@@ -193,7 +199,7 @@ msgstr "Applica"
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:142
 msgid "Feature Alignment"
-msgstr ""
+msgstr "Allineamento per feature"
 
 #: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:61
 msgid ""
@@ -1303,11 +1309,11 @@ msgstr "Lo swipe sposta la camera"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
 msgid "Swipe Does Nothing"
-msgstr ""
+msgstr "Lo swipe non fa nulla"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1394
 msgid "Enable Touchpad Gestures"
-msgstr ""
+msgstr "Abilita gesti del touchpad"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Ignore Kinetic Movements"

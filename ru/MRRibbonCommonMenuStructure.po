@@ -15,12 +15,14 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "Feature Alignment"
-msgstr ""
+msgstr "Выравнивание по примитивам"
 
 msgid ""
 "Move one object so that its fitted features meet the matching features of "
 "another object."
 msgstr ""
+"Переместить один объект так, чтобы его подогнанные примитивы совместились с "
+"соответствующими примитивами другого объекта."
 
 msgid "Undo"
 msgstr "Отменить"
