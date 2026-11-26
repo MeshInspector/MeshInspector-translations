@@ -193,8 +193,8 @@ msgstr ""
 msgid "Force Components"
 msgstr "구성 요소 강제 분할"
 
-msgid "Split mesh object on defined number of components"
-msgstr "정의된 수의 구성 요소로 메시 객체를 분할합니다"
+msgid "Split mesh or polyline object on defined number of components"
+msgstr ""
 
 msgid "Convex Hull"
 msgstr "컨벡스 헐"
@@ -1906,6 +1906,9 @@ msgstr "실험적"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+#~ msgid "Split mesh object on defined number of components"
+#~ msgstr "정의된 수의 구성 요소로 메시 객체를 분할합니다"
 
 #~ msgid ""
 #~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "

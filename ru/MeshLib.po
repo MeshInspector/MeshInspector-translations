@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 04:33+0000\n"
+"POT-Creation-Date: 2026-11-26 04:33+0000\n"
 "PO-Revision-Date: 2026-03-18 00:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -122,6 +122,83 @@ msgstr "Снизу"
 #: source/MRCommonPlugins/Basic/MRCameraOrientationPlugin.cpp:131
 msgid "Isometric"
 msgstr "Изометрия"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:27
+msgid "Select two separate objects: the upper one stays, the lower one moves"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:71
+msgid "Fixed"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:72
+msgid "Moving"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:73
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
+msgid "Swap"
+msgstr "Поменять местами"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Primary"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 1"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Locator 2"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:80
+msgid "Clocking"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:105
+#: source/MRViewer/ImGuiHelpers.cpp:1596
+msgid "Flip"
+msgstr "Отразить"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:106
+msgid ""
+"Planes: same normals instead of opposite ones. Axes: the farther direction "
+"instead of the closer one."
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:107
+msgid "Gap"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:111
+msgid "Choose the primary features of both objects."
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:113
+msgid "The primary features must both be planes, axes or points."
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:135
+msgid "mismatch"
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:139
+#, c++-format
+msgid ""
+"Remaining degrees of freedom: {}. Add locators or a clocking pair to fix "
+"them."
+msgstr ""
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
+#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
+#: source/MRViewer/MRRibbonMenu.cpp:2103
+msgid "Apply"
+msgstr "Применить"
+
+#: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:142
+msgid "Feature Alignment"
+msgstr ""
 
 #: source/MRCommonPlugins/Basic/MRMoveObjectByMouse.cpp:61
 msgid ""
@@ -487,7 +564,7 @@ msgid "Units"
 msgstr "Единицы измерения"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:57
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1411
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1413
 msgid "MCP"
 msgstr "MCP"
 
@@ -1152,8 +1229,8 @@ msgid ""
 "Mouse buttons for rotating, moving and rolling the camera, as in other 3D "
 "programs. Each control can also be changed below."
 msgstr ""
-"Кнопки мыши для вращения, перемещения и крена камеры, как в других "
-"3D-программах. Каждое действие также можно переназначить ниже."
+"Кнопки мыши для вращения, перемещения и крена камеры, как в других 3D-"
+"программах. Каждое действие также можно переназначить ниже."
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1286
 msgid "Set other"
@@ -1214,73 +1291,81 @@ msgstr "Свайп вращает камеру"
 msgid "Swipe Moves Camera"
 msgstr "Свайп перемещает камеру"
 
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1389
+msgid "Swipe Does Nothing"
+msgstr ""
+
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1394
+msgid "Enable Touchpad Gestures"
+msgstr ""
+
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
 msgid "Ignore Kinetic Movements"
 msgstr "Игнорировать кинетические движения"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1396
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1398
 msgid "Allow System to Interrupt Gestures"
 msgstr "Разрешить системе прерывать жесты"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1401
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1403
 msgid "Swipe Mode"
 msgstr "Режим свайпа"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1416
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1418
 msgid "Enable in This Session"
 msgstr "Включить в этой сессии"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1420
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1422
 msgid "Enable by Default"
 msgstr "Включать по умолчанию"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1426
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1432
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1428
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1434
 msgid "Port"
 msgstr "Порт"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1427
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1429
 msgid "Port forced by -mcpPort command-line flag"
 msgstr "Порт задан флагом командной строки -mcpPort"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1442
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1444
 msgid "MRU Inner Formats"
 msgstr "Внутренние форматы MRU"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1448
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
 msgid ""
 "Slowest, high memory consumption, but best compression (typically) format"
 msgstr ""
 "Самый медленный формат с высоким потреблением памяти, но лучшим сжатием (как "
 "правило)"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1449
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1451
 msgid "Fast and still relatively small format"
 msgstr "Быстрый и относительно компактный формат"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1450
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
 msgid "Largest by size, but fastest to load / save and without any losses"
 msgstr ""
 "Наибольший по размеру, но самый быстрый для загрузки / сохранения и без "
 "потерь"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1452
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1454
 msgid "Fast and efficient format for sparse data"
 msgstr "Быстрый и эффективный формат для разреженных данных"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1453
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1455
 msgid "Simplest but high disk space consumption format"
 msgstr "Простейший формат, но с большим расходом дискового пространства"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1478
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1480
 msgid "Mesh Format"
 msgstr "Формат сетки"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1496
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1498
 msgid "Points Format"
 msgstr "Формат точек"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1511
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1513
 msgid "Voxels Format"
 msgstr "Формат вокселей"
 
@@ -1360,10 +1445,6 @@ msgstr "Объект A"
 msgid "Object B"
 msgstr "Объект B"
 
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:62
-msgid "Swap"
-msgstr "Поменять местами"
-
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:70
 msgid "Operations"
 msgstr "Операции"
@@ -1375,11 +1456,6 @@ msgstr "Включить предпросмотр"
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:99
 msgid "Operation"
 msgstr "Операция"
-
-#: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
-#: source/MRViewer/MRRibbonMenu.cpp:2103
-msgid "Apply"
-msgstr "Применить"
 
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:124
 msgid "Objects must have the same grid class (e.g. level set or unknown)"
@@ -2030,10 +2106,6 @@ msgstr "Нажмите на объект-плоскость в сцене для
 #: source/MRViewer/ImGuiHelpers.cpp:1569
 msgid "Normal"
 msgstr "Нормаль"
-
-#: source/MRViewer/ImGuiHelpers.cpp:1596
-msgid "Flip"
-msgstr "Отразить"
 
 #: source/MRViewer/ImGuiHelpers.cpp:1608
 msgid "Show Plane"

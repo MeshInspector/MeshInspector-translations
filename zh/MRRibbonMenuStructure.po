@@ -182,8 +182,8 @@ msgstr "移除所选网格中除最大组件外的所有连通组件"
 msgid "Force Components"
 msgstr "强制分组件"
 
-msgid "Split mesh object on defined number of components"
-msgstr "将网格对象拆分为指定数量的组件"
+msgid "Split mesh or polyline object on defined number of components"
+msgstr ""
 
 msgid "Convex Hull"
 msgstr "凸包"
@@ -1797,6 +1797,9 @@ msgstr "实验性"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+#~ msgid "Split mesh object on defined number of components"
+#~ msgstr "将网格对象拆分为指定数量的组件"
 
 #~ msgid ""
 #~ "Create geometric primitive mesh: cube, parallelepiped, cylinder, sphere, "

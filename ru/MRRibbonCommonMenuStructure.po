@@ -14,6 +14,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+msgid "Feature Alignment"
+msgstr ""
+
+msgid ""
+"Move one object so that its fitted features meet the matching features of "
+"another object."
+msgstr ""
+
 msgid "Undo"
 msgstr "Отменить"
 
