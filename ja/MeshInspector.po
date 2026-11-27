@@ -9610,265 +9610,274 @@ msgid "Import scan"
 msgstr "スキャンをインポート"
 
 msgid "Scanner"
-msgstr ""
+msgstr "スキャナー"
 
 #, c++-format
 msgid "{} runtime not loaded:"
-msgstr ""
+msgstr "{}ランタイムが読み込まれていません:"
 
 msgid "SDK Path"
-msgstr ""
+msgstr "SDKパス"
 
 msgid "Click and drag to draw the clip plane"
-msgstr ""
+msgstr "クリックしてドラッグし、クリップ平面を描画します"
 
 msgid "Clip scans by plane"
 msgstr "平面でスキャンをクリップ"
 
 msgid "Auto rotate"
-msgstr ""
+msgstr "自動回転"
 
 msgid "Pivot"
-msgstr ""
+msgstr "ピボット"
 
 msgid "To center"
-msgstr ""
+msgstr "中心へ"
 
 msgid "Align axis in the scans center"
-msgstr ""
+msgstr "スキャンの中心に軸を合わせます"
 
 msgid "To camera"
-msgstr ""
+msgstr "カメラへ"
 
 msgid "Orient axis to current camera direction"
-msgstr ""
+msgstr "軸を現在のカメラ方向に向けます"
 
 msgid "Picking..."
-msgstr ""
+msgstr "選択中..."
 
 msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr ""
+msgstr "シーンからポイントを選択します (Shiftを押したままで方向を設定)"
 
 msgid "Save rotation parameters"
-msgstr ""
+msgstr "回転パラメーターを保存"
 
 msgid "Registration"
-msgstr ""
+msgstr "レジストレーション"
 
 msgid "Auto register"
-msgstr ""
+msgstr "自動レジストレーション"
 
 msgid "Automatically align a new scan to previous scans"
-msgstr ""
+msgstr "新しいスキャンを以前のスキャンに自動的に位置合わせします"
 
 msgid "ICP Parameters"
-msgstr ""
+msgstr "ICPパラメーター"
 
 msgid "Preview window popped out"
-msgstr ""
+msgstr "プレビューウィンドウはポップアウトされています"
 
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 msgid "Pop Out"
-msgstr ""
+msgstr "ポップアウト"
 
 msgid "Save defaults"
-msgstr ""
+msgstr "デフォルトを保存"
 
 msgid "Save scanner and processing parameters as default"
-msgstr ""
+msgstr "スキャナーと処理のパラメーターをデフォルトとして保存します"
 
 msgid "Rot/Reg"
-msgstr ""
+msgstr "回転/レジストレーション"
 
 msgid "Current Scan"
-msgstr ""
+msgstr "現在のスキャン"
 
 msgid "Unloaded. Please restart the application."
-msgstr ""
+msgstr "アンロードしました。アプリケーションを再起動してください。"
 
 msgid ""
 "Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
 "Target version: 3.8.10.0"
 msgstr ""
+"バイナリフォルダーを設定します（例: \"C:\\SBSDK3\\bin\\Release\"）\n"
+"対象バージョン: 3.8.10.0"
 
 msgid "Not connected"
-msgstr ""
+msgstr "未接続"
 
 msgid "No SDK path specified"
-msgstr ""
+msgstr "SDKパスが指定されていません"
 
 msgid "Loading libraries failed"
-msgstr ""
+msgstr "ライブラリの読み込みに失敗しました"
 
 msgid ""
 "External code crashed!\n"
 "It may be caused by incompatible libraries version\n"
 "Please restart the application"
 msgstr ""
+"外部コードがクラッシュしました!\n"
+"互換性のないライブラリバージョンが原因の可能性があります\n"
+"アプリケーションを再起動してください"
 
 msgid "Cannot access scanner device"
-msgstr ""
+msgstr "スキャナーデバイスにアクセスできません"
 
 msgid "Path contains invalid characters"
-msgstr ""
+msgstr "パスに無効な文字が含まれています"
 
 msgid "Cannot create emulator device"
-msgstr ""
+msgstr "エミュレーターデバイスを作成できません"
 
 msgid "Emulator"
-msgstr ""
+msgstr "エミュレーター"
 
 msgid "The scanner device is busy"
-msgstr ""
+msgstr "スキャナーデバイスはビジー状態です"
 
 msgid "Failed to connect to the scanner"
-msgstr ""
+msgstr "スキャナーへの接続に失敗しました"
 
 msgid "Scan Failed"
-msgstr ""
+msgstr "スキャンに失敗しました"
 
 msgid "Error loading scan"
-msgstr ""
+msgstr "スキャンの読み込みエラー"
 
 msgid "Error saving scan"
-msgstr ""
+msgstr "スキャンの保存エラー"
 
 msgid "No scan to process"
-msgstr ""
+msgstr "処理するスキャンがありません"
 
 msgid "Failed to generate 3D data"
-msgstr ""
+msgstr "3Dデータの生成に失敗しました"
 
 msgid "No points in cloud"
-msgstr ""
+msgstr "点群にポイントがありません"
 
 msgid "Camera"
-msgstr ""
+msgstr "カメラ"
 
 msgid "Exposure"
-msgstr ""
+msgstr "露出"
 
 msgid "Gain"
-msgstr ""
+msgstr "ゲイン"
 
 msgid "Projector Brightness"
-msgstr ""
+msgstr "プロジェクターの明るさ"
 
 msgid ""
 "Projector Brightness (0.0-1.0)\n"
 "Double click to enter number"
 msgstr ""
+"プロジェクターの明るさ (0.0-1.0)\n"
+"ダブルクリックで数値を入力"
 
 msgid "Texture"
-msgstr ""
+msgstr "テクスチャ"
 
 msgid "Capture object coloring as mesh texture or point colors"
-msgstr ""
+msgstr "オブジェクトの色をメッシュテクスチャまたは点の色としてキャプチャします"
 
 msgid "Texture Exposure"
-msgstr ""
+msgstr "テクスチャ露出"
 
 msgid "HDR Enable"
-msgstr ""
+msgstr "HDRを有効化"
 
 msgid "HDR Steps Number"
-msgstr ""
+msgstr "HDRステップ数"
 
 msgid "HDR Exposure Interval"
-msgstr ""
+msgstr "HDR露出間隔"
 
 msgid "3D Scan Type"
-msgstr ""
+msgstr "3Dスキャンタイプ"
 
 msgid "Raw Point Cloud"
-msgstr ""
+msgstr "RAW点群"
 
 msgid "Decimated Mesh"
-msgstr ""
+msgstr "間引きされたメッシュ"
 
 msgid "Cleanup Type"
-msgstr ""
+msgstr "クリーンアップタイプ"
 
 msgid "Fix orientation"
-msgstr ""
+msgstr "向きを修正"
 
 msgid "Orient scan up by Z axis (by default, negative Y axis)"
-msgstr ""
+msgstr "スキャンの上方向をZ軸に合わせます (デフォルトでは負のY軸)"
 
 msgid "Scan (raw)"
-msgstr ""
+msgstr "スキャン (RAW)"
 
 msgid "Scan images"
-msgstr ""
+msgstr "画像をスキャン"
 
 msgid "Process"
-msgstr ""
+msgstr "処理"
 
 msgid "Create 3D objects from scanned images"
-msgstr ""
+msgstr "スキャンした画像から3Dオブジェクトを作成します"
 
 msgid "Save raw"
-msgstr ""
+msgstr "RAWを保存"
 
 msgid "Load raw"
-msgstr ""
+msgstr "RAWを読み込み"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "手動スキャン"
 
 #, c++-format
 msgid "Raw scan: {} images"
-msgstr ""
+msgstr "RAWスキャン: {}枚の画像"
 
 msgid "Raw scan: none"
-msgstr ""
+msgstr "RAWスキャン: なし"
 
 msgid "Unload"
-msgstr ""
+msgstr "アンロード"
 
 msgid "Failed to capture images"
-msgstr ""
+msgstr "画像のキャプチャに失敗しました"
 
 msgid "tooltip"
-msgstr ""
+msgstr "ツールチップ"
 
 msgid "title"
-msgstr ""
+msgstr "タイトル"
 
 msgid "status"
-msgstr ""
+msgstr "ステータス"
 
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 msgid "Capture"
 msgstr "キャプチャ"
 
 msgid "Scan and create 3D (Press Space)"
-msgstr ""
+msgstr "スキャンして3Dを作成 (Spaceキーを押す)"
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Live"
-msgstr ""
+msgstr "ライブ"
 
 msgid "Live + 3D"
-msgstr ""
+msgstr "ライブ + 3D"
 
 msgid "Capture frame"
-msgstr ""
+msgstr "フレームをキャプチャ"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "切断"
 
 msgid "Connect"
-msgstr ""
+msgstr "接続"
 
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
+"Zivid SDKのバイナリフォルダーを設定します（例: \"C:\\Program "
+"Files\\Zivid\\bin\"）"
 
 msgid "Loading Zivid runtime failed"
 msgstr "Zividランタイムの読み込みに失敗しました"
@@ -9886,7 +9895,7 @@ msgid "Use file (.zfc / .zdf)"
 msgstr "ファイルを使用 (.zfc / .zdf)"
 
 msgid "Zivid file camera or saved frame (.zfc / .zdf)"
-msgstr ""
+msgstr "Zividファイルカメラまたは保存されたフレーム (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "メッシュを構築"

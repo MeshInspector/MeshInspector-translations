@@ -10053,265 +10053,280 @@ msgid "Import scan"
 msgstr "Importa scansione"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Scanner"
 
 #, c++-format
 msgid "{} runtime not loaded:"
-msgstr ""
+msgstr "Runtime {} non caricato:"
 
 msgid "SDK Path"
-msgstr ""
+msgstr "Percorso SDK"
 
 msgid "Click and drag to draw the clip plane"
-msgstr ""
+msgstr "Clicca e trascina per disegnare il piano di taglio"
 
 msgid "Clip scans by plane"
 msgstr "Ritaglia scansioni per piano"
 
 msgid "Auto rotate"
-msgstr ""
+msgstr "Rotazione automatica"
 
 msgid "Pivot"
-msgstr ""
+msgstr "Pivot"
 
 msgid "To center"
-msgstr ""
+msgstr "Al centro"
 
 msgid "Align axis in the scans center"
-msgstr ""
+msgstr "Allinea l'asse al centro delle scansioni"
 
 msgid "To camera"
-msgstr ""
+msgstr "Verso la camera"
 
 msgid "Orient axis to current camera direction"
-msgstr ""
+msgstr "Orienta l'asse secondo la direzione corrente della camera"
 
 msgid "Picking..."
-msgstr ""
+msgstr "Selezione..."
 
 msgid "Pick a point from scene (hold Shift to set direction)"
 msgstr ""
+"Seleziona un punto dalla scena (tieni premuto Shift per impostare la "
+"direzione)"
 
 msgid "Save rotation parameters"
-msgstr ""
+msgstr "Salva parametri di rotazione"
 
 msgid "Registration"
-msgstr ""
+msgstr "Registrazione"
 
 msgid "Auto register"
-msgstr ""
+msgstr "Registrazione automatica"
 
 msgid "Automatically align a new scan to previous scans"
-msgstr ""
+msgstr "Allinea automaticamente una nuova scansione alle scansioni precedenti"
 
 msgid "ICP Parameters"
-msgstr ""
+msgstr "Parametri ICP"
 
 msgid "Preview window popped out"
-msgstr ""
+msgstr "Finestra di anteprima staccata"
 
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 msgid "Pop Out"
-msgstr ""
+msgstr "Stacca"
 
 msgid "Save defaults"
-msgstr ""
+msgstr "Salva predefiniti"
 
 msgid "Save scanner and processing parameters as default"
-msgstr ""
+msgstr "Salva i parametri dello scanner e di elaborazione come predefiniti"
 
 msgid "Rot/Reg"
-msgstr ""
+msgstr "Rot/Reg"
 
 msgid "Current Scan"
-msgstr ""
+msgstr "Scansione corrente"
 
 msgid "Unloaded. Please restart the application."
-msgstr ""
+msgstr "Scaricato. Riavvia l'applicazione."
 
 msgid ""
 "Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
 "Target version: 3.8.10.0"
 msgstr ""
+"Imposta la cartella dei binari, ad es. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Versione di destinazione: 3.8.10.0"
 
 msgid "Not connected"
-msgstr ""
+msgstr "Non connesso"
 
 msgid "No SDK path specified"
-msgstr ""
+msgstr "Nessun percorso SDK specificato"
 
 msgid "Loading libraries failed"
-msgstr ""
+msgstr "Caricamento delle librerie non riuscito"
 
 msgid ""
 "External code crashed!\n"
 "It may be caused by incompatible libraries version\n"
 "Please restart the application"
 msgstr ""
+"Codice esterno terminato in modo anomalo!\n"
+"Potrebbe essere causato da una versione incompatibile delle librerie\n"
+"Riavvia l'applicazione"
 
 msgid "Cannot access scanner device"
-msgstr ""
+msgstr "Impossibile accedere al dispositivo scanner"
 
 msgid "Path contains invalid characters"
-msgstr ""
+msgstr "Il percorso contiene caratteri non validi"
 
 msgid "Cannot create emulator device"
-msgstr ""
+msgstr "Impossibile creare il dispositivo emulatore"
 
 msgid "Emulator"
-msgstr ""
+msgstr "Emulatore"
 
 msgid "The scanner device is busy"
-msgstr ""
+msgstr "Il dispositivo scanner è occupato"
 
 msgid "Failed to connect to the scanner"
-msgstr ""
+msgstr "Impossibile connettersi allo scanner"
 
 msgid "Scan Failed"
-msgstr ""
+msgstr "Scansione non riuscita"
 
 msgid "Error loading scan"
-msgstr ""
+msgstr "Errore durante il caricamento della scansione"
 
 msgid "Error saving scan"
-msgstr ""
+msgstr "Errore durante il salvataggio della scansione"
 
 msgid "No scan to process"
-msgstr ""
+msgstr "Nessuna scansione da elaborare"
 
 msgid "Failed to generate 3D data"
-msgstr ""
+msgstr "Impossibile generare i dati 3D"
 
 msgid "No points in cloud"
-msgstr ""
+msgstr "Nessun punto nella nuvola"
 
 msgid "Camera"
-msgstr ""
+msgstr "Fotocamera"
 
 msgid "Exposure"
-msgstr ""
+msgstr "Esposizione"
 
 msgid "Gain"
-msgstr ""
+msgstr "Guadagno"
 
 msgid "Projector Brightness"
-msgstr ""
+msgstr "Luminosità proiettore"
 
 msgid ""
 "Projector Brightness (0.0-1.0)\n"
 "Double click to enter number"
 msgstr ""
+"Luminosità proiettore (0.0-1.0)\n"
+"Doppio clic per inserire un numero"
 
 msgid "Texture"
-msgstr ""
+msgstr "Texture"
 
 msgid "Capture object coloring as mesh texture or point colors"
 msgstr ""
+"Acquisisci la colorazione dell'oggetto come texture della mesh o colori dei "
+"punti"
 
 msgid "Texture Exposure"
-msgstr ""
+msgstr "Esposizione texture"
 
 msgid "HDR Enable"
-msgstr ""
+msgstr "Abilita HDR"
 
 msgid "HDR Steps Number"
-msgstr ""
+msgstr "Numero di passi HDR"
 
 msgid "HDR Exposure Interval"
-msgstr ""
+msgstr "Intervallo di esposizione HDR"
 
 msgid "3D Scan Type"
-msgstr ""
+msgstr "Tipo di scansione 3D"
 
 msgid "Raw Point Cloud"
-msgstr ""
+msgstr "Nuvola di punti grezza"
 
 msgid "Decimated Mesh"
-msgstr ""
+msgstr "Mesh decimata"
 
 msgid "Cleanup Type"
-msgstr ""
+msgstr "Tipo di pulizia"
 
 msgid "Fix orientation"
-msgstr ""
+msgstr "Correggi orientamento"
 
 msgid "Orient scan up by Z axis (by default, negative Y axis)"
 msgstr ""
+"Orienta la scansione verso l'alto lungo l'asse Z (per impostazione "
+"predefinita, asse Y negativo)"
 
 msgid "Scan (raw)"
-msgstr ""
+msgstr "Scansione (grezza)"
 
 msgid "Scan images"
-msgstr ""
+msgstr "Scansiona immagini"
 
 msgid "Process"
-msgstr ""
+msgstr "Elabora"
 
 msgid "Create 3D objects from scanned images"
-msgstr ""
+msgstr "Crea oggetti 3D dalle immagini scansionate"
 
 msgid "Save raw"
-msgstr ""
+msgstr "Salva dati grezzi"
 
 msgid "Load raw"
-msgstr ""
+msgstr "Carica dati grezzi"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "Scansione manuale"
 
 #, c++-format
 msgid "Raw scan: {} images"
-msgstr ""
+msgstr "Scansione grezza: {} immagini"
 
 msgid "Raw scan: none"
-msgstr ""
+msgstr "Scansione grezza: nessuna"
 
 msgid "Unload"
-msgstr ""
+msgstr "Scarica"
 
 msgid "Failed to capture images"
-msgstr ""
+msgstr "Impossibile acquisire le immagini"
 
 msgid "tooltip"
-msgstr ""
+msgstr "tooltip"
 
 msgid "title"
-msgstr ""
+msgstr "titolo"
 
 msgid "status"
-msgstr ""
+msgstr "stato"
 
 msgid "File"
-msgstr ""
+msgstr "File"
 
 msgid "Capture"
 msgstr "Acquisisci"
 
 msgid "Scan and create 3D (Press Space)"
-msgstr ""
+msgstr "Scansiona e crea 3D (premi Spazio)"
 
 msgid "Stop"
-msgstr ""
+msgstr "Interrompi"
 
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 msgid "Live + 3D"
-msgstr ""
+msgstr "Live + 3D"
 
 msgid "Capture frame"
-msgstr ""
+msgstr "Acquisisci frame"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Disconnetti"
 
 msgid "Connect"
-msgstr ""
+msgstr "Connetti"
 
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
+"Imposta la cartella dei binari dell'SDK Zivid, ad es. \"C:\\Program "
+"Files\\Zivid\\bin\""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Caricamento del runtime Zivid non riuscito"
@@ -10329,7 +10344,7 @@ msgid "Use file (.zfc / .zdf)"
 msgstr "Usa file (.zfc / .zdf)"
 
 msgid "Zivid file camera or saved frame (.zfc / .zdf)"
-msgstr ""
+msgstr "Fotocamera da file Zivid o frame salvato (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "Costruisci mesh"

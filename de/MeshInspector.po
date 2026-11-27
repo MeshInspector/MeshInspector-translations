@@ -10060,265 +10060,275 @@ msgid "Import scan"
 msgstr "Scan importieren"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Scanner"
 
 #, c++-format
 msgid "{} runtime not loaded:"
-msgstr ""
+msgstr "{}-Laufzeitumgebung nicht geladen:"
 
 msgid "SDK Path"
-msgstr ""
+msgstr "SDK-Pfad"
 
 msgid "Click and drag to draw the clip plane"
-msgstr ""
+msgstr "Klicken und ziehen, um die Schnittebene zu zeichnen"
 
 msgid "Clip scans by plane"
 msgstr "Scans an Ebene zuschneiden"
 
 msgid "Auto rotate"
-msgstr ""
+msgstr "Automatisch drehen"
 
 msgid "Pivot"
-msgstr ""
+msgstr "Drehpunkt"
 
 msgid "To center"
-msgstr ""
+msgstr "Zur Mitte"
 
 msgid "Align axis in the scans center"
-msgstr ""
+msgstr "Achse im Zentrum der Scans ausrichten"
 
 msgid "To camera"
-msgstr ""
+msgstr "Zur Kamera"
 
 msgid "Orient axis to current camera direction"
-msgstr ""
+msgstr "Achse an der aktuellen Kamerarichtung ausrichten"
 
 msgid "Picking..."
-msgstr ""
+msgstr "Auswählen..."
 
 msgid "Pick a point from scene (hold Shift to set direction)"
 msgstr ""
+"Punkt in der Szene wählen (Umschalttaste halten, um die Richtung festzulegen)"
 
 msgid "Save rotation parameters"
-msgstr ""
+msgstr "Rotationsparameter speichern"
 
 msgid "Registration"
-msgstr ""
+msgstr "Registrierung"
 
 msgid "Auto register"
-msgstr ""
+msgstr "Automatisch registrieren"
 
 msgid "Automatically align a new scan to previous scans"
-msgstr ""
+msgstr "Neuen Scan automatisch an vorherigen Scans ausrichten"
 
 msgid "ICP Parameters"
-msgstr ""
+msgstr "ICP-Parameter"
 
 msgid "Preview window popped out"
-msgstr ""
+msgstr "Vorschaufenster abgedockt"
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Pop Out"
-msgstr ""
+msgstr "Abdocken"
 
 msgid "Save defaults"
-msgstr ""
+msgstr "Standardwerte speichern"
 
 msgid "Save scanner and processing parameters as default"
-msgstr ""
+msgstr "Scanner- und Verarbeitungsparameter als Standard speichern"
 
 msgid "Rot/Reg"
-msgstr ""
+msgstr "Rot./Reg."
 
 msgid "Current Scan"
-msgstr ""
+msgstr "Aktueller Scan"
 
 msgid "Unloaded. Please restart the application."
-msgstr ""
+msgstr "Entladen. Bitte starten Sie die Anwendung neu."
 
 msgid ""
 "Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
 "Target version: 3.8.10.0"
 msgstr ""
+"Binärordner festlegen, z. B. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Zielversion: 3.8.10.0"
 
 msgid "Not connected"
-msgstr ""
+msgstr "Nicht verbunden"
 
 msgid "No SDK path specified"
-msgstr ""
+msgstr "Kein SDK-Pfad angegeben"
 
 msgid "Loading libraries failed"
-msgstr ""
+msgstr "Laden der Bibliotheken fehlgeschlagen"
 
 msgid ""
 "External code crashed!\n"
 "It may be caused by incompatible libraries version\n"
 "Please restart the application"
 msgstr ""
+"Externer Code ist abgestürzt!\n"
+"Dies kann durch eine inkompatible Bibliotheksversion verursacht werden\n"
+"Bitte starten Sie die Anwendung neu"
 
 msgid "Cannot access scanner device"
-msgstr ""
+msgstr "Zugriff auf das Scannergerät nicht möglich"
 
 msgid "Path contains invalid characters"
-msgstr ""
+msgstr "Pfad enthält ungültige Zeichen"
 
 msgid "Cannot create emulator device"
-msgstr ""
+msgstr "Emulatorgerät kann nicht erstellt werden"
 
 msgid "Emulator"
-msgstr ""
+msgstr "Emulator"
 
 msgid "The scanner device is busy"
-msgstr ""
+msgstr "Das Scannergerät ist belegt"
 
 msgid "Failed to connect to the scanner"
-msgstr ""
+msgstr "Verbindung zum Scanner fehlgeschlagen"
 
 msgid "Scan Failed"
-msgstr ""
+msgstr "Scan fehlgeschlagen"
 
 msgid "Error loading scan"
-msgstr ""
+msgstr "Fehler beim Laden des Scans"
 
 msgid "Error saving scan"
-msgstr ""
+msgstr "Fehler beim Speichern des Scans"
 
 msgid "No scan to process"
-msgstr ""
+msgstr "Kein Scan zum Verarbeiten"
 
 msgid "Failed to generate 3D data"
-msgstr ""
+msgstr "3D-Daten konnten nicht erzeugt werden"
 
 msgid "No points in cloud"
-msgstr ""
+msgstr "Keine Punkte in der Punktwolke"
 
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgid "Exposure"
-msgstr ""
+msgstr "Belichtung"
 
 msgid "Gain"
-msgstr ""
+msgstr "Verstärkung"
 
 msgid "Projector Brightness"
-msgstr ""
+msgstr "Projektorhelligkeit"
 
 msgid ""
 "Projector Brightness (0.0-1.0)\n"
 "Double click to enter number"
 msgstr ""
+"Projektorhelligkeit (0.0-1.0)\n"
+"Doppelklicken, um eine Zahl einzugeben"
 
 msgid "Texture"
-msgstr ""
+msgstr "Textur"
 
 msgid "Capture object coloring as mesh texture or point colors"
-msgstr ""
+msgstr "Objektfarben als Mesh-Textur oder Punktfarben erfassen"
 
 msgid "Texture Exposure"
-msgstr ""
+msgstr "Texturbelichtung"
 
 msgid "HDR Enable"
-msgstr ""
+msgstr "HDR aktivieren"
 
 msgid "HDR Steps Number"
-msgstr ""
+msgstr "Anzahl der HDR-Stufen"
 
 msgid "HDR Exposure Interval"
-msgstr ""
+msgstr "HDR-Belichtungsintervall"
 
 msgid "3D Scan Type"
-msgstr ""
+msgstr "3D-Scantyp"
 
 msgid "Raw Point Cloud"
-msgstr ""
+msgstr "Rohe Punktwolke"
 
 msgid "Decimated Mesh"
-msgstr ""
+msgstr "Dezimiertes Mesh"
 
 msgid "Cleanup Type"
-msgstr ""
+msgstr "Bereinigungstyp"
 
 msgid "Fix orientation"
-msgstr ""
+msgstr "Ausrichtung korrigieren"
 
 msgid "Orient scan up by Z axis (by default, negative Y axis)"
 msgstr ""
+"Scan an der Z-Achse nach oben ausrichten (standardmäßig negative Y-Achse)"
 
 msgid "Scan (raw)"
-msgstr ""
+msgstr "Scannen (roh)"
 
 msgid "Scan images"
-msgstr ""
+msgstr "Bilder scannen"
 
 msgid "Process"
-msgstr ""
+msgstr "Verarbeiten"
 
 msgid "Create 3D objects from scanned images"
-msgstr ""
+msgstr "3D-Objekte aus gescannten Bildern erstellen"
 
 msgid "Save raw"
-msgstr ""
+msgstr "Rohdaten speichern"
 
 msgid "Load raw"
-msgstr ""
+msgstr "Rohdaten laden"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "Manueller Scan"
 
 #, c++-format
 msgid "Raw scan: {} images"
-msgstr ""
+msgstr "Roh-Scan: {} Bilder"
 
 msgid "Raw scan: none"
-msgstr ""
+msgstr "Roh-Scan: keiner"
 
 msgid "Unload"
-msgstr ""
+msgstr "Entladen"
 
 msgid "Failed to capture images"
-msgstr ""
+msgstr "Bilder konnten nicht aufgenommen werden"
 
 msgid "tooltip"
-msgstr ""
+msgstr "Tooltip"
 
 msgid "title"
-msgstr ""
+msgstr "Titel"
 
 msgid "status"
-msgstr ""
+msgstr "Status"
 
 msgid "File"
-msgstr ""
+msgstr "Datei"
 
 msgid "Capture"
 msgstr "Aufnehmen"
 
 msgid "Scan and create 3D (Press Space)"
-msgstr ""
+msgstr "Scannen und 3D erstellen (Leertaste drücken)"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stoppen"
 
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 msgid "Live + 3D"
-msgstr ""
+msgstr "Live + 3D"
 
 msgid "Capture frame"
-msgstr ""
+msgstr "Frame aufnehmen"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Trennen"
 
 msgid "Connect"
-msgstr ""
+msgstr "Verbinden"
 
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
+"Binärordner des Zivid SDK festlegen, z. B. \"C:\\Program Files\\Zivid\\bin\""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Laden der Zivid-Runtime fehlgeschlagen"
@@ -10337,7 +10347,7 @@ msgid "Use file (.zfc / .zdf)"
 msgstr "Datei verwenden (.zfc / .zdf)"
 
 msgid "Zivid file camera or saved frame (.zfc / .zdf)"
-msgstr ""
+msgstr "Zivid-Dateikamera oder gespeicherter Frame (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "Mesh erstellen"

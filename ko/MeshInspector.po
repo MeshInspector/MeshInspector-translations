@@ -9554,265 +9554,274 @@ msgid "Import scan"
 msgstr "스캔 가져오기"
 
 msgid "Scanner"
-msgstr ""
+msgstr "스캐너"
 
 #, c++-format
 msgid "{} runtime not loaded:"
-msgstr ""
+msgstr "{} 런타임을 불러오지 않았습니다:"
 
 msgid "SDK Path"
-msgstr ""
+msgstr "SDK 경로"
 
 msgid "Click and drag to draw the clip plane"
-msgstr ""
+msgstr "클릭하고 드래그하여 절단 평면을 그립니다"
 
 msgid "Clip scans by plane"
 msgstr "평면으로 스캔 자르기"
 
 msgid "Auto rotate"
-msgstr ""
+msgstr "자동 회전"
 
 msgid "Pivot"
-msgstr ""
+msgstr "피벗"
 
 msgid "To center"
-msgstr ""
+msgstr "중심으로"
 
 msgid "Align axis in the scans center"
-msgstr ""
+msgstr "스캔 중심에 축을 정렬합니다"
 
 msgid "To camera"
-msgstr ""
+msgstr "카메라로"
 
 msgid "Orient axis to current camera direction"
-msgstr ""
+msgstr "현재 카메라 방향으로 축 방향을 설정합니다"
 
 msgid "Picking..."
-msgstr ""
+msgstr "선택 중..."
 
 msgid "Pick a point from scene (hold Shift to set direction)"
 msgstr ""
+"장면에서 포인트를 선택합니다 (방향을 설정하려면 Shift 키를 누른 채로 선택)"
 
 msgid "Save rotation parameters"
-msgstr ""
+msgstr "회전 매개변수 저장"
 
 msgid "Registration"
-msgstr ""
+msgstr "정합"
 
 msgid "Auto register"
-msgstr ""
+msgstr "자동 정합"
 
 msgid "Automatically align a new scan to previous scans"
-msgstr ""
+msgstr "새 스캔을 이전 스캔에 자동으로 정렬합니다"
 
 msgid "ICP Parameters"
-msgstr ""
+msgstr "ICP 매개변수"
 
 msgid "Preview window popped out"
-msgstr ""
+msgstr "미리보기 창이 분리되었습니다"
 
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgid "Pop Out"
-msgstr ""
+msgstr "창 분리"
 
 msgid "Save defaults"
-msgstr ""
+msgstr "기본값 저장"
 
 msgid "Save scanner and processing parameters as default"
-msgstr ""
+msgstr "스캐너 및 처리 매개변수를 기본값으로 저장합니다"
 
 msgid "Rot/Reg"
-msgstr ""
+msgstr "회전/정합"
 
 msgid "Current Scan"
-msgstr ""
+msgstr "현재 스캔"
 
 msgid "Unloaded. Please restart the application."
-msgstr ""
+msgstr "언로드되었습니다. 응용 프로그램을 다시 시작하세요."
 
 msgid ""
 "Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
 "Target version: 3.8.10.0"
 msgstr ""
+"바이너리 폴더를 설정하세요. 예: \"C:\\SBSDK3\\bin\\Release\"\n"
+"대상 버전: 3.8.10.0"
 
 msgid "Not connected"
-msgstr ""
+msgstr "연결되지 않음"
 
 msgid "No SDK path specified"
-msgstr ""
+msgstr "SDK 경로가 지정되지 않았습니다"
 
 msgid "Loading libraries failed"
-msgstr ""
+msgstr "라이브러리 불러오기에 실패했습니다"
 
 msgid ""
 "External code crashed!\n"
 "It may be caused by incompatible libraries version\n"
 "Please restart the application"
 msgstr ""
+"외부 코드가 충돌했습니다!\n"
+"호환되지 않는 라이브러리 버전으로 인한 것일 수 있습니다\n"
+"응용 프로그램을 다시 시작하세요"
 
 msgid "Cannot access scanner device"
-msgstr ""
+msgstr "스캐너 장치에 액세스할 수 없습니다"
 
 msgid "Path contains invalid characters"
-msgstr ""
+msgstr "경로에 잘못된 문자가 포함되어 있습니다"
 
 msgid "Cannot create emulator device"
-msgstr ""
+msgstr "에뮬레이터 장치를 생성할 수 없습니다"
 
 msgid "Emulator"
-msgstr ""
+msgstr "에뮬레이터"
 
 msgid "The scanner device is busy"
-msgstr ""
+msgstr "스캐너 장치가 사용 중입니다"
 
 msgid "Failed to connect to the scanner"
-msgstr ""
+msgstr "스캐너에 연결하지 못했습니다"
 
 msgid "Scan Failed"
-msgstr ""
+msgstr "스캔 실패"
 
 msgid "Error loading scan"
-msgstr ""
+msgstr "스캔 불러오기 오류"
 
 msgid "Error saving scan"
-msgstr ""
+msgstr "스캔 저장 오류"
 
 msgid "No scan to process"
-msgstr ""
+msgstr "처리할 스캔이 없습니다"
 
 msgid "Failed to generate 3D data"
-msgstr ""
+msgstr "3D 데이터를 생성하지 못했습니다"
 
 msgid "No points in cloud"
-msgstr ""
+msgstr "클라우드에 포인트가 없습니다"
 
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 msgid "Exposure"
-msgstr ""
+msgstr "노출"
 
 msgid "Gain"
-msgstr ""
+msgstr "게인"
 
 msgid "Projector Brightness"
-msgstr ""
+msgstr "프로젝터 밝기"
 
 msgid ""
 "Projector Brightness (0.0-1.0)\n"
 "Double click to enter number"
 msgstr ""
+"프로젝터 밝기 (0.0-1.0)\n"
+"숫자를 입력하려면 더블 클릭하세요"
 
 msgid "Texture"
-msgstr ""
+msgstr "텍스처"
 
 msgid "Capture object coloring as mesh texture or point colors"
-msgstr ""
+msgstr "객체 색상을 메시 텍스처 또는 포인트 색상으로 캡처합니다"
 
 msgid "Texture Exposure"
-msgstr ""
+msgstr "텍스처 노출"
 
 msgid "HDR Enable"
-msgstr ""
+msgstr "HDR 사용"
 
 msgid "HDR Steps Number"
-msgstr ""
+msgstr "HDR 단계 수"
 
 msgid "HDR Exposure Interval"
-msgstr ""
+msgstr "HDR 노출 간격"
 
 msgid "3D Scan Type"
-msgstr ""
+msgstr "3D 스캔 유형"
 
 msgid "Raw Point Cloud"
-msgstr ""
+msgstr "원시 포인트 클라우드"
 
 msgid "Decimated Mesh"
-msgstr ""
+msgstr "데시메이트된 메시"
 
 msgid "Cleanup Type"
-msgstr ""
+msgstr "정리 유형"
 
 msgid "Fix orientation"
-msgstr ""
+msgstr "방향 보정"
 
 msgid "Orient scan up by Z axis (by default, negative Y axis)"
-msgstr ""
+msgstr "스캔의 위쪽 방향을 Z축으로 설정합니다 (기본값은 음의 Y축)"
 
 msgid "Scan (raw)"
-msgstr ""
+msgstr "스캔 (원시)"
 
 msgid "Scan images"
-msgstr ""
+msgstr "이미지 스캔"
 
 msgid "Process"
-msgstr ""
+msgstr "처리"
 
 msgid "Create 3D objects from scanned images"
-msgstr ""
+msgstr "스캔한 이미지에서 3D 객체를 생성합니다"
 
 msgid "Save raw"
-msgstr ""
+msgstr "원시 데이터 저장"
 
 msgid "Load raw"
-msgstr ""
+msgstr "원시 데이터 불러오기"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "수동 스캔"
 
 #, c++-format
 msgid "Raw scan: {} images"
-msgstr ""
+msgstr "원시 스캔: 이미지 {}개"
 
 msgid "Raw scan: none"
-msgstr ""
+msgstr "원시 스캔: 없음"
 
 msgid "Unload"
-msgstr ""
+msgstr "언로드"
 
 msgid "Failed to capture images"
-msgstr ""
+msgstr "이미지를 캡처하지 못했습니다"
 
 msgid "tooltip"
-msgstr ""
+msgstr "툴팁"
 
 msgid "title"
-msgstr ""
+msgstr "제목"
 
 msgid "status"
-msgstr ""
+msgstr "상태"
 
 msgid "File"
-msgstr ""
+msgstr "파일"
 
 msgid "Capture"
 msgstr "캡처"
 
 msgid "Scan and create 3D (Press Space)"
-msgstr ""
+msgstr "스캔 및 3D 생성 (Space 키)"
 
 msgid "Stop"
-msgstr ""
+msgstr "중지"
 
 msgid "Live"
-msgstr ""
+msgstr "라이브"
 
 msgid "Live + 3D"
-msgstr ""
+msgstr "라이브 + 3D"
 
 msgid "Capture frame"
-msgstr ""
+msgstr "프레임 캡처"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "연결 해제"
 
 msgid "Connect"
-msgstr ""
+msgstr "연결"
 
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
+"Zivid SDK 바이너리 폴더를 설정하세요. 예: \"C:\\Program Files\\Zivid\\bin\""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Zivid 런타임 불러오기에 실패했습니다"
@@ -9830,7 +9839,7 @@ msgid "Use file (.zfc / .zdf)"
 msgstr "파일 사용 (.zfc / .zdf)"
 
 msgid "Zivid file camera or saved frame (.zfc / .zdf)"
-msgstr ""
+msgstr "Zivid 파일 카메라 또는 저장된 프레임 (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "메시 구축"

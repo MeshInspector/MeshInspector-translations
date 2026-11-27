@@ -349,7 +349,7 @@ msgstr "Выделение"
 
 msgctxt "Tab name"
 msgid "Transform"
-msgstr ""
+msgstr "Трансформация"
 
 msgctxt "Tab name"
 msgid "CT"

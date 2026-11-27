@@ -334,7 +334,7 @@ msgstr "选择"
 
 msgctxt "Tab name"
 msgid "Transform"
-msgstr ""
+msgstr "变换"
 
 msgctxt "Tab name"
 msgid "CT"
