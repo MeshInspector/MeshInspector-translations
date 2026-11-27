@@ -351,6 +351,10 @@ msgid "Select"
 msgstr "Selección"
 
 msgctxt "Tab name"
+msgid "Transform"
+msgstr "Transformar"
+
+msgctxt "Tab name"
 msgid "CT"
 msgstr "CT"
 

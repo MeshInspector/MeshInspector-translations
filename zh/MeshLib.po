@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1473,11 +1473,11 @@ msgstr "角度"
 msgid "Angles"
 msgstr "角度"
 
-#: source/MRMesh/MRCircleObject.h:30
+#: source/MRMesh/MRCircleObject.h:31
 msgid "Circle"
 msgstr "圆"
 
-#: source/MRMesh/MRCircleObject.h:33
+#: source/MRMesh/MRCircleObject.h:34
 msgid "Circles"
 msgstr "圆"
 
@@ -1607,11 +1607,11 @@ msgstr "根"
 msgid "Roots"
 msgstr "根"
 
-#: source/MRMesh/MRSphereObject.h:28
+#: source/MRMesh/MRSphereObject.h:29
 msgid "Sphere"
 msgstr "球体"
 
-#: source/MRMesh/MRSphereObject.h:31
+#: source/MRMesh/MRSphereObject.h:32
 msgid "Spheres"
 msgstr "球体"
 
@@ -3106,7 +3106,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "度、分、秒"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1405
+#: source/MRViewer/MRViewer.cpp:1426
 #, c++-format
 msgid "{} as {}"
 msgstr "{} 作为 {}"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10043,17 +10043,290 @@ msgstr "Voxel a mesh"
 msgid "Clip Scan by Plane"
 msgstr "Ritaglia scansione tramite piano"
 
-msgid "Clip scans by plane"
-msgstr "Ritaglia scansioni per piano"
-
-msgid "Import scan"
-msgstr "Importa scansione"
-
 msgid "Rotate scan"
 msgstr "Ruota scansione"
 
 msgid "Register scan"
 msgstr "Registra scansione"
+
+msgid "Import scan"
+msgstr "Importa scansione"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr "Runtime {} non caricato:"
+
+msgid "SDK Path"
+msgstr "Percorso SDK"
+
+msgid "Click and drag to draw the clip plane"
+msgstr "Clicca e trascina per disegnare il piano di taglio"
+
+msgid "Clip scans by plane"
+msgstr "Ritaglia scansioni per piano"
+
+msgid "Auto rotate"
+msgstr "Rotazione automatica"
+
+msgid "Pivot"
+msgstr "Pivot"
+
+msgid "To center"
+msgstr "Al centro"
+
+msgid "Align axis in the scans center"
+msgstr "Allinea l'asse al centro delle scansioni"
+
+msgid "To camera"
+msgstr "Verso la camera"
+
+msgid "Orient axis to current camera direction"
+msgstr "Orienta l'asse secondo la direzione corrente della camera"
+
+msgid "Picking..."
+msgstr "Selezione..."
+
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr ""
+"Seleziona un punto dalla scena (tieni premuto Shift per impostare la "
+"direzione)"
+
+msgid "Save rotation parameters"
+msgstr "Salva parametri di rotazione"
+
+msgid "Registration"
+msgstr "Registrazione"
+
+msgid "Auto register"
+msgstr "Registrazione automatica"
+
+msgid "Automatically align a new scan to previous scans"
+msgstr "Allinea automaticamente una nuova scansione alle scansioni precedenti"
+
+msgid "ICP Parameters"
+msgstr "Parametri ICP"
+
+msgid "Preview window popped out"
+msgstr "Finestra di anteprima staccata"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Pop Out"
+msgstr "Stacca"
+
+msgid "Save defaults"
+msgstr "Salva predefiniti"
+
+msgid "Save scanner and processing parameters as default"
+msgstr "Salva i parametri dello scanner e di elaborazione come predefiniti"
+
+msgid "Rot/Reg"
+msgstr "Rot/Reg"
+
+msgid "Current Scan"
+msgstr "Scansione corrente"
+
+msgid "Unloaded. Please restart the application."
+msgstr "Scaricato. Riavvia l'applicazione."
+
+msgid ""
+"Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Target version: 3.8.10.0"
+msgstr ""
+"Imposta la cartella dei binari, ad es. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Versione di destinazione: 3.8.10.0"
+
+msgid "Not connected"
+msgstr "Non connesso"
+
+msgid "No SDK path specified"
+msgstr "Nessun percorso SDK specificato"
+
+msgid "Loading libraries failed"
+msgstr "Caricamento delle librerie non riuscito"
+
+msgid ""
+"External code crashed!\n"
+"It may be caused by incompatible libraries version\n"
+"Please restart the application"
+msgstr ""
+"Codice esterno terminato in modo anomalo!\n"
+"Potrebbe essere causato da una versione incompatibile delle librerie\n"
+"Riavvia l'applicazione"
+
+msgid "Cannot access scanner device"
+msgstr "Impossibile accedere al dispositivo scanner"
+
+msgid "Path contains invalid characters"
+msgstr "Il percorso contiene caratteri non validi"
+
+msgid "Cannot create emulator device"
+msgstr "Impossibile creare il dispositivo emulatore"
+
+msgid "Emulator"
+msgstr "Emulatore"
+
+msgid "The scanner device is busy"
+msgstr "Il dispositivo scanner è occupato"
+
+msgid "Failed to connect to the scanner"
+msgstr "Impossibile connettersi allo scanner"
+
+msgid "Scan Failed"
+msgstr "Scansione non riuscita"
+
+msgid "Error loading scan"
+msgstr "Errore durante il caricamento della scansione"
+
+msgid "Error saving scan"
+msgstr "Errore durante il salvataggio della scansione"
+
+msgid "No scan to process"
+msgstr "Nessuna scansione da elaborare"
+
+msgid "Failed to generate 3D data"
+msgstr "Impossibile generare i dati 3D"
+
+msgid "No points in cloud"
+msgstr "Nessun punto nella nuvola"
+
+msgid "Camera"
+msgstr "Fotocamera"
+
+msgid "Exposure"
+msgstr "Esposizione"
+
+msgid "Gain"
+msgstr "Guadagno"
+
+msgid "Projector Brightness"
+msgstr "Luminosità proiettore"
+
+msgid ""
+"Projector Brightness (0.0-1.0)\n"
+"Double click to enter number"
+msgstr ""
+"Luminosità proiettore (0.0-1.0)\n"
+"Doppio clic per inserire un numero"
+
+msgid "Texture"
+msgstr "Texture"
+
+msgid "Capture object coloring as mesh texture or point colors"
+msgstr ""
+"Acquisisci la colorazione dell'oggetto come texture della mesh o colori dei "
+"punti"
+
+msgid "Texture Exposure"
+msgstr "Esposizione texture"
+
+msgid "HDR Enable"
+msgstr "Abilita HDR"
+
+msgid "HDR Steps Number"
+msgstr "Numero di passi HDR"
+
+msgid "HDR Exposure Interval"
+msgstr "Intervallo di esposizione HDR"
+
+msgid "3D Scan Type"
+msgstr "Tipo di scansione 3D"
+
+msgid "Raw Point Cloud"
+msgstr "Nuvola di punti grezza"
+
+msgid "Decimated Mesh"
+msgstr "Mesh decimata"
+
+msgid "Cleanup Type"
+msgstr "Tipo di pulizia"
+
+msgid "Fix orientation"
+msgstr "Correggi orientamento"
+
+msgid "Orient scan up by Z axis (by default, negative Y axis)"
+msgstr ""
+"Orienta la scansione verso l'alto lungo l'asse Z (per impostazione "
+"predefinita, asse Y negativo)"
+
+msgid "Scan (raw)"
+msgstr "Scansione (grezza)"
+
+msgid "Scan images"
+msgstr "Scansiona immagini"
+
+msgid "Process"
+msgstr "Elabora"
+
+msgid "Create 3D objects from scanned images"
+msgstr "Crea oggetti 3D dalle immagini scansionate"
+
+msgid "Save raw"
+msgstr "Salva dati grezzi"
+
+msgid "Load raw"
+msgstr "Carica dati grezzi"
+
+msgid "Manual scan"
+msgstr "Scansione manuale"
+
+#, c++-format
+msgid "Raw scan: {} images"
+msgstr "Scansione grezza: {} immagini"
+
+msgid "Raw scan: none"
+msgstr "Scansione grezza: nessuna"
+
+msgid "Unload"
+msgstr "Scarica"
+
+msgid "Failed to capture images"
+msgstr "Impossibile acquisire le immagini"
+
+msgid "tooltip"
+msgstr "tooltip"
+
+msgid "title"
+msgstr "titolo"
+
+msgid "status"
+msgstr "stato"
+
+msgid "File"
+msgstr "File"
+
+msgid "Capture"
+msgstr "Acquisisci"
+
+msgid "Scan and create 3D (Press Space)"
+msgstr "Scansiona e crea 3D (premi Spazio)"
+
+msgid "Stop"
+msgstr "Interrompi"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Live + 3D"
+msgstr "Live + 3D"
+
+msgid "Capture frame"
+msgstr "Acquisisci frame"
+
+msgid "Disconnect"
+msgstr "Disconnetti"
+
+msgid "Connect"
+msgstr "Connetti"
+
+msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
+msgstr ""
+"Imposta la cartella dei binari dell'SDK Zivid, ad es. \"C:\\Program "
+"Files\\Zivid\\bin\""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Caricamento del runtime Zivid non riuscito"
@@ -10067,26 +10340,11 @@ msgstr ""
 "Potrebbe essere causato da una versione incompatibile del runtime Zivid\n"
 "Riavvia l'applicazione"
 
-#, c-format
-msgid ""
-"Zivid runtime not loaded:\n"
-"%s"
-msgstr ""
-"Runtime Zivid non caricato:\n"
-"%s"
-
-#, c++-format
-msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
-msgstr "Imposta la cartella dei binari dell'SDK Zivid, ad es. \"{}\""
-
 msgid "Use file (.zfc / .zdf)"
 msgstr "Usa file (.zfc / .zdf)"
 
-msgid "Zivid file camera (.zfc)"
-msgstr "Fotocamera da file Zivid (.zfc)"
-
-msgid "Zivid saved frame (.zdf)"
-msgstr "Frame salvato Zivid (.zdf)"
+msgid "Zivid file camera or saved frame (.zfc / .zdf)"
+msgstr "Fotocamera da file Zivid o frame salvato (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "Costruisci mesh"
@@ -10123,11 +10381,26 @@ msgstr ""
 msgid "Zivid capture settings (.yml)"
 msgstr "Impostazioni di acquisizione Zivid (.yml)"
 
-msgid "Capture"
-msgstr "Acquisisci"
+#, c-format
+#~ msgid ""
+#~ "Zivid runtime not loaded:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Runtime Zivid non caricato:\n"
+#~ "%s"
 
-msgid "Import Zivid scan"
-msgstr "Importa scansione Zivid"
+#, c++-format
+#~ msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+#~ msgstr "Imposta la cartella dei binari dell'SDK Zivid, ad es. \"{}\""
+
+#~ msgid "Zivid file camera (.zfc)"
+#~ msgstr "Fotocamera da file Zivid (.zfc)"
+
+#~ msgid "Zivid saved frame (.zdf)"
+#~ msgstr "Frame salvato Zivid (.zdf)"
+
+#~ msgid "Import Zivid scan"
+#~ msgstr "Importa scansione Zivid"
 
 #~ msgid ""
 #~ "Allow application to collect (non-personal) data about tools that are "

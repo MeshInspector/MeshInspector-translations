@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -9942,17 +9942,282 @@ msgstr "Воксели в меш"
 msgid "Clip Scan by Plane"
 msgstr "Обрезать скан плоскостью"
 
-msgid "Clip scans by plane"
-msgstr "Обрезать сканы по плоскости"
-
-msgid "Import scan"
-msgstr "Импортировать скан"
-
 msgid "Rotate scan"
 msgstr "Повернуть скан"
 
 msgid "Register scan"
 msgstr "Зарегистрировать скан"
+
+msgid "Import scan"
+msgstr "Импортировать скан"
+
+msgid "Scanner"
+msgstr "Сканер"
+
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr "Среда выполнения {} не загружена:"
+
+msgid "SDK Path"
+msgstr "Путь к SDK"
+
+msgid "Click and drag to draw the clip plane"
+msgstr "Нажмите и перетащите, чтобы нарисовать плоскость обрезки"
+
+msgid "Clip scans by plane"
+msgstr "Обрезать сканы по плоскости"
+
+msgid "Auto rotate"
+msgstr "Автоповорот"
+
+msgid "Pivot"
+msgstr "Центр вращения"
+
+msgid "To center"
+msgstr "В центр"
+
+msgid "Align axis in the scans center"
+msgstr "Выровнять ось по центру сканов"
+
+msgid "To camera"
+msgstr "К камере"
+
+msgid "Orient axis to current camera direction"
+msgstr "Ориентировать ось по текущему направлению камеры"
+
+msgid "Picking..."
+msgstr "Выбор..."
+
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr "Выберите точку в сцене (удерживайте Shift, чтобы задать направление)"
+
+msgid "Save rotation parameters"
+msgstr "Сохранить параметры вращения"
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "Auto register"
+msgstr "Авторегистрация"
+
+msgid "Automatically align a new scan to previous scans"
+msgstr "Автоматически выравнивать новый скан по предыдущим сканам"
+
+msgid "ICP Parameters"
+msgstr "Параметры ICP"
+
+msgid "Preview window popped out"
+msgstr "Окно предпросмотра откреплено"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Pop Out"
+msgstr "Открепить"
+
+msgid "Save defaults"
+msgstr "Сохранить по умолчанию"
+
+msgid "Save scanner and processing parameters as default"
+msgstr "Сохранить параметры сканера и обработки как параметры по умолчанию"
+
+msgid "Rot/Reg"
+msgstr "Пов./Рег."
+
+msgid "Current Scan"
+msgstr "Текущий скан"
+
+msgid "Unloaded. Please restart the application."
+msgstr "Выгружено. Перезапустите приложение."
+
+msgid ""
+"Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Target version: 3.8.10.0"
+msgstr ""
+"Укажите папку с бинарными файлами, например \"C:\\SBSDK3\\bin\\Release\"\n"
+"Целевая версия: 3.8.10.0"
+
+msgid "Not connected"
+msgstr "Не подключено"
+
+msgid "No SDK path specified"
+msgstr "Путь к SDK не указан"
+
+msgid "Loading libraries failed"
+msgstr "Не удалось загрузить библиотеки"
+
+msgid ""
+"External code crashed!\n"
+"It may be caused by incompatible libraries version\n"
+"Please restart the application"
+msgstr ""
+"Произошёл сбой во внешнем коде!\n"
+"Возможная причина — несовместимая версия библиотек\n"
+"Перезапустите приложение"
+
+msgid "Cannot access scanner device"
+msgstr "Нет доступа к устройству сканера"
+
+msgid "Path contains invalid characters"
+msgstr "Путь содержит недопустимые символы"
+
+msgid "Cannot create emulator device"
+msgstr "Не удалось создать устройство эмулятора"
+
+msgid "Emulator"
+msgstr "Эмулятор"
+
+msgid "The scanner device is busy"
+msgstr "Устройство сканера занято"
+
+msgid "Failed to connect to the scanner"
+msgstr "Не удалось подключиться к сканеру"
+
+msgid "Scan Failed"
+msgstr "Ошибка сканирования"
+
+msgid "Error loading scan"
+msgstr "Ошибка загрузки скана"
+
+msgid "Error saving scan"
+msgstr "Ошибка сохранения скана"
+
+msgid "No scan to process"
+msgstr "Нет скана для обработки"
+
+msgid "Failed to generate 3D data"
+msgstr "Не удалось сгенерировать 3D-данные"
+
+msgid "No points in cloud"
+msgstr "В облаке нет точек"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Exposure"
+msgstr "Экспозиция"
+
+msgid "Gain"
+msgstr "Усиление"
+
+msgid "Projector Brightness"
+msgstr "Яркость проектора"
+
+msgid ""
+"Projector Brightness (0.0-1.0)\n"
+"Double click to enter number"
+msgstr ""
+"Яркость проектора (0.0-1.0)\n"
+"Дважды щёлкните, чтобы ввести число"
+
+msgid "Texture"
+msgstr "Текстура"
+
+msgid "Capture object coloring as mesh texture or point colors"
+msgstr "Захватывать окраску объекта как текстуру меша или цвета точек"
+
+msgid "Texture Exposure"
+msgstr "Экспозиция текстуры"
+
+msgid "HDR Enable"
+msgstr "Включить HDR"
+
+msgid "HDR Steps Number"
+msgstr "Количество шагов HDR"
+
+msgid "HDR Exposure Interval"
+msgstr "Интервал экспозиции HDR"
+
+msgid "3D Scan Type"
+msgstr "Тип 3D-сканирования"
+
+msgid "Raw Point Cloud"
+msgstr "Необработанное облако точек"
+
+msgid "Decimated Mesh"
+msgstr "Децимированный меш"
+
+msgid "Cleanup Type"
+msgstr "Тип очистки"
+
+msgid "Fix orientation"
+msgstr "Исправить ориентацию"
+
+msgid "Orient scan up by Z axis (by default, negative Y axis)"
+msgstr "Ориентировать скан вверх по оси Z (по умолчанию — отрицательная ось Y)"
+
+msgid "Scan (raw)"
+msgstr "Сканировать (без обработки)"
+
+msgid "Scan images"
+msgstr "Сканировать изображения"
+
+msgid "Process"
+msgstr "Обработать"
+
+msgid "Create 3D objects from scanned images"
+msgstr "Создать 3D-объекты из отсканированных изображений"
+
+msgid "Save raw"
+msgstr "Сохранить необработанные данные"
+
+msgid "Load raw"
+msgstr "Загрузить необработанные данные"
+
+msgid "Manual scan"
+msgstr "Ручное сканирование"
+
+#, c++-format
+msgid "Raw scan: {} images"
+msgstr "Необработанный скан: {} изобр."
+
+msgid "Raw scan: none"
+msgstr "Необработанный скан: нет"
+
+msgid "Unload"
+msgstr "Выгрузить"
+
+msgid "Failed to capture images"
+msgstr "Не удалось захватить изображения"
+
+msgid "tooltip"
+msgstr "подсказка"
+
+msgid "title"
+msgstr "заголовок"
+
+msgid "status"
+msgstr "статус"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Capture"
+msgstr "Снимок"
+
+msgid "Scan and create 3D (Press Space)"
+msgstr "Сканировать и создать 3D (нажмите пробел)"
+
+msgid "Stop"
+msgstr "Остановить"
+
+msgid "Live"
+msgstr "В реальном времени"
+
+msgid "Live + 3D"
+msgstr "В реальном времени + 3D"
+
+msgid "Capture frame"
+msgstr "Захватить кадр"
+
+msgid "Disconnect"
+msgstr "Отключиться"
+
+msgid "Connect"
+msgstr "Подключиться"
+
+msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
+msgstr "Укажите папку Zivid SDK, например \"C:\\Program Files\\Zivid\\bin\""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Не удалось загрузить среду выполнения Zivid"
@@ -9966,26 +10231,11 @@ msgstr ""
 "Возможная причина — несовместимая версия среды выполнения Zivid\n"
 "Перезапустите приложение"
 
-#, c-format
-msgid ""
-"Zivid runtime not loaded:\n"
-"%s"
-msgstr ""
-"Среда выполнения Zivid не загружена:\n"
-"%s"
-
-#, c++-format
-msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
-msgstr "Укажите папку с бинарными файлами Zivid SDK, например \"{}\""
-
 msgid "Use file (.zfc / .zdf)"
 msgstr "Использовать файл (.zfc / .zdf)"
 
-msgid "Zivid file camera (.zfc)"
-msgstr "Файловая камера Zivid (.zfc)"
-
-msgid "Zivid saved frame (.zdf)"
-msgstr "Сохранённый кадр Zivid (.zdf)"
+msgid "Zivid file camera or saved frame (.zfc / .zdf)"
+msgstr "Файловая камера Zivid или сохранённый кадр (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "Построить меш"
@@ -10022,11 +10272,26 @@ msgstr ""
 msgid "Zivid capture settings (.yml)"
 msgstr "Настройки съёмки Zivid (.yml)"
 
-msgid "Capture"
-msgstr "Снимок"
+#, c-format
+#~ msgid ""
+#~ "Zivid runtime not loaded:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Среда выполнения Zivid не загружена:\n"
+#~ "%s"
 
-msgid "Import Zivid scan"
-msgstr "Импортировать скан Zivid"
+#, c++-format
+#~ msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+#~ msgstr "Укажите папку с бинарными файлами Zivid SDK, например \"{}\""
+
+#~ msgid "Zivid file camera (.zfc)"
+#~ msgstr "Файловая камера Zivid (.zfc)"
+
+#~ msgid "Zivid saved frame (.zdf)"
+#~ msgstr "Сохранённый кадр Zivid (.zdf)"
+
+#~ msgid "Import Zivid scan"
+#~ msgstr "Импортировать скан Zivid"
 
 #~ msgid ""
 #~ "Allow application to collect (non-personal) data about tools that are "

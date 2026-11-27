@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5110,9 +5110,9 @@ msgid ""
 "\"{}\" has none. Compute them with Make Normals or select Point-to-Point "
 "method."
 msgstr ""
-"選択したメソッドには参照オブジェクトの法線が必要ですが、ポイントクラウド "
-"\"{}\" には法線がありません。「法線を生成」で法線を計算するか、「点対点」メ"
-"ソッドを選択してください。"
+"選択したメソッドには参照オブジェクトの法線が必要ですが、ポイントクラウド \"{}"
+"\" には法線がありません。「法線を生成」で法線を計算するか、「点対点」メソッド"
+"を選択してください。"
 
 msgid "Visual settings"
 msgstr "表示設定"
@@ -9600,17 +9600,284 @@ msgstr "ボクセルをメッシュに変換"
 msgid "Clip Scan by Plane"
 msgstr "スキャンを平面でクリップ"
 
-msgid "Clip scans by plane"
-msgstr "平面でスキャンをクリップ"
-
-msgid "Import scan"
-msgstr "スキャンをインポート"
-
 msgid "Rotate scan"
 msgstr "スキャンを回転"
 
 msgid "Register scan"
 msgstr "スキャンをレジストレーション"
+
+msgid "Import scan"
+msgstr "スキャンをインポート"
+
+msgid "Scanner"
+msgstr "スキャナー"
+
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr "{}ランタイムが読み込まれていません:"
+
+msgid "SDK Path"
+msgstr "SDKパス"
+
+msgid "Click and drag to draw the clip plane"
+msgstr "クリックしてドラッグし、クリップ平面を描画します"
+
+msgid "Clip scans by plane"
+msgstr "平面でスキャンをクリップ"
+
+msgid "Auto rotate"
+msgstr "自動回転"
+
+msgid "Pivot"
+msgstr "ピボット"
+
+msgid "To center"
+msgstr "中心へ"
+
+msgid "Align axis in the scans center"
+msgstr "スキャンの中心に軸を合わせます"
+
+msgid "To camera"
+msgstr "カメラへ"
+
+msgid "Orient axis to current camera direction"
+msgstr "軸を現在のカメラ方向に向けます"
+
+msgid "Picking..."
+msgstr "選択中..."
+
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr "シーンからポイントを選択します (Shiftを押したままで方向を設定)"
+
+msgid "Save rotation parameters"
+msgstr "回転パラメーターを保存"
+
+msgid "Registration"
+msgstr "レジストレーション"
+
+msgid "Auto register"
+msgstr "自動レジストレーション"
+
+msgid "Automatically align a new scan to previous scans"
+msgstr "新しいスキャンを以前のスキャンに自動的に位置合わせします"
+
+msgid "ICP Parameters"
+msgstr "ICPパラメーター"
+
+msgid "Preview window popped out"
+msgstr "プレビューウィンドウはポップアウトされています"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Pop Out"
+msgstr "ポップアウト"
+
+msgid "Save defaults"
+msgstr "デフォルトを保存"
+
+msgid "Save scanner and processing parameters as default"
+msgstr "スキャナーと処理のパラメーターをデフォルトとして保存します"
+
+msgid "Rot/Reg"
+msgstr "回転/レジストレーション"
+
+msgid "Current Scan"
+msgstr "現在のスキャン"
+
+msgid "Unloaded. Please restart the application."
+msgstr "アンロードしました。アプリケーションを再起動してください。"
+
+msgid ""
+"Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Target version: 3.8.10.0"
+msgstr ""
+"バイナリフォルダーを設定します（例: \"C:\\SBSDK3\\bin\\Release\"）\n"
+"対象バージョン: 3.8.10.0"
+
+msgid "Not connected"
+msgstr "未接続"
+
+msgid "No SDK path specified"
+msgstr "SDKパスが指定されていません"
+
+msgid "Loading libraries failed"
+msgstr "ライブラリの読み込みに失敗しました"
+
+msgid ""
+"External code crashed!\n"
+"It may be caused by incompatible libraries version\n"
+"Please restart the application"
+msgstr ""
+"外部コードがクラッシュしました!\n"
+"互換性のないライブラリバージョンが原因の可能性があります\n"
+"アプリケーションを再起動してください"
+
+msgid "Cannot access scanner device"
+msgstr "スキャナーデバイスにアクセスできません"
+
+msgid "Path contains invalid characters"
+msgstr "パスに無効な文字が含まれています"
+
+msgid "Cannot create emulator device"
+msgstr "エミュレーターデバイスを作成できません"
+
+msgid "Emulator"
+msgstr "エミュレーター"
+
+msgid "The scanner device is busy"
+msgstr "スキャナーデバイスはビジー状態です"
+
+msgid "Failed to connect to the scanner"
+msgstr "スキャナーへの接続に失敗しました"
+
+msgid "Scan Failed"
+msgstr "スキャンに失敗しました"
+
+msgid "Error loading scan"
+msgstr "スキャンの読み込みエラー"
+
+msgid "Error saving scan"
+msgstr "スキャンの保存エラー"
+
+msgid "No scan to process"
+msgstr "処理するスキャンがありません"
+
+msgid "Failed to generate 3D data"
+msgstr "3Dデータの生成に失敗しました"
+
+msgid "No points in cloud"
+msgstr "点群にポイントがありません"
+
+msgid "Camera"
+msgstr "カメラ"
+
+msgid "Exposure"
+msgstr "露出"
+
+msgid "Gain"
+msgstr "ゲイン"
+
+msgid "Projector Brightness"
+msgstr "プロジェクターの明るさ"
+
+msgid ""
+"Projector Brightness (0.0-1.0)\n"
+"Double click to enter number"
+msgstr ""
+"プロジェクターの明るさ (0.0-1.0)\n"
+"ダブルクリックで数値を入力"
+
+msgid "Texture"
+msgstr "テクスチャ"
+
+msgid "Capture object coloring as mesh texture or point colors"
+msgstr "オブジェクトの色をメッシュテクスチャまたは点の色としてキャプチャします"
+
+msgid "Texture Exposure"
+msgstr "テクスチャ露出"
+
+msgid "HDR Enable"
+msgstr "HDRを有効化"
+
+msgid "HDR Steps Number"
+msgstr "HDRステップ数"
+
+msgid "HDR Exposure Interval"
+msgstr "HDR露出間隔"
+
+msgid "3D Scan Type"
+msgstr "3Dスキャンタイプ"
+
+msgid "Raw Point Cloud"
+msgstr "RAW点群"
+
+msgid "Decimated Mesh"
+msgstr "間引きされたメッシュ"
+
+msgid "Cleanup Type"
+msgstr "クリーンアップタイプ"
+
+msgid "Fix orientation"
+msgstr "向きを修正"
+
+msgid "Orient scan up by Z axis (by default, negative Y axis)"
+msgstr "スキャンの上方向をZ軸に合わせます (デフォルトでは負のY軸)"
+
+msgid "Scan (raw)"
+msgstr "スキャン (RAW)"
+
+msgid "Scan images"
+msgstr "画像をスキャン"
+
+msgid "Process"
+msgstr "処理"
+
+msgid "Create 3D objects from scanned images"
+msgstr "スキャンした画像から3Dオブジェクトを作成します"
+
+msgid "Save raw"
+msgstr "RAWを保存"
+
+msgid "Load raw"
+msgstr "RAWを読み込み"
+
+msgid "Manual scan"
+msgstr "手動スキャン"
+
+#, c++-format
+msgid "Raw scan: {} images"
+msgstr "RAWスキャン: {}枚の画像"
+
+msgid "Raw scan: none"
+msgstr "RAWスキャン: なし"
+
+msgid "Unload"
+msgstr "アンロード"
+
+msgid "Failed to capture images"
+msgstr "画像のキャプチャに失敗しました"
+
+msgid "tooltip"
+msgstr "ツールチップ"
+
+msgid "title"
+msgstr "タイトル"
+
+msgid "status"
+msgstr "ステータス"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Capture"
+msgstr "キャプチャ"
+
+msgid "Scan and create 3D (Press Space)"
+msgstr "スキャンして3Dを作成 (Spaceキーを押す)"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Live"
+msgstr "ライブ"
+
+msgid "Live + 3D"
+msgstr "ライブ + 3D"
+
+msgid "Capture frame"
+msgstr "フレームをキャプチャ"
+
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "Connect"
+msgstr "接続"
+
+msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
+msgstr ""
+"Zivid SDKのバイナリフォルダーを設定します（例: \"C:\\Program "
+"Files\\Zivid\\bin\"）"
 
 msgid "Loading Zivid runtime failed"
 msgstr "Zividランタイムの読み込みに失敗しました"
@@ -9624,26 +9891,11 @@ msgstr ""
 "互換性のないZividランタイムバージョンが原因の可能性があります\n"
 "アプリケーションを再起動してください"
 
-#, c-format
-msgid ""
-"Zivid runtime not loaded:\n"
-"%s"
-msgstr ""
-"Zividランタイムが読み込まれていません:\n"
-"%s"
-
-#, c++-format
-msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
-msgstr "Zivid SDKのバイナリフォルダーを設定します（例: \"{}\"）"
-
 msgid "Use file (.zfc / .zdf)"
 msgstr "ファイルを使用 (.zfc / .zdf)"
 
-msgid "Zivid file camera (.zfc)"
-msgstr "Zividファイルカメラ (.zfc)"
-
-msgid "Zivid saved frame (.zdf)"
-msgstr "Zivid保存フレーム (.zdf)"
+msgid "Zivid file camera or saved frame (.zfc / .zdf)"
+msgstr "Zividファイルカメラまたは保存されたフレーム (.zfc / .zdf)"
 
 msgid "Build mesh"
 msgstr "メッシュを構築"
@@ -9679,11 +9931,26 @@ msgstr ""
 msgid "Zivid capture settings (.yml)"
 msgstr "Zividキャプチャ設定 (.yml)"
 
-msgid "Capture"
-msgstr "キャプチャ"
+#, c-format
+#~ msgid ""
+#~ "Zivid runtime not loaded:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Zividランタイムが読み込まれていません:\n"
+#~ "%s"
 
-msgid "Import Zivid scan"
-msgstr "Zividスキャンをインポート"
+#, c++-format
+#~ msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+#~ msgstr "Zivid SDKのバイナリフォルダーを設定します（例: \"{}\"）"
+
+#~ msgid "Zivid file camera (.zfc)"
+#~ msgstr "Zividファイルカメラ (.zfc)"
+
+#~ msgid "Zivid saved frame (.zdf)"
+#~ msgstr "Zivid保存フレーム (.zdf)"
+
+#~ msgid "Import Zivid scan"
+#~ msgstr "Zividスキャンをインポート"
 
 #~ msgid ""
 #~ "Allow application to collect (non-personal) data about tools that are "
