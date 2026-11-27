@@ -348,6 +348,10 @@ msgid "Select"
 msgstr "Выделение"
 
 msgctxt "Tab name"
+msgid "Transform"
+msgstr ""
+
+msgctxt "Tab name"
 msgid "CT"
 msgstr "КТ"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10004,17 +10004,275 @@ msgstr "Voxels para Malha"
 msgid "Clip Scan by Plane"
 msgstr "Recortar digitalização por plano"
 
-msgid "Clip scans by plane"
-msgstr "Recortar digitalizações pelo plano"
-
-msgid "Import scan"
-msgstr "Importar digitalização"
-
 msgid "Rotate scan"
 msgstr "Rodar digitalização"
 
 msgid "Register scan"
 msgstr "Registar digitalização"
+
+msgid "Import scan"
+msgstr "Importar digitalização"
+
+msgid "Scanner"
+msgstr ""
+
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr ""
+
+msgid "SDK Path"
+msgstr ""
+
+msgid "Click and drag to draw the clip plane"
+msgstr ""
+
+msgid "Clip scans by plane"
+msgstr "Recortar digitalizações pelo plano"
+
+msgid "Auto rotate"
+msgstr ""
+
+msgid "Pivot"
+msgstr ""
+
+msgid "To center"
+msgstr ""
+
+msgid "Align axis in the scans center"
+msgstr ""
+
+msgid "To camera"
+msgstr ""
+
+msgid "Orient axis to current camera direction"
+msgstr ""
+
+msgid "Picking..."
+msgstr ""
+
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr ""
+
+msgid "Save rotation parameters"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Auto register"
+msgstr ""
+
+msgid "Automatically align a new scan to previous scans"
+msgstr ""
+
+msgid "ICP Parameters"
+msgstr ""
+
+msgid "Preview window popped out"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Pop Out"
+msgstr ""
+
+msgid "Save defaults"
+msgstr ""
+
+msgid "Save scanner and processing parameters as default"
+msgstr ""
+
+msgid "Rot/Reg"
+msgstr ""
+
+msgid "Current Scan"
+msgstr ""
+
+msgid "Unloaded. Please restart the application."
+msgstr ""
+
+msgid ""
+"Set the binary folder, e.g. \"C:\\SBSDK3\\bin\\Release\"\n"
+"Target version: 3.8.10.0"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "No SDK path specified"
+msgstr ""
+
+msgid "Loading libraries failed"
+msgstr ""
+
+msgid ""
+"External code crashed!\n"
+"It may be caused by incompatible libraries version\n"
+"Please restart the application"
+msgstr ""
+
+msgid "Cannot access scanner device"
+msgstr ""
+
+msgid "Path contains invalid characters"
+msgstr ""
+
+msgid "Cannot create emulator device"
+msgstr ""
+
+msgid "Emulator"
+msgstr ""
+
+msgid "The scanner device is busy"
+msgstr ""
+
+msgid "Failed to connect to the scanner"
+msgstr ""
+
+msgid "Scan Failed"
+msgstr ""
+
+msgid "Error loading scan"
+msgstr ""
+
+msgid "Error saving scan"
+msgstr ""
+
+msgid "No scan to process"
+msgstr ""
+
+msgid "Failed to generate 3D data"
+msgstr ""
+
+msgid "No points in cloud"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Exposure"
+msgstr ""
+
+msgid "Gain"
+msgstr ""
+
+msgid "Projector Brightness"
+msgstr ""
+
+msgid ""
+"Projector Brightness (0.0-1.0)\n"
+"Double click to enter number"
+msgstr ""
+
+msgid "Texture"
+msgstr ""
+
+msgid "Capture object coloring as mesh texture or point colors"
+msgstr ""
+
+msgid "Texture Exposure"
+msgstr ""
+
+msgid "HDR Enable"
+msgstr ""
+
+msgid "HDR Steps Number"
+msgstr ""
+
+msgid "HDR Exposure Interval"
+msgstr ""
+
+msgid "3D Scan Type"
+msgstr ""
+
+msgid "Raw Point Cloud"
+msgstr ""
+
+msgid "Decimated Mesh"
+msgstr ""
+
+msgid "Cleanup Type"
+msgstr ""
+
+msgid "Fix orientation"
+msgstr ""
+
+msgid "Orient scan up by Z axis (by default, negative Y axis)"
+msgstr ""
+
+msgid "Scan (raw)"
+msgstr ""
+
+msgid "Scan images"
+msgstr ""
+
+msgid "Process"
+msgstr ""
+
+msgid "Create 3D objects from scanned images"
+msgstr ""
+
+msgid "Save raw"
+msgstr ""
+
+msgid "Load raw"
+msgstr ""
+
+msgid "Manual scan"
+msgstr ""
+
+#, c++-format
+msgid "Raw scan: {} images"
+msgstr ""
+
+msgid "Raw scan: none"
+msgstr ""
+
+msgid "Unload"
+msgstr ""
+
+msgid "Failed to capture images"
+msgstr ""
+
+msgid "tooltip"
+msgstr ""
+
+msgid "title"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Capture"
+msgstr "Capturar"
+
+msgid "Scan and create 3D (Press Space)"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "Live + 3D"
+msgstr ""
+
+msgid "Capture frame"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
+msgstr ""
 
 msgid "Loading Zivid runtime failed"
 msgstr "Falha ao carregar o runtime Zivid"
@@ -10028,26 +10286,11 @@ msgstr ""
 "Pode ser causado por uma versão incompatível do runtime Zivid\n"
 "Por favor reinicie a aplicação"
 
-#, c-format
-msgid ""
-"Zivid runtime not loaded:\n"
-"%s"
-msgstr ""
-"Runtime Zivid não carregado:\n"
-"%s"
-
-#, c++-format
-msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
-msgstr "Definir a pasta de binários do SDK Zivid, por ex. \"{}\""
-
 msgid "Use file (.zfc / .zdf)"
 msgstr "Usar ficheiro (.zfc / .zdf)"
 
-msgid "Zivid file camera (.zfc)"
-msgstr "Câmara de ficheiro Zivid (.zfc)"
-
-msgid "Zivid saved frame (.zdf)"
-msgstr "Frame guardado Zivid (.zdf)"
+msgid "Zivid file camera or saved frame (.zfc / .zdf)"
+msgstr ""
 
 msgid "Build mesh"
 msgstr "Construir malha"
@@ -10084,11 +10327,26 @@ msgstr ""
 msgid "Zivid capture settings (.yml)"
 msgstr "Definições de captura Zivid (.yml)"
 
-msgid "Capture"
-msgstr "Capturar"
+#, c-format
+#~ msgid ""
+#~ "Zivid runtime not loaded:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Runtime Zivid não carregado:\n"
+#~ "%s"
 
-msgid "Import Zivid scan"
-msgstr "Importar digitalização Zivid"
+#, c++-format
+#~ msgid "Set the Zivid SDK binary folder, e.g. \"{}\""
+#~ msgstr "Definir a pasta de binários do SDK Zivid, por ex. \"{}\""
+
+#~ msgid "Zivid file camera (.zfc)"
+#~ msgstr "Câmara de ficheiro Zivid (.zfc)"
+
+#~ msgid "Zivid saved frame (.zdf)"
+#~ msgstr "Frame guardado Zivid (.zdf)"
+
+#~ msgid "Import Zivid scan"
+#~ msgstr "Importar digitalização Zivid"
 
 #~ msgid ""
 #~ "Allow application to collect (non-personal) data about tools that are "

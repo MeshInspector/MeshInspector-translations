@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 04:33+0000\n"
+"POT-Creation-Date: 2026-11-27 04:33+0000\n"
 "PO-Revision-Date: 2026-03-18 00:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1529,11 +1529,11 @@ msgstr "Угол"
 msgid "Angles"
 msgstr "Углы"
 
-#: source/MRMesh/MRCircleObject.h:30
+#: source/MRMesh/MRCircleObject.h:31
 msgid "Circle"
 msgstr "Окружность"
 
-#: source/MRMesh/MRCircleObject.h:33
+#: source/MRMesh/MRCircleObject.h:34
 msgid "Circles"
 msgstr "Окружности"
 
@@ -1663,11 +1663,11 @@ msgstr "Корень"
 msgid "Roots"
 msgstr "Корни"
 
-#: source/MRMesh/MRSphereObject.h:28
+#: source/MRMesh/MRSphereObject.h:29
 msgid "Sphere"
 msgstr "Сфера"
 
-#: source/MRMesh/MRSphereObject.h:31
+#: source/MRMesh/MRSphereObject.h:32
 msgid "Spheres"
 msgstr "Сферы"
 
@@ -3185,7 +3185,7 @@ msgid "Degrees, minutes, seconds"
 msgstr "Градусы, минуты, секунды"
 
 #. TRANSLATORS: example string: Open .SVG as Polyline
-#: source/MRViewer/MRViewer.cpp:1405
+#: source/MRViewer/MRViewer.cpp:1426
 #, c++-format
 msgid "{} as {}"
 msgstr "{} как {}"
