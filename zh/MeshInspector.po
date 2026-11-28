@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2004,138 +2004,6 @@ msgstr "不支持的参考对象类型"
 msgid "Add measurements holder"
 msgstr "添加测量持有者"
 
-msgid "Pairs Forming Settings"
-msgstr "配对形成设置"
-
-msgid "Register Whole Objects"
-msgstr "配准整个对象"
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr "如果选中，注册时将考虑两个对象之间的所有点对，不进行任何过滤。"
-
-msgid "Normals Max Angle"
-msgstr "法线最大角度"
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr "仅当点处法线之间的角度不大于此值时才使用点对。"
-
-msgid "Max Distance"
-msgstr "最大距离"
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr "仅当两点之间的距离小于此值时才使用点对。"
-
-msgid "Far Distance Factor"
-msgstr "远距离因子"
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr "仅当点之间的距离小于均方根距离乘以此因子时，点对才会被计入。"
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr "每对中的相互最近点"
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr "只有当点对中的两个点互为最近（通过互易性测试）时才形成点对。"
-
-msgid "Sampling Spacing"
-msgstr "采样间距"
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr "此值决定采样体素大小，以便每个体素中仅选择一个点。"
-
-msgid "Descriptor Spacing"
-msgstr "描述符间距"
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-"自动初始通过在以此间距采样的点上计算的形状描述符来匹配对象。间距越小，能捕捉"
-"的细节越精细，但计算时间越长。"
-
-msgid "Sample Target"
-msgstr "采样目标"
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr "选择哪个对象将被采样以形成点对的起点。"
-
-msgid "Combined"
-msgstr "组合"
-
-msgid "Point-to-Point"
-msgstr "点到点"
-
-msgid "Point-to-Plane"
-msgstr "点到平面"
-
-msgid "Select target function to minimize."
-msgstr "选择要最小化的目标函数。"
-
-msgid "Transformation"
-msgstr "变换"
-
-msgid "Select what kind of transformations are searched for."
-msgstr "选择要搜索哪种类型的变换。"
-
-msgid "Fixed rotation axis"
-msgstr "固定旋转轴"
-
-msgid "Allowed rotation axis"
-msgstr "允许的旋转轴"
-
-msgid "Stop Conditions"
-msgstr "停止条件"
-
-msgid "Max Iterations"
-msgstr "最大迭代次数"
-
-msgid "Maximal possible number of ICP iterations."
-msgstr "ICP 迭代的最大可能次数。"
-
-msgid "No Improvement Iterations"
-msgstr "无改进迭代次数"
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr "如果在最近给定次数的迭代中没有改进，则停止 ICP 迭代。"
-
-msgid "Deviation Reached"
-msgstr "已达到偏差"
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr "算法目标均方根距离。一旦达到，算法就停止。"
-
-msgid "Information"
-msgstr "信息"
-
-msgid "Samples"
-msgstr "采样"
-
-msgid "Active point pairs"
-msgstr "活动点对"
-
-msgid "RMS point-to-point distance"
-msgstr "点到点距离均方根"
-
-msgid "RMS point-to-plane distance"
-msgstr "点到平面距离均方根"
-
 msgid "Approx. Density"
 msgstr "近似密度"
 
@@ -2603,6 +2471,9 @@ msgstr "法线公差"
 msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
 msgstr "源模型法线与特征法线之间的最大角度"
+
+msgid "Max Iterations"
+msgstr "最大迭代次数"
 
 msgid ""
 "Maximum amount of iterations performed until a stable set of points is found"
@@ -3706,6 +3577,9 @@ msgid ""
 "connected components"
 msgstr "当前点之间不存在路径。这些点位于不同的连通分量上"
 
+msgid "Information"
+msgstr "信息"
+
 msgid "Control Points"
 msgstr "控制点"
 
@@ -3736,6 +3610,9 @@ msgid ""
 "If selected, shows geodesic path connecting control points together with the "
 "spline."
 msgstr "如果选中，与样条一起显示连接控制点的测地路径。"
+
+msgid "Max Distance"
+msgstr "最大距离"
 
 msgid "Maximum distance between geodesic path points and spline points."
 msgstr "测地路径点与样条点之间的最大距离。"
@@ -7075,6 +6952,18 @@ msgstr "对象 ID"
 msgid "Summary"
 msgstr "摘要"
 
+msgid "Samples"
+msgstr "采样"
+
+msgid "Active point pairs"
+msgstr "活动点对"
+
+msgid "RMS point-to-point distance"
+msgstr "点到点距离均方根"
+
+msgid "RMS point-to-plane distance"
+msgstr "点到平面距离均方根"
+
 msgid "Deviation Map"
 msgstr "偏差图"
 
@@ -9202,94 +9091,6 @@ msgstr "若选中，除转换后的网格对象外，原始体素对象也将保
 msgid "Voxels to Mesh"
 msgstr "体素转网格"
 
-msgid "Clip Scan by Plane"
-msgstr "用平面剪裁扫描"
-
-msgid "Rotate scan"
-msgstr "旋转扫描"
-
-msgid "Register scan"
-msgstr "配准扫描"
-
-msgid "Import scan"
-msgstr "导入扫描"
-
-msgid "Scanner"
-msgstr "扫描仪"
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr "{} 运行时未加载："
-
-msgid "SDK Path"
-msgstr "SDK 路径"
-
-msgid "Click and drag to draw the clip plane"
-msgstr "单击并拖动以绘制剪切平面"
-
-msgid "Clip scans by plane"
-msgstr "按平面裁剪扫描"
-
-msgid "Auto rotate"
-msgstr "自动旋转"
-
-msgid "Pivot"
-msgstr "枢轴点"
-
-msgid "To center"
-msgstr "移至中心"
-
-msgid "Align axis in the scans center"
-msgstr "将轴对齐到扫描中心"
-
-msgid "To camera"
-msgstr "朝向相机"
-
-msgid "Orient axis to current camera direction"
-msgstr "将轴定向到当前相机方向"
-
-msgid "Picking..."
-msgstr "正在拾取..."
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "从场景中拾取一个点（按住 Shift 以设置方向）"
-
-msgid "Save rotation parameters"
-msgstr "保存旋转参数"
-
-msgid "Registration"
-msgstr "配准"
-
-msgid "Auto register"
-msgstr "自动配准"
-
-msgid "Automatically align a new scan to previous scans"
-msgstr "自动将新扫描对齐到之前的扫描"
-
-msgid "ICP Parameters"
-msgstr "ICP 参数"
-
-msgid "Preview window popped out"
-msgstr "预览窗口已弹出"
-
-msgid "Close"
-msgstr "关闭"
-
-msgid "Pop Out"
-msgstr "弹出"
-
-msgid "Save defaults"
-msgstr "保存默认值"
-
-msgid "Save scanner and processing parameters as default"
-msgstr "将扫描仪和处理参数保存为默认值"
-
-msgid "Rot/Reg"
-msgstr "旋转/配准"
-
-msgid "Current Scan"
-msgstr "当前扫描"
-
 msgid "Unloaded. Please restart the application."
 msgstr "已卸载。请重新启动应用程序。"
 
@@ -9443,42 +9244,6 @@ msgstr "卸载"
 msgid "Failed to capture images"
 msgstr "采集图像失败"
 
-msgid "tooltip"
-msgstr "工具提示"
-
-msgid "title"
-msgstr "标题"
-
-msgid "status"
-msgstr "状态"
-
-msgid "File"
-msgstr "文件"
-
-msgid "Capture"
-msgstr "采集"
-
-msgid "Scan and create 3D (Press Space)"
-msgstr "扫描并创建 3D（按空格键）"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "Live"
-msgstr "实时"
-
-msgid "Live + 3D"
-msgstr "实时 + 3D"
-
-msgid "Capture frame"
-msgstr "采集帧"
-
-msgid "Disconnect"
-msgstr "断开连接"
-
-msgid "Connect"
-msgstr "连接"
-
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr "设置 Zivid SDK 二进制文件夹，例如 \"C:\\Program Files\\Zivid\\bin\""
 
@@ -9532,6 +9297,241 @@ msgstr ""
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Zivid 采集设置 (.yml)"
+
+#~ msgid "Pairs Forming Settings"
+#~ msgstr "配对形成设置"
+
+#~ msgid "Register Whole Objects"
+#~ msgstr "配准整个对象"
+
+#~ msgid ""
+#~ "If selected then absolutely all point pairs between two objects will be "
+#~ "considered during registration without filtering."
+#~ msgstr "如果选中，注册时将考虑两个对象之间的所有点对，不进行任何过滤。"
+
+#~ msgid "Normals Max Angle"
+#~ msgstr "法线最大角度"
+
+#~ msgid ""
+#~ "A points pair is used only if the angle between the normals at the points "
+#~ "is not larger than this value."
+#~ msgstr "仅当点处法线之间的角度不大于此值时才使用点对。"
+
+#~ msgid ""
+#~ "A points pair is used only if the distance between two points is lower "
+#~ "than this value."
+#~ msgstr "仅当两点之间的距离小于此值时才使用点对。"
+
+#~ msgid "Far Distance Factor"
+#~ msgstr "远距离因子"
+
+#~ msgid ""
+#~ "Points pair will be counted only if distance between points is lower than "
+#~ "root-mean-square distance times this factor."
+#~ msgstr "仅当点之间的距离小于均方根距离乘以此因子时，点对才会被计入。"
+
+#~ msgid "Mutual Closest Points in Each Pair"
+#~ msgstr "每对中的相互最近点"
+
+#~ msgid ""
+#~ "A pair of points is formed only if both points in the pair are mutually "
+#~ "closest (reciprocity test passed)."
+#~ msgstr "只有当点对中的两个点互为最近（通过互易性测试）时才形成点对。"
+
+#~ msgid "Sampling Spacing"
+#~ msgstr "采样间距"
+
+#~ msgid ""
+#~ "This value determines sampling voxel size to select only one point in "
+#~ "each voxel."
+#~ msgstr "此值决定采样体素大小，以便每个体素中仅选择一个点。"
+
+#~ msgid "Descriptor Spacing"
+#~ msgstr "描述符间距"
+
+#~ msgid ""
+#~ "Auto Initial matches the objects by shape descriptors computed on samples "
+#~ "with this spacing. Smaller spacing captures smaller details, but takes "
+#~ "longer."
+#~ msgstr ""
+#~ "自动初始通过在以此间距采样的点上计算的形状描述符来匹配对象。间距越小，能捕"
+#~ "捉的细节越精细，但计算时间越长。"
+
+#~ msgid "Sample Target"
+#~ msgstr "采样目标"
+
+#~ msgid "Select what object will be samples to form origins of point pairs."
+#~ msgstr "选择哪个对象将被采样以形成点对的起点。"
+
+#~ msgid "Combined"
+#~ msgstr "组合"
+
+#~ msgid "Point-to-Point"
+#~ msgstr "点到点"
+
+#~ msgid "Point-to-Plane"
+#~ msgstr "点到平面"
+
+#~ msgid "Select target function to minimize."
+#~ msgstr "选择要最小化的目标函数。"
+
+#~ msgid "Transformation"
+#~ msgstr "变换"
+
+#~ msgid "Select what kind of transformations are searched for."
+#~ msgstr "选择要搜索哪种类型的变换。"
+
+#~ msgid "Fixed rotation axis"
+#~ msgstr "固定旋转轴"
+
+#~ msgid "Allowed rotation axis"
+#~ msgstr "允许的旋转轴"
+
+#~ msgid "Stop Conditions"
+#~ msgstr "停止条件"
+
+#~ msgid "Maximal possible number of ICP iterations."
+#~ msgstr "ICP 迭代的最大可能次数。"
+
+#~ msgid "No Improvement Iterations"
+#~ msgstr "无改进迭代次数"
+
+#~ msgid ""
+#~ "Stop ICP iterations if during given number of last iterations there was "
+#~ "no improvement."
+#~ msgstr "如果在最近给定次数的迭代中没有改进，则停止 ICP 迭代。"
+
+#~ msgid "Deviation Reached"
+#~ msgstr "已达到偏差"
+
+#~ msgid ""
+#~ "Algorithm target root-mean-square distance. As soon as it is reached, the "
+#~ "algorithm stops."
+#~ msgstr "算法目标均方根距离。一旦达到，算法就停止。"
+
+#~ msgid "Clip Scan by Plane"
+#~ msgstr "用平面剪裁扫描"
+
+#~ msgid "Rotate scan"
+#~ msgstr "旋转扫描"
+
+#~ msgid "Register scan"
+#~ msgstr "配准扫描"
+
+#~ msgid "Import scan"
+#~ msgstr "导入扫描"
+
+#~ msgid "Scanner"
+#~ msgstr "扫描仪"
+
+#, c++-format
+#~ msgid "{} runtime not loaded:"
+#~ msgstr "{} 运行时未加载："
+
+#~ msgid "SDK Path"
+#~ msgstr "SDK 路径"
+
+#~ msgid "Click and drag to draw the clip plane"
+#~ msgstr "单击并拖动以绘制剪切平面"
+
+#~ msgid "Clip scans by plane"
+#~ msgstr "按平面裁剪扫描"
+
+#~ msgid "Auto rotate"
+#~ msgstr "自动旋转"
+
+#~ msgid "Pivot"
+#~ msgstr "枢轴点"
+
+#~ msgid "To center"
+#~ msgstr "移至中心"
+
+#~ msgid "Align axis in the scans center"
+#~ msgstr "将轴对齐到扫描中心"
+
+#~ msgid "To camera"
+#~ msgstr "朝向相机"
+
+#~ msgid "Orient axis to current camera direction"
+#~ msgstr "将轴定向到当前相机方向"
+
+#~ msgid "Picking..."
+#~ msgstr "正在拾取..."
+
+#~ msgid "Pick a point from scene (hold Shift to set direction)"
+#~ msgstr "从场景中拾取一个点（按住 Shift 以设置方向）"
+
+#~ msgid "Save rotation parameters"
+#~ msgstr "保存旋转参数"
+
+#~ msgid "Registration"
+#~ msgstr "配准"
+
+#~ msgid "Auto register"
+#~ msgstr "自动配准"
+
+#~ msgid "Automatically align a new scan to previous scans"
+#~ msgstr "自动将新扫描对齐到之前的扫描"
+
+#~ msgid "ICP Parameters"
+#~ msgstr "ICP 参数"
+
+#~ msgid "Preview window popped out"
+#~ msgstr "预览窗口已弹出"
+
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgid "Pop Out"
+#~ msgstr "弹出"
+
+#~ msgid "Save defaults"
+#~ msgstr "保存默认值"
+
+#~ msgid "Save scanner and processing parameters as default"
+#~ msgstr "将扫描仪和处理参数保存为默认值"
+
+#~ msgid "Rot/Reg"
+#~ msgstr "旋转/配准"
+
+#~ msgid "Current Scan"
+#~ msgstr "当前扫描"
+
+#~ msgid "tooltip"
+#~ msgstr "工具提示"
+
+#~ msgid "title"
+#~ msgstr "标题"
+
+#~ msgid "status"
+#~ msgstr "状态"
+
+#~ msgid "File"
+#~ msgstr "文件"
+
+#~ msgid "Capture"
+#~ msgstr "采集"
+
+#~ msgid "Scan and create 3D (Press Space)"
+#~ msgstr "扫描并创建 3D（按空格键）"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "Live"
+#~ msgstr "实时"
+
+#~ msgid "Live + 3D"
+#~ msgstr "实时 + 3D"
+
+#~ msgid "Capture frame"
+#~ msgstr "采集帧"
+
+#~ msgid "Disconnect"
+#~ msgstr "断开连接"
+
+#~ msgid "Connect"
+#~ msgstr "连接"
 
 #, c-format
 #~ msgid ""

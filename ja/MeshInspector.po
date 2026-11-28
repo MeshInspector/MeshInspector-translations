@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2033,150 +2033,6 @@ msgstr "サポートされていない参照オブジェクトタイプ"
 msgid "Add measurements holder"
 msgstr "計測ホルダーを追加"
 
-msgid "Pairs Forming Settings"
-msgstr "ペア形成設定"
-
-msgid "Register Whole Objects"
-msgstr "オブジェクト全体を位置合わせ"
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr ""
-"選択すると、レジストレーション時に2つのオブジェクト間のすべての点ペアがフィル"
-"タリングなしで考慮されます。"
-
-msgid "Normals Max Angle"
-msgstr "法線の最大角度"
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr ""
-"ポイントの法線間の角度がこの値以下の場合にのみ、ポイントペアが使用されます。"
-
-msgid "Max Distance"
-msgstr "最大距離"
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr "2点間の距離がこの値未満の場合にのみ、ポイントペアが使用されます。"
-
-msgid "Far Distance Factor"
-msgstr "遠距離係数"
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr ""
-"ポイント間の距離が二乗平均平方根距離にこの係数を掛けた値より低い場合にのみ、"
-"ポイントペアがカウントされます。"
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr "各ペアで互いに最近傍のポイント"
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr ""
-"ペアの両ポイントが互いに最近傍の場合にのみ（相互テスト合格）、ポイントペアが"
-"形成されます。"
-
-msgid "Sampling Spacing"
-msgstr "サンプリング間隔"
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr ""
-"この値は、各ボクセル内で1つのポイントのみを選択するためのサンプリングボクセル"
-"サイズを決定します。"
-
-msgid "Descriptor Spacing"
-msgstr "記述子間隔"
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-"自動初期化は、この間隔のサンプル上で計算された形状記述子によってオブジェクト"
-"をマッチングします。間隔が小さいほど細かい部分まで捉えられますが、処理時間が"
-"長くなります。"
-
-msgid "Sample Target"
-msgstr "サンプルターゲット"
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr ""
-"ポイントペアの起点を形成するためにサンプリングするオブジェクトを選択します。"
-
-msgid "Combined"
-msgstr "組み合わせ"
-
-msgid "Point-to-Point"
-msgstr "点対点"
-
-msgid "Point-to-Plane"
-msgstr "点対平面"
-
-msgid "Select target function to minimize."
-msgstr "最小化するターゲット関数を選択します。"
-
-msgid "Transformation"
-msgstr "変換"
-
-msgid "Select what kind of transformations are searched for."
-msgstr "検索する変換の種類を選択します。"
-
-msgid "Fixed rotation axis"
-msgstr "固定回転軸"
-
-msgid "Allowed rotation axis"
-msgstr "許可された回転軸"
-
-msgid "Stop Conditions"
-msgstr "停止条件"
-
-msgid "Max Iterations"
-msgstr "最大反復回数"
-
-msgid "Maximal possible number of ICP iterations."
-msgstr "ICPの最大反復回数。"
-
-msgid "No Improvement Iterations"
-msgstr "改善なし反復回数"
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr "指定した回数の反復で改善がなければICP反復を停止します。"
-
-msgid "Deviation Reached"
-msgstr "到達偏差"
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr ""
-"アルゴリズムの目標二乗平均平方根距離。到達するとアルゴリズムが停止します。"
-
-msgid "Information"
-msgstr "情報"
-
-msgid "Samples"
-msgstr "サンプル"
-
-msgid "Active point pairs"
-msgstr "アクティブなポイントペア"
-
-msgid "RMS point-to-point distance"
-msgstr "RMS 点対点距離"
-
-msgid "RMS point-to-plane distance"
-msgstr "RMS 点対平面距離"
-
 msgid "Approx. Density"
 msgstr "近似密度"
 
@@ -2666,6 +2522,9 @@ msgstr "法線許容差"
 msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
 msgstr "ソースモデルの法線とフィーチャーの法線の最大角度"
+
+msgid "Max Iterations"
+msgstr "最大反復回数"
 
 msgid ""
 "Maximum amount of iterations performed until a stable set of points is found"
@@ -3837,6 +3696,9 @@ msgstr ""
 "現在のポイント間にパスが存在しません。ポイントが異なる連結コンポーネントに配"
 "置されています"
 
+msgid "Information"
+msgstr "情報"
+
 msgid "Control Points"
 msgstr "制御点"
 
@@ -3867,6 +3729,9 @@ msgid ""
 "If selected, shows geodesic path connecting control points together with the "
 "spline."
 msgstr "選択した場合、制御点を繋ぐ測地パスをスプラインとともに表示します。"
+
+msgid "Max Distance"
+msgstr "最大距離"
 
 msgid "Maximum distance between geodesic path points and spline points."
 msgstr "測地パスのポイントとスプラインのポイント間の最大距離。"
@@ -7371,6 +7236,18 @@ msgstr "オブジェクトID"
 msgid "Summary"
 msgstr "概要"
 
+msgid "Samples"
+msgstr "サンプル"
+
+msgid "Active point pairs"
+msgstr "アクティブなポイントペア"
+
+msgid "RMS point-to-point distance"
+msgstr "RMS 点対点距離"
+
+msgid "RMS point-to-plane distance"
+msgstr "RMS 点対平面距離"
+
 msgid "Deviation Map"
 msgstr "偏差マップ"
 
@@ -9597,94 +9474,6 @@ msgstr ""
 msgid "Voxels to Mesh"
 msgstr "ボクセルをメッシュに変換"
 
-msgid "Clip Scan by Plane"
-msgstr "スキャンを平面でクリップ"
-
-msgid "Rotate scan"
-msgstr "スキャンを回転"
-
-msgid "Register scan"
-msgstr "スキャンをレジストレーション"
-
-msgid "Import scan"
-msgstr "スキャンをインポート"
-
-msgid "Scanner"
-msgstr "スキャナー"
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr "{}ランタイムが読み込まれていません:"
-
-msgid "SDK Path"
-msgstr "SDKパス"
-
-msgid "Click and drag to draw the clip plane"
-msgstr "クリックしてドラッグし、クリップ平面を描画します"
-
-msgid "Clip scans by plane"
-msgstr "平面でスキャンをクリップ"
-
-msgid "Auto rotate"
-msgstr "自動回転"
-
-msgid "Pivot"
-msgstr "ピボット"
-
-msgid "To center"
-msgstr "中心へ"
-
-msgid "Align axis in the scans center"
-msgstr "スキャンの中心に軸を合わせます"
-
-msgid "To camera"
-msgstr "カメラへ"
-
-msgid "Orient axis to current camera direction"
-msgstr "軸を現在のカメラ方向に向けます"
-
-msgid "Picking..."
-msgstr "選択中..."
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "シーンからポイントを選択します (Shiftを押したままで方向を設定)"
-
-msgid "Save rotation parameters"
-msgstr "回転パラメーターを保存"
-
-msgid "Registration"
-msgstr "レジストレーション"
-
-msgid "Auto register"
-msgstr "自動レジストレーション"
-
-msgid "Automatically align a new scan to previous scans"
-msgstr "新しいスキャンを以前のスキャンに自動的に位置合わせします"
-
-msgid "ICP Parameters"
-msgstr "ICPパラメーター"
-
-msgid "Preview window popped out"
-msgstr "プレビューウィンドウはポップアウトされています"
-
-msgid "Close"
-msgstr "閉じる"
-
-msgid "Pop Out"
-msgstr "ポップアウト"
-
-msgid "Save defaults"
-msgstr "デフォルトを保存"
-
-msgid "Save scanner and processing parameters as default"
-msgstr "スキャナーと処理のパラメーターをデフォルトとして保存します"
-
-msgid "Rot/Reg"
-msgstr "回転/レジストレーション"
-
-msgid "Current Scan"
-msgstr "現在のスキャン"
-
 msgid "Unloaded. Please restart the application."
 msgstr "アンロードしました。アプリケーションを再起動してください。"
 
@@ -9838,42 +9627,6 @@ msgstr "アンロード"
 msgid "Failed to capture images"
 msgstr "画像のキャプチャに失敗しました"
 
-msgid "tooltip"
-msgstr "ツールチップ"
-
-msgid "title"
-msgstr "タイトル"
-
-msgid "status"
-msgstr "ステータス"
-
-msgid "File"
-msgstr "ファイル"
-
-msgid "Capture"
-msgstr "キャプチャ"
-
-msgid "Scan and create 3D (Press Space)"
-msgstr "スキャンして3Dを作成 (Spaceキーを押す)"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "Live"
-msgstr "ライブ"
-
-msgid "Live + 3D"
-msgstr "ライブ + 3D"
-
-msgid "Capture frame"
-msgstr "フレームをキャプチャ"
-
-msgid "Disconnect"
-msgstr "切断"
-
-msgid "Connect"
-msgstr "接続"
-
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
 "Zivid SDKのバイナリフォルダーを設定します（例: \"C:\\Program "
@@ -9930,6 +9683,255 @@ msgstr ""
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Zividキャプチャ設定 (.yml)"
+
+#~ msgid "Pairs Forming Settings"
+#~ msgstr "ペア形成設定"
+
+#~ msgid "Register Whole Objects"
+#~ msgstr "オブジェクト全体を位置合わせ"
+
+#~ msgid ""
+#~ "If selected then absolutely all point pairs between two objects will be "
+#~ "considered during registration without filtering."
+#~ msgstr ""
+#~ "選択すると、レジストレーション時に2つのオブジェクト間のすべての点ペアが"
+#~ "フィルタリングなしで考慮されます。"
+
+#~ msgid "Normals Max Angle"
+#~ msgstr "法線の最大角度"
+
+#~ msgid ""
+#~ "A points pair is used only if the angle between the normals at the points "
+#~ "is not larger than this value."
+#~ msgstr ""
+#~ "ポイントの法線間の角度がこの値以下の場合にのみ、ポイントペアが使用されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "A points pair is used only if the distance between two points is lower "
+#~ "than this value."
+#~ msgstr "2点間の距離がこの値未満の場合にのみ、ポイントペアが使用されます。"
+
+#~ msgid "Far Distance Factor"
+#~ msgstr "遠距離係数"
+
+#~ msgid ""
+#~ "Points pair will be counted only if distance between points is lower than "
+#~ "root-mean-square distance times this factor."
+#~ msgstr ""
+#~ "ポイント間の距離が二乗平均平方根距離にこの係数を掛けた値より低い場合にの"
+#~ "み、ポイントペアがカウントされます。"
+
+#~ msgid "Mutual Closest Points in Each Pair"
+#~ msgstr "各ペアで互いに最近傍のポイント"
+
+#~ msgid ""
+#~ "A pair of points is formed only if both points in the pair are mutually "
+#~ "closest (reciprocity test passed)."
+#~ msgstr ""
+#~ "ペアの両ポイントが互いに最近傍の場合にのみ（相互テスト合格）、ポイントペア"
+#~ "が形成されます。"
+
+#~ msgid "Sampling Spacing"
+#~ msgstr "サンプリング間隔"
+
+#~ msgid ""
+#~ "This value determines sampling voxel size to select only one point in "
+#~ "each voxel."
+#~ msgstr ""
+#~ "この値は、各ボクセル内で1つのポイントのみを選択するためのサンプリングボク"
+#~ "セルサイズを決定します。"
+
+#~ msgid "Descriptor Spacing"
+#~ msgstr "記述子間隔"
+
+#~ msgid ""
+#~ "Auto Initial matches the objects by shape descriptors computed on samples "
+#~ "with this spacing. Smaller spacing captures smaller details, but takes "
+#~ "longer."
+#~ msgstr ""
+#~ "自動初期化は、この間隔のサンプル上で計算された形状記述子によってオブジェク"
+#~ "トをマッチングします。間隔が小さいほど細かい部分まで捉えられますが、処理時"
+#~ "間が長くなります。"
+
+#~ msgid "Sample Target"
+#~ msgstr "サンプルターゲット"
+
+#~ msgid "Select what object will be samples to form origins of point pairs."
+#~ msgstr ""
+#~ "ポイントペアの起点を形成するためにサンプリングするオブジェクトを選択しま"
+#~ "す。"
+
+#~ msgid "Combined"
+#~ msgstr "組み合わせ"
+
+#~ msgid "Point-to-Point"
+#~ msgstr "点対点"
+
+#~ msgid "Point-to-Plane"
+#~ msgstr "点対平面"
+
+#~ msgid "Select target function to minimize."
+#~ msgstr "最小化するターゲット関数を選択します。"
+
+#~ msgid "Transformation"
+#~ msgstr "変換"
+
+#~ msgid "Select what kind of transformations are searched for."
+#~ msgstr "検索する変換の種類を選択します。"
+
+#~ msgid "Fixed rotation axis"
+#~ msgstr "固定回転軸"
+
+#~ msgid "Allowed rotation axis"
+#~ msgstr "許可された回転軸"
+
+#~ msgid "Stop Conditions"
+#~ msgstr "停止条件"
+
+#~ msgid "Maximal possible number of ICP iterations."
+#~ msgstr "ICPの最大反復回数。"
+
+#~ msgid "No Improvement Iterations"
+#~ msgstr "改善なし反復回数"
+
+#~ msgid ""
+#~ "Stop ICP iterations if during given number of last iterations there was "
+#~ "no improvement."
+#~ msgstr "指定した回数の反復で改善がなければICP反復を停止します。"
+
+#~ msgid "Deviation Reached"
+#~ msgstr "到達偏差"
+
+#~ msgid ""
+#~ "Algorithm target root-mean-square distance. As soon as it is reached, the "
+#~ "algorithm stops."
+#~ msgstr ""
+#~ "アルゴリズムの目標二乗平均平方根距離。到達するとアルゴリズムが停止します。"
+
+#~ msgid "Clip Scan by Plane"
+#~ msgstr "スキャンを平面でクリップ"
+
+#~ msgid "Rotate scan"
+#~ msgstr "スキャンを回転"
+
+#~ msgid "Register scan"
+#~ msgstr "スキャンをレジストレーション"
+
+#~ msgid "Import scan"
+#~ msgstr "スキャンをインポート"
+
+#~ msgid "Scanner"
+#~ msgstr "スキャナー"
+
+#, c++-format
+#~ msgid "{} runtime not loaded:"
+#~ msgstr "{}ランタイムが読み込まれていません:"
+
+#~ msgid "SDK Path"
+#~ msgstr "SDKパス"
+
+#~ msgid "Click and drag to draw the clip plane"
+#~ msgstr "クリックしてドラッグし、クリップ平面を描画します"
+
+#~ msgid "Clip scans by plane"
+#~ msgstr "平面でスキャンをクリップ"
+
+#~ msgid "Auto rotate"
+#~ msgstr "自動回転"
+
+#~ msgid "Pivot"
+#~ msgstr "ピボット"
+
+#~ msgid "To center"
+#~ msgstr "中心へ"
+
+#~ msgid "Align axis in the scans center"
+#~ msgstr "スキャンの中心に軸を合わせます"
+
+#~ msgid "To camera"
+#~ msgstr "カメラへ"
+
+#~ msgid "Orient axis to current camera direction"
+#~ msgstr "軸を現在のカメラ方向に向けます"
+
+#~ msgid "Picking..."
+#~ msgstr "選択中..."
+
+#~ msgid "Pick a point from scene (hold Shift to set direction)"
+#~ msgstr "シーンからポイントを選択します (Shiftを押したままで方向を設定)"
+
+#~ msgid "Save rotation parameters"
+#~ msgstr "回転パラメーターを保存"
+
+#~ msgid "Registration"
+#~ msgstr "レジストレーション"
+
+#~ msgid "Auto register"
+#~ msgstr "自動レジストレーション"
+
+#~ msgid "Automatically align a new scan to previous scans"
+#~ msgstr "新しいスキャンを以前のスキャンに自動的に位置合わせします"
+
+#~ msgid "ICP Parameters"
+#~ msgstr "ICPパラメーター"
+
+#~ msgid "Preview window popped out"
+#~ msgstr "プレビューウィンドウはポップアウトされています"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Pop Out"
+#~ msgstr "ポップアウト"
+
+#~ msgid "Save defaults"
+#~ msgstr "デフォルトを保存"
+
+#~ msgid "Save scanner and processing parameters as default"
+#~ msgstr "スキャナーと処理のパラメーターをデフォルトとして保存します"
+
+#~ msgid "Rot/Reg"
+#~ msgstr "回転/レジストレーション"
+
+#~ msgid "Current Scan"
+#~ msgstr "現在のスキャン"
+
+#~ msgid "tooltip"
+#~ msgstr "ツールチップ"
+
+#~ msgid "title"
+#~ msgstr "タイトル"
+
+#~ msgid "status"
+#~ msgstr "ステータス"
+
+#~ msgid "File"
+#~ msgstr "ファイル"
+
+#~ msgid "Capture"
+#~ msgstr "キャプチャ"
+
+#~ msgid "Scan and create 3D (Press Space)"
+#~ msgstr "スキャンして3Dを作成 (Spaceキーを押す)"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "Live"
+#~ msgstr "ライブ"
+
+#~ msgid "Live + 3D"
+#~ msgstr "ライブ + 3D"
+
+#~ msgid "Capture frame"
+#~ msgstr "フレームをキャプチャ"
+
+#~ msgid "Disconnect"
+#~ msgstr "切断"
+
+#~ msgid "Connect"
+#~ msgstr "接続"
 
 #, c-format
 #~ msgid ""

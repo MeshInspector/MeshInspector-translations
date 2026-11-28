@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-03-19 10:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2077,157 +2077,6 @@ msgstr "Неподдерживаемый тип объекта-ссылки"
 msgid "Add measurements holder"
 msgstr "Добавить контейнер измерений"
 
-msgid "Pairs Forming Settings"
-msgstr "Настройки формирования пар"
-
-msgid "Register Whole Objects"
-msgstr "Совместить целые объекты"
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr ""
-"Если выбрано, при регистрации будут учтены абсолютно все пары точек между "
-"двумя объектами без фильтрации."
-
-msgid "Normals Max Angle"
-msgstr "Максимальный угол нормалей"
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr ""
-"Пара точек используется только в том случае, если угол между нормалями в "
-"этих точках не превышает данного значения."
-
-msgid "Max Distance"
-msgstr "Максимальное расстояние"
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr ""
-"Пара точек используется только в том случае, если расстояние между двумя "
-"точками меньше этого значения."
-
-msgid "Far Distance Factor"
-msgstr "Коэффициент дальнего расстояния"
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr ""
-"Пара точек учитывается только в том случае, если расстояние между точками "
-"меньше среднеквадратичного расстояния, умноженного на этот коэффициент."
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr "Взаимно ближайшие точки в каждой паре"
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr ""
-"Пара точек формируется только в том случае, если обе точки в паре являются "
-"взаимно ближайшими (тест на взаимность пройден)."
-
-msgid "Sampling Spacing"
-msgstr "Шаг выборки"
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr ""
-"Это значение определяет размер вокселя выборки для выбора только одной точки "
-"в каждом вокселе."
-
-msgid "Descriptor Spacing"
-msgstr "Шаг дескрипторов"
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-"Функция «Авто начальное» сопоставляет объекты по дескрипторам формы, "
-"вычисленным в точках выборки с этим шагом. Меньший шаг позволяет уловить "
-"более мелкие детали, но требует больше времени."
-
-msgid "Sample Target"
-msgstr "Целевой объект выборки"
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr ""
-"Выберите объект, который будет использоваться для формирования начал пар "
-"точек."
-
-msgid "Combined"
-msgstr "Комбинированный"
-
-msgid "Point-to-Point"
-msgstr "Точка к точке"
-
-msgid "Point-to-Plane"
-msgstr "Точка-к-плоскости"
-
-msgid "Select target function to minimize."
-msgstr "Выберите целевую функцию для минимизации."
-
-msgid "Transformation"
-msgstr "Преобразование"
-
-msgid "Select what kind of transformations are searched for."
-msgstr "Выберите тип искомых преобразований."
-
-msgid "Fixed rotation axis"
-msgstr "Фиксированная ось вращения"
-
-msgid "Allowed rotation axis"
-msgstr "Разрешённая ось вращения"
-
-msgid "Stop Conditions"
-msgstr "Условия остановки"
-
-msgid "Max Iterations"
-msgstr "Макс. итераций"
-
-msgid "Maximal possible number of ICP iterations."
-msgstr "Максимально возможное количество итераций ICP."
-
-msgid "No Improvement Iterations"
-msgstr "Итерации без улучшений"
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr ""
-"Остановить итерации ICP, если за указанное количество последних итераций не "
-"было улучшений."
-
-msgid "Deviation Reached"
-msgstr "Достигнутое отклонение"
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr ""
-"Целевое среднеквадратичное расстояние алгоритма. Как только оно достигнуто, "
-"алгоритм останавливается."
-
-msgid "Information"
-msgstr "Информация"
-
-msgid "Samples"
-msgstr "Образцы"
-
-msgid "Active point pairs"
-msgstr "Активных пар точек"
-
-msgid "RMS point-to-point distance"
-msgstr "Среднеквадратичное расстояние точка-точка"
-
-msgid "RMS point-to-plane distance"
-msgstr "Среднеквадратичное расстояние точка-плоскость"
-
 msgid "Approx. Density"
 msgstr "Прибл. плотность"
 
@@ -2737,6 +2586,9 @@ msgstr "Допуск нормалей"
 msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
 msgstr "Максимальный угол между нормалью исходной модели и нормалью объекта"
+
+msgid "Max Iterations"
+msgstr "Макс. итераций"
 
 msgid ""
 "Maximum amount of iterations performed until a stable set of points is found"
@@ -3961,6 +3813,9 @@ msgstr ""
 "Путь между текущими точками не существует. Точки расположены на разных "
 "связных компонентах"
 
+msgid "Information"
+msgstr "Информация"
+
 msgid "Control Points"
 msgstr "Контрольные точки"
 
@@ -3995,6 +3850,9 @@ msgid ""
 msgstr ""
 "Если включено, отображает геодезический путь, соединяющий контрольные точки, "
 "вместе со сплайном."
+
+msgid "Max Distance"
+msgstr "Максимальное расстояние"
 
 msgid "Maximum distance between geodesic path points and spline points."
 msgstr ""
@@ -7653,6 +7511,18 @@ msgstr "Идентификатор объекта"
 msgid "Summary"
 msgstr "Сводка"
 
+msgid "Samples"
+msgstr "Образцы"
+
+msgid "Active point pairs"
+msgstr "Активных пар точек"
+
+msgid "RMS point-to-point distance"
+msgstr "Среднеквадратичное расстояние точка-точка"
+
+msgid "RMS point-to-plane distance"
+msgstr "Среднеквадратичное расстояние точка-плоскость"
+
 msgid "Deviation Map"
 msgstr "Карта отклонений"
 
@@ -9939,94 +9809,6 @@ msgstr ""
 msgid "Voxels to Mesh"
 msgstr "Воксели в меш"
 
-msgid "Clip Scan by Plane"
-msgstr "Обрезать скан плоскостью"
-
-msgid "Rotate scan"
-msgstr "Повернуть скан"
-
-msgid "Register scan"
-msgstr "Зарегистрировать скан"
-
-msgid "Import scan"
-msgstr "Импортировать скан"
-
-msgid "Scanner"
-msgstr "Сканер"
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr "Среда выполнения {} не загружена:"
-
-msgid "SDK Path"
-msgstr "Путь к SDK"
-
-msgid "Click and drag to draw the clip plane"
-msgstr "Нажмите и перетащите, чтобы нарисовать плоскость обрезки"
-
-msgid "Clip scans by plane"
-msgstr "Обрезать сканы по плоскости"
-
-msgid "Auto rotate"
-msgstr "Автоповорот"
-
-msgid "Pivot"
-msgstr "Центр вращения"
-
-msgid "To center"
-msgstr "В центр"
-
-msgid "Align axis in the scans center"
-msgstr "Выровнять ось по центру сканов"
-
-msgid "To camera"
-msgstr "К камере"
-
-msgid "Orient axis to current camera direction"
-msgstr "Ориентировать ось по текущему направлению камеры"
-
-msgid "Picking..."
-msgstr "Выбор..."
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "Выберите точку в сцене (удерживайте Shift, чтобы задать направление)"
-
-msgid "Save rotation parameters"
-msgstr "Сохранить параметры вращения"
-
-msgid "Registration"
-msgstr "Регистрация"
-
-msgid "Auto register"
-msgstr "Авторегистрация"
-
-msgid "Automatically align a new scan to previous scans"
-msgstr "Автоматически выравнивать новый скан по предыдущим сканам"
-
-msgid "ICP Parameters"
-msgstr "Параметры ICP"
-
-msgid "Preview window popped out"
-msgstr "Окно предпросмотра откреплено"
-
-msgid "Close"
-msgstr "Закрыть"
-
-msgid "Pop Out"
-msgstr "Открепить"
-
-msgid "Save defaults"
-msgstr "Сохранить по умолчанию"
-
-msgid "Save scanner and processing parameters as default"
-msgstr "Сохранить параметры сканера и обработки как параметры по умолчанию"
-
-msgid "Rot/Reg"
-msgstr "Пов./Рег."
-
-msgid "Current Scan"
-msgstr "Текущий скан"
-
 msgid "Unloaded. Please restart the application."
 msgstr "Выгружено. Перезапустите приложение."
 
@@ -10180,42 +9962,6 @@ msgstr "Выгрузить"
 msgid "Failed to capture images"
 msgstr "Не удалось захватить изображения"
 
-msgid "tooltip"
-msgstr "подсказка"
-
-msgid "title"
-msgstr "заголовок"
-
-msgid "status"
-msgstr "статус"
-
-msgid "File"
-msgstr "Файл"
-
-msgid "Capture"
-msgstr "Снимок"
-
-msgid "Scan and create 3D (Press Space)"
-msgstr "Сканировать и создать 3D (нажмите пробел)"
-
-msgid "Stop"
-msgstr "Остановить"
-
-msgid "Live"
-msgstr "В реальном времени"
-
-msgid "Live + 3D"
-msgstr "В реальном времени + 3D"
-
-msgid "Capture frame"
-msgstr "Захватить кадр"
-
-msgid "Disconnect"
-msgstr "Отключиться"
-
-msgid "Connect"
-msgstr "Подключиться"
-
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr "Укажите папку Zivid SDK, например \"C:\\Program Files\\Zivid\\bin\""
 
@@ -10271,6 +10017,261 @@ msgstr ""
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Настройки съёмки Zivid (.yml)"
+
+#~ msgid "Pairs Forming Settings"
+#~ msgstr "Настройки формирования пар"
+
+#~ msgid "Register Whole Objects"
+#~ msgstr "Совместить целые объекты"
+
+#~ msgid ""
+#~ "If selected then absolutely all point pairs between two objects will be "
+#~ "considered during registration without filtering."
+#~ msgstr ""
+#~ "Если выбрано, при регистрации будут учтены абсолютно все пары точек между "
+#~ "двумя объектами без фильтрации."
+
+#~ msgid "Normals Max Angle"
+#~ msgstr "Максимальный угол нормалей"
+
+#~ msgid ""
+#~ "A points pair is used only if the angle between the normals at the points "
+#~ "is not larger than this value."
+#~ msgstr ""
+#~ "Пара точек используется только в том случае, если угол между нормалями в "
+#~ "этих точках не превышает данного значения."
+
+#~ msgid ""
+#~ "A points pair is used only if the distance between two points is lower "
+#~ "than this value."
+#~ msgstr ""
+#~ "Пара точек используется только в том случае, если расстояние между двумя "
+#~ "точками меньше этого значения."
+
+#~ msgid "Far Distance Factor"
+#~ msgstr "Коэффициент дальнего расстояния"
+
+#~ msgid ""
+#~ "Points pair will be counted only if distance between points is lower than "
+#~ "root-mean-square distance times this factor."
+#~ msgstr ""
+#~ "Пара точек учитывается только в том случае, если расстояние между точками "
+#~ "меньше среднеквадратичного расстояния, умноженного на этот коэффициент."
+
+#~ msgid "Mutual Closest Points in Each Pair"
+#~ msgstr "Взаимно ближайшие точки в каждой паре"
+
+#~ msgid ""
+#~ "A pair of points is formed only if both points in the pair are mutually "
+#~ "closest (reciprocity test passed)."
+#~ msgstr ""
+#~ "Пара точек формируется только в том случае, если обе точки в паре "
+#~ "являются взаимно ближайшими (тест на взаимность пройден)."
+
+#~ msgid "Sampling Spacing"
+#~ msgstr "Шаг выборки"
+
+#~ msgid ""
+#~ "This value determines sampling voxel size to select only one point in "
+#~ "each voxel."
+#~ msgstr ""
+#~ "Это значение определяет размер вокселя выборки для выбора только одной "
+#~ "точки в каждом вокселе."
+
+#~ msgid "Descriptor Spacing"
+#~ msgstr "Шаг дескрипторов"
+
+#~ msgid ""
+#~ "Auto Initial matches the objects by shape descriptors computed on samples "
+#~ "with this spacing. Smaller spacing captures smaller details, but takes "
+#~ "longer."
+#~ msgstr ""
+#~ "Функция «Авто начальное» сопоставляет объекты по дескрипторам формы, "
+#~ "вычисленным в точках выборки с этим шагом. Меньший шаг позволяет уловить "
+#~ "более мелкие детали, но требует больше времени."
+
+#~ msgid "Sample Target"
+#~ msgstr "Целевой объект выборки"
+
+#~ msgid "Select what object will be samples to form origins of point pairs."
+#~ msgstr ""
+#~ "Выберите объект, который будет использоваться для формирования начал пар "
+#~ "точек."
+
+#~ msgid "Combined"
+#~ msgstr "Комбинированный"
+
+#~ msgid "Point-to-Point"
+#~ msgstr "Точка к точке"
+
+#~ msgid "Point-to-Plane"
+#~ msgstr "Точка-к-плоскости"
+
+#~ msgid "Select target function to minimize."
+#~ msgstr "Выберите целевую функцию для минимизации."
+
+#~ msgid "Transformation"
+#~ msgstr "Преобразование"
+
+#~ msgid "Select what kind of transformations are searched for."
+#~ msgstr "Выберите тип искомых преобразований."
+
+#~ msgid "Fixed rotation axis"
+#~ msgstr "Фиксированная ось вращения"
+
+#~ msgid "Allowed rotation axis"
+#~ msgstr "Разрешённая ось вращения"
+
+#~ msgid "Stop Conditions"
+#~ msgstr "Условия остановки"
+
+#~ msgid "Maximal possible number of ICP iterations."
+#~ msgstr "Максимально возможное количество итераций ICP."
+
+#~ msgid "No Improvement Iterations"
+#~ msgstr "Итерации без улучшений"
+
+#~ msgid ""
+#~ "Stop ICP iterations if during given number of last iterations there was "
+#~ "no improvement."
+#~ msgstr ""
+#~ "Остановить итерации ICP, если за указанное количество последних итераций "
+#~ "не было улучшений."
+
+#~ msgid "Deviation Reached"
+#~ msgstr "Достигнутое отклонение"
+
+#~ msgid ""
+#~ "Algorithm target root-mean-square distance. As soon as it is reached, the "
+#~ "algorithm stops."
+#~ msgstr ""
+#~ "Целевое среднеквадратичное расстояние алгоритма. Как только оно "
+#~ "достигнуто, алгоритм останавливается."
+
+#~ msgid "Clip Scan by Plane"
+#~ msgstr "Обрезать скан плоскостью"
+
+#~ msgid "Rotate scan"
+#~ msgstr "Повернуть скан"
+
+#~ msgid "Register scan"
+#~ msgstr "Зарегистрировать скан"
+
+#~ msgid "Import scan"
+#~ msgstr "Импортировать скан"
+
+#~ msgid "Scanner"
+#~ msgstr "Сканер"
+
+#, c++-format
+#~ msgid "{} runtime not loaded:"
+#~ msgstr "Среда выполнения {} не загружена:"
+
+#~ msgid "SDK Path"
+#~ msgstr "Путь к SDK"
+
+#~ msgid "Click and drag to draw the clip plane"
+#~ msgstr "Нажмите и перетащите, чтобы нарисовать плоскость обрезки"
+
+#~ msgid "Clip scans by plane"
+#~ msgstr "Обрезать сканы по плоскости"
+
+#~ msgid "Auto rotate"
+#~ msgstr "Автоповорот"
+
+#~ msgid "Pivot"
+#~ msgstr "Центр вращения"
+
+#~ msgid "To center"
+#~ msgstr "В центр"
+
+#~ msgid "Align axis in the scans center"
+#~ msgstr "Выровнять ось по центру сканов"
+
+#~ msgid "To camera"
+#~ msgstr "К камере"
+
+#~ msgid "Orient axis to current camera direction"
+#~ msgstr "Ориентировать ось по текущему направлению камеры"
+
+#~ msgid "Picking..."
+#~ msgstr "Выбор..."
+
+#~ msgid "Pick a point from scene (hold Shift to set direction)"
+#~ msgstr ""
+#~ "Выберите точку в сцене (удерживайте Shift, чтобы задать направление)"
+
+#~ msgid "Save rotation parameters"
+#~ msgstr "Сохранить параметры вращения"
+
+#~ msgid "Registration"
+#~ msgstr "Регистрация"
+
+#~ msgid "Auto register"
+#~ msgstr "Авторегистрация"
+
+#~ msgid "Automatically align a new scan to previous scans"
+#~ msgstr "Автоматически выравнивать новый скан по предыдущим сканам"
+
+#~ msgid "ICP Parameters"
+#~ msgstr "Параметры ICP"
+
+#~ msgid "Preview window popped out"
+#~ msgstr "Окно предпросмотра откреплено"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Pop Out"
+#~ msgstr "Открепить"
+
+#~ msgid "Save defaults"
+#~ msgstr "Сохранить по умолчанию"
+
+#~ msgid "Save scanner and processing parameters as default"
+#~ msgstr "Сохранить параметры сканера и обработки как параметры по умолчанию"
+
+#~ msgid "Rot/Reg"
+#~ msgstr "Пов./Рег."
+
+#~ msgid "Current Scan"
+#~ msgstr "Текущий скан"
+
+#~ msgid "tooltip"
+#~ msgstr "подсказка"
+
+#~ msgid "title"
+#~ msgstr "заголовок"
+
+#~ msgid "status"
+#~ msgstr "статус"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Capture"
+#~ msgstr "Снимок"
+
+#~ msgid "Scan and create 3D (Press Space)"
+#~ msgstr "Сканировать и создать 3D (нажмите пробел)"
+
+#~ msgid "Stop"
+#~ msgstr "Остановить"
+
+#~ msgid "Live"
+#~ msgstr "В реальном времени"
+
+#~ msgid "Live + 3D"
+#~ msgstr "В реальном времени + 3D"
+
+#~ msgid "Capture frame"
+#~ msgstr "Захватить кадр"
+
+#~ msgid "Disconnect"
+#~ msgstr "Отключиться"
+
+#~ msgid "Connect"
+#~ msgstr "Подключиться"
 
 #, c-format
 #~ msgid ""

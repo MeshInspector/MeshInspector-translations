@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -191,6 +191,7 @@ msgstr ""
 "남은 자유도: {}. 이를 고정하려면 로케이터 또는 클로킹 쌍을 추가하십시오."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:768
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
 #: source/MRViewer/MRRibbonMenu.cpp:2103
 msgid "Apply"
@@ -251,6 +252,206 @@ msgstr "선택된 객체"
 #: source/MRCommonPlugins/Basic/MRObjectInfo.cpp:41
 msgid "No object selected"
 msgstr "선택된 객체 없음"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:63
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:72
+msgid "Clip Scan by Plane"
+msgstr "평면으로 스캔 클립"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:246
+msgid "No scanner backend is registered"
+msgstr "등록된 스캐너 백엔드가 없습니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:463
+msgid "Rotate scan"
+msgstr "스캔 회전"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:537
+msgid "Register scan"
+msgstr "스캔 정합"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:564
+msgid "Import scan"
+msgstr "스캔 가져오기"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:709
+msgid "Scanner"
+msgstr "스캐너"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:717
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr "{} 런타임을 불러오지 않았습니다:"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:719
+msgid "Cancelled"
+msgstr "취소됨"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:725
+msgid "SDK Path"
+msgstr "SDK 경로"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:755
+msgid "Click and drag to draw the clip plane"
+msgstr "클릭하고 드래그하여 절단 평면을 그립니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:761
+#: source/MRViewer/ImGuiHelpers.cpp:1608
+msgid "Show Plane"
+msgstr "평면 표시"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:765
+msgid "Clear"
+msgstr "지우기"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
+msgid "Clip scans by plane"
+msgstr "평면으로 스캔 자르기"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
+#: source/MRViewer/MRMouse.h:33
+msgid "Rotation"
+msgstr "회전"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:781
+msgid "Auto rotate"
+msgstr "자동 회전"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:794
+#: source/MRMesh/MRAngleMeasurementObject.h:21
+#: source/MRViewer/ImGuiMenu.cpp:1843
+msgid "Angle"
+msgstr "각도"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:797
+msgid "Pivot"
+msgstr "피벗"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:803
+msgid "To center"
+msgstr "중심으로"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:809
+msgid "Align axis in the scans center"
+msgstr "스캔 중심에 축을 정렬합니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:810
+msgid "Axis"
+msgstr "축"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:813
+msgid "To camera"
+msgstr "카메라로"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:822
+msgid "Orient axis to current camera direction"
+msgstr "현재 카메라 방향으로 축 방향을 설정합니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
+msgid "Pick"
+msgstr "선택"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
+msgid "Picking..."
+msgstr "선택 중..."
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr ""
+"장면에서 포인트를 선택합니다 (방향을 설정하려면 Shift 키를 누른 채로 선택)"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
+#: source/MRViewer/ImGuiMenu.cpp:1057
+#: source/MRViewer/MRUISaveChangesPopup.cpp:47
+msgid "Save"
+msgstr "저장"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:831
+msgid "Save rotation parameters"
+msgstr "회전 매개변수 저장"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:834
+msgid "Registration"
+msgstr "정합"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:835
+msgid "Auto register"
+msgstr "자동 정합"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:836
+msgid "Automatically align a new scan to previous scans"
+msgstr "새 스캔을 이전 스캔에 자동으로 정렬합니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:837
+msgid "Try RANSAC initial position"
+msgstr "RANSAC 초기 위치 시도"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:838
+msgid ""
+"Also align a new scan from any position by matching shape descriptors "
+"(RANSAC), then ICP from that position, and keep that pose if it has more "
+"than a quarter more samples within Sampling Spacing of the other surface "
+"than ICP alone. Needs normals and the Rigid Body or Rigid + Scale "
+"Transformation"
+msgstr ""
+"형상 디스크립터 매칭(RANSAC)으로 임의의 위치에서도 새 스캔을 정렬한 다음 그 "
+"위치에서 ICP를 수행하고, 다른 표면으로부터 샘플링 간격 이내에 있는 샘플이 ICP"
+"만 수행했을 때보다 4분의 1 이상 많으면 해당 자세를 유지합니다. 법선과 Rigid "
+"Body 또는 Rigid + Scale 변환이 필요합니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:841
+msgid "ICP Parameters"
+msgstr "ICP 매개변수"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:861
+msgid "Preview"
+msgstr "미리보기"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:866
+msgid "Preview window popped out"
+msgstr "미리보기 창이 분리되었습니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:868
+#: source/MRViewer/MRRibbonMenu.cpp:981
+#: source/MRViewer/MRUISaveChangesPopup.h:18
+msgid "Close"
+msgstr "닫기"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:881
+msgid "Pop Out"
+msgstr "창 분리"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:933
+msgid "Parameters"
+msgstr "매개변수"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:939
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
+#: source/MRViewer/ImGuiMenu.cpp:965 source/MRViewer/MRRibbonMenu.cpp:2110
+msgid "Reset"
+msgstr "재설정"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:946
+msgid "Save defaults"
+msgstr "기본값 저장"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:951
+msgid "Save scanner and processing parameters as default"
+msgstr "스캐너 및 처리 매개변수를 기본값으로 저장합니다"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:956
+msgid "Clip Plane"
+msgstr "클립 평면"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:970
+msgid "Rot/Reg"
+msgstr "회전/정합"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:978
+msgid "Current Scan"
+msgstr "현재 스캔"
 
 #: source/MRCommonPlugins/Basic/MRShowGlobalBasis.cpp:113
 msgid "Basis: hide basis and grid"
@@ -338,12 +539,6 @@ msgstr "파일이 이미 존재합니다"
 #, c++-format
 msgid "Theme with name {} already exists, override it?"
 msgstr "{} 이라는 이름의 테마가 이미 존재합니다. 덮어쓰시겠습니까?"
-
-#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
-#: source/MRViewer/ImGuiMenu.cpp:1057
-#: source/MRViewer/MRUISaveChangesPopup.cpp:47
-msgid "Save"
-msgstr "저장"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1098
@@ -448,6 +643,8 @@ msgid "Hide scene overlays"
 msgstr "장면 오버레이 숨기기"
 
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:911
+#: source/MRViewer/MRScannerSchemaUi.cpp:208
+#: source/MRViewer/MRScannerSchemaUi.cpp:211
 msgid "Capture"
 msgstr "캡처"
 
@@ -814,10 +1011,6 @@ msgstr "장면 중심"
 msgid "Pick / Scene Center"
 msgstr "선택 / 장면 중심"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
-msgid "Pick"
-msgstr "선택"
-
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:547
 msgid "Show Axes"
 msgstr "축 표시"
@@ -1117,11 +1310,6 @@ msgstr "설정 재설정"
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1082
 msgid "Reset all application settings?"
 msgstr "모든 애플리케이션 설정을 재설정할까요?"
-
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
-#: source/MRViewer/ImGuiMenu.cpp:965 source/MRViewer/MRRibbonMenu.cpp:2110
-msgid "Reset"
-msgstr "재설정"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1110
 msgid "Auto Detect"
@@ -1493,11 +1681,6 @@ msgstr ""
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"
 msgstr "TIFF에서 복셀 열기"
-
-#: source/MRMesh/MRAngleMeasurementObject.h:21
-#: source/MRViewer/ImGuiMenu.cpp:1843
-msgid "Angle"
-msgstr "각도"
 
 #: source/MRMesh/MRAngleMeasurementObject.h:24
 msgid "Angles"
@@ -2087,10 +2270,6 @@ msgstr "장면의 평면 객체를 클릭하여 매개변수를 가져옵니다"
 msgid "Normal"
 msgstr "법선"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1608
-msgid "Show Plane"
-msgstr "평면 표시"
-
 #: source/MRViewer/ImGuiMenu.cpp:143
 msgid "Point Array Size"
 msgstr "포인트 배열 크기"
@@ -2229,7 +2408,7 @@ msgstr "선택 속성"
 msgid "Draw Options"
 msgstr "그리기 옵션"
 
-#: source/MRViewer/ImGuiMenu.cpp:1356
+#: source/MRViewer/ImGuiMenu.cpp:1356 source/MRViewer/MRICPDialog.cpp:191
 msgid "Information"
 msgstr "정보"
 
@@ -2694,6 +2873,184 @@ msgstr "단축키 목록"
 msgid "Open {}"
 msgstr "{} 열기"
 
+#: source/MRViewer/MRICPDialog.cpp:23
+msgid "Pairs Forming Settings"
+msgstr "쌍 형성 설정"
+
+#: source/MRViewer/MRICPDialog.cpp:35
+msgid "Register Whole Objects"
+msgstr "전체 객체 정합"
+
+#: source/MRViewer/MRICPDialog.cpp:37
+msgid ""
+"If selected then absolutely all point pairs between two objects will be "
+"considered during registration without filtering."
+msgstr ""
+"선택하면 정합 시 두 오브젝트 사이의 모든 점 쌍이 필터링 없이 고려됩니다."
+
+#: source/MRViewer/MRICPDialog.cpp:44
+msgid "Normals Max Angle"
+msgstr "법선 최대 각도"
+
+#: source/MRViewer/MRICPDialog.cpp:50
+msgid ""
+"A points pair is used only if the angle between the normals at the points is "
+"not larger than this value."
+msgstr ""
+"포인트의 법선 사이 각도가 이 값보다 크지 않은 경우에만 포인트 쌍이 사용됩니"
+"다."
+
+#: source/MRViewer/MRICPDialog.cpp:55
+msgid "Max Distance"
+msgstr "최대 거리"
+
+#: source/MRViewer/MRICPDialog.cpp:61
+msgid ""
+"A points pair is used only if the distance between two points is lower than "
+"this value."
+msgstr "두 포인트 사이의 거리가 이 값보다 낮을 때만 포인트 쌍이 사용됩니다."
+
+#: source/MRViewer/MRICPDialog.cpp:65
+msgid "Far Distance Factor"
+msgstr "원거리 계수"
+
+#: source/MRViewer/MRICPDialog.cpp:69
+msgid ""
+"Points pair will be counted only if distance between points is lower than "
+"root-mean-square distance times this factor."
+msgstr ""
+"포인트 사이의 거리가 평균 제곱근 거리에 이 계수를 곱한 값보다 낮을 때만 포인"
+"트 쌍이 카운트됩니다."
+
+#: source/MRViewer/MRICPDialog.cpp:73
+msgid "Mutual Closest Points in Each Pair"
+msgstr "각 쌍의 상호 최근접 포인트"
+
+#: source/MRViewer/MRICPDialog.cpp:75
+msgid ""
+"A pair of points is formed only if both points in the pair are mutually "
+"closest (reciprocity test passed)."
+msgstr ""
+"쌍 내 두 포인트가 상호 가장 가까울 때만 (상호성 테스트 통과) 포인트 쌍이 형성"
+"됩니다."
+
+#: source/MRViewer/MRICPDialog.cpp:78
+msgid "Sampling Spacing"
+msgstr "샘플링 간격"
+
+#: source/MRViewer/MRICPDialog.cpp:83
+msgid ""
+"This value determines sampling voxel size to select only one point in each "
+"voxel."
+msgstr ""
+"이 값은 각 복셀에서 하나의 포인트만 선택하도록 샘플링 복셀 크기를 결정합니다."
+
+#: source/MRViewer/MRICPDialog.cpp:89
+msgid "Descriptor Spacing"
+msgstr "디스크립터 간격"
+
+#: source/MRViewer/MRICPDialog.cpp:91
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
+"자동 초기는 이 간격으로 추출한 샘플에서 계산된 형상 디스크립터로 객체를 매칭"
+"합니다. 간격이 작을수록 더 작은 세부 사항까지 포착하지만 시간이 더 오래 걸립"
+"니다."
+
+#: source/MRViewer/MRICPDialog.cpp:99
+msgid "Sample Target"
+msgstr "샘플 대상"
+
+#: source/MRViewer/MRICPDialog.cpp:106
+msgid "Select what object will be samples to form origins of point pairs."
+msgstr "포인트 쌍의 원점을 형성할 샘플이 될 객체를 선택합니다."
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Method"
+msgstr "방법"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Combined"
+msgstr "통합"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Point-to-Point"
+msgstr "포인트 대 포인트"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Point-to-Plane"
+msgstr "포인트 대 평면"
+
+#: source/MRViewer/MRICPDialog.cpp:111
+msgid "Select target function to minimize."
+msgstr "최소화할 대상 함수를 선택합니다."
+
+#: source/MRViewer/MRICPDialog.cpp:115 source/MRViewer/MRICPDialog.cpp:129
+msgid "Transformation"
+msgstr "변환"
+
+#: source/MRViewer/MRICPDialog.cpp:124
+msgid "Select what kind of transformations are searched for."
+msgstr "어떤 종류의 변환을 검색할지 선택합니다."
+
+#: source/MRViewer/MRICPDialog.cpp:141
+msgid "Fixed rotation axis"
+msgstr "고정 회전 축"
+
+#: source/MRViewer/MRICPDialog.cpp:145
+msgid "Allowed rotation axis"
+msgstr "허용 회전 축"
+
+#: source/MRViewer/MRICPDialog.cpp:164
+msgid "Stop Conditions"
+msgstr "정지 조건"
+
+#: source/MRViewer/MRICPDialog.cpp:172
+msgid "Max Iterations"
+msgstr "최대 반복 횟수"
+
+#: source/MRViewer/MRICPDialog.cpp:174
+msgid "Maximal possible number of ICP iterations."
+msgstr "가능한 최대 ICP 반복 횟수입니다."
+
+#: source/MRViewer/MRICPDialog.cpp:176
+msgid "No Improvement Iterations"
+msgstr "개선 없는 반복 횟수"
+
+#: source/MRViewer/MRICPDialog.cpp:178
+msgid ""
+"Stop ICP iterations if during given number of last iterations there was no "
+"improvement."
+msgstr "마지막 지정된 반복 횟수 동안 개선이 없으면 ICP 반복을 중지합니다."
+
+#: source/MRViewer/MRICPDialog.cpp:180
+msgid "Deviation Reached"
+msgstr "도달한 편차"
+
+#: source/MRViewer/MRICPDialog.cpp:182
+msgid ""
+"Algorithm target root-mean-square distance. As soon as it is reached, the "
+"algorithm stops."
+msgstr "알고리즘 대상 평균 제곱근 거리. 도달하면 알고리즘이 중지됩니다."
+
+#: source/MRViewer/MRICPDialog.cpp:197
+msgid "Samples"
+msgstr "샘플"
+
+#: source/MRViewer/MRICPDialog.cpp:198
+msgid "Active point pairs"
+msgstr "활성 포인트 쌍"
+
+#: source/MRViewer/MRICPDialog.cpp:201
+msgid "RMS point-to-point distance"
+msgstr "RMS 포인트 대 포인트 거리"
+
+#: source/MRViewer/MRICPDialog.cpp:202
+msgid "RMS point-to-plane distance"
+msgstr "RMS 포인트 대 평면 거리"
+
 #: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"
 msgstr "메시 경계 선택"
@@ -2701,10 +3058,6 @@ msgstr "메시 경계 선택"
 #: source/MRViewer/MRModalDialog.cpp:77
 msgid "Do not show this message again"
 msgstr "이 메시지를 다시 표시하지 않기"
-
-#: source/MRViewer/MRMouse.h:33
-msgid "Rotation"
-msgstr "회전"
 
 #: source/MRViewer/MRMouse.h:35
 msgid "Roll"
@@ -2753,11 +3106,6 @@ msgstr "언어 변경"
 #: source/MRViewer/MRRibbonMenu.cpp:960
 msgid "Focus"
 msgstr "포커스"
-
-#: source/MRViewer/MRRibbonMenu.cpp:981
-#: source/MRViewer/MRUISaveChangesPopup.h:18
-msgid "Close"
-msgstr "닫기"
 
 #: source/MRViewer/MRRibbonMenu.cpp:1042 source/MRViewer/MRRibbonMenu.cpp:1049
 msgid "Group"
@@ -2956,6 +3304,38 @@ msgstr "저장하지 않고 애플리케이션 닫기"
 #: source/MRViewer/MRSaveOnClose.cpp:73
 msgid "Do not close the application"
 msgstr "애플리케이션을 닫지 않기"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:157
+msgid "File"
+msgstr "파일"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:214
+msgid "Scan and create 3D (Press Space)"
+msgstr "스캔 및 3D 생성 (Space 키)"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:220
+msgid "Stop"
+msgstr "중지"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:225
+msgid "Live"
+msgstr "라이브"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:228
+msgid "Live + 3D"
+msgstr "라이브 + 3D"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:231
+msgid "Capture frame"
+msgstr "프레임 캡처"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:240
+msgid "Disconnect"
+msgstr "연결 해제"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:246
+msgid "Connect"
+msgstr "연결"
 
 #: source/MRViewer/MRSceneMcp.cpp:259
 msgid "MCP setObjectState"

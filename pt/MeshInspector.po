@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2086,156 +2086,6 @@ msgstr "Tipo de objeto de referência não suportado"
 msgid "Add measurements holder"
 msgstr "Adicionar contentor de medições"
 
-msgid "Pairs Forming Settings"
-msgstr "Definições de Formação de Pares"
-
-msgid "Register Whole Objects"
-msgstr "Registrar objetos inteiros"
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr ""
-"Se selecionado, durante o registro serão considerados absolutamente todos os "
-"pares de pontos entre dois objetos sem filtragem."
-
-msgid "Normals Max Angle"
-msgstr "Ângulo Máximo das Normais"
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr ""
-"Um par de pontos só é usado se o ângulo entre as normais nos pontos não for "
-"superior a este valor."
-
-msgid "Max Distance"
-msgstr "Distância Máxima"
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr ""
-"Um par de pontos só é usado se a distância entre os dois pontos for inferior "
-"a este valor."
-
-msgid "Far Distance Factor"
-msgstr "Fator de Distância Longe"
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr ""
-"Um par de pontos só é contado se a distância entre os pontos for inferior à "
-"distância quadrática média multiplicada por este fator."
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr "Pontos Mutuamente Mais Próximos em Cada Par"
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr ""
-"Um par de pontos é formado apenas se ambos os pontos no par forem mutuamente "
-"mais próximos (teste de reciprocidade aprovado)."
-
-msgid "Sampling Spacing"
-msgstr "Espaçamento de Amostragem"
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr ""
-"Este valor determina o tamanho do voxel de amostragem para selecionar apenas "
-"um ponto em cada voxel."
-
-msgid "Descriptor Spacing"
-msgstr "Espaçamento de Descritores"
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-"Inicial Automático faz corresponder os objetos através de descritores de "
-"forma calculados em amostras com este espaçamento. Um espaçamento menor "
-"capta detalhes mais pequenos, mas demora mais."
-
-msgid "Sample Target"
-msgstr "Alvo de Amostragem"
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr ""
-"Selecione qual objeto será amostrado para formar origens de pares de pontos."
-
-msgid "Combined"
-msgstr "Combinado"
-
-msgid "Point-to-Point"
-msgstr "Ponto-a-Ponto"
-
-msgid "Point-to-Plane"
-msgstr "Ponto-a-Plano"
-
-msgid "Select target function to minimize."
-msgstr "Selecionar função alvo a minimizar."
-
-msgid "Transformation"
-msgstr "Transformação"
-
-msgid "Select what kind of transformations are searched for."
-msgstr "Selecionar que tipo de transformações são procuradas."
-
-msgid "Fixed rotation axis"
-msgstr "Eixo de rotação fixo"
-
-msgid "Allowed rotation axis"
-msgstr "Eixo de rotação permitido"
-
-msgid "Stop Conditions"
-msgstr "Condições de Paragem"
-
-msgid "Max Iterations"
-msgstr "Iterações Máximas"
-
-msgid "Maximal possible number of ICP iterations."
-msgstr "Número máximo possível de iterações ICP."
-
-msgid "No Improvement Iterations"
-msgstr "Iterações Sem Melhoria"
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr ""
-"Parar iterações ICP se durante o número indicado de últimas iterações não "
-"houve melhoria."
-
-msgid "Deviation Reached"
-msgstr "Desvio Atingido"
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr ""
-"Distância quadrática média alvo do algoritmo. Assim que for atingida, o "
-"algoritmo para."
-
-msgid "Information"
-msgstr "Informação"
-
-msgid "Samples"
-msgstr "Amostras"
-
-msgid "Active point pairs"
-msgstr "Pares de pontos ativos"
-
-msgid "RMS point-to-point distance"
-msgstr "Distância RMS ponto-a-ponto"
-
-msgid "RMS point-to-plane distance"
-msgstr "Distância RMS ponto-a-plano"
-
 msgid "Approx. Density"
 msgstr "Densidade Aprox."
 
@@ -2753,6 +2603,9 @@ msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
 msgstr ""
 "Ângulo máximo entre a normal do modelo de origem e a normal da característica"
+
+msgid "Max Iterations"
+msgstr "Iterações Máximas"
 
 msgid ""
 "Maximum amount of iterations performed until a stable set of points is found"
@@ -3992,6 +3845,9 @@ msgstr ""
 "Não existe caminho entre os pontos atuais. Os pontos estão em componentes "
 "conectados diferentes"
 
+msgid "Information"
+msgstr "Informação"
+
 msgid "Control Points"
 msgstr "Pontos de Controlo"
 
@@ -4026,6 +3882,9 @@ msgid ""
 msgstr ""
 "Se selecionado, mostra o caminho geodésico que conecta os pontos de controlo "
 "juntamente com o spline."
+
+msgid "Max Distance"
+msgstr "Distância Máxima"
 
 msgid "Maximum distance between geodesic path points and spline points."
 msgstr "Distância máxima entre pontos do caminho geodésico e pontos do spline."
@@ -7688,6 +7547,18 @@ msgstr "ID do Objeto"
 msgid "Summary"
 msgstr "Resumo"
 
+msgid "Samples"
+msgstr "Amostras"
+
+msgid "Active point pairs"
+msgstr "Pares de pontos ativos"
+
+msgid "RMS point-to-point distance"
+msgstr "Distância RMS ponto-a-ponto"
+
+msgid "RMS point-to-plane distance"
+msgstr "Distância RMS ponto-a-plano"
+
 msgid "Deviation Map"
 msgstr "Mapa de Desvio"
 
@@ -10001,97 +9872,6 @@ msgstr ""
 msgid "Voxels to Mesh"
 msgstr "Voxels para Malha"
 
-msgid "Clip Scan by Plane"
-msgstr "Recortar digitalização por plano"
-
-msgid "Rotate scan"
-msgstr "Rodar digitalização"
-
-msgid "Register scan"
-msgstr "Registar digitalização"
-
-msgid "Import scan"
-msgstr "Importar digitalização"
-
-msgid "Scanner"
-msgstr "Scanner"
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr "Runtime {} não carregado:"
-
-msgid "SDK Path"
-msgstr "Caminho do SDK"
-
-msgid "Click and drag to draw the clip plane"
-msgstr "Clique e arraste para desenhar o plano de recorte"
-
-msgid "Clip scans by plane"
-msgstr "Recortar digitalizações pelo plano"
-
-msgid "Auto rotate"
-msgstr "Rotação automática"
-
-msgid "Pivot"
-msgstr "Pivô"
-
-msgid "To center"
-msgstr "Para o centro"
-
-msgid "Align axis in the scans center"
-msgstr "Alinhar o eixo no centro das digitalizações"
-
-msgid "To camera"
-msgstr "Para a câmara"
-
-msgid "Orient axis to current camera direction"
-msgstr "Orientar o eixo para a direção atual da câmara"
-
-msgid "Picking..."
-msgstr "A selecionar..."
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr ""
-"Selecione um ponto da cena (mantenha Shift premido para definir a direção)"
-
-msgid "Save rotation parameters"
-msgstr "Guardar parâmetros de rotação"
-
-msgid "Registration"
-msgstr "Registo"
-
-msgid "Auto register"
-msgstr "Registo automático"
-
-msgid "Automatically align a new scan to previous scans"
-msgstr ""
-"Alinhar automaticamente uma nova digitalização com as digitalizações "
-"anteriores"
-
-msgid "ICP Parameters"
-msgstr "Parâmetros ICP"
-
-msgid "Preview window popped out"
-msgstr "Janela de pré-visualização destacada"
-
-msgid "Close"
-msgstr "Fechar"
-
-msgid "Pop Out"
-msgstr "Destacar"
-
-msgid "Save defaults"
-msgstr "Guardar predefinições"
-
-msgid "Save scanner and processing parameters as default"
-msgstr "Guardar os parâmetros do scanner e de processamento como predefinição"
-
-msgid "Rot/Reg"
-msgstr "Rot/Reg"
-
-msgid "Current Scan"
-msgstr "Digitalização Atual"
-
 msgid "Unloaded. Please restart the application."
 msgstr "Descarregado. Por favor reinicie a aplicação."
 
@@ -10247,42 +10027,6 @@ msgstr "Descarregar"
 msgid "Failed to capture images"
 msgstr "Falha ao capturar imagens"
 
-msgid "tooltip"
-msgstr "dica"
-
-msgid "title"
-msgstr "título"
-
-msgid "status"
-msgstr "estado"
-
-msgid "File"
-msgstr "Ficheiro"
-
-msgid "Capture"
-msgstr "Capturar"
-
-msgid "Scan and create 3D (Press Space)"
-msgstr "Digitalizar e criar 3D (Prima Espaço)"
-
-msgid "Stop"
-msgstr "Parar"
-
-msgid "Live"
-msgstr "Ao vivo"
-
-msgid "Live + 3D"
-msgstr "Ao vivo + 3D"
-
-msgid "Capture frame"
-msgstr "Capturar frame"
-
-msgid "Disconnect"
-msgstr "Desconectar"
-
-msgid "Connect"
-msgstr "Conectar"
-
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
 "Defina a pasta de binários do SDK Zivid, por ex. \"C:\\Program "
@@ -10340,6 +10084,264 @@ msgstr ""
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Definições de captura Zivid (.yml)"
+
+#~ msgid "Pairs Forming Settings"
+#~ msgstr "Definições de Formação de Pares"
+
+#~ msgid "Register Whole Objects"
+#~ msgstr "Registrar objetos inteiros"
+
+#~ msgid ""
+#~ "If selected then absolutely all point pairs between two objects will be "
+#~ "considered during registration without filtering."
+#~ msgstr ""
+#~ "Se selecionado, durante o registro serão considerados absolutamente todos "
+#~ "os pares de pontos entre dois objetos sem filtragem."
+
+#~ msgid "Normals Max Angle"
+#~ msgstr "Ângulo Máximo das Normais"
+
+#~ msgid ""
+#~ "A points pair is used only if the angle between the normals at the points "
+#~ "is not larger than this value."
+#~ msgstr ""
+#~ "Um par de pontos só é usado se o ângulo entre as normais nos pontos não "
+#~ "for superior a este valor."
+
+#~ msgid ""
+#~ "A points pair is used only if the distance between two points is lower "
+#~ "than this value."
+#~ msgstr ""
+#~ "Um par de pontos só é usado se a distância entre os dois pontos for "
+#~ "inferior a este valor."
+
+#~ msgid "Far Distance Factor"
+#~ msgstr "Fator de Distância Longe"
+
+#~ msgid ""
+#~ "Points pair will be counted only if distance between points is lower than "
+#~ "root-mean-square distance times this factor."
+#~ msgstr ""
+#~ "Um par de pontos só é contado se a distância entre os pontos for inferior "
+#~ "à distância quadrática média multiplicada por este fator."
+
+#~ msgid "Mutual Closest Points in Each Pair"
+#~ msgstr "Pontos Mutuamente Mais Próximos em Cada Par"
+
+#~ msgid ""
+#~ "A pair of points is formed only if both points in the pair are mutually "
+#~ "closest (reciprocity test passed)."
+#~ msgstr ""
+#~ "Um par de pontos é formado apenas se ambos os pontos no par forem "
+#~ "mutuamente mais próximos (teste de reciprocidade aprovado)."
+
+#~ msgid "Sampling Spacing"
+#~ msgstr "Espaçamento de Amostragem"
+
+#~ msgid ""
+#~ "This value determines sampling voxel size to select only one point in "
+#~ "each voxel."
+#~ msgstr ""
+#~ "Este valor determina o tamanho do voxel de amostragem para selecionar "
+#~ "apenas um ponto em cada voxel."
+
+#~ msgid "Descriptor Spacing"
+#~ msgstr "Espaçamento de Descritores"
+
+#~ msgid ""
+#~ "Auto Initial matches the objects by shape descriptors computed on samples "
+#~ "with this spacing. Smaller spacing captures smaller details, but takes "
+#~ "longer."
+#~ msgstr ""
+#~ "Inicial Automático faz corresponder os objetos através de descritores de "
+#~ "forma calculados em amostras com este espaçamento. Um espaçamento menor "
+#~ "capta detalhes mais pequenos, mas demora mais."
+
+#~ msgid "Sample Target"
+#~ msgstr "Alvo de Amostragem"
+
+#~ msgid "Select what object will be samples to form origins of point pairs."
+#~ msgstr ""
+#~ "Selecione qual objeto será amostrado para formar origens de pares de "
+#~ "pontos."
+
+#~ msgid "Combined"
+#~ msgstr "Combinado"
+
+#~ msgid "Point-to-Point"
+#~ msgstr "Ponto-a-Ponto"
+
+#~ msgid "Point-to-Plane"
+#~ msgstr "Ponto-a-Plano"
+
+#~ msgid "Select target function to minimize."
+#~ msgstr "Selecionar função alvo a minimizar."
+
+#~ msgid "Transformation"
+#~ msgstr "Transformação"
+
+#~ msgid "Select what kind of transformations are searched for."
+#~ msgstr "Selecionar que tipo de transformações são procuradas."
+
+#~ msgid "Fixed rotation axis"
+#~ msgstr "Eixo de rotação fixo"
+
+#~ msgid "Allowed rotation axis"
+#~ msgstr "Eixo de rotação permitido"
+
+#~ msgid "Stop Conditions"
+#~ msgstr "Condições de Paragem"
+
+#~ msgid "Maximal possible number of ICP iterations."
+#~ msgstr "Número máximo possível de iterações ICP."
+
+#~ msgid "No Improvement Iterations"
+#~ msgstr "Iterações Sem Melhoria"
+
+#~ msgid ""
+#~ "Stop ICP iterations if during given number of last iterations there was "
+#~ "no improvement."
+#~ msgstr ""
+#~ "Parar iterações ICP se durante o número indicado de últimas iterações não "
+#~ "houve melhoria."
+
+#~ msgid "Deviation Reached"
+#~ msgstr "Desvio Atingido"
+
+#~ msgid ""
+#~ "Algorithm target root-mean-square distance. As soon as it is reached, the "
+#~ "algorithm stops."
+#~ msgstr ""
+#~ "Distância quadrática média alvo do algoritmo. Assim que for atingida, o "
+#~ "algoritmo para."
+
+#~ msgid "Clip Scan by Plane"
+#~ msgstr "Recortar digitalização por plano"
+
+#~ msgid "Rotate scan"
+#~ msgstr "Rodar digitalização"
+
+#~ msgid "Register scan"
+#~ msgstr "Registar digitalização"
+
+#~ msgid "Import scan"
+#~ msgstr "Importar digitalização"
+
+#~ msgid "Scanner"
+#~ msgstr "Scanner"
+
+#, c++-format
+#~ msgid "{} runtime not loaded:"
+#~ msgstr "Runtime {} não carregado:"
+
+#~ msgid "SDK Path"
+#~ msgstr "Caminho do SDK"
+
+#~ msgid "Click and drag to draw the clip plane"
+#~ msgstr "Clique e arraste para desenhar o plano de recorte"
+
+#~ msgid "Clip scans by plane"
+#~ msgstr "Recortar digitalizações pelo plano"
+
+#~ msgid "Auto rotate"
+#~ msgstr "Rotação automática"
+
+#~ msgid "Pivot"
+#~ msgstr "Pivô"
+
+#~ msgid "To center"
+#~ msgstr "Para o centro"
+
+#~ msgid "Align axis in the scans center"
+#~ msgstr "Alinhar o eixo no centro das digitalizações"
+
+#~ msgid "To camera"
+#~ msgstr "Para a câmara"
+
+#~ msgid "Orient axis to current camera direction"
+#~ msgstr "Orientar o eixo para a direção atual da câmara"
+
+#~ msgid "Picking..."
+#~ msgstr "A selecionar..."
+
+#~ msgid "Pick a point from scene (hold Shift to set direction)"
+#~ msgstr ""
+#~ "Selecione um ponto da cena (mantenha Shift premido para definir a direção)"
+
+#~ msgid "Save rotation parameters"
+#~ msgstr "Guardar parâmetros de rotação"
+
+#~ msgid "Registration"
+#~ msgstr "Registo"
+
+#~ msgid "Auto register"
+#~ msgstr "Registo automático"
+
+#~ msgid "Automatically align a new scan to previous scans"
+#~ msgstr ""
+#~ "Alinhar automaticamente uma nova digitalização com as digitalizações "
+#~ "anteriores"
+
+#~ msgid "ICP Parameters"
+#~ msgstr "Parâmetros ICP"
+
+#~ msgid "Preview window popped out"
+#~ msgstr "Janela de pré-visualização destacada"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Pop Out"
+#~ msgstr "Destacar"
+
+#~ msgid "Save defaults"
+#~ msgstr "Guardar predefinições"
+
+#~ msgid "Save scanner and processing parameters as default"
+#~ msgstr ""
+#~ "Guardar os parâmetros do scanner e de processamento como predefinição"
+
+#~ msgid "Rot/Reg"
+#~ msgstr "Rot/Reg"
+
+#~ msgid "Current Scan"
+#~ msgstr "Digitalização Atual"
+
+#~ msgid "tooltip"
+#~ msgstr "dica"
+
+#~ msgid "title"
+#~ msgstr "título"
+
+#~ msgid "status"
+#~ msgstr "estado"
+
+#~ msgid "File"
+#~ msgstr "Ficheiro"
+
+#~ msgid "Capture"
+#~ msgstr "Capturar"
+
+#~ msgid "Scan and create 3D (Press Space)"
+#~ msgstr "Digitalizar e criar 3D (Prima Espaço)"
+
+#~ msgid "Stop"
+#~ msgstr "Parar"
+
+#~ msgid "Live"
+#~ msgstr "Ao vivo"
+
+#~ msgid "Live + 3D"
+#~ msgstr "Ao vivo + 3D"
+
+#~ msgid "Capture frame"
+#~ msgstr "Capturar frame"
+
+#~ msgid "Disconnect"
+#~ msgstr "Desconectar"
+
+#~ msgid "Connect"
+#~ msgstr "Conectar"
 
 #, c-format
 #~ msgid ""

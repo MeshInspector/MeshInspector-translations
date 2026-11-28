@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshLib\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -191,6 +191,7 @@ msgstr ""
 "orientação angular para os fixar."
 
 #: source/MRCommonPlugins/Basic/MRFeatureAlignment.cpp:140
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:768
 #: source/MRCommonPlugins/Voxels/MRBinaryOperationsPlugin.cpp:106
 #: source/MRViewer/MRRibbonMenu.cpp:2103
 msgid "Apply"
@@ -251,6 +252,209 @@ msgstr "Objeto selecionado"
 #: source/MRCommonPlugins/Basic/MRObjectInfo.cpp:41
 msgid "No object selected"
 msgstr "Nenhum objeto selecionado"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:63
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:72
+msgid "Clip Scan by Plane"
+msgstr "Recortar digitalização por plano"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:246
+msgid "No scanner backend is registered"
+msgstr "Nenhum backend de scanner está registado"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:463
+msgid "Rotate scan"
+msgstr "Rodar digitalização"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:537
+msgid "Register scan"
+msgstr "Registar digitalização"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:564
+msgid "Import scan"
+msgstr "Importar digitalização"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:709
+msgid "Scanner"
+msgstr "Scanner"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:717
+#, c++-format
+msgid "{} runtime not loaded:"
+msgstr "Runtime {} não carregado:"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:719
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:725
+msgid "SDK Path"
+msgstr "Caminho do SDK"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:755
+msgid "Click and drag to draw the clip plane"
+msgstr "Clique e arraste para desenhar o plano de recorte"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:761
+#: source/MRViewer/ImGuiHelpers.cpp:1608
+msgid "Show Plane"
+msgstr "Mostrar plano"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:765
+msgid "Clear"
+msgstr "Limpar"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
+msgid "Clip scans by plane"
+msgstr "Recortar digitalizações pelo plano"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
+#: source/MRViewer/MRMouse.h:33
+msgid "Rotation"
+msgstr "Rotação"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:781
+msgid "Auto rotate"
+msgstr "Rotação automática"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:794
+#: source/MRMesh/MRAngleMeasurementObject.h:21
+#: source/MRViewer/ImGuiMenu.cpp:1843
+msgid "Angle"
+msgstr "Ângulo"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:797
+msgid "Pivot"
+msgstr "Pivô"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:803
+msgid "To center"
+msgstr "Para o centro"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:809
+msgid "Align axis in the scans center"
+msgstr "Alinhar o eixo no centro das digitalizações"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:810
+msgid "Axis"
+msgstr "Eixo"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:813
+msgid "To camera"
+msgstr "Para a câmara"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:822
+msgid "Orient axis to current camera direction"
+msgstr "Orientar o eixo para a direção atual da câmara"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
+msgid "Pick"
+msgstr "Pick"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
+msgid "Picking..."
+msgstr "A selecionar..."
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
+msgid "Pick a point from scene (hold Shift to set direction)"
+msgstr ""
+"Selecione um ponto da cena (mantenha Shift premido para definir a direção)"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
+#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
+#: source/MRViewer/ImGuiMenu.cpp:1057
+#: source/MRViewer/MRUISaveChangesPopup.cpp:47
+msgid "Save"
+msgstr "Guardar"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:831
+msgid "Save rotation parameters"
+msgstr "Guardar parâmetros de rotação"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:834
+msgid "Registration"
+msgstr "Registo"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:835
+msgid "Auto register"
+msgstr "Registo automático"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:836
+msgid "Automatically align a new scan to previous scans"
+msgstr ""
+"Alinhar automaticamente uma nova digitalização com as digitalizações "
+"anteriores"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:837
+msgid "Try RANSAC initial position"
+msgstr "Tentar posição inicial RANSAC"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:838
+msgid ""
+"Also align a new scan from any position by matching shape descriptors "
+"(RANSAC), then ICP from that position, and keep that pose if it has more "
+"than a quarter more samples within Sampling Spacing of the other surface "
+"than ICP alone. Needs normals and the Rigid Body or Rigid + Scale "
+"Transformation"
+msgstr ""
+"Alinha também um novo varrimento a partir de qualquer posição, fazendo "
+"corresponder descritores de forma (RANSAC), seguido de ICP a partir dessa "
+"posição, e mantém essa pose se tiver mais de um quarto a mais de amostras "
+"dentro do Espaçamento de Amostragem da outra superfície do que apenas com "
+"ICP. Requer normais e a Transformação Rigid Body ou Rigid + Scale"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:841
+msgid "ICP Parameters"
+msgstr "Parâmetros ICP"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:861
+msgid "Preview"
+msgstr "Pré-visualização"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:866
+msgid "Preview window popped out"
+msgstr "Janela de pré-visualização destacada"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:868
+#: source/MRViewer/MRRibbonMenu.cpp:981
+#: source/MRViewer/MRUISaveChangesPopup.h:18
+msgid "Close"
+msgstr "Fechar"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:881
+msgid "Pop Out"
+msgstr "Destacar"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:933
+msgid "Parameters"
+msgstr "Parâmetros"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:939
+#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
+#: source/MRViewer/ImGuiMenu.cpp:965 source/MRViewer/MRRibbonMenu.cpp:2110
+msgid "Reset"
+msgstr "Repor"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:946
+msgid "Save defaults"
+msgstr "Guardar predefinições"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:951
+msgid "Save scanner and processing parameters as default"
+msgstr "Guardar os parâmetros do scanner e de processamento como predefinição"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:956
+msgid "Clip Plane"
+msgstr "Plano de Recorte"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:970
+msgid "Rot/Reg"
+msgstr "Rot/Reg"
+
+#: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:978
+msgid "Current Scan"
+msgstr "Digitalização Atual"
 
 #: source/MRCommonPlugins/Basic/MRShowGlobalBasis.cpp:113
 msgid "Basis: hide basis and grid"
@@ -338,12 +542,6 @@ msgstr "O ficheiro já existe"
 #, c++-format
 msgid "Theme with name {} already exists, override it?"
 msgstr "Já existe um tema com o nome {}, substituir?"
-
-#: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
-#: source/MRViewer/ImGuiMenu.cpp:1057
-#: source/MRViewer/MRUISaveChangesPopup.cpp:47
-msgid "Save"
-msgstr "Guardar"
 
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:130
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1098
@@ -450,6 +648,8 @@ msgid "Hide scene overlays"
 msgstr "Ocultar sobreposições da cena"
 
 #: source/MRCommonPlugins/ViewerButtons/MRIOFilesMenuItems.cpp:911
+#: source/MRViewer/MRScannerSchemaUi.cpp:208
+#: source/MRViewer/MRScannerSchemaUi.cpp:211
 msgid "Capture"
 msgstr "Capturar"
 
@@ -822,10 +1022,6 @@ msgstr "Centro da cena"
 msgid "Pick / Scene Center"
 msgstr "Pick / Centro da cena"
 
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
-msgid "Pick"
-msgstr "Pick"
-
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:547
 msgid "Show Axes"
 msgstr "Mostrar eixos"
@@ -1137,11 +1333,6 @@ msgstr "Reposição de definições"
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1082
 msgid "Reset all application settings?"
 msgstr "Repor todas as definições da aplicação?"
-
-#: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1092
-#: source/MRViewer/ImGuiMenu.cpp:965 source/MRViewer/MRRibbonMenu.cpp:2110
-msgid "Reset"
-msgstr "Repor"
 
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:1110
 msgid "Auto Detect"
@@ -1519,11 +1710,6 @@ msgstr ""
 #: source/MRCommonPlugins/Voxels/MROpenVoxelsFromTiffPlugin.cpp:113
 msgid "Open Voxels From TIFF"
 msgstr "Abrir voxels a partir de TIFF"
-
-#: source/MRMesh/MRAngleMeasurementObject.h:21
-#: source/MRViewer/ImGuiMenu.cpp:1843
-msgid "Angle"
-msgstr "Ângulo"
 
 #: source/MRMesh/MRAngleMeasurementObject.h:24
 msgid "Angles"
@@ -2114,10 +2300,6 @@ msgstr "Clique no objeto plano da cena para importar os seus parâmetros"
 msgid "Normal"
 msgstr "Normal"
 
-#: source/MRViewer/ImGuiHelpers.cpp:1608
-msgid "Show Plane"
-msgstr "Mostrar plano"
-
 #: source/MRViewer/ImGuiMenu.cpp:143
 msgid "Point Array Size"
 msgstr "Tamanho da matriz de pontos"
@@ -2256,7 +2438,7 @@ msgstr "Propriedades da seleção"
 msgid "Draw Options"
 msgstr "Opções de desenho"
 
-#: source/MRViewer/ImGuiMenu.cpp:1356
+#: source/MRViewer/ImGuiMenu.cpp:1356 source/MRViewer/MRICPDialog.cpp:191
 msgid "Information"
 msgstr "Informações"
 
@@ -2735,6 +2917,193 @@ msgstr "Lista de atalhos"
 msgid "Open {}"
 msgstr "Abrir {}"
 
+#: source/MRViewer/MRICPDialog.cpp:23
+msgid "Pairs Forming Settings"
+msgstr "Definições de Formação de Pares"
+
+#: source/MRViewer/MRICPDialog.cpp:35
+msgid "Register Whole Objects"
+msgstr "Registrar objetos inteiros"
+
+#: source/MRViewer/MRICPDialog.cpp:37
+msgid ""
+"If selected then absolutely all point pairs between two objects will be "
+"considered during registration without filtering."
+msgstr ""
+"Se selecionado, durante o registro serão considerados absolutamente todos os "
+"pares de pontos entre dois objetos sem filtragem."
+
+#: source/MRViewer/MRICPDialog.cpp:44
+msgid "Normals Max Angle"
+msgstr "Ângulo Máximo das Normais"
+
+#: source/MRViewer/MRICPDialog.cpp:50
+msgid ""
+"A points pair is used only if the angle between the normals at the points is "
+"not larger than this value."
+msgstr ""
+"Um par de pontos só é usado se o ângulo entre as normais nos pontos não for "
+"superior a este valor."
+
+#: source/MRViewer/MRICPDialog.cpp:55
+msgid "Max Distance"
+msgstr "Distância Máxima"
+
+#: source/MRViewer/MRICPDialog.cpp:61
+msgid ""
+"A points pair is used only if the distance between two points is lower than "
+"this value."
+msgstr ""
+"Um par de pontos só é usado se a distância entre os dois pontos for inferior "
+"a este valor."
+
+#: source/MRViewer/MRICPDialog.cpp:65
+msgid "Far Distance Factor"
+msgstr "Fator de Distância Longe"
+
+#: source/MRViewer/MRICPDialog.cpp:69
+msgid ""
+"Points pair will be counted only if distance between points is lower than "
+"root-mean-square distance times this factor."
+msgstr ""
+"Um par de pontos só é contado se a distância entre os pontos for inferior à "
+"distância quadrática média multiplicada por este fator."
+
+#: source/MRViewer/MRICPDialog.cpp:73
+msgid "Mutual Closest Points in Each Pair"
+msgstr "Pontos Mutuamente Mais Próximos em Cada Par"
+
+#: source/MRViewer/MRICPDialog.cpp:75
+msgid ""
+"A pair of points is formed only if both points in the pair are mutually "
+"closest (reciprocity test passed)."
+msgstr ""
+"Um par de pontos é formado apenas se ambos os pontos no par forem mutuamente "
+"mais próximos (teste de reciprocidade aprovado)."
+
+#: source/MRViewer/MRICPDialog.cpp:78
+msgid "Sampling Spacing"
+msgstr "Espaçamento de Amostragem"
+
+#: source/MRViewer/MRICPDialog.cpp:83
+msgid ""
+"This value determines sampling voxel size to select only one point in each "
+"voxel."
+msgstr ""
+"Este valor determina o tamanho do voxel de amostragem para selecionar apenas "
+"um ponto em cada voxel."
+
+#: source/MRViewer/MRICPDialog.cpp:89
+msgid "Descriptor Spacing"
+msgstr "Espaçamento de Descritores"
+
+#: source/MRViewer/MRICPDialog.cpp:91
+msgid ""
+"Auto Initial matches the objects by shape descriptors computed on samples "
+"with this spacing. Smaller spacing captures smaller details, but takes "
+"longer."
+msgstr ""
+"Inicial Automático faz corresponder os objetos através de descritores de "
+"forma calculados em amostras com este espaçamento. Um espaçamento menor "
+"capta detalhes mais pequenos, mas demora mais."
+
+#: source/MRViewer/MRICPDialog.cpp:99
+msgid "Sample Target"
+msgstr "Alvo de Amostragem"
+
+#: source/MRViewer/MRICPDialog.cpp:106
+msgid "Select what object will be samples to form origins of point pairs."
+msgstr ""
+"Selecione qual objeto será amostrado para formar origens de pares de pontos."
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Method"
+msgstr "Método"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Combined"
+msgstr "Combinado"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Point-to-Point"
+msgstr "Ponto-a-Ponto"
+
+#: source/MRViewer/MRICPDialog.cpp:109
+msgid "Point-to-Plane"
+msgstr "Ponto-a-Plano"
+
+#: source/MRViewer/MRICPDialog.cpp:111
+msgid "Select target function to minimize."
+msgstr "Selecionar função alvo a minimizar."
+
+#: source/MRViewer/MRICPDialog.cpp:115 source/MRViewer/MRICPDialog.cpp:129
+msgid "Transformation"
+msgstr "Transformação"
+
+#: source/MRViewer/MRICPDialog.cpp:124
+msgid "Select what kind of transformations are searched for."
+msgstr "Selecionar que tipo de transformações são procuradas."
+
+#: source/MRViewer/MRICPDialog.cpp:141
+msgid "Fixed rotation axis"
+msgstr "Eixo de rotação fixo"
+
+#: source/MRViewer/MRICPDialog.cpp:145
+msgid "Allowed rotation axis"
+msgstr "Eixo de rotação permitido"
+
+#: source/MRViewer/MRICPDialog.cpp:164
+msgid "Stop Conditions"
+msgstr "Condições de Paragem"
+
+#: source/MRViewer/MRICPDialog.cpp:172
+msgid "Max Iterations"
+msgstr "Iterações Máximas"
+
+#: source/MRViewer/MRICPDialog.cpp:174
+msgid "Maximal possible number of ICP iterations."
+msgstr "Número máximo possível de iterações ICP."
+
+#: source/MRViewer/MRICPDialog.cpp:176
+msgid "No Improvement Iterations"
+msgstr "Iterações Sem Melhoria"
+
+#: source/MRViewer/MRICPDialog.cpp:178
+msgid ""
+"Stop ICP iterations if during given number of last iterations there was no "
+"improvement."
+msgstr ""
+"Parar iterações ICP se durante o número indicado de últimas iterações não "
+"houve melhoria."
+
+#: source/MRViewer/MRICPDialog.cpp:180
+msgid "Deviation Reached"
+msgstr "Desvio Atingido"
+
+#: source/MRViewer/MRICPDialog.cpp:182
+msgid ""
+"Algorithm target root-mean-square distance. As soon as it is reached, the "
+"algorithm stops."
+msgstr ""
+"Distância quadrática média alvo do algoritmo. Assim que for atingida, o "
+"algoritmo para."
+
+#: source/MRViewer/MRICPDialog.cpp:197
+msgid "Samples"
+msgstr "Amostras"
+
+#: source/MRViewer/MRICPDialog.cpp:198
+msgid "Active point pairs"
+msgstr "Pares de pontos ativos"
+
+#: source/MRViewer/MRICPDialog.cpp:201
+msgid "RMS point-to-point distance"
+msgstr "Distância RMS ponto-a-ponto"
+
+#: source/MRViewer/MRICPDialog.cpp:202
+msgid "RMS point-to-plane distance"
+msgstr "Distância RMS ponto-a-plano"
+
 #: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"
 msgstr "Selecionar bordo da malha"
@@ -2742,10 +3111,6 @@ msgstr "Selecionar bordo da malha"
 #: source/MRViewer/MRModalDialog.cpp:77
 msgid "Do not show this message again"
 msgstr "Não mostrar esta mensagem novamente"
-
-#: source/MRViewer/MRMouse.h:33
-msgid "Rotation"
-msgstr "Rotação"
 
 #: source/MRViewer/MRMouse.h:35
 msgid "Roll"
@@ -2794,11 +3159,6 @@ msgstr "Alterar o idioma"
 #: source/MRViewer/MRRibbonMenu.cpp:960
 msgid "Focus"
 msgstr "Focar"
-
-#: source/MRViewer/MRRibbonMenu.cpp:981
-#: source/MRViewer/MRUISaveChangesPopup.h:18
-msgid "Close"
-msgstr "Fechar"
 
 #: source/MRViewer/MRRibbonMenu.cpp:1042 source/MRViewer/MRRibbonMenu.cpp:1049
 msgid "Group"
@@ -2998,6 +3358,38 @@ msgstr "Fechar a aplicação sem guardar"
 #: source/MRViewer/MRSaveOnClose.cpp:73
 msgid "Do not close the application"
 msgstr "Não fechar a aplicação"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:157
+msgid "File"
+msgstr "Ficheiro"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:214
+msgid "Scan and create 3D (Press Space)"
+msgstr "Digitalizar e criar 3D (Prima Espaço)"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:220
+msgid "Stop"
+msgstr "Parar"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:225
+msgid "Live"
+msgstr "Ao vivo"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:228
+msgid "Live + 3D"
+msgstr "Ao vivo + 3D"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:231
+msgid "Capture frame"
+msgstr "Capturar frame"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:240
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: source/MRViewer/MRScannerSchemaUi.cpp:246
+msgid "Connect"
+msgstr "Conectar"
 
 #: source/MRViewer/MRSceneMcp.cpp:259
 msgid "MCP setObjectState"

@@ -20,6 +20,15 @@ msgstr ""
 "一方のオブジェクトを移動して、そのフィッティングしたフィーチャーをもう一方の"
 "オブジェクトの対応するフィーチャーに合わせます。"
 
+msgid "Scanner"
+msgstr "スキャナー"
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+"スキャナーウィンドウを開き、3Dスキャナーまたはカメラから3Dデータを取得しま"
+"す。"
+
 msgid "Undo"
 msgstr "元に戻す"
 
@@ -353,6 +362,10 @@ msgstr "CT"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "テスト"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr "実験的"
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

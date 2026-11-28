@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1967,136 +1967,6 @@ msgstr ""
 msgid "Add measurements holder"
 msgstr ""
 
-msgid "Pairs Forming Settings"
-msgstr ""
-
-msgid "Register Whole Objects"
-msgstr ""
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr ""
-
-msgid "Normals Max Angle"
-msgstr ""
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr ""
-
-msgid "Max Distance"
-msgstr ""
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr ""
-
-msgid "Far Distance Factor"
-msgstr ""
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr ""
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr ""
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr ""
-
-msgid "Sampling Spacing"
-msgstr ""
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr ""
-
-msgid "Descriptor Spacing"
-msgstr ""
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-
-msgid "Sample Target"
-msgstr ""
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr ""
-
-msgid "Combined"
-msgstr ""
-
-msgid "Point-to-Point"
-msgstr ""
-
-msgid "Point-to-Plane"
-msgstr ""
-
-msgid "Select target function to minimize."
-msgstr ""
-
-msgid "Transformation"
-msgstr ""
-
-msgid "Select what kind of transformations are searched for."
-msgstr ""
-
-msgid "Fixed rotation axis"
-msgstr ""
-
-msgid "Allowed rotation axis"
-msgstr ""
-
-msgid "Stop Conditions"
-msgstr ""
-
-msgid "Max Iterations"
-msgstr ""
-
-msgid "Maximal possible number of ICP iterations."
-msgstr ""
-
-msgid "No Improvement Iterations"
-msgstr ""
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr ""
-
-msgid "Deviation Reached"
-msgstr ""
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr ""
-
-msgid "Information"
-msgstr ""
-
-msgid "Samples"
-msgstr ""
-
-msgid "Active point pairs"
-msgstr ""
-
-msgid "RMS point-to-point distance"
-msgstr ""
-
-msgid "RMS point-to-plane distance"
-msgstr ""
-
 msgid "Approx. Density"
 msgstr ""
 
@@ -2546,6 +2416,9 @@ msgstr ""
 
 msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
+msgstr ""
+
+msgid "Max Iterations"
 msgstr ""
 
 msgid ""
@@ -3607,6 +3480,9 @@ msgid ""
 "connected components"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Control Points"
 msgstr ""
 
@@ -3636,6 +3512,9 @@ msgstr ""
 msgid ""
 "If selected, shows geodesic path connecting control points together with the "
 "spline."
+msgstr ""
+
+msgid "Max Distance"
 msgstr ""
 
 msgid "Maximum distance between geodesic path points and spline points."
@@ -6839,6 +6718,18 @@ msgstr ""
 msgid "Summary"
 msgstr ""
 
+msgid "Samples"
+msgstr ""
+
+msgid "Active point pairs"
+msgstr ""
+
+msgid "RMS point-to-point distance"
+msgstr ""
+
+msgid "RMS point-to-plane distance"
+msgstr ""
+
 msgid "Deviation Map"
 msgstr ""
 
@@ -8895,94 +8786,6 @@ msgstr ""
 msgid "Voxels to Mesh"
 msgstr ""
 
-msgid "Clip Scan by Plane"
-msgstr ""
-
-msgid "Rotate scan"
-msgstr ""
-
-msgid "Register scan"
-msgstr ""
-
-msgid "Import scan"
-msgstr ""
-
-msgid "Scanner"
-msgstr ""
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr ""
-
-msgid "SDK Path"
-msgstr ""
-
-msgid "Click and drag to draw the clip plane"
-msgstr ""
-
-msgid "Clip scans by plane"
-msgstr ""
-
-msgid "Auto rotate"
-msgstr ""
-
-msgid "Pivot"
-msgstr ""
-
-msgid "To center"
-msgstr ""
-
-msgid "Align axis in the scans center"
-msgstr ""
-
-msgid "To camera"
-msgstr ""
-
-msgid "Orient axis to current camera direction"
-msgstr ""
-
-msgid "Picking..."
-msgstr ""
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr ""
-
-msgid "Save rotation parameters"
-msgstr ""
-
-msgid "Registration"
-msgstr ""
-
-msgid "Auto register"
-msgstr ""
-
-msgid "Automatically align a new scan to previous scans"
-msgstr ""
-
-msgid "ICP Parameters"
-msgstr ""
-
-msgid "Preview window popped out"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "Pop Out"
-msgstr ""
-
-msgid "Save defaults"
-msgstr ""
-
-msgid "Save scanner and processing parameters as default"
-msgstr ""
-
-msgid "Rot/Reg"
-msgstr ""
-
-msgid "Current Scan"
-msgstr ""
-
 msgid "Unloaded. Please restart the application."
 msgstr ""
 
@@ -9127,42 +8930,6 @@ msgid "Unload"
 msgstr ""
 
 msgid "Failed to capture images"
-msgstr ""
-
-msgid "tooltip"
-msgstr ""
-
-msgid "title"
-msgstr ""
-
-msgid "status"
-msgstr ""
-
-msgid "File"
-msgstr ""
-
-msgid "Capture"
-msgstr ""
-
-msgid "Scan and create 3D (Press Space)"
-msgstr ""
-
-msgid "Stop"
-msgstr ""
-
-msgid "Live"
-msgstr ""
-
-msgid "Live + 3D"
-msgstr ""
-
-msgid "Capture frame"
-msgstr ""
-
-msgid "Disconnect"
-msgstr ""
-
-msgid "Connect"
 msgstr ""
 
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""

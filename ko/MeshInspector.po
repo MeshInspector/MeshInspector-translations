@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MeshInspector\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 04:33+0000\n"
+"POT-Creation-Date: 2026-11-28 04:33+0000\n"
 "PO-Revision-Date: 2026-04-15 10:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2034,147 +2034,6 @@ msgstr "지원되지 않는 참조 객체 유형"
 msgid "Add measurements holder"
 msgstr "측정 홀더 추가"
 
-msgid "Pairs Forming Settings"
-msgstr "쌍 형성 설정"
-
-msgid "Register Whole Objects"
-msgstr "전체 객체 정합"
-
-msgid ""
-"If selected then absolutely all point pairs between two objects will be "
-"considered during registration without filtering."
-msgstr ""
-"선택하면 정합 시 두 오브젝트 사이의 모든 점 쌍이 필터링 없이 고려됩니다."
-
-msgid "Normals Max Angle"
-msgstr "법선 최대 각도"
-
-msgid ""
-"A points pair is used only if the angle between the normals at the points is "
-"not larger than this value."
-msgstr ""
-"포인트의 법선 사이 각도가 이 값보다 크지 않은 경우에만 포인트 쌍이 사용됩니"
-"다."
-
-msgid "Max Distance"
-msgstr "최대 거리"
-
-msgid ""
-"A points pair is used only if the distance between two points is lower than "
-"this value."
-msgstr "두 포인트 사이의 거리가 이 값보다 낮을 때만 포인트 쌍이 사용됩니다."
-
-msgid "Far Distance Factor"
-msgstr "원거리 계수"
-
-msgid ""
-"Points pair will be counted only if distance between points is lower than "
-"root-mean-square distance times this factor."
-msgstr ""
-"포인트 사이의 거리가 평균 제곱근 거리에 이 계수를 곱한 값보다 낮을 때만 포인"
-"트 쌍이 카운트됩니다."
-
-msgid "Mutual Closest Points in Each Pair"
-msgstr "각 쌍의 상호 최근접 포인트"
-
-msgid ""
-"A pair of points is formed only if both points in the pair are mutually "
-"closest (reciprocity test passed)."
-msgstr ""
-"쌍 내 두 포인트가 상호 가장 가까울 때만 (상호성 테스트 통과) 포인트 쌍이 형성"
-"됩니다."
-
-msgid "Sampling Spacing"
-msgstr "샘플링 간격"
-
-msgid ""
-"This value determines sampling voxel size to select only one point in each "
-"voxel."
-msgstr ""
-"이 값은 각 복셀에서 하나의 포인트만 선택하도록 샘플링 복셀 크기를 결정합니다."
-
-msgid "Descriptor Spacing"
-msgstr "디스크립터 간격"
-
-msgid ""
-"Auto Initial matches the objects by shape descriptors computed on samples "
-"with this spacing. Smaller spacing captures smaller details, but takes "
-"longer."
-msgstr ""
-"자동 초기는 이 간격으로 추출한 샘플에서 계산된 형상 디스크립터로 객체를 매칭"
-"합니다. 간격이 작을수록 더 작은 세부 사항까지 포착하지만 시간이 더 오래 걸립"
-"니다."
-
-msgid "Sample Target"
-msgstr "샘플 대상"
-
-msgid "Select what object will be samples to form origins of point pairs."
-msgstr "포인트 쌍의 원점을 형성할 샘플이 될 객체를 선택합니다."
-
-msgid "Combined"
-msgstr "통합"
-
-msgid "Point-to-Point"
-msgstr "포인트 대 포인트"
-
-msgid "Point-to-Plane"
-msgstr "포인트 대 평면"
-
-msgid "Select target function to minimize."
-msgstr "최소화할 대상 함수를 선택합니다."
-
-msgid "Transformation"
-msgstr "변환"
-
-msgid "Select what kind of transformations are searched for."
-msgstr "어떤 종류의 변환을 검색할지 선택합니다."
-
-msgid "Fixed rotation axis"
-msgstr "고정 회전 축"
-
-msgid "Allowed rotation axis"
-msgstr "허용 회전 축"
-
-msgid "Stop Conditions"
-msgstr "정지 조건"
-
-msgid "Max Iterations"
-msgstr "최대 반복 횟수"
-
-msgid "Maximal possible number of ICP iterations."
-msgstr "가능한 최대 ICP 반복 횟수입니다."
-
-msgid "No Improvement Iterations"
-msgstr "개선 없는 반복 횟수"
-
-msgid ""
-"Stop ICP iterations if during given number of last iterations there was no "
-"improvement."
-msgstr "마지막 지정된 반복 횟수 동안 개선이 없으면 ICP 반복을 중지합니다."
-
-msgid "Deviation Reached"
-msgstr "도달한 편차"
-
-msgid ""
-"Algorithm target root-mean-square distance. As soon as it is reached, the "
-"algorithm stops."
-msgstr "알고리즘 대상 평균 제곱근 거리. 도달하면 알고리즘이 중지됩니다."
-
-msgid "Information"
-msgstr "정보"
-
-msgid "Samples"
-msgstr "샘플"
-
-msgid "Active point pairs"
-msgstr "활성 포인트 쌍"
-
-msgid "RMS point-to-point distance"
-msgstr "RMS 포인트 대 포인트 거리"
-
-msgid "RMS point-to-plane distance"
-msgstr "RMS 포인트 대 평면 거리"
-
 msgid "Approx. Density"
 msgstr "근사 밀도"
 
@@ -2660,6 +2519,9 @@ msgstr "법선 허용 오차"
 msgid ""
 "Maximum angle between the source model's normal and the feature's normal"
 msgstr "원본 모델의 법선과 피처의 법선 사이의 최대 각도"
+
+msgid "Max Iterations"
+msgstr "최대 반복 횟수"
 
 msgid ""
 "Maximum amount of iterations performed until a stable set of points is found"
@@ -3826,6 +3688,9 @@ msgstr ""
 "현재 포인트 사이에 경로가 존재하지 않습니다. 포인트가 서로 다른 연결된 구성요"
 "소에 배치되어 있습니다"
 
+msgid "Information"
+msgstr "정보"
+
 msgid "Control Points"
 msgstr "제어 포인트"
 
@@ -3857,6 +3722,9 @@ msgid ""
 "spline."
 msgstr ""
 "선택하면 스플라인과 함께 제어 포인트를 연결하는 측지 경로를 표시합니다."
+
+msgid "Max Distance"
+msgstr "최대 거리"
 
 msgid "Maximum distance between geodesic path points and spline points."
 msgstr "측지 경로 포인트와 스플라인 포인트 사이의 최대 거리."
@@ -7331,6 +7199,18 @@ msgstr "객체 ID"
 msgid "Summary"
 msgstr "요약"
 
+msgid "Samples"
+msgstr "샘플"
+
+msgid "Active point pairs"
+msgstr "활성 포인트 쌍"
+
+msgid "RMS point-to-point distance"
+msgstr "RMS 포인트 대 포인트 거리"
+
+msgid "RMS point-to-plane distance"
+msgstr "RMS 포인트 대 평면 거리"
+
 msgid "Deviation Map"
 msgstr "편차 맵"
 
@@ -9541,95 +9421,6 @@ msgstr "체크하면 변환된 메시 객체와 함께 원본 복셀 객체도 �
 msgid "Voxels to Mesh"
 msgstr "복셀을 메시로"
 
-msgid "Clip Scan by Plane"
-msgstr "평면으로 스캔 클립"
-
-msgid "Rotate scan"
-msgstr "스캔 회전"
-
-msgid "Register scan"
-msgstr "스캔 정합"
-
-msgid "Import scan"
-msgstr "스캔 가져오기"
-
-msgid "Scanner"
-msgstr "스캐너"
-
-#, c++-format
-msgid "{} runtime not loaded:"
-msgstr "{} 런타임을 불러오지 않았습니다:"
-
-msgid "SDK Path"
-msgstr "SDK 경로"
-
-msgid "Click and drag to draw the clip plane"
-msgstr "클릭하고 드래그하여 절단 평면을 그립니다"
-
-msgid "Clip scans by plane"
-msgstr "평면으로 스캔 자르기"
-
-msgid "Auto rotate"
-msgstr "자동 회전"
-
-msgid "Pivot"
-msgstr "피벗"
-
-msgid "To center"
-msgstr "중심으로"
-
-msgid "Align axis in the scans center"
-msgstr "스캔 중심에 축을 정렬합니다"
-
-msgid "To camera"
-msgstr "카메라로"
-
-msgid "Orient axis to current camera direction"
-msgstr "현재 카메라 방향으로 축 방향을 설정합니다"
-
-msgid "Picking..."
-msgstr "선택 중..."
-
-msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr ""
-"장면에서 포인트를 선택합니다 (방향을 설정하려면 Shift 키를 누른 채로 선택)"
-
-msgid "Save rotation parameters"
-msgstr "회전 매개변수 저장"
-
-msgid "Registration"
-msgstr "정합"
-
-msgid "Auto register"
-msgstr "자동 정합"
-
-msgid "Automatically align a new scan to previous scans"
-msgstr "새 스캔을 이전 스캔에 자동으로 정렬합니다"
-
-msgid "ICP Parameters"
-msgstr "ICP 매개변수"
-
-msgid "Preview window popped out"
-msgstr "미리보기 창이 분리되었습니다"
-
-msgid "Close"
-msgstr "닫기"
-
-msgid "Pop Out"
-msgstr "창 분리"
-
-msgid "Save defaults"
-msgstr "기본값 저장"
-
-msgid "Save scanner and processing parameters as default"
-msgstr "스캐너 및 처리 매개변수를 기본값으로 저장합니다"
-
-msgid "Rot/Reg"
-msgstr "회전/정합"
-
-msgid "Current Scan"
-msgstr "현재 스캔"
-
 msgid "Unloaded. Please restart the application."
 msgstr "언로드되었습니다. 응용 프로그램을 다시 시작하세요."
 
@@ -9783,42 +9574,6 @@ msgstr "언로드"
 msgid "Failed to capture images"
 msgstr "이미지를 캡처하지 못했습니다"
 
-msgid "tooltip"
-msgstr "툴팁"
-
-msgid "title"
-msgstr "제목"
-
-msgid "status"
-msgstr "상태"
-
-msgid "File"
-msgstr "파일"
-
-msgid "Capture"
-msgstr "캡처"
-
-msgid "Scan and create 3D (Press Space)"
-msgstr "스캔 및 3D 생성 (Space 키)"
-
-msgid "Stop"
-msgstr "중지"
-
-msgid "Live"
-msgstr "라이브"
-
-msgid "Live + 3D"
-msgstr "라이브 + 3D"
-
-msgid "Capture frame"
-msgstr "프레임 캡처"
-
-msgid "Disconnect"
-msgstr "연결 해제"
-
-msgid "Connect"
-msgstr "연결"
-
 msgid "Set the Zivid SDK binary folder, e.g. \"C:\\Program Files\\Zivid\\bin\""
 msgstr ""
 "Zivid SDK 바이너리 폴더를 설정하세요. 예: \"C:\\Program Files\\Zivid\\bin\""
@@ -9874,6 +9629,252 @@ msgstr ""
 
 msgid "Zivid capture settings (.yml)"
 msgstr "Zivid 캡처 설정 (.yml)"
+
+#~ msgid "Pairs Forming Settings"
+#~ msgstr "쌍 형성 설정"
+
+#~ msgid "Register Whole Objects"
+#~ msgstr "전체 객체 정합"
+
+#~ msgid ""
+#~ "If selected then absolutely all point pairs between two objects will be "
+#~ "considered during registration without filtering."
+#~ msgstr ""
+#~ "선택하면 정합 시 두 오브젝트 사이의 모든 점 쌍이 필터링 없이 고려됩니다."
+
+#~ msgid "Normals Max Angle"
+#~ msgstr "법선 최대 각도"
+
+#~ msgid ""
+#~ "A points pair is used only if the angle between the normals at the points "
+#~ "is not larger than this value."
+#~ msgstr ""
+#~ "포인트의 법선 사이 각도가 이 값보다 크지 않은 경우에만 포인트 쌍이 사용됩"
+#~ "니다."
+
+#~ msgid ""
+#~ "A points pair is used only if the distance between two points is lower "
+#~ "than this value."
+#~ msgstr "두 포인트 사이의 거리가 이 값보다 낮을 때만 포인트 쌍이 사용됩니다."
+
+#~ msgid "Far Distance Factor"
+#~ msgstr "원거리 계수"
+
+#~ msgid ""
+#~ "Points pair will be counted only if distance between points is lower than "
+#~ "root-mean-square distance times this factor."
+#~ msgstr ""
+#~ "포인트 사이의 거리가 평균 제곱근 거리에 이 계수를 곱한 값보다 낮을 때만 포"
+#~ "인트 쌍이 카운트됩니다."
+
+#~ msgid "Mutual Closest Points in Each Pair"
+#~ msgstr "각 쌍의 상호 최근접 포인트"
+
+#~ msgid ""
+#~ "A pair of points is formed only if both points in the pair are mutually "
+#~ "closest (reciprocity test passed)."
+#~ msgstr ""
+#~ "쌍 내 두 포인트가 상호 가장 가까울 때만 (상호성 테스트 통과) 포인트 쌍이 "
+#~ "형성됩니다."
+
+#~ msgid "Sampling Spacing"
+#~ msgstr "샘플링 간격"
+
+#~ msgid ""
+#~ "This value determines sampling voxel size to select only one point in "
+#~ "each voxel."
+#~ msgstr ""
+#~ "이 값은 각 복셀에서 하나의 포인트만 선택하도록 샘플링 복셀 크기를 결정합니"
+#~ "다."
+
+#~ msgid "Descriptor Spacing"
+#~ msgstr "디스크립터 간격"
+
+#~ msgid ""
+#~ "Auto Initial matches the objects by shape descriptors computed on samples "
+#~ "with this spacing. Smaller spacing captures smaller details, but takes "
+#~ "longer."
+#~ msgstr ""
+#~ "자동 초기는 이 간격으로 추출한 샘플에서 계산된 형상 디스크립터로 객체를 매"
+#~ "칭합니다. 간격이 작을수록 더 작은 세부 사항까지 포착하지만 시간이 더 오래 "
+#~ "걸립니다."
+
+#~ msgid "Sample Target"
+#~ msgstr "샘플 대상"
+
+#~ msgid "Select what object will be samples to form origins of point pairs."
+#~ msgstr "포인트 쌍의 원점을 형성할 샘플이 될 객체를 선택합니다."
+
+#~ msgid "Combined"
+#~ msgstr "통합"
+
+#~ msgid "Point-to-Point"
+#~ msgstr "포인트 대 포인트"
+
+#~ msgid "Point-to-Plane"
+#~ msgstr "포인트 대 평면"
+
+#~ msgid "Select target function to minimize."
+#~ msgstr "최소화할 대상 함수를 선택합니다."
+
+#~ msgid "Transformation"
+#~ msgstr "변환"
+
+#~ msgid "Select what kind of transformations are searched for."
+#~ msgstr "어떤 종류의 변환을 검색할지 선택합니다."
+
+#~ msgid "Fixed rotation axis"
+#~ msgstr "고정 회전 축"
+
+#~ msgid "Allowed rotation axis"
+#~ msgstr "허용 회전 축"
+
+#~ msgid "Stop Conditions"
+#~ msgstr "정지 조건"
+
+#~ msgid "Maximal possible number of ICP iterations."
+#~ msgstr "가능한 최대 ICP 반복 횟수입니다."
+
+#~ msgid "No Improvement Iterations"
+#~ msgstr "개선 없는 반복 횟수"
+
+#~ msgid ""
+#~ "Stop ICP iterations if during given number of last iterations there was "
+#~ "no improvement."
+#~ msgstr "마지막 지정된 반복 횟수 동안 개선이 없으면 ICP 반복을 중지합니다."
+
+#~ msgid "Deviation Reached"
+#~ msgstr "도달한 편차"
+
+#~ msgid ""
+#~ "Algorithm target root-mean-square distance. As soon as it is reached, the "
+#~ "algorithm stops."
+#~ msgstr "알고리즘 대상 평균 제곱근 거리. 도달하면 알고리즘이 중지됩니다."
+
+#~ msgid "Clip Scan by Plane"
+#~ msgstr "평면으로 스캔 클립"
+
+#~ msgid "Rotate scan"
+#~ msgstr "스캔 회전"
+
+#~ msgid "Register scan"
+#~ msgstr "스캔 정합"
+
+#~ msgid "Import scan"
+#~ msgstr "스캔 가져오기"
+
+#~ msgid "Scanner"
+#~ msgstr "스캐너"
+
+#, c++-format
+#~ msgid "{} runtime not loaded:"
+#~ msgstr "{} 런타임을 불러오지 않았습니다:"
+
+#~ msgid "SDK Path"
+#~ msgstr "SDK 경로"
+
+#~ msgid "Click and drag to draw the clip plane"
+#~ msgstr "클릭하고 드래그하여 절단 평면을 그립니다"
+
+#~ msgid "Clip scans by plane"
+#~ msgstr "평면으로 스캔 자르기"
+
+#~ msgid "Auto rotate"
+#~ msgstr "자동 회전"
+
+#~ msgid "Pivot"
+#~ msgstr "피벗"
+
+#~ msgid "To center"
+#~ msgstr "중심으로"
+
+#~ msgid "Align axis in the scans center"
+#~ msgstr "스캔 중심에 축을 정렬합니다"
+
+#~ msgid "To camera"
+#~ msgstr "카메라로"
+
+#~ msgid "Orient axis to current camera direction"
+#~ msgstr "현재 카메라 방향으로 축 방향을 설정합니다"
+
+#~ msgid "Picking..."
+#~ msgstr "선택 중..."
+
+#~ msgid "Pick a point from scene (hold Shift to set direction)"
+#~ msgstr ""
+#~ "장면에서 포인트를 선택합니다 (방향을 설정하려면 Shift 키를 누른 채로 선택)"
+
+#~ msgid "Save rotation parameters"
+#~ msgstr "회전 매개변수 저장"
+
+#~ msgid "Registration"
+#~ msgstr "정합"
+
+#~ msgid "Auto register"
+#~ msgstr "자동 정합"
+
+#~ msgid "Automatically align a new scan to previous scans"
+#~ msgstr "새 스캔을 이전 스캔에 자동으로 정렬합니다"
+
+#~ msgid "ICP Parameters"
+#~ msgstr "ICP 매개변수"
+
+#~ msgid "Preview window popped out"
+#~ msgstr "미리보기 창이 분리되었습니다"
+
+#~ msgid "Close"
+#~ msgstr "닫기"
+
+#~ msgid "Pop Out"
+#~ msgstr "창 분리"
+
+#~ msgid "Save defaults"
+#~ msgstr "기본값 저장"
+
+#~ msgid "Save scanner and processing parameters as default"
+#~ msgstr "스캐너 및 처리 매개변수를 기본값으로 저장합니다"
+
+#~ msgid "Rot/Reg"
+#~ msgstr "회전/정합"
+
+#~ msgid "Current Scan"
+#~ msgstr "현재 스캔"
+
+#~ msgid "tooltip"
+#~ msgstr "툴팁"
+
+#~ msgid "title"
+#~ msgstr "제목"
+
+#~ msgid "status"
+#~ msgstr "상태"
+
+#~ msgid "File"
+#~ msgstr "파일"
+
+#~ msgid "Capture"
+#~ msgstr "캡처"
+
+#~ msgid "Scan and create 3D (Press Space)"
+#~ msgstr "스캔 및 3D 생성 (Space 키)"
+
+#~ msgid "Stop"
+#~ msgstr "중지"
+
+#~ msgid "Live"
+#~ msgstr "라이브"
+
+#~ msgid "Live + 3D"
+#~ msgstr "라이브 + 3D"
+
+#~ msgid "Capture frame"
+#~ msgstr "프레임 캡처"
+
+#~ msgid "Disconnect"
+#~ msgstr "연결 해제"
+
+#~ msgid "Connect"
+#~ msgstr "연결"
 
 #, c-format
 #~ msgid ""
