@@ -21,11 +21,13 @@ msgstr ""
 "com as características correspondentes de outro objeto."
 
 msgid "Scanner"
-msgstr ""
+msgstr "Scanner"
 
 msgid ""
 "Open the Scanner window to capture 3D data from a 3D scanner or a camera."
 msgstr ""
+"Abrir a janela Scanner para capturar dados 3D a partir de um scanner 3D ou "
+"de uma câmara."
 
 msgid "Undo"
 msgstr "Anular"
@@ -372,7 +374,7 @@ msgstr "Teste"
 
 msgctxt "Tab name"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

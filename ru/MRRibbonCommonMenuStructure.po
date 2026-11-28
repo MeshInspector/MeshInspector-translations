@@ -25,11 +25,11 @@ msgstr ""
 "соответствующими примитивами другого объекта."
 
 msgid "Scanner"
-msgstr ""
+msgstr "Сканер"
 
 msgid ""
 "Open the Scanner window to capture 3D data from a 3D scanner or a camera."
-msgstr ""
+msgstr "Открыть окно «Сканер» для захвата 3D-данных с 3D-сканера или камеры."
 
 msgid "Undo"
 msgstr "Отменить"
@@ -368,7 +368,7 @@ msgstr "Тест"
 
 msgctxt "Tab name"
 msgid "Experimental"
-msgstr ""
+msgstr "Эксперименты"
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

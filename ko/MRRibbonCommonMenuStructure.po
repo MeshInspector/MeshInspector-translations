@@ -21,11 +21,11 @@ msgstr ""
 "합니다."
 
 msgid "Scanner"
-msgstr ""
+msgstr "스캐너"
 
 msgid ""
 "Open the Scanner window to capture 3D data from a 3D scanner or a camera."
-msgstr ""
+msgstr "스캐너 창을 열어 3D 스캐너 또는 카메라에서 3D 데이터를 캡처합니다."
 
 msgid "Undo"
 msgstr "실행 취소"
@@ -356,7 +356,7 @@ msgstr "테스트"
 
 msgctxt "Tab name"
 msgid "Experimental"
-msgstr ""
+msgstr "실험적"
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "
