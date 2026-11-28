@@ -264,7 +264,7 @@ msgstr "オブジェクトが選択されていません"
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:63
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:72
 msgid "Clip Scan by Plane"
-msgstr "平面でスキャンをクリップ"
+msgstr "スキャンを平面でクリップ"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:246
 msgid "No scanner backend is registered"
@@ -276,7 +276,7 @@ msgstr "スキャンを回転"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:537
 msgid "Register scan"
-msgstr "スキャンを位置合わせ"
+msgstr "スキャンをレジストレーション"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:564
 msgid "Import scan"
@@ -293,7 +293,7 @@ msgstr "{}ランタイムが読み込まれていません:"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:719
 msgid "Cancelled"
-msgstr "キャンセルされました"
+msgstr "キャンセル済み"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:725
 msgid "SDK Path"
@@ -314,7 +314,7 @@ msgstr "クリア"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
 msgid "Clip scans by plane"
-msgstr "平面でスキャンをクリップします"
+msgstr "平面でスキャンをクリップ"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
 #: source/MRViewer/MRMouse.h:33
@@ -341,7 +341,7 @@ msgstr "中心へ"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:809
 msgid "Align axis in the scans center"
-msgstr "軸をスキャンの中心に合わせます"
+msgstr "スキャンの中心に軸を合わせます"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:810
 msgid "Axis"
@@ -362,11 +362,11 @@ msgstr "ピック"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
 msgid "Picking..."
-msgstr "ピック中..."
+msgstr "選択中..."
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
 msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "シーンから点をピックします (Shiftキーを押したままで方向を設定)"
+msgstr "シーンからポイントを選択します (Shiftを押したままで方向を設定)"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
@@ -381,11 +381,11 @@ msgstr "回転パラメーターを保存"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:834
 msgid "Registration"
-msgstr "位置合わせ"
+msgstr "レジストレーション"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:835
 msgid "Auto register"
-msgstr "自動位置合わせ"
+msgstr "自動レジストレーション"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:836
 msgid "Automatically align a new scan to previous scans"
@@ -455,7 +455,7 @@ msgstr "クリップ平面"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:970
 msgid "Rot/Reg"
-msgstr "回転/位置合わせ"
+msgstr "回転/レジストレーション"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:978
 msgid "Current Scan"
@@ -2891,7 +2891,7 @@ msgstr "{}を開く"
 
 #: source/MRViewer/MRICPDialog.cpp:23
 msgid "Pairs Forming Settings"
-msgstr "ペア形成の設定"
+msgstr "ペア形成設定"
 
 #: source/MRViewer/MRICPDialog.cpp:35
 msgid "Register Whole Objects"
@@ -2902,8 +2902,8 @@ msgid ""
 "If selected then absolutely all point pairs between two objects will be "
 "considered during registration without filtering."
 msgstr ""
-"選択すると、2つのオブジェクト間のすべての点ペアが、フィルタリングされずに位置"
-"合わせで考慮されます。"
+"選択すると、レジストレーション時に2つのオブジェクト間のすべての点ペアがフィル"
+"タリングなしで考慮されます。"
 
 #: source/MRViewer/MRICPDialog.cpp:44
 msgid "Normals Max Angle"
@@ -2914,7 +2914,7 @@ msgid ""
 "A points pair is used only if the angle between the normals at the points is "
 "not larger than this value."
 msgstr ""
-"各点における法線間の角度がこの値以下の場合にのみ、点ペアが使用されます。"
+"ポイントの法線間の角度がこの値以下の場合にのみ、ポイントペアが使用されます。"
 
 #: source/MRViewer/MRICPDialog.cpp:55
 msgid "Max Distance"
@@ -2924,7 +2924,7 @@ msgstr "最大距離"
 msgid ""
 "A points pair is used only if the distance between two points is lower than "
 "this value."
-msgstr "2点間の距離がこの値より小さい場合にのみ、点ペアが使用されます。"
+msgstr "2点間の距離がこの値未満の場合にのみ、ポイントペアが使用されます。"
 
 #: source/MRViewer/MRICPDialog.cpp:65
 msgid "Far Distance Factor"
@@ -2935,20 +2935,20 @@ msgid ""
 "Points pair will be counted only if distance between points is lower than "
 "root-mean-square distance times this factor."
 msgstr ""
-"点間の距離が二乗平均平方根距離にこの係数を掛けた値より小さい場合にのみ、点ペ"
-"アがカウントされます。"
+"ポイント間の距離が二乗平均平方根距離にこの係数を掛けた値より低い場合にのみ、"
+"ポイントペアがカウントされます。"
 
 #: source/MRViewer/MRICPDialog.cpp:73
 msgid "Mutual Closest Points in Each Pair"
-msgstr "各ペアで相互に最も近い点"
+msgstr "各ペアで互いに最近傍のポイント"
 
 #: source/MRViewer/MRICPDialog.cpp:75
 msgid ""
 "A pair of points is formed only if both points in the pair are mutually "
 "closest (reciprocity test passed)."
 msgstr ""
-"ペアの両方の点が互いに最も近い場合 (相互性テストに合格) にのみ、点のペアが形"
-"成されます。"
+"ペアの両ポイントが互いに最近傍の場合にのみ（相互テスト合格）、ポイントペアが"
+"形成されます。"
 
 #: source/MRViewer/MRICPDialog.cpp:78
 msgid "Sampling Spacing"
@@ -2959,8 +2959,8 @@ msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
 msgstr ""
-"この値は、各ボクセルから1点のみを選択するためのサンプリングボクセルのサイズを"
-"決定します。"
+"この値は、各ボクセル内で1つのポイントのみを選択するためのサンプリングボクセル"
+"サイズを決定します。"
 
 #: source/MRViewer/MRICPDialog.cpp:89
 msgid "Descriptor Spacing"
@@ -2972,9 +2972,9 @@ msgid ""
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
-"「自動初期化」は、この間隔のサンプルで計算された形状記述子によってオブジェク"
-"トをマッチングします。間隔を小さくするとより細かいディテールを捉えられます"
-"が、時間がかかります。"
+"自動初期化は、この間隔のサンプル上で計算された形状記述子によってオブジェクト"
+"をマッチングします。間隔が小さいほど細かい部分まで捉えられますが、処理時間が"
+"長くなります。"
 
 #: source/MRViewer/MRICPDialog.cpp:99
 msgid "Sample Target"
@@ -2982,11 +2982,12 @@ msgstr "サンプル対象"
 
 #: source/MRViewer/MRICPDialog.cpp:106
 msgid "Select what object will be samples to form origins of point pairs."
-msgstr "点ペアの始点を形成するためにサンプリングするオブジェクトを選択します。"
+msgstr ""
+"ポイントペアの起点を形成するためにサンプリングするオブジェクトを選択します。"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Method"
-msgstr "方法"
+msgstr "メソッド"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Combined"
@@ -3002,7 +3003,7 @@ msgstr "点対平面"
 
 #: source/MRViewer/MRICPDialog.cpp:111
 msgid "Select target function to minimize."
-msgstr "最小化する目的関数を選択します。"
+msgstr "最小化するターゲット関数を選択します。"
 
 #: source/MRViewer/MRICPDialog.cpp:115 source/MRViewer/MRICPDialog.cpp:129
 msgid "Transformation"
@@ -3010,7 +3011,7 @@ msgstr "変換"
 
 #: source/MRViewer/MRICPDialog.cpp:124
 msgid "Select what kind of transformations are searched for."
-msgstr "探索する変換の種類を選択します。"
+msgstr "検索する変換の種類を選択します。"
 
 #: source/MRViewer/MRICPDialog.cpp:141
 msgid "Fixed rotation axis"
@@ -3040,19 +3041,18 @@ msgstr "改善なし反復回数"
 msgid ""
 "Stop ICP iterations if during given number of last iterations there was no "
 "improvement."
-msgstr "直近の指定回数の反復で改善がなかった場合、ICPの反復を停止します。"
+msgstr "指定した回数の反復で改善がなければICP反復を停止します。"
 
 #: source/MRViewer/MRICPDialog.cpp:180
 msgid "Deviation Reached"
-msgstr "偏差到達"
+msgstr "到達偏差"
 
 #: source/MRViewer/MRICPDialog.cpp:182
 msgid ""
 "Algorithm target root-mean-square distance. As soon as it is reached, the "
 "algorithm stops."
 msgstr ""
-"アルゴリズムの目標二乗平均平方根距離。この値に達すると、アルゴリズムは停止し"
-"ます。"
+"アルゴリズムの目標二乗平均平方根距離。到達するとアルゴリズムが停止します。"
 
 #: source/MRViewer/MRICPDialog.cpp:197
 msgid "Samples"
@@ -3060,15 +3060,15 @@ msgstr "サンプル"
 
 #: source/MRViewer/MRICPDialog.cpp:198
 msgid "Active point pairs"
-msgstr "有効な点ペア"
+msgstr "アクティブなポイントペア"
 
 #: source/MRViewer/MRICPDialog.cpp:201
 msgid "RMS point-to-point distance"
-msgstr "RMS点対点距離"
+msgstr "RMS 点対点距離"
 
 #: source/MRViewer/MRICPDialog.cpp:202
 msgid "RMS point-to-plane distance"
-msgstr "RMS点対平面距離"
+msgstr "RMS 点対平面距離"
 
 #: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"

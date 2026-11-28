@@ -247,7 +247,7 @@ msgstr "未选中对象"
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:63
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:72
 msgid "Clip Scan by Plane"
-msgstr "用平面裁剪扫描"
+msgstr "用平面剪裁扫描"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:246
 msgid "No scanner backend is registered"
@@ -284,7 +284,7 @@ msgstr "SDK 路径"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:755
 msgid "Click and drag to draw the clip plane"
-msgstr "单击并拖动以绘制裁剪平面"
+msgstr "单击并拖动以绘制剪切平面"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:761
 #: source/MRViewer/ImGuiHelpers.cpp:1608
@@ -297,7 +297,7 @@ msgstr "清除"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
 msgid "Clip scans by plane"
-msgstr "用平面裁剪扫描"
+msgstr "按平面裁剪扫描"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
 #: source/MRViewer/MRMouse.h:33
@@ -316,7 +316,7 @@ msgstr "角度"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:797
 msgid "Pivot"
-msgstr "枢轴"
+msgstr "枢轴点"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:803
 msgid "To center"
@@ -336,7 +336,7 @@ msgstr "朝向相机"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:822
 msgid "Orient axis to current camera direction"
-msgstr "将轴朝向当前相机方向"
+msgstr "将轴定向到当前相机方向"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:825
 #: source/MRCommonPlugins/ViewerButtons/MRViewerSettingsPlugin.cpp:540
@@ -349,7 +349,7 @@ msgstr "正在拾取..."
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
 msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "从场景中拾取一个点（按住 Shift 设置方向）"
+msgstr "从场景中拾取一个点（按住 Shift 以设置方向）"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
@@ -372,7 +372,7 @@ msgstr "自动配准"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:836
 msgid "Automatically align a new scan to previous scans"
-msgstr "自动将新扫描与之前的扫描对齐"
+msgstr "自动将新扫描对齐到之前的扫描"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:837
 msgid "Try RANSAC initial position"
@@ -388,7 +388,7 @@ msgid ""
 msgstr ""
 "同时通过匹配形状描述符（RANSAC）从任意位置对齐新扫描，然后从该位置执行 ICP；"
 "如果该姿态下位于另一表面采样间距范围内的采样点比单独使用 ICP 时多出四分之一以"
-"上，则保留该姿态。需要法线以及刚体或刚体 + 缩放变换"
+"上，则保留该姿态。需要法线以及 Rigid Body 或 Rigid + Scale 变换"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:841
 msgid "ICP Parameters"
@@ -432,7 +432,7 @@ msgstr "将扫描仪和处理参数保存为默认值"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:956
 msgid "Clip Plane"
-msgstr "裁剪平面"
+msgstr "剪切平面"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:970
 msgid "Rot/Reg"
@@ -2838,7 +2838,7 @@ msgstr "打开 {}"
 
 #: source/MRViewer/MRICPDialog.cpp:23
 msgid "Pairs Forming Settings"
-msgstr "点对生成设置"
+msgstr "配对形成设置"
 
 #: source/MRViewer/MRICPDialog.cpp:35
 msgid "Register Whole Objects"
@@ -2848,7 +2848,7 @@ msgstr "配准整个对象"
 msgid ""
 "If selected then absolutely all point pairs between two objects will be "
 "considered during registration without filtering."
-msgstr "如果选中，配准时将考虑两个对象之间的所有点对，不进行任何过滤。"
+msgstr "如果选中，注册时将考虑两个对象之间的所有点对，不进行任何过滤。"
 
 #: source/MRViewer/MRICPDialog.cpp:44
 msgid "Normals Max Angle"
@@ -2858,7 +2858,7 @@ msgstr "法线最大角度"
 msgid ""
 "A points pair is used only if the angle between the normals at the points is "
 "not larger than this value."
-msgstr "仅当两点处法线之间的夹角不大于此值时，才使用该点对。"
+msgstr "仅当点处法线之间的角度不大于此值时才使用点对。"
 
 #: source/MRViewer/MRICPDialog.cpp:55
 msgid "Max Distance"
@@ -2868,27 +2868,27 @@ msgstr "最大距离"
 msgid ""
 "A points pair is used only if the distance between two points is lower than "
 "this value."
-msgstr "仅当两点之间的距离小于此值时，才使用该点对。"
+msgstr "仅当两点之间的距离小于此值时才使用点对。"
 
 #: source/MRViewer/MRICPDialog.cpp:65
 msgid "Far Distance Factor"
-msgstr "远距离系数"
+msgstr "远距离因子"
 
 #: source/MRViewer/MRICPDialog.cpp:69
 msgid ""
 "Points pair will be counted only if distance between points is lower than "
 "root-mean-square distance times this factor."
-msgstr "仅当点之间的距离小于均方根距离乘以此系数时，才计入该点对。"
+msgstr "仅当点之间的距离小于均方根距离乘以此因子时，点对才会被计入。"
 
 #: source/MRViewer/MRICPDialog.cpp:73
 msgid "Mutual Closest Points in Each Pair"
-msgstr "每对中的点互为最近点"
+msgstr "每对中的相互最近点"
 
 #: source/MRViewer/MRICPDialog.cpp:75
 msgid ""
 "A pair of points is formed only if both points in the pair are mutually "
 "closest (reciprocity test passed)."
-msgstr "仅当点对中的两个点互为最近点（通过互易性测试）时，才形成该点对。"
+msgstr "只有当点对中的两个点互为最近（通过互易性测试）时才形成点对。"
 
 #: source/MRViewer/MRICPDialog.cpp:78
 msgid "Sampling Spacing"
@@ -2898,7 +2898,7 @@ msgstr "采样间距"
 msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
-msgstr "此值决定采样体素的大小，每个体素中只选取一个点。"
+msgstr "此值决定采样体素大小，以便每个体素中仅选择一个点。"
 
 #: source/MRViewer/MRICPDialog.cpp:89
 msgid "Descriptor Spacing"
@@ -2910,8 +2910,8 @@ msgid ""
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
-"自动初始通过在以此间距采样的点上计算的形状描述符来匹配对象。间距越小，捕捉的"
-"细节越精细，但耗时越长。"
+"自动初始通过在以此间距采样的点上计算的形状描述符来匹配对象。间距越小，能捕捉"
+"的细节越精细，但计算时间越长。"
 
 #: source/MRViewer/MRICPDialog.cpp:99
 msgid "Sample Target"
@@ -2919,7 +2919,7 @@ msgstr "采样目标"
 
 #: source/MRViewer/MRICPDialog.cpp:106
 msgid "Select what object will be samples to form origins of point pairs."
-msgstr "选择对哪个对象进行采样，以形成点对的起点。"
+msgstr "选择哪个对象将被采样以形成点对的起点。"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Method"
@@ -2947,7 +2947,7 @@ msgstr "变换"
 
 #: source/MRViewer/MRICPDialog.cpp:124
 msgid "Select what kind of transformations are searched for."
-msgstr "选择要搜索的变换类型。"
+msgstr "选择要搜索哪种类型的变换。"
 
 #: source/MRViewer/MRICPDialog.cpp:141
 msgid "Fixed rotation axis"
@@ -2967,7 +2967,7 @@ msgstr "最大迭代次数"
 
 #: source/MRViewer/MRICPDialog.cpp:174
 msgid "Maximal possible number of ICP iterations."
-msgstr "ICP 迭代的最大次数。"
+msgstr "ICP 迭代的最大可能次数。"
 
 #: source/MRViewer/MRICPDialog.cpp:176
 msgid "No Improvement Iterations"
@@ -2981,17 +2981,17 @@ msgstr "如果在最近给定次数的迭代中没有改进，则停止 ICP 迭�
 
 #: source/MRViewer/MRICPDialog.cpp:180
 msgid "Deviation Reached"
-msgstr "达到偏差"
+msgstr "已达到偏差"
 
 #: source/MRViewer/MRICPDialog.cpp:182
 msgid ""
 "Algorithm target root-mean-square distance. As soon as it is reached, the "
 "algorithm stops."
-msgstr "算法的目标均方根距离。一旦达到该值，算法即停止。"
+msgstr "算法目标均方根距离。一旦达到，算法就停止。"
 
 #: source/MRViewer/MRICPDialog.cpp:197
 msgid "Samples"
-msgstr "采样点"
+msgstr "采样"
 
 #: source/MRViewer/MRICPDialog.cpp:198
 msgid "Active point pairs"
@@ -2999,11 +2999,11 @@ msgstr "活动点对"
 
 #: source/MRViewer/MRICPDialog.cpp:201
 msgid "RMS point-to-point distance"
-msgstr "RMS 点到点距离"
+msgstr "点到点距离均方根"
 
 #: source/MRViewer/MRICPDialog.cpp:202
 msgid "RMS point-to-plane distance"
-msgstr "RMS 点到平面距离"
+msgstr "点到平面距离均方根"
 
 #: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"
@@ -3279,7 +3279,7 @@ msgstr "实时 + 3D"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:231
 msgid "Capture frame"
-msgstr "捕获帧"
+msgstr "采集帧"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:240
 msgid "Disconnect"

@@ -259,7 +259,7 @@ msgstr "Aucun objet sélectionné"
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:63
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:72
 msgid "Clip Scan by Plane"
-msgstr "Couper le scan par un plan"
+msgstr "Découper le scan par plan"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:246
 msgid "No scanner backend is registered"
@@ -267,7 +267,7 @@ msgstr "Aucun backend de scanner n'est enregistré"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:463
 msgid "Rotate scan"
-msgstr "Faire pivoter le scan"
+msgstr "Pivoter le scan"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:537
 msgid "Register scan"
@@ -284,7 +284,7 @@ msgstr "Scanner"
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:717
 #, c++-format
 msgid "{} runtime not loaded:"
-msgstr "Environnement d'exécution {} non chargé :"
+msgstr "Runtime {} non chargé :"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:719
 msgid "Cancelled"
@@ -296,7 +296,7 @@ msgstr "Chemin du SDK"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:755
 msgid "Click and drag to draw the clip plane"
-msgstr "Cliquer et faire glisser pour tracer le plan de coupe"
+msgstr "Cliquez et faites glisser pour tracer le plan de coupe"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:761
 #: source/MRViewer/ImGuiHelpers.cpp:1608
@@ -309,7 +309,7 @@ msgstr "Effacer"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
 msgid "Clip scans by plane"
-msgstr "Couper les scans par un plan"
+msgstr "Découper les scans par un plan"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
 #: source/MRViewer/MRMouse.h:33
@@ -362,8 +362,7 @@ msgstr "Sélection..."
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
 msgid "Pick a point from scene (hold Shift to set direction)"
 msgstr ""
-"Sélectionner un point dans la scène (maintenir Shift pour définir la "
-"direction)"
+"Sélectionnez un point dans la scène (maintenez Maj pour définir la direction)"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
@@ -386,7 +385,7 @@ msgstr "Recalage automatique"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:836
 msgid "Automatically align a new scan to previous scans"
-msgstr "Aligner automatiquement un nouveau scan sur les scans précédents"
+msgstr "Aligne automatiquement un nouveau scan sur les scans précédents"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:837
 msgid "Try RANSAC initial position"
@@ -441,12 +440,12 @@ msgstr "Réinitialiser"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:946
 msgid "Save defaults"
-msgstr "Enregistrer par défaut"
+msgstr "Enregistrer les valeurs par défaut"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:951
 msgid "Save scanner and processing parameters as default"
 msgstr ""
-"Enregistrer les paramètres du scanner et de traitement comme valeurs par "
+"Enregistre les paramètres du scanner et du traitement comme valeurs par "
 "défaut"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:956
@@ -455,7 +454,7 @@ msgstr "Plan de coupe"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:970
 msgid "Rot/Reg"
-msgstr "Rot./Recal."
+msgstr "Rot/Rec"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:978
 msgid "Current Scan"
@@ -2948,15 +2947,15 @@ msgstr "Paramètres de formation des paires"
 
 #: source/MRViewer/MRICPDialog.cpp:35
 msgid "Register Whole Objects"
-msgstr "Recaler les objets entiers"
+msgstr "Recaler objets entiers"
 
 #: source/MRViewer/MRICPDialog.cpp:37
 msgid ""
 "If selected then absolutely all point pairs between two objects will be "
 "considered during registration without filtering."
 msgstr ""
-"Si cette option est sélectionnée, absolument toutes les paires de points "
-"entre deux objets seront prises en compte lors du recalage, sans filtrage."
+"Si sélectionné, absolument toutes les paires de points entre deux objets "
+"seront prises en compte lors du recalage, sans filtrage."
 
 #: source/MRViewer/MRICPDialog.cpp:44
 msgid "Normals Max Angle"
@@ -2968,7 +2967,7 @@ msgid ""
 "not larger than this value."
 msgstr ""
 "Une paire de points n'est utilisée que si l'angle entre les normales aux "
-"points ne dépasse pas cette valeur."
+"points n'est pas supérieur à cette valeur."
 
 #: source/MRViewer/MRICPDialog.cpp:55
 msgid "Max Distance"
@@ -2984,14 +2983,14 @@ msgstr ""
 
 #: source/MRViewer/MRICPDialog.cpp:65
 msgid "Far Distance Factor"
-msgstr "Facteur de distance éloignée"
+msgstr "Facteur de distance lointaine"
 
 #: source/MRViewer/MRICPDialog.cpp:69
 msgid ""
 "Points pair will be counted only if distance between points is lower than "
 "root-mean-square distance times this factor."
 msgstr ""
-"Une paire de points n'est comptée que si la distance entre les points est "
+"Une paire de points ne sera comptée que si la distance entre les points est "
 "inférieure à la distance quadratique moyenne multipliée par ce facteur."
 
 #: source/MRViewer/MRICPDialog.cpp:73
@@ -3015,8 +3014,8 @@ msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
 msgstr ""
-"Cette valeur détermine la taille du voxel d'échantillonnage afin de ne "
-"sélectionner qu'un seul point par voxel."
+"Cette valeur détermine la taille du voxel d'échantillonnage pour ne "
+"sélectionner qu'un point dans chaque voxel."
 
 #: source/MRViewer/MRICPDialog.cpp:89
 msgid "Descriptor Spacing"
@@ -3028,9 +3027,10 @@ msgid ""
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
-"« Initial automatique » apparie les objets à l'aide de descripteurs de forme "
-"calculés sur des échantillons avec cet espacement. Un espacement plus petit "
-"capture des détails plus fins, mais prend plus de temps."
+"Initial automatique fait correspondre les objets à l'aide de descripteurs de "
+"forme calculés sur des échantillons prélevés avec cet espacement. Un "
+"espacement plus petit capture des détails plus fins, mais le traitement est "
+"plus long."
 
 #: source/MRViewer/MRICPDialog.cpp:99
 msgid "Sample Target"
@@ -3039,7 +3039,7 @@ msgstr "Cible d'échantillonnage"
 #: source/MRViewer/MRICPDialog.cpp:106
 msgid "Select what object will be samples to form origins of point pairs."
 msgstr ""
-"Sélectionner l'objet qui sera échantillonné pour former les origines des "
+"Sélectionner quel objet sera échantillonné pour former les origines des "
 "paires de points."
 
 #: source/MRViewer/MRICPDialog.cpp:109
@@ -3048,7 +3048,7 @@ msgstr "Méthode"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Combined"
-msgstr "Combinée"
+msgstr "Combiné"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Point-to-Point"
@@ -3060,7 +3060,7 @@ msgstr "Point à plan"
 
 #: source/MRViewer/MRICPDialog.cpp:111
 msgid "Select target function to minimize."
-msgstr "Sélectionner la fonction objectif à minimiser."
+msgstr "Sélectionner la fonction cible à minimiser."
 
 #: source/MRViewer/MRICPDialog.cpp:115 source/MRViewer/MRICPDialog.cpp:129
 msgid "Transformation"
@@ -3068,7 +3068,7 @@ msgstr "Transformation"
 
 #: source/MRViewer/MRICPDialog.cpp:124
 msgid "Select what kind of transformations are searched for."
-msgstr "Sélectionner le type de transformations recherchées."
+msgstr "Sélectionner quels types de transformations sont recherchés."
 
 #: source/MRViewer/MRICPDialog.cpp:141
 msgid "Fixed rotation axis"
@@ -3099,12 +3099,12 @@ msgid ""
 "Stop ICP iterations if during given number of last iterations there was no "
 "improvement."
 msgstr ""
-"Arrêter les itérations ICP si aucune amélioration n'a eu lieu au cours du "
-"nombre donné de dernières itérations."
+"Arrêter les itérations ICP si pendant le nombre donné de dernières "
+"itérations il n'y a eu aucune amélioration."
 
 #: source/MRViewer/MRICPDialog.cpp:180
 msgid "Deviation Reached"
-msgstr "Écart atteint"
+msgstr "Déviation atteinte"
 
 #: source/MRViewer/MRICPDialog.cpp:182
 msgid ""
@@ -3124,11 +3124,11 @@ msgstr "Paires de points actives"
 
 #: source/MRViewer/MRICPDialog.cpp:201
 msgid "RMS point-to-point distance"
-msgstr "Distance RMS point à point"
+msgstr "Distance point-à-point quadratique moyenne"
 
 #: source/MRViewer/MRICPDialog.cpp:202
 msgid "RMS point-to-plane distance"
-msgstr "Distance RMS point à plan"
+msgstr "Distance point-à-plan quadratique moyenne"
 
 #: source/MRViewer/MRMeshBoundarySelectionWidget.cpp:128
 msgid "Select Mesh Boundary"
@@ -3391,7 +3391,7 @@ msgstr "Fichier"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:214
 msgid "Scan and create 3D (Press Space)"
-msgstr "Scanner et créer la 3D (appuyer sur Espace)"
+msgstr "Scanner et créer la 3D (appuyez sur Espace)"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:220
 msgid "Stop"

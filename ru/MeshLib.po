@@ -312,7 +312,7 @@ msgstr "Очистить"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:770
 msgid "Clip scans by plane"
-msgstr "Обрезать сканы плоскостью"
+msgstr "Обрезать сканы по плоскости"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:780
 #: source/MRViewer/MRMouse.h:33
@@ -331,7 +331,7 @@ msgstr "Угол"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:797
 msgid "Pivot"
-msgstr "Точка поворота"
+msgstr "Центр вращения"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:803
 msgid "To center"
@@ -364,7 +364,7 @@ msgstr "Выбор..."
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:827
 msgid "Pick a point from scene (hold Shift to set direction)"
-msgstr "Выберите точку на сцене (удерживайте Shift, чтобы задать направление)"
+msgstr "Выберите точку в сцене (удерживайте Shift, чтобы задать направление)"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:829
 #: source/MRCommonPlugins/ViewerButtons/MRAddCustomTheme.cpp:121
@@ -446,7 +446,7 @@ msgstr "Сохранить по умолчанию"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:951
 msgid "Save scanner and processing parameters as default"
-msgstr "Сохранить параметры сканера и обработки по умолчанию"
+msgstr "Сохранить параметры сканера и обработки как параметры по умолчанию"
 
 #: source/MRCommonPlugins/Basic/MRScannerPlugin.cpp:956
 msgid "Clip Plane"
@@ -2920,27 +2920,27 @@ msgstr "Настройки формирования пар"
 
 #: source/MRViewer/MRICPDialog.cpp:35
 msgid "Register Whole Objects"
-msgstr "Регистрировать объекты целиком"
+msgstr "Совместить целые объекты"
 
 #: source/MRViewer/MRICPDialog.cpp:37
 msgid ""
 "If selected then absolutely all point pairs between two objects will be "
 "considered during registration without filtering."
 msgstr ""
-"Если выбрано, то при регистрации будут учитываться абсолютно все пары точек "
-"между двумя объектами без фильтрации."
+"Если выбрано, при регистрации будут учтены абсолютно все пары точек между "
+"двумя объектами без фильтрации."
 
 #: source/MRViewer/MRICPDialog.cpp:44
 msgid "Normals Max Angle"
-msgstr "Макс. угол нормалей"
+msgstr "Максимальный угол нормалей"
 
 #: source/MRViewer/MRICPDialog.cpp:50
 msgid ""
 "A points pair is used only if the angle between the normals at the points is "
 "not larger than this value."
 msgstr ""
-"Пара точек используется, только если угол между нормалями в этих точках не "
-"превышает это значение."
+"Пара точек используется только в том случае, если угол между нормалями в "
+"этих точках не превышает данного значения."
 
 #: source/MRViewer/MRICPDialog.cpp:55
 msgid "Max Distance"
@@ -2951,8 +2951,8 @@ msgid ""
 "A points pair is used only if the distance between two points is lower than "
 "this value."
 msgstr ""
-"Пара точек используется, только если расстояние между двумя точками меньше "
-"этого значения."
+"Пара точек используется только в том случае, если расстояние между двумя "
+"точками меньше этого значения."
 
 #: source/MRViewer/MRICPDialog.cpp:65
 msgid "Far Distance Factor"
@@ -2963,8 +2963,8 @@ msgid ""
 "Points pair will be counted only if distance between points is lower than "
 "root-mean-square distance times this factor."
 msgstr ""
-"Пара точек будет учитываться, только если расстояние между точками меньше "
-"среднеквадратичного расстояния, умноженного на этот коэффициент."
+"Пара точек учитывается только в том случае, если расстояние между точками "
+"меньше среднеквадратичного расстояния, умноженного на этот коэффициент."
 
 #: source/MRViewer/MRICPDialog.cpp:73
 msgid "Mutual Closest Points in Each Pair"
@@ -2975,8 +2975,8 @@ msgid ""
 "A pair of points is formed only if both points in the pair are mutually "
 "closest (reciprocity test passed)."
 msgstr ""
-"Пара точек формируется, только если обе точки пары являются взаимно "
-"ближайшими (пройдена проверка взаимности)."
+"Пара точек формируется только в том случае, если обе точки в паре являются "
+"взаимно ближайшими (тест на взаимность пройден)."
 
 #: source/MRViewer/MRICPDialog.cpp:78
 msgid "Sampling Spacing"
@@ -2987,8 +2987,8 @@ msgid ""
 "This value determines sampling voxel size to select only one point in each "
 "voxel."
 msgstr ""
-"Это значение определяет размер вокселя выборки, чтобы выбирать только одну "
-"точку в каждом вокселе."
+"Это значение определяет размер вокселя выборки для выбора только одной точки "
+"в каждом вокселе."
 
 #: source/MRViewer/MRICPDialog.cpp:89
 msgid "Descriptor Spacing"
@@ -3000,9 +3000,9 @@ msgid ""
 "with this spacing. Smaller spacing captures smaller details, but takes "
 "longer."
 msgstr ""
-"«Авто начальное» сопоставляет объекты по дескрипторам формы, вычисленным на "
-"образцах с этим шагом. Меньший шаг захватывает более мелкие детали, но "
-"занимает больше времени."
+"Функция «Авто начальное» сопоставляет объекты по дескрипторам формы, "
+"вычисленным в точках выборки с этим шагом. Меньший шаг позволяет уловить "
+"более мелкие детали, но требует больше времени."
 
 #: source/MRViewer/MRICPDialog.cpp:99
 msgid "Sample Target"
@@ -3011,8 +3011,8 @@ msgstr "Объект выборки"
 #: source/MRViewer/MRICPDialog.cpp:106
 msgid "Select what object will be samples to form origins of point pairs."
 msgstr ""
-"Выберите, из какого объекта будут выбираться образцы для формирования начал "
-"пар точек."
+"Выберите объект, который будет использоваться для формирования начал пар "
+"точек."
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Method"
@@ -3024,11 +3024,11 @@ msgstr "Комбинированный"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Point-to-Point"
-msgstr "Точка-точка"
+msgstr "Точка к точке"
 
 #: source/MRViewer/MRICPDialog.cpp:109
 msgid "Point-to-Plane"
-msgstr "Точка-плоскость"
+msgstr "Точка-к-плоскости"
 
 #: source/MRViewer/MRICPDialog.cpp:111
 msgid "Select target function to minimize."
@@ -3040,7 +3040,7 @@ msgstr "Преобразование"
 
 #: source/MRViewer/MRICPDialog.cpp:124
 msgid "Select what kind of transformations are searched for."
-msgstr "Выберите, какой тип преобразований искать."
+msgstr "Выберите тип искомых преобразований."
 
 #: source/MRViewer/MRICPDialog.cpp:141
 msgid "Fixed rotation axis"
@@ -3048,7 +3048,7 @@ msgstr "Фиксированная ось вращения"
 
 #: source/MRViewer/MRICPDialog.cpp:145
 msgid "Allowed rotation axis"
-msgstr "Допустимая ось вращения"
+msgstr "Разрешённая ось вращения"
 
 #: source/MRViewer/MRICPDialog.cpp:164
 msgid "Stop Conditions"
@@ -3060,23 +3060,23 @@ msgstr "Макс. итераций"
 
 #: source/MRViewer/MRICPDialog.cpp:174
 msgid "Maximal possible number of ICP iterations."
-msgstr "Максимально возможное число итераций ICP."
+msgstr "Максимально возможное количество итераций ICP."
 
 #: source/MRViewer/MRICPDialog.cpp:176
 msgid "No Improvement Iterations"
-msgstr "Итераций без улучшения"
+msgstr "Итерации без улучшений"
 
 #: source/MRViewer/MRICPDialog.cpp:178
 msgid ""
 "Stop ICP iterations if during given number of last iterations there was no "
 "improvement."
 msgstr ""
-"Остановить итерации ICP, если в течение заданного числа последних итераций "
-"не было улучшения."
+"Остановить итерации ICP, если за указанное количество последних итераций не "
+"было улучшений."
 
 #: source/MRViewer/MRICPDialog.cpp:180
 msgid "Deviation Reached"
-msgstr "Достижение отклонения"
+msgstr "Достигнутое отклонение"
 
 #: source/MRViewer/MRICPDialog.cpp:182
 msgid ""
@@ -3092,7 +3092,7 @@ msgstr "Образцы"
 
 #: source/MRViewer/MRICPDialog.cpp:198
 msgid "Active point pairs"
-msgstr "Активные пары точек"
+msgstr "Активных пар точек"
 
 #: source/MRViewer/MRICPDialog.cpp:201
 msgid "RMS point-to-point distance"
@@ -3384,11 +3384,11 @@ msgstr "Захватить кадр"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:240
 msgid "Disconnect"
-msgstr "Отключить"
+msgstr "Отключиться"
 
 #: source/MRViewer/MRScannerSchemaUi.cpp:246
 msgid "Connect"
-msgstr "Подключить"
+msgstr "Подключиться"
 
 #: source/MRViewer/MRSceneMcp.cpp:259
 msgid "MCP setObjectState"
