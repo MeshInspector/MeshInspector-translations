@@ -24,6 +24,13 @@ msgstr ""
 "Переместить один объект так, чтобы его подогнанные примитивы совместились с "
 "соответствующими примитивами другого объекта."
 
+msgid "Scanner"
+msgstr ""
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+
 msgid "Undo"
 msgstr "Отменить"
 
@@ -358,6 +365,10 @@ msgstr "КТ"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Тест"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr ""
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

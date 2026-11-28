@@ -18,6 +18,13 @@ msgid ""
 "another object."
 msgstr "移动一个对象，使其拟合特征与另一个对象的对应特征重合。"
 
+msgid "Scanner"
+msgstr ""
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+
 msgid "Undo"
 msgstr "撤销"
 
@@ -343,6 +350,10 @@ msgstr "CT"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "测试"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr ""
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

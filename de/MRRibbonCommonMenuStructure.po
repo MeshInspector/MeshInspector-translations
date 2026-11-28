@@ -20,6 +20,13 @@ msgstr ""
 "Ein Objekt so verschieben, dass seine eingepassten Features auf die "
 "entsprechenden Features eines anderen Objekts treffen."
 
+msgid "Scanner"
+msgstr ""
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+
 msgid "Undo"
 msgstr "Rückgängig"
 
@@ -360,6 +367,10 @@ msgstr "CT"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Test"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr ""
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

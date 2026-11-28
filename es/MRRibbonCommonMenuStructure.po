@@ -20,6 +20,13 @@ msgstr ""
 "Mover un objeto para que sus características ajustadas coincidan con las "
 "características correspondientes de otro objeto."
 
+msgid "Scanner"
+msgstr ""
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+
 msgid "Undo"
 msgstr "Deshacer"
 
@@ -361,6 +368,10 @@ msgstr "CT"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "Test"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr ""
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "

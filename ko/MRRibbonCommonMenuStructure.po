@@ -20,6 +20,13 @@ msgstr ""
 "한 객체의 피팅된 피처가 다른 객체의 대응하는 피처와 맞닿도록 해당 객체를 이동"
 "합니다."
 
+msgid "Scanner"
+msgstr ""
+
+msgid ""
+"Open the Scanner window to capture 3D data from a 3D scanner or a camera."
+msgstr ""
+
 msgid "Undo"
 msgstr "실행 취소"
 
@@ -346,6 +353,10 @@ msgstr "CT"
 msgctxt "Tab name"
 msgid "Test"
 msgstr "테스트"
+
+msgctxt "Tab name"
+msgid "Experimental"
+msgstr ""
 
 #~ msgid ""
 #~ "Various bivariate functions on individual voxel pairs: Union, "
